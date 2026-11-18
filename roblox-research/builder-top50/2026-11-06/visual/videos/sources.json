@@ -1,0 +1,2911 @@
+[
+  {
+    "rank": 1,
+    "game": "Steal An Egg",
+    "place_id": "107778070777162",
+    "queried_at_utc": "2026-11-06T18:27:07.580670+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=kMGzsqBMqOs&t=45"
+      },
+      {
+        "start": 387,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=kMGzsqBMqOs&t=387"
+      },
+      {
+        "start": 720,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=kMGzsqBMqOs&t=720"
+      }
+    ],
+    "video_id": "kMGzsqBMqOs",
+    "url": "https://www.youtube.com/watch?v=kMGzsqBMqOs",
+    "title": "ROUBE UM OVO",
+    "uploader": "Yaszoca Games",
+    "upload_date": "20260826",
+    "duration": 1108,
+    "query": "https://www.youtube.com/watch?v=kMGzsqBMqOs",
+    "format_height": 480,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/01.json"
+  },
+  {
+    "rank": 2,
+    "game": "Brookhaven 🏡RP",
+    "place_id": "4924922222",
+    "queried_at_utc": "2026-11-06T18:27:07.580391+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=uw07g1uWFgs&t=45"
+      },
+      {
+        "start": 208,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=uw07g1uWFgs&t=208"
+      },
+      {
+        "start": 388,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=uw07g1uWFgs&t=388"
+      }
+    ],
+    "video_id": "uw07g1uWFgs",
+    "url": "https://www.youtube.com/watch?v=uw07g1uWFgs",
+    "title": "I Took Roleplay SERIOUSLY in ROBLOX BrookHaven 🏡RP",
+    "uploader": "Vindooly",
+    "upload_date": "20231229",
+    "duration": 597,
+    "query": "ytsearch1:Brookhaven 🏡RP Roblox gameplay",
+    "format_height": 480,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/02.json"
+  },
+  {
+    "rank": 3,
+    "game": "[🎃] Blox Fruits",
+    "place_id": "2753915549",
+    "queried_at_utc": "2026-11-06T18:27:07.580737+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=Ut7RPXezaRA&t=45"
+      },
+      {
+        "start": 2124,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=Ut7RPXezaRA&t=2124"
+      },
+      {
+        "start": 3944,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=Ut7RPXezaRA&t=3944"
+      }
+    ],
+    "video_id": "Ut7RPXezaRA",
+    "url": "https://www.youtube.com/watch?v=Ut7RPXezaRA",
+    "title": "Noob To MAX But It's My First Time Playing (Blox Fruits)",
+    "uploader": "VISIONVL",
+    "upload_date": "20261006",
+    "duration": 6069,
+    "query": "ytsearch1:Blox Fruits Roblox gameplay",
+    "format_height": 480,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/03.json"
+  },
+  {
+    "rank": 4,
+    "game": "Murder Mystery 2",
+    "place_id": "142823291",
+    "queried_at_utc": "2026-11-06T18:27:07.580913+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=OHhKQ5IaTM0&t=45"
+      },
+      {
+        "start": 255,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=OHhKQ5IaTM0&t=255"
+      },
+      {
+        "start": 475,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=OHhKQ5IaTM0&t=475"
+      }
+    ],
+    "video_id": "OHhKQ5IaTM0",
+    "url": "https://www.youtube.com/watch?v=OHhKQ5IaTM0",
+    "title": "Playing MM2 as a *TRYHARD* (Murder Mystery 2)",
+    "uploader": "fiszye",
+    "upload_date": "20260525",
+    "duration": 731,
+    "query": "ytsearch1:Murder Mystery 2 Roblox gameplay",
+    "format_height": 480,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/04.json"
+  },
+  {
+    "rank": 5,
+    "game": "[⚡] Adopt Me!",
+    "place_id": "920587237",
+    "queried_at_utc": "2026-11-06T18:27:28.963839+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=yJ7mMhhnSOg&t=45"
+      },
+      {
+        "start": 466,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=yJ7mMhhnSOg&t=466"
+      },
+      {
+        "start": 865,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=yJ7mMhhnSOg&t=865"
+      }
+    ],
+    "video_id": "yJ7mMhhnSOg",
+    "url": "https://www.youtube.com/watch?v=yJ7mMhhnSOg",
+    "title": "STARTING FROM SCRATCH IN ADOPT ME... Part 1",
+    "uploader": "Alaska Violet",
+    "upload_date": "20260503",
+    "duration": 1332,
+    "query": "ytsearch1:Adopt Me! Roblox gameplay",
+    "format_height": 480,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/05.json"
+  },
+  {
+    "rank": 6,
+    "game": "Throw Food For Animals",
+    "place_id": "120219252362013",
+    "queried_at_utc": "2026-11-06T18:27:33.967663+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=6ewHoboQx6w&t=45"
+      },
+      {
+        "start": 293,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=6ewHoboQx6w&t=293"
+      },
+      {
+        "start": 545,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=6ewHoboQx6w&t=545"
+      }
+    ],
+    "video_id": "6ewHoboQx6w",
+    "url": "https://www.youtube.com/watch?v=6ewHoboQx6w",
+    "title": "I reached END OF NEW ZONE in THROW FOOD FOR ANIMALS...",
+    "uploader": "BemmyBlox",
+    "upload_date": "20261101",
+    "duration": 839,
+    "query": "ytsearch1:Throw Food For Animals Roblox gameplay",
+    "format_height": 480,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/06.json"
+  },
+  {
+    "rank": 7,
+    "game": "RIVALS",
+    "place_id": "17625359962",
+    "queried_at_utc": "2026-11-06T18:33:20.487261+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=MSCzWIi4vzc&t=45"
+      },
+      {
+        "start": 585,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=MSCzWIi4vzc&t=585"
+      },
+      {
+        "start": 1087,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=MSCzWIi4vzc&t=1087"
+      }
+    ],
+    "video_id": "MSCzWIi4vzc",
+    "url": "https://www.youtube.com/watch?v=MSCzWIi4vzc",
+    "title": "Roblox Rivals Gameplay | High Quality No Commentary UNCLIPPED PT.1.",
+    "uploader": "HyperBlade RBLX",
+    "upload_date": "20260228",
+    "duration": 1673,
+    "query": "https://www.youtube.com/watch?v=MSCzWIi4vzc",
+    "format_height": 480,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/07.json"
+  },
+  {
+    "rank": 8,
+    "game": "99 Nights in the Forest 🔦",
+    "place_id": "79546208627805",
+    "queried_at_utc": "2026-11-06T18:27:41.898306+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=V4BMGT0Tukw&t=45"
+      },
+      {
+        "start": 304,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=V4BMGT0Tukw&t=304"
+      },
+      {
+        "start": 565,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=V4BMGT0Tukw&t=565"
+      }
+    ],
+    "video_id": "V4BMGT0Tukw",
+    "url": "https://www.youtube.com/watch?v=V4BMGT0Tukw",
+    "title": "The ULTIMATE Guide To Roblox 99 Nights In The Forest!",
+    "uploader": "Roodolf",
+    "upload_date": "20250630",
+    "duration": 870,
+    "query": "ytsearch1:99 Nights in the Forest 🔦 Roblox gameplay",
+    "format_height": 480,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/08.json"
+  },
+  {
+    "rank": 9,
+    "game": "[💀] Steal a Brainrot",
+    "place_id": "109983668079237",
+    "queried_at_utc": "2026-11-06T18:33:20.488475+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=XBd6F-rIEhY&t=45"
+      },
+      {
+        "start": 538,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=XBd6F-rIEhY&t=538"
+      },
+      {
+        "start": 1000,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=XBd6F-rIEhY&t=1000"
+      }
+    ],
+    "video_id": "XBd6F-rIEhY",
+    "url": "https://www.youtube.com/watch?v=XBd6F-rIEhY",
+    "title": "First Time Playing Steal A Brainrot in ROBLOX 😱 | Buying, Protecting & Stealing Brainrots",
+    "uploader": "GenZ Stories",
+    "upload_date": "20260201",
+    "duration": 1539,
+    "query": "https://www.youtube.com/watch?v=XBd6F-rIEhY",
+    "format_height": 360,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/09.json"
+  },
+  {
+    "rank": 10,
+    "game": "[🎃] Jujutsu Shenanigans",
+    "place_id": "9391468976",
+    "queried_at_utc": "2026-11-06T18:33:20.488350+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=VTjEwOHBxDo&t=45"
+      },
+      {
+        "start": 284,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=VTjEwOHBxDo&t=284"
+      },
+      {
+        "start": 528,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=VTjEwOHBxDo&t=528"
+      }
+    ],
+    "video_id": "VTjEwOHBxDo",
+    "url": "https://www.youtube.com/watch?v=VTjEwOHBxDo",
+    "title": "Being the the \"best player\" in Jujutsu Shenanigans [Roblox]",
+    "uploader": "ChengaChenga",
+    "upload_date": "20261105",
+    "duration": 813,
+    "query": "https://www.youtube.com/watch?v=VTjEwOHBxDo",
+    "format_height": 480,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/10.json"
+  },
+  {
+    "rank": 11,
+    "game": "DONT SPLASH",
+    "place_id": "119958473240233",
+    "queried_at_utc": "2026-11-06T18:27:55.667746+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=TbY5OLOR92s&t=45"
+      },
+      {
+        "start": 508,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=TbY5OLOR92s&t=508"
+      },
+      {
+        "start": 945,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=TbY5OLOR92s&t=945"
+      }
+    ],
+    "video_id": "TbY5OLOR92s",
+    "url": "https://www.youtube.com/watch?v=TbY5OLOR92s",
+    "title": "DON'T SPLASH - ROBLOX - Solo Full Gameplay",
+    "uploader": "RukZGamer",
+    "upload_date": "20261026",
+    "duration": 1454,
+    "query": "ytsearch1:DONT SPLASH Roblox gameplay",
+    "format_height": 480,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/11.json"
+  },
+  {
+    "rank": 12,
+    "game": "[☀️UPD 21🏖️] Anime Adventures",
+    "place_id": "8304191830",
+    "queried_at_utc": "2026-11-06T18:28:11.331163+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=hv72hrsWooM&t=45"
+      },
+      {
+        "start": 328,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=hv72hrsWooM&t=328"
+      },
+      {
+        "start": 609,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=hv72hrsWooM&t=609"
+      }
+    ],
+    "video_id": "hv72hrsWooM",
+    "url": "https://www.youtube.com/watch?v=hv72hrsWooM",
+    "title": "I Used The NEW Units To WASH AWAY Tournament 197!! | Anime Adventures",
+    "uploader": "Polarz_Bear",
+    "upload_date": "20261105",
+    "duration": 938,
+    "query": "ytsearch1:Anime Adventures Roblox gameplay",
+    "format_height": 480,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/12.json"
+  },
+  {
+    "rank": 13,
+    "game": "Break and Steal an Egg",
+    "place_id": "114326934417838",
+    "queried_at_utc": "2026-11-06T18:28:40.166718+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=FMrEyUKGKK0&t=45"
+      },
+      {
+        "start": 341,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=FMrEyUKGKK0&t=341"
+      },
+      {
+        "start": 635,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=FMrEyUKGKK0&t=635"
+      }
+    ],
+    "video_id": "FMrEyUKGKK0",
+    "url": "https://www.youtube.com/watch?v=FMrEyUKGKK0",
+    "title": "Starting OVER as NOOB with *NEW* CRAZIEST Egg in Break and Steal an Egg! (Roblox)",
+    "uploader": "xt..",
+    "upload_date": "20261101",
+    "duration": 977,
+    "query": "ytsearch1:Break and Steal an Egg Roblox gameplay",
+    "format_height": 480,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/13.json"
+  },
+  {
+    "rank": 14,
+    "game": "🎃 Dandy's World [ALPHA]",
+    "place_id": "16116270224",
+    "queried_at_utc": "2026-11-06T18:28:50.109692+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=tS7mxubWg04&t=45"
+      },
+      {
+        "start": 518,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=tS7mxubWg04&t=518"
+      },
+      {
+        "start": 963,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=tS7mxubWg04&t=963"
+      }
+    ],
+    "video_id": "tS7mxubWg04",
+    "url": "https://www.youtube.com/watch?v=tS7mxubWg04",
+    "title": "HALLOWEEN RUN DANDY'S WORLD (FLOOR 35+)",
+    "uploader": "Ch3stNut",
+    "upload_date": "20251028",
+    "duration": 1482,
+    "query": "ytsearch1:🎃 Dandy's World Roblox gameplay",
+    "format_height": 480,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/14.json"
+  },
+  {
+    "rank": 15,
+    "game": "[🎃] Dress To Impress",
+    "place_id": "15101393044",
+    "queried_at_utc": "2026-11-06T18:28:59.064894+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=9jMB-_vD4eQ&t=45"
+      },
+      {
+        "start": 363,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=9jMB-_vD4eQ&t=363"
+      },
+      {
+        "start": 674,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=9jMB-_vD4eQ&t=674"
+      }
+    ],
+    "video_id": "9jMB-_vD4eQ",
+    "url": "https://www.youtube.com/watch?v=9jMB-_vD4eQ",
+    "title": "Playing DRESS TO IMPRESS Until I Hit SUPERNOVA!! | 3 (Roblox)",
+    "uploader": "pixiiuwu",
+    "upload_date": "20250904",
+    "duration": 1038,
+    "query": "ytsearch1:Dress To Impress Roblox gameplay",
+    "format_height": 480,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/15.json"
+  },
+  {
+    "rank": 16,
+    "game": "Fisch 🎸 [VENUE ENCORE]",
+    "place_id": "16732694052",
+    "queried_at_utc": "2026-11-06T18:29:15.189795+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=8_NiTg71vec&t=45"
+      },
+      {
+        "start": 260,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=8_NiTg71vec&t=260"
+      },
+      {
+        "start": 483,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=8_NiTg71vec&t=483"
+      }
+    ],
+    "video_id": "8_NiTg71vec",
+    "url": "https://www.youtube.com/watch?v=8_NiTg71vec",
+    "title": "The Start To Get EVERY Rod.",
+    "uploader": "typxl",
+    "upload_date": "20260304",
+    "duration": 744,
+    "query": "ytsearch1:Fisch 🎸 Roblox gameplay",
+    "format_height": 480,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/16.json"
+  },
+  {
+    "rank": 17,
+    "game": "[HALLOWEEN] The Strongest Battlegrounds",
+    "place_id": "10449761463",
+    "queried_at_utc": "2026-11-06T18:29:27.122526+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=dDvLy8yBPZs&t=45"
+      },
+      {
+        "start": 348,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=dDvLy8yBPZs&t=348"
+      },
+      {
+        "start": 646,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=dDvLy8yBPZs&t=646"
+      }
+    ],
+    "video_id": "dDvLy8yBPZs",
+    "url": "https://www.youtube.com/watch?v=dDvLy8yBPZs",
+    "title": "Verity Made Me INVINCIBLE! 🫪 The Strongest Battlegrounds Update",
+    "uploader": "Mr.Antitoxic",
+    "upload_date": "20261106",
+    "duration": 995,
+    "query": "ytsearch1:The Strongest Battlegrounds Roblox gameplay",
+    "format_height": 480,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/17.json"
+  },
+  {
+    "rank": 18,
+    "game": "[👻UPD] Fish It! 🐟",
+    "place_id": "121864768012064",
+    "queried_at_utc": "2026-11-06T18:29:42.502611+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=grs_0-bE6Wc&t=45"
+      },
+      {
+        "start": 441,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=grs_0-bE6Wc&t=441"
+      },
+      {
+        "start": 819,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=grs_0-bE6Wc&t=819"
+      }
+    ],
+    "video_id": "grs_0-bE6Wc",
+    "url": "https://www.youtube.com/watch?v=grs_0-bE6Wc",
+    "title": "Went From Noob To Master In Fish It Roblox! Caught Rarest Secret Megalodon!",
+    "uploader": "mayrushart",
+    "upload_date": "20250922",
+    "duration": 1260,
+    "query": "ytsearch1:Fish It! 🐟 Roblox gameplay",
+    "format_height": 480,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/18.json"
+  },
+  {
+    "rank": 19,
+    "game": "Catalog Avatar Creator",
+    "place_id": "7041939546",
+    "queried_at_utc": "2026-11-06T18:34:54.009693+00:00",
+    "status": "failed",
+    "clips": [
+      {
+        "start": 8,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=bRZx5egSQRI&t=8"
+      }
+    ],
+    "video_id": "bRZx5egSQRI",
+    "url": "https://www.youtube.com/watch?v=bRZx5egSQRI",
+    "title": "How To Enter Outfit Codes In Catalog Avatar Creator - Full Guide",
+    "uploader": "GuideRealm",
+    "upload_date": "20240203",
+    "duration": 61,
+    "query": "https://www.youtube.com/watch?v=bRZx5egSQRI",
+    "format_height": 480,
+    "error": "Capture/extraction failed or timed out; partial files may exist; signed media URLs omitted.",
+    "review_status": "captured_unreviewed"
+  },
+  {
+    "rank": 20,
+    "game": "[UPDATE 5] Attack on Titan Revolution",
+    "place_id": "13379208636",
+    "queried_at_utc": "2026-11-06T18:29:50.128153+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=eH3eHS970yI&t=45"
+      },
+      {
+        "start": 598,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=eH3eHS970yI&t=598"
+      },
+      {
+        "start": 1112,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=eH3eHS970yI&t=1112"
+      }
+    ],
+    "video_id": "eH3eHS970yI",
+    "url": "https://www.youtube.com/watch?v=eH3eHS970yI",
+    "title": "Going From Noob To Pro In Roblox Attack On Titan Revolution",
+    "uploader": "OMEGA EX ",
+    "upload_date": "20240721",
+    "duration": 1711,
+    "query": "ytsearch1:Attack on Titan Revolution Roblox gameplay",
+    "format_height": 480,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/20.json"
+  },
+  {
+    "rank": 21,
+    "game": "[WEEK 2 🎃 x BUTCHER] Violence District",
+    "place_id": "93978595733734",
+    "queried_at_utc": "2026-11-06T18:29:50.393367+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=9BK6__xrmtA&t=45"
+      },
+      {
+        "start": 353,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=9BK6__xrmtA&t=353"
+      },
+      {
+        "start": 656,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=9BK6__xrmtA&t=656"
+      }
+    ],
+    "video_id": "9BK6__xrmtA",
+    "url": "https://www.youtube.com/watch?v=9BK6__xrmtA",
+    "title": "A Top 1% Looper in Violence District...",
+    "uploader": "Ivri",
+    "upload_date": "20261106",
+    "duration": 1010,
+    "query": "ytsearch1:Violence District Roblox gameplay",
+    "format_height": 466,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/21.json"
+  },
+  {
+    "rank": 22,
+    "game": "🎃 [MINIGAMES] Pet Simulator 99! 👻",
+    "place_id": "8737899170",
+    "queried_at_utc": "2026-11-06T18:34:55.806916+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=YNKOhKhy4as&t=45"
+      },
+      {
+        "start": 287,
+        "status": "failed",
+        "error": "Capture failed; signed media URLs omitted."
+      },
+      {
+        "start": 533,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=YNKOhKhy4as&t=533"
+      }
+    ],
+    "video_id": "YNKOhKhy4as",
+    "url": "https://www.youtube.com/watch?v=YNKOhKhy4as",
+    "title": "Pet Simulator 99 Gameplay | No Talking/No Commentary | Roblox",
+    "uploader": "Arutik Play",
+    "upload_date": "20240908",
+    "duration": 820,
+    "query": "https://www.youtube.com/watch?v=YNKOhKhy4as",
+    "format_height": 360,
+    "review_status": "sampled_reviewed_supplementary"
+  },
+  {
+    "rank": 23,
+    "game": "[🎃HLWN🎃] Evade ",
+    "place_id": "9872472334",
+    "queried_at_utc": "2026-11-06T18:30:18.370982+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=h37Pb3CtXls&t=45"
+      },
+      {
+        "start": 1265,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=h37Pb3CtXls&t=1265"
+      },
+      {
+        "start": 2349,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=h37Pb3CtXls&t=2349"
+      }
+    ],
+    "video_id": "h37Pb3CtXls",
+    "url": "https://www.youtube.com/watch?v=h37Pb3CtXls",
+    "title": "ASMR 1 Hour Evade Gameplay",
+    "uploader": "restt",
+    "upload_date": "20260921",
+    "duration": 3615,
+    "query": "ytsearch1:Evade Roblox gameplay",
+    "format_height": 480,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/23.json"
+  },
+  {
+    "rank": 24,
+    "game": "Illegal Soccer",
+    "place_id": "126987974021910",
+    "queried_at_utc": "2026-11-06T18:30:18.397551+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=q91Nk37PUoY&t=45"
+      },
+      {
+        "start": 336,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=q91Nk37PUoY&t=336"
+      },
+      {
+        "start": 624,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=q91Nk37PUoY&t=624"
+      }
+    ],
+    "video_id": "q91Nk37PUoY",
+    "url": "https://www.youtube.com/watch?v=q91Nk37PUoY",
+    "title": "UNDERCOVER IN RANKED Illegal Soccer Roblox",
+    "uploader": "Cstarling",
+    "upload_date": "20261030",
+    "duration": 961,
+    "query": "ytsearch1:Illegal Soccer Roblox gameplay",
+    "format_height": 480,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/24.json"
+  },
+  {
+    "rank": 25,
+    "game": "Tower of Hell",
+    "place_id": "1962086868",
+    "queried_at_utc": "2026-11-06T18:30:23.318881+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=k_bosrHK4Wk&t=45"
+      },
+      {
+        "start": 202,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=k_bosrHK4Wk&t=202"
+      },
+      {
+        "start": 375,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=k_bosrHK4Wk&t=375"
+      }
+    ],
+    "video_id": "k_bosrHK4Wk",
+    "url": "https://www.youtube.com/watch?v=k_bosrHK4Wk",
+    "title": "Racing the Fastest Tower of Hell Players in the World!",
+    "uploader": "EDVIN",
+    "upload_date": "20241218",
+    "duration": 578,
+    "query": "ytsearch1:Tower of Hell Roblox gameplay",
+    "format_height": 480,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/25.json"
+  },
+  {
+    "rank": 26,
+    "game": "[UPD] Volleyball Legends",
+    "place_id": "73956553001240",
+    "queried_at_utc": "2026-11-06T18:31:05.143039+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=NePFOpH_zFI&t=45"
+      },
+      {
+        "start": 381,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=NePFOpH_zFI&t=381"
+      },
+      {
+        "start": 707,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=NePFOpH_zFI&t=707"
+      }
+    ],
+    "video_id": "NePFOpH_zFI",
+    "url": "https://www.youtube.com/watch?v=NePFOpH_zFI",
+    "title": "Can I Go From Noob to Pro in Volleyball Legends?",
+    "uploader": "NickGlush",
+    "upload_date": "20250715",
+    "duration": 1089,
+    "query": "ytsearch1:Volleyball Legends Roblox gameplay",
+    "format_height": 480,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/26.json"
+  },
+  {
+    "rank": 27,
+    "game": "🤔 Killer or Not",
+    "place_id": "127994242634536",
+    "queried_at_utc": "2026-11-06T18:31:06.551333+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=G9vjyuFlHzo&t=45"
+      },
+      {
+        "start": 518,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=G9vjyuFlHzo&t=518"
+      },
+      {
+        "start": 963,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=G9vjyuFlHzo&t=963"
+      }
+    ],
+    "video_id": "G9vjyuFlHzo",
+    "url": "https://www.youtube.com/watch?v=G9vjyuFlHzo",
+    "title": "So I Found This Interesting MURDER MYSTERY Game.. But It's DIFFERENT? (Killer Or Not) ROBLOX",
+    "uploader": "Drxke Roblox",
+    "upload_date": "20260806",
+    "duration": 1482,
+    "query": "ytsearch1:🤔 Killer or Not Roblox gameplay",
+    "format_height": 360,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/27.json"
+  },
+  {
+    "rank": 28,
+    "game": "Tower Defense Simulator",
+    "place_id": "3260590327",
+    "queried_at_utc": "2026-11-06T18:35:12.639735+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=ej6a3I9J_Ko&t=45"
+      },
+      {
+        "start": 502,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=ej6a3I9J_Ko&t=502"
+      },
+      {
+        "start": 932,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=ej6a3I9J_Ko&t=932"
+      }
+    ],
+    "video_id": "ej6a3I9J_Ko",
+    "url": "https://www.youtube.com/watch?v=ej6a3I9J_Ko",
+    "title": "Tower Defense Simulator Gameplay No Commentary",
+    "uploader": "Cyan and Lime Studios",
+    "upload_date": "20250827",
+    "duration": 1435,
+    "query": "https://www.youtube.com/watch?v=ej6a3I9J_Ko",
+    "format_height": 590,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/28.json"
+  },
+  {
+    "rank": 29,
+    "game": "Sol's RNG [ Halloween Event 🎃]",
+    "place_id": "15532962292",
+    "queried_at_utc": "2026-11-06T18:32:10.714506+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=8X5IxDhoVEg&t=45"
+      },
+      {
+        "start": 641,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=8X5IxDhoVEg&t=641"
+      },
+      {
+        "start": 1192,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=8X5IxDhoVEg&t=1192"
+      }
+    ],
+    "video_id": "8X5IxDhoVEg",
+    "url": "https://www.youtube.com/watch?v=8X5IxDhoVEg",
+    "title": "I Went from NOOB to GLOBAL AURA in Sol's RNG!! | FULL MOVIE",
+    "uploader": "Solaris",
+    "upload_date": "20251013",
+    "duration": 1834,
+    "query": "ytsearch1:Sol's RNG Roblox gameplay",
+    "format_height": 480,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/29.json"
+  },
+  {
+    "rank": 30,
+    "game": "[💀DUELS] Murderers VS Sheriffs",
+    "place_id": "135856908115931",
+    "queried_at_utc": "2026-11-06T18:32:13.774054+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=QJIqxAghV_I&t=45"
+      },
+      {
+        "start": 1127,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=QJIqxAghV_I&t=1127"
+      },
+      {
+        "start": 2094,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=QJIqxAghV_I&t=2094"
+      }
+    ],
+    "video_id": "QJIqxAghV_I",
+    "url": "https://www.youtube.com/watch?v=QJIqxAghV_I",
+    "title": "Playing as a noob *CREATED A NEW ACC* | Murderers vs Sheriffs",
+    "uploader": "lynsmvs",
+    "upload_date": "20251211",
+    "duration": 3222,
+    "query": "ytsearch1:Murderers VS Sheriffs Roblox gameplay",
+    "format_height": 480,
+    "review_status": "captured_unreviewed"
+  },
+  {
+    "rank": 31,
+    "game": "✨Tap Simulator REBORN",
+    "place_id": "72858262610964",
+    "queried_at_utc": "2026-11-06T18:32:22.979017+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=ObcrsnBdXUs&t=45"
+      },
+      {
+        "start": 323,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=ObcrsnBdXUs&t=323"
+      },
+      {
+        "start": 600,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=ObcrsnBdXUs&t=600"
+      }
+    ],
+    "video_id": "ObcrsnBdXUs",
+    "url": "https://www.youtube.com/watch?v=ObcrsnBdXUs",
+    "title": "TAP SIMULATOR REBORN 30M VISITS UPDATE IS INSANE!!",
+    "uploader": "RussoPlays",
+    "upload_date": "20261031",
+    "duration": 924,
+    "query": "ytsearch1:✨Tap Simulator REBORN Roblox gameplay",
+    "format_height": 480,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/31.json"
+  },
+  {
+    "rank": 32,
+    "game": "Berry Avenue 🏠 RP",
+    "place_id": "8481844229",
+    "queried_at_utc": "2026-11-06T18:32:33.063846+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=Tr0qHejq3w8&t=45"
+      },
+      {
+        "start": 202,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=Tr0qHejq3w8&t=202"
+      },
+      {
+        "start": 375,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=Tr0qHejq3w8&t=375"
+      }
+    ],
+    "video_id": "Tr0qHejq3w8",
+    "url": "https://www.youtube.com/watch?v=Tr0qHejq3w8",
+    "title": "📍travel with us to seoul, korea! | berry ave rp vlog 4K",
+    "uploader": "chilepepinoo",
+    "upload_date": "20250813",
+    "duration": 578,
+    "query": "ytsearch1:Berry Avenue 🏠 RP Roblox gameplay",
+    "format_height": 480,
+    "review_status": "sampled_reviewed_supplementary"
+  },
+  {
+    "rank": 33,
+    "game": "Fling Things and People",
+    "place_id": "6961824067",
+    "queried_at_utc": "2026-11-06T18:32:33.497351+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=L80F8eKg0zs&t=45"
+      },
+      {
+        "start": 227,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=L80F8eKg0zs&t=227"
+      },
+      {
+        "start": 423,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=L80F8eKg0zs&t=423"
+      }
+    ],
+    "video_id": "L80F8eKg0zs",
+    "url": "https://www.youtube.com/watch?v=L80F8eKg0zs",
+    "title": "ROBLOX Fling Things and People..",
+    "uploader": "vanilbean",
+    "upload_date": "20260822",
+    "duration": 651,
+    "query": "ytsearch1:Fling Things and People Roblox gameplay",
+    "format_height": 480,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/33.json"
+  },
+  {
+    "rank": 34,
+    "game": "Forsaken",
+    "place_id": "18687417158",
+    "queried_at_utc": "2026-11-06T18:32:36.730220+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=by8ERPAXJzA&t=45"
+      },
+      {
+        "start": 664,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=by8ERPAXJzA&t=664"
+      },
+      {
+        "start": 1234,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=by8ERPAXJzA&t=1234"
+      }
+    ],
+    "video_id": "by8ERPAXJzA",
+    "url": "https://www.youtube.com/watch?v=by8ERPAXJzA",
+    "title": "WINNING WITH THE BEST SLASHER SKINS! | Roblox Forsaken",
+    "uploader": "DarkestVibrant",
+    "upload_date": "20261101",
+    "duration": 1899,
+    "query": "ytsearch1:Forsaken Roblox gameplay",
+    "format_height": 480,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/34.json"
+  },
+  {
+    "rank": 35,
+    "game": "Kukirin Life [Testing]",
+    "place_id": "122840796290491",
+    "queried_at_utc": "2026-11-06T18:32:56.927220+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=Ap7WLhQ7ocE&t=45"
+      },
+      {
+        "start": 394,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=Ap7WLhQ7ocE&t=394"
+      },
+      {
+        "start": 731,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=Ap7WLhQ7ocE&t=731"
+      }
+    ],
+    "video_id": "Ap7WLhQ7ocE",
+    "url": "https://www.youtube.com/watch?v=Ap7WLhQ7ocE",
+    "title": "ROBLOX KUKIRIN LIFE",
+    "uploader": "ProjectSupreme 2",
+    "upload_date": "20261016",
+    "duration": 1126,
+    "query": "ytsearch1:Kukirin Life Roblox gameplay",
+    "format_height": 480,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/35.json"
+  },
+  {
+    "rank": 36,
+    "game": "LifeTogether 🏠 RP ",
+    "place_id": "13967668166",
+    "queried_at_utc": "2026-11-06T18:33:07.460016+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=s9PZbuOqMIs&t=45"
+      },
+      {
+        "start": 185,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=s9PZbuOqMIs&t=185"
+      },
+      {
+        "start": 343,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=s9PZbuOqMIs&t=343"
+      }
+    ],
+    "video_id": "s9PZbuOqMIs",
+    "url": "https://www.youtube.com/watch?v=s9PZbuOqMIs",
+    "title": "I SURPRISED My Family With A Trip To Bora Bora! 🌴✈️ | Roblox LifeTogether RP",
+    "uploader": "BangBarbieRP",
+    "upload_date": "20260709",
+    "duration": 529,
+    "query": "ytsearch1:LifeTogether 🏠 RP Roblox gameplay",
+    "format_height": 480,
+    "review_status": "sampled_reviewed_supplementary"
+  },
+  {
+    "rank": 37,
+    "game": "Bug Evolution [🦟]",
+    "place_id": "70650894743738",
+    "queried_at_utc": "2026-11-06T18:33:08.208145+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=IorbilFg0C4&t=45"
+      },
+      {
+        "start": 382,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=IorbilFg0C4&t=382"
+      },
+      {
+        "start": 709,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=IorbilFg0C4&t=709"
+      }
+    ],
+    "video_id": "IorbilFg0C4",
+    "url": "https://www.youtube.com/watch?v=IorbilFg0C4",
+    "title": "Becoming the BIGGEST BUG in BUG EVOLUTION",
+    "uploader": "Milo 2",
+    "upload_date": "20261103",
+    "duration": 1092,
+    "query": "ytsearch1:Bug Evolution Roblox gameplay",
+    "format_height": 480,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/37.json"
+  },
+  {
+    "rank": 38,
+    "game": "DOORS 🍬🍭",
+    "place_id": "6516141723",
+    "queried_at_utc": "2026-11-06T18:33:10.378051+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 25,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=XYKCJjKETbA&t=25"
+      },
+      {
+        "start": 90,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=XYKCJjKETbA&t=90"
+      },
+      {
+        "start": 168,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=XYKCJjKETbA&t=168"
+      }
+    ],
+    "video_id": "XYKCJjKETbA",
+    "url": "https://www.youtube.com/watch?v=XYKCJjKETbA",
+    "title": "THE CANDY VAULT В DOORS, НО ЕСЛИ БЫ ОН БЫЛ ОЗВУЧЕН НА РУССКОМ!",
+    "uploader": "YARIK_PLAY",
+    "upload_date": "20261104",
+    "duration": 259,
+    "query": "ytsearch1:DOORS 🍬🍭 Roblox gameplay",
+    "format_height": 480,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/38.json"
+  },
+  {
+    "rank": 39,
+    "game": "[🌟UPD] Cameraman Tower Defense",
+    "place_id": "132929771812494",
+    "queried_at_utc": "2026-11-06T18:33:40.485681+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=b1jQITX-Ik4&t=45"
+      },
+      {
+        "start": 486,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=b1jQITX-Ik4&t=486"
+      },
+      {
+        "start": 904,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=b1jQITX-Ik4&t=904"
+      }
+    ],
+    "video_id": "b1jQITX-Ik4",
+    "url": "https://www.youtube.com/watch?v=b1jQITX-Ik4",
+    "title": "ПОЛНЫЙ ГАЙД НА НОВОЕ ОБНОВЛЕНИЕ В CAMERAMAN TOWER DEFENSE ROBLOX!",
+    "uploader": "МиниНуб_Games",
+    "upload_date": "20261104",
+    "duration": 1391,
+    "query": "ytsearch1:Cameraman Tower Defense Roblox gameplay",
+    "format_height": 480,
+    "review_status": "sampled_reviewed_supplementary"
+  },
+  {
+    "rank": 40,
+    "game": "Sell Fries! [Anomaly] 🍟",
+    "place_id": "94891079210424",
+    "queried_at_utc": "2026-11-06T18:34:12.282020+00:00",
+    "status": "failed",
+    "clips": [],
+    "video_id": "C3LJDYoRSQI",
+    "url": "https://www.youtube.com/watch?v=C3LJDYoRSQI",
+    "title": "Using 1% Grim Fryer Class To Troll My Friends in Sell Fries...",
+    "uploader": "Dash Roblox",
+    "upload_date": "20261024",
+    "duration": 1128,
+    "query": "ytsearch1:Sell Fries!  🍟 Roblox gameplay",
+    "format_height": 480,
+    "error": "Capture/extraction failed or timed out; partial files may exist; signed media URLs omitted.",
+    "review_status": "captured_unreviewed"
+  },
+  {
+    "rank": 41,
+    "game": "صيد الضبّان",
+    "place_id": "82347957379349",
+    "queried_at_utc": "2026-11-06T18:34:26.217414+00:00",
+    "status": "failed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=aX1VjQEyhq0&t=45"
+      }
+    ],
+    "video_id": "aX1VjQEyhq0",
+    "url": "https://www.youtube.com/watch?v=aX1VjQEyhq0",
+    "title": "صيد الضبان 🦎 #2 : لقيت مكان نادر جدا جدا !! 🤩✨ #روبلوكس   #roblox #",
+    "uploader": "TURKYOFF - تركوف",
+    "upload_date": "20261028",
+    "duration": 1414,
+    "query": "ytsearch1:صيد الضبّان Roblox gameplay",
+    "format_height": 480,
+    "error": "Capture/extraction failed or timed out; partial files may exist; signed media URLs omitted.",
+    "review_status": "captured_unreviewed"
+  },
+  {
+    "rank": 42,
+    "game": "[🎉UPD 11] Anime Dice",
+    "place_id": "113290951185459",
+    "queried_at_utc": "2026-11-06T18:34:43.444059+00:00",
+    "status": "failed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=3Otkov2a7cU&t=45"
+      }
+    ],
+    "video_id": "3Otkov2a7cU",
+    "url": "https://www.youtube.com/watch?v=3Otkov2a7cU",
+    "title": "Going From NOOB To PRO In Anime Dice! (Roblox)",
+    "uploader": "PhoenixVids",
+    "upload_date": "20261020",
+    "duration": 2338,
+    "query": "ytsearch1:Anime Dice Roblox gameplay",
+    "format_height": 480,
+    "error": "Capture/extraction failed or timed out; partial files may exist; signed media URLs omitted.",
+    "review_status": "captured_unreviewed"
+  },
+  {
+    "rank": 43,
+    "game": "Bee Swarm Simulator",
+    "place_id": "1537690962",
+    "queried_at_utc": "2026-11-06T18:35:47.865130+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=dbzWAawMC-o&t=45"
+      },
+      {
+        "start": 949,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=dbzWAawMC-o&t=949"
+      },
+      {
+        "start": 1762,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=dbzWAawMC-o&t=1762"
+      }
+    ],
+    "video_id": "dbzWAawMC-o",
+    "url": "https://www.youtube.com/watch?v=dbzWAawMC-o",
+    "title": "Noob to Pro in Bee Swarm Simulator - The PERFECT START! (Episode 1)",
+    "uploader": "Yarikz",
+    "upload_date": "20250809",
+    "duration": 2712,
+    "query": "ytsearch1:Bee Swarm Simulator Roblox gameplay",
+    "format_height": 480,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/43.json"
+  },
+  {
+    "rank": 44,
+    "game": "+1 Speed Keyboard Escape | Candy & Chocolate",
+    "place_id": "95082159892680",
+    "queried_at_utc": "2026-11-06T18:36:30.233651+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=08eRSSa1RdI&t=45"
+      },
+      {
+        "start": 1510,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=08eRSSa1RdI&t=1510"
+      },
+      {
+        "start": 2806,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=08eRSSa1RdI&t=2806"
+      }
+    ],
+    "video_id": "08eRSSa1RdI",
+    "url": "https://www.youtube.com/watch?v=08eRSSa1RdI",
+    "title": "[NEW LIVE] +1 Speed Keyboard Escape #roblox",
+    "uploader": "OCIT CRAFT",
+    "upload_date": "20261106",
+    "duration": 4317,
+    "query": "ytsearch1:+1 Speed Keyboard Escape | Candy & Chocolate Roblox gameplay",
+    "format_height": 426,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/44.json"
+  },
+  {
+    "rank": 45,
+    "game": "[🎃] +1 Venom Evolution",
+    "place_id": "116448925875915",
+    "queried_at_utc": "2026-11-06T18:36:59.991480+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=2h8PX0fBqXo&t=45"
+      },
+      {
+        "start": 234,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=2h8PX0fBqXo&t=234"
+      },
+      {
+        "start": 436,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=2h8PX0fBqXo&t=436"
+      }
+    ],
+    "video_id": "2h8PX0fBqXo",
+    "url": "https://www.youtube.com/watch?v=2h8PX0fBqXo",
+    "title": "ROBLOX +1 VENOM EVOLUTION!",
+    "uploader": "More Techy",
+    "upload_date": "20261105",
+    "duration": 671,
+    "query": "ytsearch1:+1 Venom Evolution Roblox gameplay",
+    "format_height": 480,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/45.json"
+  },
+  {
+    "rank": 46,
+    "game": "[BOSS🎃] Huss Valley",
+    "place_id": "107535308163741",
+    "queried_at_utc": "2026-11-06T18:37:33.302048+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=JedZyiWKVZk&t=45"
+      },
+      {
+        "start": 379,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=JedZyiWKVZk&t=379"
+      },
+      {
+        "start": 704,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=JedZyiWKVZk&t=704"
+      }
+    ],
+    "video_id": "JedZyiWKVZk",
+    "url": "https://www.youtube.com/watch?v=JedZyiWKVZk",
+    "title": "Noob to Master in Huss Valley Noob to Pro!",
+    "uploader": "JONA G.",
+    "upload_date": "20261013",
+    "duration": 1084,
+    "query": "ytsearch1:Huss Valley Roblox gameplay",
+    "format_height": 480,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/46.json"
+  },
+  {
+    "rank": 47,
+    "game": "[🏘️CITY] Criminal Simulator 💰",
+    "place_id": "83048653078891",
+    "queried_at_utc": "2026-11-06T18:38:09.257153+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 35,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=qfcUct1pKmU&t=35"
+      },
+      {
+        "start": 125,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=qfcUct1pKmU&t=125"
+      },
+      {
+        "start": 232,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=qfcUct1pKmU&t=232"
+      }
+    ],
+    "video_id": "qfcUct1pKmU",
+    "url": "https://www.youtube.com/watch?v=qfcUct1pKmU",
+    "title": "How to Rob EVERYTHING in Criminal Simulator (Best Ways to Make Money) | Roblox",
+    "uploader": "Bespecter",
+    "upload_date": "20261030",
+    "duration": 358,
+    "query": "ytsearch1:Criminal Simulator 💰 Roblox gameplay",
+    "format_height": 480,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/47.json"
+  },
+  {
+    "rank": 48,
+    "game": "BlockSpin 🔪 ",
+    "place_id": "104715542330896",
+    "queried_at_utc": "2026-11-06T18:38:16.659209+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 30,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=3EyqyJf5ONA&t=30"
+      },
+      {
+        "start": 106,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=3EyqyJf5ONA&t=106"
+      },
+      {
+        "start": 196,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=3EyqyJf5ONA&t=196"
+      }
+    ],
+    "video_id": "3EyqyJf5ONA",
+    "url": "https://www.youtube.com/watch?v=3EyqyJf5ONA",
+    "title": "WIPING OUT LOBBIES | BlockSpin Gameplay |",
+    "uploader": "Drewskitv2",
+    "upload_date": "20250705",
+    "duration": 303,
+    "query": "ytsearch1:BlockSpin 🔪 Roblox gameplay",
+    "format_height": 480,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/48.json"
+  },
+  {
+    "rank": 49,
+    "game": "[🐉UPD 11 PART 1🎃] King Legacy",
+    "place_id": "4520749081",
+    "queried_at_utc": "2026-11-06T18:38:17.215869+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=ZQu1TJvmTj8&t=45"
+      },
+      {
+        "start": 341,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=ZQu1TJvmTj8&t=341"
+      },
+      {
+        "start": 633,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=ZQu1TJvmTj8&t=633"
+      }
+    ],
+    "video_id": "ZQu1TJvmTj8",
+    "url": "https://www.youtube.com/watch?v=ZQu1TJvmTj8",
+    "title": "Everything That Changed & Revamped in Roblox King Legacy Update 11 Part 1... Here's What Happened!",
+    "uploader": "JixxyJax",
+    "upload_date": "20261106",
+    "duration": 975,
+    "query": "ytsearch1:King Legacy Roblox gameplay",
+    "format_height": 480,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/49.json"
+  },
+  {
+    "rank": 50,
+    "game": "[ALPHA] Practical Basketball",
+    "place_id": "80681221431821",
+    "queried_at_utc": "2026-11-06T18:38:17.614353+00:00",
+    "status": "captured_unreviewed",
+    "clips": [
+      {
+        "start": 45,
+        "duration": 5,
+        "path": "clip-1.mp4",
+        "frames": [
+          "frame-1-01.jpg",
+          "frame-1-02.jpg",
+          "frame-1-03.jpg",
+          "frame-1-04.jpg",
+          "frame-1-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=UoCqLuJJ23A&t=45"
+      },
+      {
+        "start": 275,
+        "duration": 5,
+        "path": "clip-2.mp4",
+        "frames": [
+          "frame-2-01.jpg",
+          "frame-2-02.jpg",
+          "frame-2-03.jpg",
+          "frame-2-04.jpg",
+          "frame-2-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=UoCqLuJJ23A&t=275"
+      },
+      {
+        "start": 511,
+        "duration": 5,
+        "path": "clip-3.mp4",
+        "frames": [
+          "frame-3-01.jpg",
+          "frame-3-02.jpg",
+          "frame-3-03.jpg",
+          "frame-3-04.jpg",
+          "frame-3-05.jpg"
+        ],
+        "status": "captured",
+        "source_at": "https://www.youtube.com/watch?v=UoCqLuJJ23A&t=511"
+      }
+    ],
+    "video_id": "UoCqLuJJ23A",
+    "url": "https://www.youtube.com/watch?v=UoCqLuJJ23A",
+    "title": "A MAXED OUT SHOOTING Build Is BROKEN in Practical Basketball",
+    "uploader": "Doqin",
+    "upload_date": "20261105",
+    "duration": 787,
+    "query": "ytsearch1:Practical Basketball Roblox gameplay",
+    "format_height": 480,
+    "review_status": "sampled_reviewed",
+    "review_file": "../../reviews/50.json"
+  }
+]

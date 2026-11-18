@@ -1,0 +1,61 @@
+{
+  "rank": 50,
+  "game": "[ALPHA] Practical Basketball",
+  "place_id": "80681221431821",
+  "queried_at_utc": "2026-11-06T18:38:17.614353+00:00",
+  "status": "captured_unreviewed",
+  "clips": [
+    {
+      "start": 45,
+      "duration": 5,
+      "path": "clip-1.mp4",
+      "frames": [
+        "frame-1-01.jpg",
+        "frame-1-02.jpg",
+        "frame-1-03.jpg",
+        "frame-1-04.jpg",
+        "frame-1-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=UoCqLuJJ23A&t=45"
+    },
+    {
+      "start": 275,
+      "duration": 5,
+      "path": "clip-2.mp4",
+      "frames": [
+        "frame-2-01.jpg",
+        "frame-2-02.jpg",
+        "frame-2-03.jpg",
+        "frame-2-04.jpg",
+        "frame-2-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=UoCqLuJJ23A&t=275"
+    },
+    {
+      "start": 511,
+      "duration": 5,
+      "path": "clip-3.mp4",
+      "frames": [
+        "frame-3-01.jpg",
+        "frame-3-02.jpg",
+        "frame-3-03.jpg",
+        "frame-3-04.jpg",
+        "frame-3-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=UoCqLuJJ23A&t=511"
+    }
+  ],
+  "video_id": "UoCqLuJJ23A",
+  "url": "https://www.youtube.com/watch?v=UoCqLuJJ23A",
+  "title": "A MAXED OUT SHOOTING Build Is BROKEN in Practical Basketball",
+  "uploader": "Doqin",
+  "upload_date": "20261105",
+  "duration": 787,
+  "query": "ytsearch1:Practical Basketball Roblox gameplay",
+  "format_height": 480,
+  "review_status": "sampled_reviewed",
+  "review_file": "../../reviews/50.json"
+}
