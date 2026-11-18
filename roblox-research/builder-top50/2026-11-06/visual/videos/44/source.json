@@ -1,0 +1,61 @@
+{
+  "rank": 44,
+  "game": "+1 Speed Keyboard Escape | Candy & Chocolate",
+  "place_id": "95082159892680",
+  "queried_at_utc": "2026-11-06T18:36:30.233651+00:00",
+  "status": "captured_unreviewed",
+  "clips": [
+    {
+      "start": 45,
+      "duration": 5,
+      "path": "clip-1.mp4",
+      "frames": [
+        "frame-1-01.jpg",
+        "frame-1-02.jpg",
+        "frame-1-03.jpg",
+        "frame-1-04.jpg",
+        "frame-1-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=08eRSSa1RdI&t=45"
+    },
+    {
+      "start": 1510,
+      "duration": 5,
+      "path": "clip-2.mp4",
+      "frames": [
+        "frame-2-01.jpg",
+        "frame-2-02.jpg",
+        "frame-2-03.jpg",
+        "frame-2-04.jpg",
+        "frame-2-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=08eRSSa1RdI&t=1510"
+    },
+    {
+      "start": 2806,
+      "duration": 5,
+      "path": "clip-3.mp4",
+      "frames": [
+        "frame-3-01.jpg",
+        "frame-3-02.jpg",
+        "frame-3-03.jpg",
+        "frame-3-04.jpg",
+        "frame-3-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=08eRSSa1RdI&t=2806"
+    }
+  ],
+  "video_id": "08eRSSa1RdI",
+  "url": "https://www.youtube.com/watch?v=08eRSSa1RdI",
+  "title": "[NEW LIVE] +1 Speed Keyboard Escape #roblox",
+  "uploader": "OCIT CRAFT",
+  "upload_date": "20261106",
+  "duration": 4317,
+  "query": "ytsearch1:+1 Speed Keyboard Escape | Candy & Chocolate Roblox gameplay",
+  "format_height": 426,
+  "review_status": "sampled_reviewed",
+  "review_file": "../../reviews/44.json"
+}
