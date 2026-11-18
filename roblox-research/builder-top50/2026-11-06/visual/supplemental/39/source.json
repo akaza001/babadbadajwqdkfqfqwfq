@@ -1,0 +1,61 @@
+{
+  "rank": 39,
+  "game": "[🌟UPD] Cameraman Tower Defense",
+  "place_id": "132929771812494",
+  "queried_at_utc": "2026-11-06T18:40:02.076308+00:00",
+  "status": "captured_unreviewed",
+  "clips": [
+    {
+      "start": 45,
+      "duration": 5,
+      "path": "clip-1.mp4",
+      "frames": [
+        "frame-1-01.jpg",
+        "frame-1-02.jpg",
+        "frame-1-03.jpg",
+        "frame-1-04.jpg",
+        "frame-1-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=sC-Afz9FGa0&t=45"
+    },
+    {
+      "start": 293,
+      "duration": 5,
+      "path": "clip-2.mp4",
+      "frames": [
+        "frame-2-01.jpg",
+        "frame-2-02.jpg",
+        "frame-2-03.jpg",
+        "frame-2-04.jpg",
+        "frame-2-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=sC-Afz9FGa0&t=293"
+    },
+    {
+      "start": 545,
+      "duration": 5,
+      "path": "clip-3.mp4",
+      "frames": [
+        "frame-3-01.jpg",
+        "frame-3-02.jpg",
+        "frame-3-03.jpg",
+        "frame-3-04.jpg",
+        "frame-3-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=sC-Afz9FGa0&t=545"
+    }
+  ],
+  "video_id": "sC-Afz9FGa0",
+  "url": "https://www.youtube.com/watch?v=sC-Afz9FGa0",
+  "title": "HARDCORE MODE made me CRASHOUT in Cameraman Tower Defense..",
+  "uploader": "MeddysonTD",
+  "upload_date": "20261022",
+  "duration": 839,
+  "query": "https://www.youtube.com/watch?v=sC-Afz9FGa0",
+  "format_height": 480,
+  "review_status": "sampled_reviewed",
+  "review_file": "../../reviews/39.json"
+}

@@ -1,0 +1,61 @@
+{
+  "rank": 41,
+  "game": "صيد الضبّان",
+  "place_id": "82347957379349",
+  "queried_at_utc": "2026-11-06T18:40:24.505401+00:00",
+  "status": "captured_unreviewed",
+  "clips": [
+    {
+      "start": 45,
+      "duration": 5,
+      "path": "clip-1.mp4",
+      "frames": [
+        "frame-1-01.jpg",
+        "frame-1-02.jpg",
+        "frame-1-03.jpg",
+        "frame-1-04.jpg",
+        "frame-1-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=aX1VjQEyhq0&t=45"
+    },
+    {
+      "start": 494,
+      "duration": 5,
+      "path": "clip-2.mp4",
+      "frames": [
+        "frame-2-01.jpg",
+        "frame-2-02.jpg",
+        "frame-2-03.jpg",
+        "frame-2-04.jpg",
+        "frame-2-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=aX1VjQEyhq0&t=494"
+    },
+    {
+      "start": 919,
+      "duration": 5,
+      "path": "clip-3.mp4",
+      "frames": [
+        "frame-3-01.jpg",
+        "frame-3-02.jpg",
+        "frame-3-03.jpg",
+        "frame-3-04.jpg",
+        "frame-3-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=aX1VjQEyhq0&t=919"
+    }
+  ],
+  "video_id": "aX1VjQEyhq0",
+  "url": "https://www.youtube.com/watch?v=aX1VjQEyhq0",
+  "title": "صيد الضبان 🦎 #2 : لقيت مكان نادر جدا جدا !! 🤩✨ #روبلوكس   #roblox #",
+  "uploader": "TURKYOFF - تركوف",
+  "upload_date": "20261028",
+  "duration": 1414,
+  "query": "https://www.youtube.com/watch?v=aX1VjQEyhq0",
+  "format_height": 480,
+  "review_status": "sampled_reviewed",
+  "review_file": "../../reviews/41.json"
+}

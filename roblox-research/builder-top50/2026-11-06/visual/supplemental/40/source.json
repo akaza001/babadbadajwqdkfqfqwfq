@@ -1,0 +1,61 @@
+{
+  "rank": 40,
+  "game": "Sell Fries! [Anomaly] 🍟",
+  "place_id": "94891079210424",
+  "queried_at_utc": "2026-11-06T18:40:23.506588+00:00",
+  "status": "captured_unreviewed",
+  "clips": [
+    {
+      "start": 45,
+      "duration": 5,
+      "path": "clip-1.mp4",
+      "frames": [
+        "frame-1-01.jpg",
+        "frame-1-02.jpg",
+        "frame-1-03.jpg",
+        "frame-1-04.jpg",
+        "frame-1-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=C3LJDYoRSQI&t=45"
+    },
+    {
+      "start": 394,
+      "duration": 5,
+      "path": "clip-2.mp4",
+      "frames": [
+        "frame-2-01.jpg",
+        "frame-2-02.jpg",
+        "frame-2-03.jpg",
+        "frame-2-04.jpg",
+        "frame-2-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=C3LJDYoRSQI&t=394"
+    },
+    {
+      "start": 733,
+      "duration": 5,
+      "path": "clip-3.mp4",
+      "frames": [
+        "frame-3-01.jpg",
+        "frame-3-02.jpg",
+        "frame-3-03.jpg",
+        "frame-3-04.jpg",
+        "frame-3-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=C3LJDYoRSQI&t=733"
+    }
+  ],
+  "video_id": "C3LJDYoRSQI",
+  "url": "https://www.youtube.com/watch?v=C3LJDYoRSQI",
+  "title": "Using 1% Grim Fryer Class To Troll My Friends in Sell Fries...",
+  "uploader": "Dash Roblox",
+  "upload_date": "20261024",
+  "duration": 1128,
+  "query": "https://www.youtube.com/watch?v=C3LJDYoRSQI",
+  "format_height": 480,
+  "review_status": "sampled_reviewed",
+  "review_file": "../../reviews/40.json"
+}
