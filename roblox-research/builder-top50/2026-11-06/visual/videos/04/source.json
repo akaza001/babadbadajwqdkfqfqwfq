@@ -1,0 +1,61 @@
+{
+  "rank": 4,
+  "game": "Murder Mystery 2",
+  "place_id": "142823291",
+  "queried_at_utc": "2026-11-06T18:27:07.580913+00:00",
+  "status": "captured_unreviewed",
+  "clips": [
+    {
+      "start": 45,
+      "duration": 5,
+      "path": "clip-1.mp4",
+      "frames": [
+        "frame-1-01.jpg",
+        "frame-1-02.jpg",
+        "frame-1-03.jpg",
+        "frame-1-04.jpg",
+        "frame-1-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=OHhKQ5IaTM0&t=45"
+    },
+    {
+      "start": 255,
+      "duration": 5,
+      "path": "clip-2.mp4",
+      "frames": [
+        "frame-2-01.jpg",
+        "frame-2-02.jpg",
+        "frame-2-03.jpg",
+        "frame-2-04.jpg",
+        "frame-2-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=OHhKQ5IaTM0&t=255"
+    },
+    {
+      "start": 475,
+      "duration": 5,
+      "path": "clip-3.mp4",
+      "frames": [
+        "frame-3-01.jpg",
+        "frame-3-02.jpg",
+        "frame-3-03.jpg",
+        "frame-3-04.jpg",
+        "frame-3-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=OHhKQ5IaTM0&t=475"
+    }
+  ],
+  "video_id": "OHhKQ5IaTM0",
+  "url": "https://www.youtube.com/watch?v=OHhKQ5IaTM0",
+  "title": "Playing MM2 as a *TRYHARD* (Murder Mystery 2)",
+  "uploader": "fiszye",
+  "upload_date": "20260525",
+  "duration": 731,
+  "query": "ytsearch1:Murder Mystery 2 Roblox gameplay",
+  "format_height": 480,
+  "review_status": "sampled_reviewed",
+  "review_file": "../../reviews/04.json"
+}
