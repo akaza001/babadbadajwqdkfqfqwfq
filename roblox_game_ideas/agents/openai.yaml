@@ -1,0 +1,4 @@
+interface:
+  display_name: "roblox_game_ideas"
+  short_description: "Тренды топ-100, идеи и документация для разработки игр"
+  default_prompt: "Используй $roblox_game_ideas: исследуй свежий топ-100 Roblox по онлайну, помоги создать или доработать идею и подготовь документацию для разработки."
