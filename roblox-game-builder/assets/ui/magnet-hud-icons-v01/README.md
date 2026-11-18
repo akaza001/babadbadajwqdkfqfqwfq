@@ -1,0 +1,1 @@
+Six original RGBA PNGs, imported asset IDs in manifest.json. All six ImageLabels loaded in Magnet Workshop Simulator Studio. Small-screen mouse layout and respawn verified through magnet-hud-navigation-v041. Asset ownership/access in other experiences must be checked.

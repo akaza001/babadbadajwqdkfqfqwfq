@@ -1,0 +1,36 @@
+{
+  "camera": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"misses\":[],\"medianRatio\":0.8251579892862421,\"cases\":180,\"vertices\":260640,\"maxRatio\":0.9818494431104584,\"minRatio\":0.7508692818733087}"
+      }
+    ],
+    "isError": false
+  },
+  "reset_cleanup": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"roofHidden\":0,\"camera\":\"Enum.CameraType.Custom\",\"model\":false}"
+      }
+    ],
+    "isError": false
+  },
+  "visual_preview": true,
+  "visual_metrics": {
+    "frames": 26,
+    "angles": [
+      0,
+      3.141592653589793
+    ],
+    "surface_bounds": [
+      343.630126953125,
+      213.3887481689453,
+      415.980224609375,
+      349.98175048828125
+    ],
+    "all_in_front": true,
+    "clear_of_ui": true
+  }
+}

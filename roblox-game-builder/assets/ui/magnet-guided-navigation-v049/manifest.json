@@ -1,0 +1,15 @@
+{
+  "id": "magnet-guided-navigation-v049",
+  "version": "0.4.9",
+  "kind": "native-ui",
+  "entry_point": "client/OnboardingUI.luau",
+  "secondary_entry": "client/PortalWalkthrough.luau",
+  "source": "Magnet Workshop Simulator;2026-11-14",
+  "derived_from": [
+    "magnet-onboarding-ui-v047",
+    "magnet-biome-fishing-v048",
+    "magnet-ui-windows-v045"
+  ],
+  "status": "saved; Studio visual/input and responsive cases verified; physical devices pending",
+  "new_roblox_asset_ids": []
+}

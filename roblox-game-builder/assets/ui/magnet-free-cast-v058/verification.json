@@ -1,0 +1,596 @@
+{
+  "date": "2026-11-16",
+  "geometry": {
+    "cases": 1980,
+    "denied": 155,
+    "biomes": {
+      "1": {
+        "targets": 1347,
+        "biome": "BIO-01"
+      },
+      "2": {
+        "targets": 324,
+        "biome": "BIO-02"
+      },
+      "3": {
+        "targets": 324,
+        "biome": "BIO-03"
+      },
+      "4": {
+        "targets": 324,
+        "biome": "BIO-04"
+      },
+      "5": {
+        "targets": 324,
+        "biome": "BIO-05"
+      },
+      "6": {
+        "targets": 324,
+        "biome": "BIO-06"
+      },
+      "7": {
+        "targets": 324,
+        "biome": "BIO-07"
+      },
+      "8": {
+        "targets": 324,
+        "biome": "BIO-08"
+      },
+      "9": {
+        "targets": 324,
+        "biome": "BIO-10"
+      }
+    },
+    "blocked": 1536,
+    "elapsed": 0.18117687499034218,
+    "bad": [],
+    "targets": 3939,
+    "solved": 1825
+  },
+  "layouts": {
+    "1": {
+      "panel": "44, 195",
+      "offsetFromCenter": 86.9000244140625,
+      "bad": [],
+      "screen": "869, 437",
+      "trackAlpha": 0.550000011920929,
+      "background": 1,
+      "hitWidth": 44,
+      "visibleText": 0
+    },
+    "2": {
+      "panel": "44, 202",
+      "offsetFromCenter": 192,
+      "bad": [],
+      "screen": "1920, 1080",
+      "trackAlpha": 0.550000011920929,
+      "background": 1,
+      "hitWidth": 44,
+      "visibleText": 0
+    },
+    "3": {
+      "panel": "44, 202",
+      "offsetFromCenter": 39.00001525878906,
+      "bad": [],
+      "screen": "390, 844",
+      "trackAlpha": 0.550000011920929,
+      "background": 1,
+      "hitWidth": 44,
+      "visibleText": 0
+    },
+    "4": {
+      "panel": "44, 146",
+      "offsetFromCenter": 56.800018310546875,
+      "bad": [],
+      "screen": "568, 320",
+      "trackAlpha": 0.550000011920929,
+      "background": 1,
+      "hitWidth": 44,
+      "visibleText": 0
+    },
+    "5": {
+      "panel": "44, 202",
+      "offsetFromCenter": 32,
+      "bad": [],
+      "screen": "320, 568",
+      "trackAlpha": 0.550000011920929,
+      "background": 1,
+      "hitWidth": 44,
+      "visibleText": 0
+    }
+  },
+  "fullCatch": {
+    "elapsed": 15.664065666642273,
+    "before": 0,
+    "state": {
+      "state": "Idle",
+      "look": "-0.8660259246826172, -0, 0.49999889731407166",
+      "anchored": false,
+      "finds": 1,
+      "biome": "BIO-01"
+    }
+  },
+  "nativeButtonAndSpace": {
+    "state": "Casting",
+    "finds": 0,
+    "anchored": true,
+    "power": 0.04126000404357899,
+    "target": "99.52124786376953, 0.800000011920929, 3.7399115562438965",
+    "look": "-0.8660488128662109, -0, 0.49995946884155273",
+    "distance": 7.480429172515869,
+    "biome": "BIO-01"
+  },
+  "allBiomes": [
+    {
+      "biome": "BIO-02",
+      "state": {
+        "state": "Casting",
+        "finds": 1,
+        "anchored": true,
+        "power": 0.1453140377998352,
+        "target": "653.9910278320312, 0.800000011920929, -644.2213134765625",
+        "look": "-0.866025984287262, -0, 0.49999892711639404",
+        "distance": 11.557368278503418,
+        "biome": "BIO-02"
+      },
+      "targetCross": 0.000017642974853515625,
+      "start": {
+        "status": "Ok",
+        "revision": 1,
+        "code": "aiming",
+        "actionSeq": 3
+      },
+      "releaseFacingDot": 0.9999999403953552,
+      "release": {
+        "status": "Ok",
+        "revision": 1,
+        "code": "casting",
+        "actionSeq": 4
+      },
+      "aimFacingDot": 0.9999999403953552
+    },
+    {
+      "biome": "BIO-03",
+      "state": {
+        "state": "Casting",
+        "finds": 1,
+        "anchored": true,
+        "power": 0.13931870460510254,
+        "target": "1073.990966796875, 0.800000011920929, -644.2208862304688",
+        "look": "-0.8660107254981995, -0, 0.5000253319740295",
+        "distance": 11.557634353637695,
+        "biome": "BIO-03"
+      },
+      "targetCross": 0.000004291534423828125,
+      "start": {
+        "status": "Ok",
+        "revision": 1,
+        "code": "aiming",
+        "actionSeq": 6
+      },
+      "releaseFacingDot": 0.9999998807907104,
+      "release": {
+        "status": "Ok",
+        "revision": 1,
+        "code": "casting",
+        "actionSeq": 7
+      },
+      "aimFacingDot": 0.9999998807907104
+    },
+    {
+      "biome": "BIO-04",
+      "state": {
+        "state": "Casting",
+        "finds": 1,
+        "anchored": true,
+        "power": 0.14604628086090088,
+        "target": "1493.990966796875, 0.800000011920929, -644.2208862304688",
+        "look": "-0.8660107254981995, -0, 0.5000253319740295",
+        "distance": 11.557634353637695,
+        "biome": "BIO-04"
+      },
+      "targetCross": 0.000004291534423828125,
+      "start": {
+        "status": "Ok",
+        "revision": 1,
+        "code": "aiming",
+        "actionSeq": 9
+      },
+      "releaseFacingDot": 0.9999998807907104,
+      "release": {
+        "status": "Ok",
+        "revision": 1,
+        "code": "casting",
+        "actionSeq": 10
+      },
+      "aimFacingDot": 0.9999998807907104
+    },
+    {
+      "biome": "BIO-05",
+      "state": {
+        "state": "Casting",
+        "finds": 1,
+        "anchored": true,
+        "power": 0.14505982398986816,
+        "target": "653.9910278320312, 0.800000011920929, -1064.2213134765625",
+        "look": "-0.8660259246826172, -0, 0.49999889731407166",
+        "distance": 11.557368278503418,
+        "biome": "BIO-05"
+      },
+      "targetCross": 0.0000171661376953125,
+      "start": {
+        "status": "Ok",
+        "revision": 1,
+        "code": "aiming",
+        "actionSeq": 12
+      },
+      "releaseFacingDot": 0.9999997615814209,
+      "release": {
+        "status": "Ok",
+        "revision": 1,
+        "code": "casting",
+        "actionSeq": 13
+      },
+      "aimFacingDot": 0.9999997615814209
+    },
+    {
+      "biome": "BIO-06",
+      "state": {
+        "state": "Casting",
+        "finds": 1,
+        "anchored": true,
+        "power": 0.1452597975730896,
+        "target": "1073.990966796875, 0.800000011920929, -1064.220947265625",
+        "look": "-0.8660109043121338, -0, 0.5000254511833191",
+        "distance": 11.55760383605957,
+        "biome": "BIO-06"
+      },
+      "targetCross": 0.00004863739013671875,
+      "start": {
+        "status": "Ok",
+        "revision": 1,
+        "code": "aiming",
+        "actionSeq": 15
+      },
+      "releaseFacingDot": 1.0000003576278687,
+      "release": {
+        "status": "Ok",
+        "revision": 1,
+        "code": "casting",
+        "actionSeq": 16
+      },
+      "aimFacingDot": 1.0000003576278687
+    },
+    {
+      "biome": "BIO-07",
+      "state": {
+        "state": "Casting",
+        "finds": 1,
+        "anchored": true,
+        "power": 0.14442384243011475,
+        "target": "1493.990966796875, 0.800000011920929, -1064.220947265625",
+        "look": "-0.8660109043121338, -0, 0.5000254511833191",
+        "distance": 11.55760383605957,
+        "biome": "BIO-07"
+      },
+      "targetCross": 0.00004863739013671875,
+      "start": {
+        "status": "Ok",
+        "revision": 1,
+        "code": "aiming",
+        "actionSeq": 18
+      },
+      "releaseFacingDot": 1.0000003576278687,
+      "release": {
+        "status": "Ok",
+        "revision": 1,
+        "code": "casting",
+        "actionSeq": 19
+      },
+      "aimFacingDot": 1.0000003576278687
+    },
+    {
+      "biome": "BIO-08",
+      "state": {
+        "state": "Casting",
+        "finds": 1,
+        "anchored": true,
+        "power": 0.14421015977859497,
+        "target": "653.9910278320312, 0.800000011920929, -1484.2213134765625",
+        "look": "-0.8660261034965515, -0, 0.4999989867210388",
+        "distance": 11.557368278503418,
+        "biome": "BIO-08"
+      },
+      "targetCross": 0.0000171661376953125,
+      "start": {
+        "status": "Ok",
+        "revision": 1,
+        "code": "aiming",
+        "actionSeq": 21
+      },
+      "releaseFacingDot": 1.000000238418579,
+      "release": {
+        "status": "Ok",
+        "revision": 1,
+        "code": "casting",
+        "actionSeq": 22
+      },
+      "aimFacingDot": 1.000000238418579
+    },
+    {
+      "biome": "BIO-10",
+      "state": {
+        "state": "Casting",
+        "finds": 1,
+        "anchored": true,
+        "power": 0.14471650123596191,
+        "target": "1493.990966796875, 0.800000011920929, -1484.220947265625",
+        "look": "-0.8660107254981995, -0, 0.5000253319740295",
+        "distance": 11.55760383605957,
+        "biome": "BIO-10"
+      },
+      "targetCross": 0.00004863739013671875,
+      "start": {
+        "status": "Ok",
+        "revision": 1,
+        "code": "aiming",
+        "actionSeq": 24
+      },
+      "releaseFacingDot": 0.9999998807907104,
+      "release": {
+        "status": "Ok",
+        "revision": 1,
+        "code": "casting",
+        "actionSeq": 25
+      },
+      "aimFacingDot": 0.9999998807907104
+    }
+  ],
+  "initialPositions": [
+    {
+      "name": "ring-angle30",
+      "state": {
+        "state": "Casting",
+        "finds": 0,
+        "anchored": true,
+        "power": 0.6420338153839111,
+        "target": "84.74331665039062, 0.800000011920929, 12.272515296936035",
+        "look": "-0.8660259246826172, -0, 0.49999889731407166",
+        "distance": 24.545085906982422,
+        "biome": "BIO-01"
+      },
+      "targetCross": 9.5367431640625e-7,
+      "start": {
+        "status": "Ok",
+        "revision": 0,
+        "code": "aiming",
+        "actionSeq": 1
+      },
+      "releaseFacingDot": 0.9999997615814209,
+      "release": {
+        "status": "Ok",
+        "revision": 0,
+        "code": "casting",
+        "actionSeq": 2
+      },
+      "aimFacingDot": 0.9999997615814209
+    },
+    {
+      "name": "shore-angle",
+      "state": {
+        "state": "Casting",
+        "finds": 0,
+        "anchored": true,
+        "power": 0.6445425748825073,
+        "target": "93.85973358154297, 0.800000011920929, -8.422391891479492",
+        "look": "-0.9396922588348389, -0, -0.34202098846435547",
+        "distance": 24.6253662109375,
+        "biome": "BIO-01"
+      },
+      "targetCross": 4.76837158203125e-7,
+      "start": {
+        "status": "Ok",
+        "revision": 0,
+        "code": "aiming",
+        "actionSeq": 4
+      },
+      "releaseFacingDot": 0.9999998807907104,
+      "release": {
+        "status": "Ok",
+        "revision": 0,
+        "code": "casting",
+        "actionSeq": 5
+      },
+      "aimFacingDot": 0.9999998807907104
+    },
+    {
+      "name": "center-angle",
+      "state": {
+        "state": "Casting",
+        "finds": 0,
+        "anchored": true,
+        "power": 0.643714964389801,
+        "target": "76.3032455444336, 0.800000011920929, -12.299453735351562",
+        "look": "0.8660251498222351, -0, -0.5000006556510925",
+        "distance": 24.598878860473633,
+        "biome": "BIO-01"
+      },
+      "targetCross": 9.5367431640625e-7,
+      "start": {
+        "status": "Ok",
+        "revision": 0,
+        "code": "aiming",
+        "actionSeq": 7
+      },
+      "releaseFacingDot": 1.000000238418579,
+      "release": {
+        "status": "Ok",
+        "revision": 0,
+        "code": "casting",
+        "actionSeq": 8
+      },
+      "aimFacingDot": 1.000000238418579
+    },
+    {
+      "name": "far-shore",
+      "state": {
+        "state": "Casting",
+        "finds": 0,
+        "anchored": true,
+        "power": 0.6435251235961914,
+        "target": "642.7019653320312, 0.800000011920929, -637.70361328125",
+        "look": "-0.8660261034965515, -0, 0.4999989867210388",
+        "distance": 24.592832565307617,
+        "biome": "BIO-02"
+      },
+      "targetCross": 0.000003814697265625,
+      "start": {
+        "status": "Ok",
+        "revision": 0,
+        "code": "aiming",
+        "actionSeq": 10
+      },
+      "releaseFacingDot": 1.000000238418579,
+      "release": {
+        "status": "Ok",
+        "revision": 0,
+        "code": "casting",
+        "actionSeq": 11
+      },
+      "aimFacingDot": 1.000000238418579
+    },
+    {
+      "name": "far-pier-angle",
+      "state": {
+        "state": "Casting",
+        "finds": 0,
+        "anchored": true,
+        "power": 0.643947422504425,
+        "target": "588.6852416992188, 0.800000011920929, -622.7635498046875",
+        "look": "0.8000074625015259, -0, -0.5999903082847595",
+        "distance": 24.6063232421875,
+        "biome": "BIO-02"
+      },
+      "targetCross": 0.000003814697265625,
+      "start": {
+        "status": "Ok",
+        "revision": 0,
+        "code": "aiming",
+        "actionSeq": 13
+      },
+      "releaseFacingDot": 1.0000003576278687,
+      "release": {
+        "status": "Ok",
+        "revision": 0,
+        "code": "casting",
+        "actionSeq": 14
+      },
+      "aimFacingDot": 1.0000003576278687
+    }
+  ],
+  "negative": [
+    {
+      "name": "away",
+      "start": {
+        "status": "Error",
+        "revision": 0,
+        "code": "errWaterFacing",
+        "actionSeq": 16
+      },
+      "state": {
+        "state": "Idle",
+        "look": "1.0000001192092896, -0, 9.265885836384768e-09",
+        "anchored": false,
+        "finds": 0,
+        "biome": "BIO-01"
+      }
+    },
+    {
+      "name": "far",
+      "start": {
+        "status": "Error",
+        "revision": 0,
+        "code": "errWaterNear",
+        "actionSeq": 17
+      },
+      "state": {
+        "state": "Idle",
+        "look": "-1, -0, -0",
+        "anchored": false,
+        "finds": 0,
+        "biome": "BIO-01"
+      }
+    },
+    {
+      "name": "wrong-biome",
+      "start": {
+        "status": "Error",
+        "revision": 0,
+        "code": "errWaterNear",
+        "actionSeq": 18
+      },
+      "state": {
+        "state": "Idle",
+        "look": "-1, -0, -0",
+        "anchored": false,
+        "finds": 0,
+        "biome": "BIO-01"
+      }
+    }
+  ],
+  "cancel": {
+    "state": "Idle",
+    "look": "-0.8660488128662109, -0, 0.49995946884155273",
+    "anchored": false,
+    "finds": 1,
+    "biome": "BIO-01"
+  },
+  "death": {
+    "afterDeath": {
+      "state": "Idle",
+      "look": "-0.8657345771789551, -0.0015786648727953434, 0.5005009174346924",
+      "anchored": false,
+      "finds": 1,
+      "biome": "BIO-01"
+    },
+    "changed": true,
+    "afterRespawn": {
+      "state": "Idle",
+      "look": "0.9816201329231262, -0, 0.19084575772285461",
+      "anchored": false,
+      "finds": 1,
+      "biome": "BIO-01"
+    },
+    "oldRootAnchored": false
+  },
+  "cleanup": {
+    "hud": 1,
+    "characterHealth": 100,
+    "tools": 1,
+    "camera": "Custom",
+    "meter": false
+  },
+  "console": {
+    "content": [
+      {
+        "type": "text",
+        "text": "[MagnetWorkshop] Server ready · Studio sandbox\n[MagnetWorkshop] Client ready"
+      }
+    ],
+    "isError": false
+  },
+  "save": {
+    "content": [
+      {
+        "type": "text",
+        "text": "Saved: Saved to Roblox."
+      },
+      {
+        "type": "text",
+        "text": "{\"status\":\"Saved\",\"location\":\"TeamCreate\",\"version\":168,\"message\":\"Saved to Roblox.\"}"
+      }
+    ],
+    "isError": false
+  },
+  "physicalDevices": false
+}

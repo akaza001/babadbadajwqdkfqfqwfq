@@ -1,0 +1,62 @@
+{
+  "studioUsed": false,
+  "runtimeTest": "native Luau CLI 0.746, no Roblox engine",
+  "logicOutput": "PASS checks=10248",
+  "catalogItems": 108,
+  "modelledActiveItems": 36,
+  "newModelsCreated": 0,
+  "dirtyCleanModelsExported": 72,
+  "fitCorners": 10944,
+  "fitFailures": [],
+  "previewFramesComparedToLuau": 343,
+  "previewTimelineMaximumDifference": 8.881784197001252e-16,
+  "layouts": [
+    {
+      "screen": [
+        1920,
+        1022
+      ],
+      "diameter": 340,
+      "labelBottom": 697.84,
+      "clear": true
+    },
+    {
+      "screen": [
+        869,
+        379
+      ],
+      "diameter": 181.92,
+      "labelBottom": 350.3208,
+      "clear": true
+    },
+    {
+      "screen": [
+        390,
+        786
+      ],
+      "diameter": 226.2,
+      "labelBottom": 542.958,
+      "clear": true
+    },
+    {
+      "screen": [
+        568,
+        262
+      ],
+      "diameter": 103.03030303030303,
+      "labelBottom": 250.0,
+      "clear": true
+    },
+    {
+      "screen": [
+        320,
+        510
+      ],
+      "diameter": 185.6,
+      "labelBottom": 407.144,
+      "clear": true
+    }
+  ],
+  "nativeRobloxVisualAcceptance": false,
+  "physicalDevicesTested": false
+}

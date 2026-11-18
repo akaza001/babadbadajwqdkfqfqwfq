@@ -1,0 +1,103 @@
+{
+  "version": "v01",
+  "status": "approved; imported; all six ImageLabels loaded in originating Studio, desktop mouse and respawn verified",
+  "generator": "built-in image_gen",
+  "icons": [
+    {
+      "id": "inventory",
+      "prompt": "Use case: stylized-concept. Asset type: one production game HUD icon for Magnet Workshop Simulator, cozy bright lakeside wooden workshops. Single isolated object, centered square composition filling 75% of canvas with generous clean alpha margins. Stylized polished low-poly 3D game icon, broad bevels, readable chunky silhouette at 48px, orthographic three-quarter view, soft upper-left light, restrained contact shading on object only. Unified palette: teal enamel #269BA1, warm honey wood #BD8A54, ivory #F2E6CC, slate metal #526B70, small brass #DAB45D highlights. No lettering, numbers, labels, watermark, button frame, circular badge, floor, scenery or background. Real transparent background. Keep details simple, premium friendly Roblox simulator art, no photorealism, no heavy black outlines. Inventory: a sturdy teal canvas satchel/backpack with ivory flap, two honey-brown straps and one brass clasp. One small plain metal horseshoe magnet tucked in side pocket, red tips muted. Backpack is unmistakable main silhouette.",
+      "source": "/Users/andrej/.codex/generated_images/01a1cb92-24c5-7243-b0d8-8b4b700f6ee3/exec-ce8cd2db-04d4-4391-b0cd-630aebcdb1a4.png",
+      "file": "inventory.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "roblox_asset_id": "137153344479149"
+    },
+    {
+      "id": "collection",
+      "prompt": "Use case: stylized-concept. Asset type: one production game HUD icon for Magnet Workshop Simulator, cozy bright lakeside wooden workshops. Single isolated object, centered square composition filling 75% of canvas with generous clean alpha margins. Stylized polished low-poly 3D game icon, broad bevels, readable chunky silhouette at 48px, orthographic three-quarter view, soft upper-left light, restrained contact shading on object only. Unified palette: teal enamel #269BA1, warm honey wood #BD8A54, ivory #F2E6CC, slate metal #526B70, small brass #DAB45D highlights. No lettering, numbers, labels, watermark, button frame, circular badge, floor, scenery or background. Real transparent background. Keep details simple, premium friendly Roblox simulator art, no photorealism, no heavy black outlines. Collection journal: a thick closed ivory-and-teal field album, honey-brown spine, an embossed small brass star centered on cover, a single teal bookmark. Unmistakable album/book, no text or pages with symbols.",
+      "source": "/Users/andrej/.codex/generated_images/01a1cb92-24c5-7243-b0d8-8b4b700f6ee3/exec-370aeba7-9352-4ed6-b596-94542f973cd0.png",
+      "file": "collection.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "roblox_asset_id": "101727583476324"
+    },
+    {
+      "id": "shop",
+      "prompt": "Use case: stylized-concept. Asset type: one production game HUD icon for Magnet Workshop Simulator, cozy bright lakeside wooden workshops. Single isolated object, centered square composition filling 75% of canvas with generous clean alpha margins. Stylized polished low-poly 3D game icon, broad bevels, readable chunky silhouette at 48px, orthographic three-quarter view, soft upper-left light, restrained contact shading on object only. Unified palette: teal enamel #269BA1, warm honey wood #BD8A54, ivory #F2E6CC, slate metal #526B70, small brass #DAB45D highlights. No lettering, numbers, labels, watermark, button frame, circular badge, floor, scenery or background. Real transparent background. Keep details simple, premium friendly Roblox simulator art, no photorealism, no heavy black outlines. Shop: one compact wooden market stall icon with a teal-and-ivory striped awning, short countertop and two posts, three small gold coins on counter. Simplified standalone stall, no floor.",
+      "source": "/Users/andrej/.codex/generated_images/01a1cb92-24c5-7243-b0d8-8b4b700f6ee3/exec-43925e48-ebf0-4e9b-b43a-b50998b387e8.png",
+      "file": "shop.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "roblox_asset_id": "129619445443782"
+    },
+    {
+      "id": "upgrades",
+      "prompt": "Use case: stylized-concept. Asset type: one production game HUD icon for Magnet Workshop Simulator, cozy bright lakeside wooden workshops. Single isolated object, centered square composition filling 75% of canvas with generous clean alpha margins. Stylized polished low-poly 3D game icon, broad bevels, readable chunky silhouette at 48px, orthographic three-quarter view, soft upper-left light, restrained contact shading on object only. Unified palette: teal enamel #269BA1, warm honey wood #BD8A54, ivory #F2E6CC, slate metal #526B70, small brass #DAB45D highlights. No lettering, numbers, labels, watermark, button frame, circular badge, floor, scenery or background. Real transparent background. Keep details simple, premium friendly Roblox simulator art, no photorealism, no heavy black outlines. Upgrades: one broad slate-metal wrench crossed with a short teal horseshoe magnet, a small brass upward arrow in front at bottom right. Wrench and arrow unmistakable. Balanced compact silhouette.",
+      "source": "/Users/andrej/.codex/generated_images/01a1cb92-24c5-7243-b0d8-8b4b700f6ee3/exec-dba85fca-09eb-46fe-8cb0-c009ebaae6ed.png",
+      "file": "upgrades.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "roblox_asset_id": "83057198886926"
+    },
+    {
+      "id": "sell",
+      "prompt": "Use case: stylized-concept. Asset type: one production game HUD icon for Magnet Workshop Simulator, cozy bright lakeside wooden workshops. Single isolated object, centered square composition filling 75% of canvas with generous clean alpha margins. Stylized polished low-poly 3D game icon, broad bevels, readable chunky silhouette at 48px, orthographic three-quarter view, soft upper-left light, restrained contact shading on object only. Unified palette: teal enamel #269BA1, warm honey wood #BD8A54, ivory #F2E6CC, slate metal #526B70, small brass #DAB45D highlights. No lettering, numbers, labels, watermark, button frame, circular badge, floor, scenery or background. Real transparent background. Keep details simple, premium friendly Roblox simulator art, no photorealism, no heavy black outlines. Sell items: one open honey-wood trade crate with teal metal corner braces and a neat stack of three large brass coins in front. A tiny ivory price tag tied to crate, completely blank. Clear crate and coins silhouette.",
+      "source": "/Users/andrej/.codex/generated_images/01a1cb92-24c5-7243-b0d8-8b4b700f6ee3/exec-e0fc7270-1adb-47a2-812c-17b51416f0cc.png",
+      "file": "sell.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "roblox_asset_id": "75111299025637"
+    },
+    {
+      "id": "settings",
+      "prompt": "Use case: stylized-concept. Asset type: one production game HUD icon for Magnet Workshop Simulator, cozy bright lakeside wooden workshops. Single isolated object, centered square composition filling 75% of canvas with generous clean alpha margins. Stylized polished low-poly 3D game icon, broad bevels, readable chunky silhouette at 48px, orthographic three-quarter view, soft upper-left light, restrained contact shading on object only. Unified palette: teal enamel #269BA1, warm honey wood #BD8A54, ivory #F2E6CC, slate metal #526B70, small brass #DAB45D highlights. No lettering, numbers, labels, watermark, button frame, circular badge, floor, scenery or background. Real transparent background. Keep details simple, premium friendly Roblox simulator art, no photorealism, no heavy black outlines. Settings: one chunky six-tooth slate-metal gear with broad beveled edges, teal enamel inset and a warm ivory circular center hole. Clean symmetrical gear shape, slight three-quarter perspective. No additional objects.",
+      "source": "/Users/andrej/.codex/generated_images/01a1cb92-24c5-7243-b0d8-8b4b700f6ee3/exec-de719409-2a9c-4368-8794-a041ed24c06b.png",
+      "file": "settings.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "alpha_range": [
+        0,
+        255
+      ],
+      "roblox_asset_id": "112448704970803"
+    }
+  ]
+}
