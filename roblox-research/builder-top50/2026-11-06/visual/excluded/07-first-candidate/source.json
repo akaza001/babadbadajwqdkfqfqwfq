@@ -1,0 +1,10 @@
+{
+  "rank": 7,
+  "game": "RIVALS",
+  "place_id": "17625359962",
+  "queried_at_utc": "2026-11-06T18:27:39.643835+00:00",
+  "status": "failed",
+  "clips": [],
+  "error": "Capture/extraction failed or timed out; partial files may exist; signed media URLs omitted.",
+  "review_status": "rejected_or_superseded"
+}
