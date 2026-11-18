@@ -1,0 +1,33 @@
+{
+  "status": "offline_preview_not_studio",
+  "examples": [
+    {
+      "rarity": "common",
+      "itemId": "F-01",
+      "file": "common.gif"
+    },
+    {
+      "rarity": "uncommon",
+      "itemId": "F-03",
+      "file": "uncommon.gif"
+    },
+    {
+      "rarity": "rare",
+      "itemId": "F-07",
+      "file": "rare.gif"
+    },
+    {
+      "rarity": "epic",
+      "itemId": "F-12",
+      "file": "epic.gif"
+    },
+    {
+      "rarity": "mythic",
+      "itemId": "F-04",
+      "file": "mythic.gif"
+    }
+  ],
+  "goldReservedOnly": true,
+  "geometrySource": "Existing FindFactory/ApprovedAssets/BiomeFindAssets, offline adapter",
+  "newModelsCreated": 0
+}

@@ -1,0 +1,88 @@
+{
+  "version": "r01",
+  "status": "generated-for-user-review; not imported to Roblox",
+  "generator": "built-in image_gen",
+  "rows": [
+    {
+      "id": "BIO-01",
+      "name": "Лесное озеро",
+      "prompt": "Use case: stylized-concept. Asset type: one finished widescreen 16:9 biome travel loading screen concept for Magnet Workshop Simulator. Primary request: polished cohesive toy-like blocky Roblox 3D illustration, bright daylight, clean saturated color masses, subtle square relief on world surfaces, simple low-poly forms, soft readable shadows, finely composed without photorealism. Wide scenic three-quarter view from shore across the lake, foreground dock in lower corners, destination landmarks clearly visible in the upper 70% of the frame. Use the same UI for every screen: a modest cream rounded rectangular panel centered near the bottom, thin sand-gold edging and soft shadow, bold dark teal Cyrillic destination title, smaller readable status beneath, a thin teal indeterminate loading track with one small glowing segment below the status. UI remains within generous safe margins. No characters, HUD buttons, inventory windows, coins, logos, watermark, extra text or percentage. The screen is an illustration, not an actual gameplay screenshot. Scene: sunlit circular forest lake, raised warm timber boardwalk on beams, three wooden bridges to a central platform with a tall bronze magnet-fisher statue on a high stone pedestal and small themed portal arches around it, cream and teal player workshops facing the water, blocky green conifers and layered stones, soft white clouds. Exact title text: «Лесное озеро». Exact status text: «Загрузка локации…». Correct Cyrillic spelling, no other text.",
+      "file": "BIO-01.png",
+      "sha256": "80255c32f8f51ce09a3e2ab034bc57e94e40a0cb08378f0d2b972bf1f86189ff",
+      "size_bytes": 2220622,
+      "project_file": "art/ui/biome-loading-r01/BIO-01.png"
+    },
+    {
+      "id": "BIO-02",
+      "name": "Ледяное озеро",
+      "prompt": "Use case: stylized-concept. Asset type: one finished widescreen 16:9 biome travel loading screen concept for Magnet Workshop Simulator. Primary request: polished cohesive toy-like blocky Roblox 3D illustration, bright daylight, clean saturated color masses, subtle square relief on world surfaces, simple low-poly forms, soft readable shadows, finely composed without photorealism. Wide scenic three-quarter view from shore across the lake, foreground dock in lower corners, destination landmarks clearly visible in the upper 70% of the frame. Use the same UI for every screen: a modest cream rounded rectangular panel centered near the bottom, thin sand-gold edging and soft shadow, bold dark teal Cyrillic destination title, smaller readable status beneath, a thin teal indeterminate loading track with one small glowing segment below the status. UI remains within generous safe margins. No characters, HUD buttons, inventory windows, coins, logos, watermark, extra text or percentage. The screen is an illustration, not an actual gameplay screenshot. Scene: clear blue circular lake framed by chunky snowy conifers, turquoise ice formations, floating ice slabs and grey layered cliffs, two pale timber fishing docks, small polar wooden hut and radio mast, crystalline pale blue portal arch on the bank. Exact title text: «Ледяное озеро». Exact status text: «Загрузка локации…». Correct Cyrillic spelling, no other text.",
+      "file": "BIO-02.png",
+      "sha256": "64dedfefdd61fbc8d91a9bbde5232b7b3b5ecd11598ac405b9bd919863537b4c",
+      "size_bytes": 1871337,
+      "project_file": "art/ui/biome-loading-r01/BIO-02.png"
+    },
+    {
+      "id": "BIO-03",
+      "name": "Озеро джунглей",
+      "prompt": "Use case: stylized-concept. Asset type: one finished widescreen 16:9 biome travel loading screen concept for Magnet Workshop Simulator. Primary request: polished cohesive toy-like blocky Roblox 3D illustration, bright daylight, clean saturated color masses, subtle square relief on world surfaces, simple low-poly forms, soft readable shadows, finely composed without photorealism. Wide scenic three-quarter view from shore across the lake, foreground dock in lower corners, destination landmarks clearly visible in the upper 70% of the frame. Use the same UI for every screen: a modest cream rounded rectangular panel centered near the bottom, thin sand-gold edging and soft shadow, bold dark teal Cyrillic destination title, smaller readable status beneath, a thin teal indeterminate loading track with one small glowing segment below the status. UI remains within generous safe margins. No characters, HUD buttons, inventory windows, coins, logos, watermark, extra text or percentage. The screen is an illustration, not an actual gameplay screenshot. Scene: turquoise circular lake, dense chunky green tropical trees, broad layered leaves and trailing vines, ruined stone arch behind the water, two warm timber fishing docks and vine wrapped portal arch on the shore, bright shafts of sunlight. Exact title text: «Озеро джунглей». Exact status text: «Загрузка локации…». Correct Cyrillic spelling, no other text.",
+      "file": "BIO-03.png",
+      "sha256": "17008971214b71453eb68e282551d4a89716f3387b5edf4b3c90ec7a6356eb35",
+      "size_bytes": 2152994,
+      "project_file": "art/ui/biome-loading-r01/BIO-03.png"
+    },
+    {
+      "id": "BIO-04",
+      "name": "Вулканическое озеро",
+      "prompt": "Use case: stylized-concept. Asset type: one finished widescreen 16:9 biome travel loading screen concept for Magnet Workshop Simulator. Primary request: polished cohesive toy-like blocky Roblox 3D illustration, bright daylight, clean saturated color masses, subtle square relief on world surfaces, simple low-poly forms, soft readable shadows, finely composed without photorealism. Wide scenic three-quarter view from shore across the lake, foreground dock in lower corners, destination landmarks clearly visible in the upper 70% of the frame. Use the same UI for every screen: a modest cream rounded rectangular panel centered near the bottom, thin sand-gold edging and soft shadow, bold dark teal Cyrillic destination title, smaller readable status beneath, a thin teal indeterminate loading track with one small glowing segment below the status. UI remains within generous safe margins. No characters, HUD buttons, inventory windows, coins, logos, watermark, extra text or percentage. The screen is an illustration, not an actual gameplay screenshot. Scene: cool teal circular lake surrounded by charcoal blocky basalt cliffs with a few warm orange glowing seams in the rocks, two sturdy dark timber fishing docks, black stone portal arch with amber inlays on shore, soft grey volcanic peak far behind, readable sunlit scene not an inferno. Exact title text: «Вулканическое озеро». Exact status text: «Загрузка локации…». Correct Cyrillic spelling, no other text.",
+      "file": "BIO-04.png",
+      "sha256": "406ebf48564c6ebb525a6605e86bd4068a7a51c5e2c2001868738f10655f7ddc",
+      "size_bytes": 1838583,
+      "project_file": "art/ui/biome-loading-r01/BIO-04.png"
+    },
+    {
+      "id": "BIO-05",
+      "name": "Туманное болото",
+      "prompt": "Use case: stylized-concept. Asset type: one finished widescreen 16:9 biome travel loading screen concept for Magnet Workshop Simulator. Primary request: polished cohesive toy-like blocky Roblox 3D illustration, bright daylight, clean saturated color masses, subtle square relief on world surfaces, simple low-poly forms, soft readable shadows, finely composed without photorealism. Wide scenic three-quarter view from shore across the lake, foreground dock in lower corners, destination landmarks clearly visible in the upper 70% of the frame. Use the same UI for every screen: a modest cream rounded rectangular panel centered near the bottom, thin sand-gold edging and soft shadow, bold dark teal Cyrillic destination title, smaller readable status beneath, a thin teal indeterminate loading track with one small glowing segment below the status. UI remains within generous safe margins. No characters, HUD buttons, inventory windows, coins, logos, watermark, extra text or percentage. The screen is an illustration, not an actual gameplay screenshot. Scene: quiet moss green circular lake, low soft pale mist, chunky marsh trees and roots, reeds and layered mossy rocks, two warm wooden fishing docks with small yellow lanterns, weathered wood portal arch and a few green fireflies, bright enchanted wetland not horror. Exact title text: «Туманное болото». Exact status text: «Загрузка локации…». Correct Cyrillic spelling, no other text.",
+      "file": "BIO-05.png",
+      "sha256": "1d1cb8833df843099be6ea50a5a7d9a435760b9855512e3c62218a5cdf9baf39",
+      "size_bytes": 1933568,
+      "project_file": "art/ui/biome-loading-r01/BIO-05.png"
+    },
+    {
+      "id": "BIO-06",
+      "name": "Затонувший оазис",
+      "prompt": "Use case: stylized-concept. Asset type: one finished widescreen 16:9 biome travel loading screen concept for Magnet Workshop Simulator. Primary request: polished cohesive toy-like blocky Roblox 3D illustration, bright daylight, clean saturated color masses, subtle square relief on world surfaces, simple low-poly forms, soft readable shadows, finely composed without photorealism. Wide scenic three-quarter view from shore across the lake, foreground dock in lower corners, destination landmarks clearly visible in the upper 70% of the frame. Use the same UI for every screen: a modest cream rounded rectangular panel centered near the bottom, thin sand-gold edging and soft shadow, bold dark teal Cyrillic destination title, smaller readable status beneath, a thin teal indeterminate loading track with one small glowing segment below the status. UI remains within generous safe margins. No characters, HUD buttons, inventory windows, coins, logos, watermark, extra text or percentage. The screen is an illustration, not an actual gameplay screenshot. Scene: clear turquoise circular lake in a warm sandy oasis, chunky stylized palm trees, pale sandstone arches and half sunken ancient ruins, a large wooden water wheel at the far bank, two honey colored timber fishing docks and sandstone portal arch with restrained brass details, bright blue sky. Exact title text: «Затонувший оазис». Exact status text: «Загрузка локации…». Correct Cyrillic spelling, no other text.",
+      "file": "BIO-06.png",
+      "sha256": "9fd23c0f95b59352fbb1fdda7db57d7b5ffb1658faca689442e7bc9fe858beb2",
+      "size_bytes": 2083556,
+      "project_file": "art/ui/biome-loading-r01/BIO-06.png"
+    },
+    {
+      "id": "BIO-07",
+      "name": "Грибное озеро",
+      "prompt": "Use case: stylized-concept. Asset type: one finished widescreen 16:9 biome travel loading screen concept for Magnet Workshop Simulator. Primary request: polished cohesive toy-like blocky Roblox 3D illustration, bright daylight, clean saturated color masses, subtle square relief on world surfaces, simple low-poly forms, soft readable shadows, finely composed without photorealism. Wide scenic three-quarter view from shore across the lake, foreground dock in lower corners, destination landmarks clearly visible in the upper 70% of the frame. Use the same UI for every screen: a modest cream rounded rectangular panel centered near the bottom, thin sand-gold edging and soft shadow, bold dark teal Cyrillic destination title, smaller readable status beneath, a thin teal indeterminate loading track with one small glowing segment below the status. UI remains within generous safe margins. No characters, HUD buttons, inventory windows, coins, logos, watermark, extra text or percentage. The screen is an illustration, not an actual gameplay screenshot. Scene: luminous lilac blue circular lake, giant chunky purple and turquoise mushrooms on a rocky green shore, two wooden fishing docks with warm lanterns, a deep indigo portal arch decorated with purple mushrooms, small floating spores, soft bright daylight with enchanting glow, not a dark cave. Exact title text: «Грибное озеро». Exact status text: «Загрузка локации…». Correct Cyrillic spelling, no other text.",
+      "file": "BIO-07.png",
+      "sha256": "6d0d765b9313ccda2e0c309d65af07060284e6e1be88f593f0c0093741ba3043",
+      "size_bytes": 1898038,
+      "project_file": "art/ui/biome-loading-r01/BIO-07.png"
+    },
+    {
+      "id": "BIO-08",
+      "name": "Кристальное озеро",
+      "prompt": "Use case: stylized-concept. Asset type: one finished widescreen 16:9 biome travel loading screen concept for Magnet Workshop Simulator. Primary request: polished cohesive toy-like blocky Roblox 3D illustration, bright daylight, clean saturated color masses, subtle square relief on world surfaces, simple low-poly forms, soft readable shadows, finely composed without photorealism. Wide scenic three-quarter view from shore across the lake, foreground dock in lower corners, destination landmarks clearly visible in the upper 70% of the frame. Use the same UI for every screen: a modest cream rounded rectangular panel centered near the bottom, thin sand-gold edging and soft shadow, bold dark teal Cyrillic destination title, smaller readable status beneath, a thin teal indeterminate loading track with one small glowing segment below the status. UI remains within generous safe margins. No characters, HUD buttons, inventory windows, coins, logos, watermark, extra text or percentage. The screen is an illustration, not an actual gameplay screenshot. Scene: clear cyan circular lake surrounded by large faceted cyan and pale rose crystals and layered blue grey rocks, two pale timber fishing docks, round metal portal arch with matching crystal clusters on shore, soft sunlit crystalline shimmer, clean readable colors. Exact title text: «Кристальное озеро». Exact status text: «Загрузка локации…». Correct Cyrillic spelling, no other text.",
+      "file": "BIO-08.png",
+      "sha256": "46f8e37d41a7d50cb78b0d5be5bf8a0e9106d6dc8f9d5afbb2f90229384efdf2",
+      "size_bytes": 1962656,
+      "project_file": "art/ui/biome-loading-r01/BIO-08.png"
+    },
+    {
+      "id": "BIO-10",
+      "name": "Небесное озеро",
+      "prompt": "Use case: stylized-concept. Asset type: one finished widescreen 16:9 biome travel loading screen concept for Magnet Workshop Simulator. Primary request: polished cohesive toy-like blocky Roblox 3D illustration, bright daylight, clean saturated color masses, subtle square relief on world surfaces, simple low-poly forms, soft readable shadows, finely composed without photorealism. Wide scenic three-quarter view from shore across the lake, foreground dock in lower corners, destination landmarks clearly visible in the upper 70% of the frame. Use the same UI for every screen: a modest cream rounded rectangular panel centered near the bottom, thin sand-gold edging and soft shadow, bold dark teal Cyrillic destination title, smaller readable status beneath, a thin teal indeterminate loading track with one small glowing segment below the status. UI remains within generous safe margins. No characters, HUD buttons, inventory windows, coins, logos, watermark, extra text or percentage. The screen is an illustration, not an actual gameplay screenshot. Scene: floating grassy round island above billowy white clouds, clear cyan circular lake at the island center, water spilling as two waterfalls beneath its rocky tapered underside, two pale wooden docks, a small cream observatory with blue dome and brass telescope, golden wing decorated ivory portal arch, bright blue sky. Exact title text: «Небесное озеро». Exact status text: «Загрузка локации…». Correct Cyrillic spelling, no other text.",
+      "file": "BIO-10.png",
+      "sha256": "1c0a7c8b7ce8b8ebfde9fadfea3eb0674640686180908aaac373385b705b92ab",
+      "size_bytes": 1885158,
+      "project_file": "art/ui/biome-loading-r01/BIO-10.png"
+    }
+  ]
+}

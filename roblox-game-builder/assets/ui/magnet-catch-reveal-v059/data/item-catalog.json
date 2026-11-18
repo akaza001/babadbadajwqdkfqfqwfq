@@ -1,0 +1,1404 @@
+{
+  "version": "0.5.9",
+  "status": "local_only_not_installed",
+  "rarityOrder": [
+    "common",
+    "uncommon",
+    "rare",
+    "epic",
+    "mythic",
+    "legendary"
+  ],
+  "rarities": [
+    {
+      "id": "common",
+      "name": "Обычная",
+      "glowHex": "#9BA1AA",
+      "itemsAdded": true
+    },
+    {
+      "id": "uncommon",
+      "name": "Необычная",
+      "glowHex": "#4CCB70",
+      "itemsAdded": true
+    },
+    {
+      "id": "rare",
+      "name": "Редкая",
+      "glowHex": "#4A97F5",
+      "itemsAdded": true
+    },
+    {
+      "id": "epic",
+      "name": "Эпическая",
+      "glowHex": "#AC66E8",
+      "itemsAdded": true
+    },
+    {
+      "id": "mythic",
+      "name": "Мифическая",
+      "glowHex": "#F05252",
+      "itemsAdded": true
+    },
+    {
+      "id": "legendary",
+      "name": "Легендарная",
+      "glowHex": "#F3C453",
+      "itemsAdded": false
+    }
+  ],
+  "biomes": [
+    {
+      "id": "BIO-01",
+      "name": "Лесное озеро"
+    },
+    {
+      "id": "BIO-02",
+      "name": "Ледяное озеро"
+    },
+    {
+      "id": "BIO-03",
+      "name": "Озеро джунглей"
+    },
+    {
+      "id": "BIO-04",
+      "name": "Вулканическое озеро"
+    },
+    {
+      "id": "BIO-05",
+      "name": "Туманное болото"
+    },
+    {
+      "id": "BIO-06",
+      "name": "Затонувший оазис"
+    },
+    {
+      "id": "BIO-07",
+      "name": "Грибное озеро"
+    },
+    {
+      "id": "BIO-08",
+      "name": "Кристальное озеро"
+    },
+    {
+      "id": "BIO-10",
+      "name": "Небесное озеро"
+    }
+  ],
+  "rules": {
+    "rarityIndependentOfWeightAndSize": true,
+    "dirtyAndCleanAreOneSpecies": true,
+    "newLargeFindMaxLengthStuds": 3,
+    "newLargeFindTargetLengthStuds": [
+      2,
+      3
+    ],
+    "referenceViews": [
+      "front",
+      "side",
+      "back"
+    ],
+    "sameModelSameScale": true,
+    "referenceTransparentBackground": true,
+    "pricesAndDropChancesSpecified": false,
+    "legendaryItemsEnabled": false
+  },
+  "items": [
+    {
+      "id": "F-01",
+      "name": "Заводной робот",
+      "biomeId": "BIO-01",
+      "rarity": "common",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "existing",
+      "balanceStatus": "existing_unchanged"
+    },
+    {
+      "id": "F-02",
+      "name": "Жестяная кружка",
+      "biomeId": "BIO-01",
+      "rarity": "common",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "existing",
+      "balanceStatus": "existing_unchanged"
+    },
+    {
+      "id": "F-05",
+      "name": "Дорожный знак",
+      "biomeId": "BIO-01",
+      "rarity": "common",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "existing",
+      "balanceStatus": "existing_unchanged"
+    },
+    {
+      "id": "F-09",
+      "name": "Корпус радиоприёмника",
+      "biomeId": "BIO-01",
+      "rarity": "common",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "existing",
+      "balanceStatus": "existing_unchanged"
+    },
+    {
+      "id": "F-03",
+      "name": "Карманный компас",
+      "biomeId": "BIO-01",
+      "rarity": "uncommon",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "existing",
+      "balanceStatus": "existing_unchanged"
+    },
+    {
+      "id": "F-06",
+      "name": "Старый самокат",
+      "biomeId": "BIO-01",
+      "rarity": "uncommon",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "existing",
+      "balanceStatus": "existing_unchanged"
+    },
+    {
+      "id": "F-10",
+      "name": "Катушка кабеля",
+      "biomeId": "BIO-01",
+      "rarity": "uncommon",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "existing",
+      "balanceStatus": "existing_unchanged"
+    },
+    {
+      "id": "F-07",
+      "name": "Велосипед",
+      "biomeId": "BIO-01",
+      "rarity": "rare",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "existing",
+      "balanceStatus": "existing_unchanged"
+    },
+    {
+      "id": "F-08",
+      "name": "Вывеска кафе",
+      "biomeId": "BIO-01",
+      "rarity": "rare",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "existing",
+      "balanceStatus": "existing_unchanged"
+    },
+    {
+      "id": "F-11",
+      "name": "Механический кассовый аппарат",
+      "biomeId": "BIO-01",
+      "rarity": "epic",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "existing",
+      "balanceStatus": "existing_unchanged"
+    },
+    {
+      "id": "F-12",
+      "name": "Малый якорь",
+      "biomeId": "BIO-01",
+      "rarity": "epic",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "existing",
+      "balanceStatus": "existing_unchanged"
+    },
+    {
+      "id": "F-04",
+      "name": "Корабельный колокол",
+      "biomeId": "BIO-01",
+      "rarity": "mythic",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "existing",
+      "balanceStatus": "existing_unchanged"
+    },
+    {
+      "id": "F-14",
+      "name": "Металлический термос",
+      "biomeId": "BIO-02",
+      "rarity": "common",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "existing",
+      "balanceStatus": "existing_unchanged"
+    },
+    {
+      "id": "F-37",
+      "name": "Ледовые коньки",
+      "biomeId": "BIO-02",
+      "rarity": "common",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-38",
+      "name": "Карманная грелка",
+      "biomeId": "BIO-02",
+      "rarity": "common",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-39",
+      "name": "Ящик ледовых снастей",
+      "biomeId": "BIO-02",
+      "rarity": "common",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-13",
+      "name": "Ледобур",
+      "biomeId": "BIO-02",
+      "rarity": "uncommon",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "existing",
+      "balanceStatus": "existing_unchanged"
+    },
+    {
+      "id": "F-40",
+      "name": "Ледоруб",
+      "biomeId": "BIO-02",
+      "rarity": "uncommon",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-41",
+      "name": "Походная печка",
+      "biomeId": "BIO-02",
+      "rarity": "uncommon",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-42",
+      "name": "Жетон полярника",
+      "biomeId": "BIO-02",
+      "rarity": "rare",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-15",
+      "name": "Полярная радиостанция",
+      "biomeId": "BIO-02",
+      "rarity": "rare",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "existing",
+      "balanceStatus": "existing_unchanged"
+    },
+    {
+      "id": "F-43",
+      "name": "Детский снегоход",
+      "biomeId": "BIO-02",
+      "rarity": "epic",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-44",
+      "name": "Корабельный прожектор",
+      "biomeId": "BIO-02",
+      "rarity": "epic",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-45",
+      "name": "Водолазный шлем полярника",
+      "biomeId": "BIO-02",
+      "rarity": "mythic",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-16",
+      "name": "Компас экспедиции",
+      "biomeId": "BIO-03",
+      "rarity": "common",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "existing",
+      "balanceStatus": "existing_unchanged"
+    },
+    {
+      "id": "F-46",
+      "name": "Складной секатор",
+      "biomeId": "BIO-03",
+      "rarity": "common",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-47",
+      "name": "Металлический свисток исследователя",
+      "biomeId": "BIO-03",
+      "rarity": "common",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-48",
+      "name": "Походный котелок",
+      "biomeId": "BIO-03",
+      "rarity": "common",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-17",
+      "name": "Сигнальный фонарь",
+      "biomeId": "BIO-03",
+      "rarity": "uncommon",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "existing",
+      "balanceStatus": "existing_unchanged"
+    },
+    {
+      "id": "F-49",
+      "name": "Мачете",
+      "biomeId": "BIO-03",
+      "rarity": "uncommon",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-50",
+      "name": "Рельсовая вагонетка",
+      "biomeId": "BIO-03",
+      "rarity": "uncommon",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-51",
+      "name": "Монета затерянного города",
+      "biomeId": "BIO-03",
+      "rarity": "rare",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-52",
+      "name": "Металлическая маска стража",
+      "biomeId": "BIO-03",
+      "rarity": "rare",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-18",
+      "name": "Механизм древних ворот",
+      "biomeId": "BIO-03",
+      "rarity": "epic",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "existing",
+      "balanceStatus": "existing_unchanged"
+    },
+    {
+      "id": "F-53",
+      "name": "Сейф экспедиции",
+      "biomeId": "BIO-03",
+      "rarity": "epic",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-54",
+      "name": "Металлический идол ягуара",
+      "biomeId": "BIO-03",
+      "rarity": "mythic",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-19",
+      "name": "Шахтёрская лампа",
+      "biomeId": "BIO-04",
+      "rarity": "common",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "existing",
+      "balanceStatus": "existing_unchanged"
+    },
+    {
+      "id": "F-55",
+      "name": "Кузнечные клещи",
+      "biomeId": "BIO-04",
+      "rarity": "common",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-56",
+      "name": "Огнеупорная перчатка с металлическими накладками",
+      "biomeId": "BIO-04",
+      "rarity": "common",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-57",
+      "name": "Металлический тигель",
+      "biomeId": "BIO-04",
+      "rarity": "common",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-58",
+      "name": "Кузнечный молот",
+      "biomeId": "BIO-04",
+      "rarity": "uncommon",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-59",
+      "name": "Клапан паровой трубы",
+      "biomeId": "BIO-04",
+      "rarity": "uncommon",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-20",
+      "name": "Буровая коронка",
+      "biomeId": "BIO-04",
+      "rarity": "uncommon",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "existing",
+      "balanceStatus": "existing_unchanged"
+    },
+    {
+      "id": "F-21",
+      "name": "Контейнер образцов",
+      "biomeId": "BIO-04",
+      "rarity": "rare",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "existing",
+      "balanceStatus": "existing_unchanged"
+    },
+    {
+      "id": "F-60",
+      "name": "Кузнечные меха",
+      "biomeId": "BIO-04",
+      "rarity": "rare",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-61",
+      "name": "Наковальня",
+      "biomeId": "BIO-04",
+      "rarity": "epic",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-62",
+      "name": "Огненный сейф",
+      "biomeId": "BIO-04",
+      "rarity": "epic",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-63",
+      "name": "Медальон кузнеца",
+      "biomeId": "BIO-04",
+      "rarity": "mythic",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-64",
+      "name": "Ржавая подкова",
+      "biomeId": "BIO-05",
+      "rarity": "common",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-65",
+      "name": "Связка старых ключей",
+      "biomeId": "BIO-05",
+      "rarity": "common",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-66",
+      "name": "Болотный багор",
+      "biomeId": "BIO-05",
+      "rarity": "common",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-67",
+      "name": "Жестяной почтовый ящик",
+      "biomeId": "BIO-05",
+      "rarity": "common",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-22",
+      "name": "Керосиновый фонарь",
+      "biomeId": "BIO-05",
+      "rarity": "uncommon",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "existing",
+      "balanceStatus": "existing_unchanged"
+    },
+    {
+      "id": "F-23",
+      "name": "Рыбацкий капкан",
+      "biomeId": "BIO-05",
+      "rarity": "uncommon",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "existing",
+      "balanceStatus": "existing_unchanged"
+    },
+    {
+      "id": "F-68",
+      "name": "Медвежий капкан",
+      "biomeId": "BIO-05",
+      "rarity": "uncommon",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-69",
+      "name": "Карманные часы",
+      "biomeId": "BIO-05",
+      "rarity": "rare",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-70",
+      "name": "Старый водяной насос",
+      "biomeId": "BIO-05",
+      "rarity": "rare",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-71",
+      "name": "Чугунная ванна",
+      "biomeId": "BIO-05",
+      "rarity": "epic",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-72",
+      "name": "Затонувший граммофон",
+      "biomeId": "BIO-05",
+      "rarity": "epic",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-24",
+      "name": "Болотный колокол",
+      "biomeId": "BIO-05",
+      "rarity": "mythic",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "existing",
+      "balanceStatus": "existing_unchanged"
+    },
+    {
+      "id": "F-73",
+      "name": "Медное блюдце",
+      "biomeId": "BIO-06",
+      "rarity": "common",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-25",
+      "name": "Латунный кувшин",
+      "biomeId": "BIO-06",
+      "rarity": "common",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "existing",
+      "balanceStatus": "existing_unchanged"
+    },
+    {
+      "id": "F-74",
+      "name": "Масляная лампа",
+      "biomeId": "BIO-06",
+      "rarity": "common",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-75",
+      "name": "Щит караванщика",
+      "biomeId": "BIO-06",
+      "rarity": "common",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-76",
+      "name": "Латунный ключ дворца",
+      "biomeId": "BIO-06",
+      "rarity": "uncommon",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-77",
+      "name": "Металлическая шкатулка",
+      "biomeId": "BIO-06",
+      "rarity": "uncommon",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-27",
+      "name": "Механизм водяного колеса",
+      "biomeId": "BIO-06",
+      "rarity": "uncommon",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "existing",
+      "balanceStatus": "existing_unchanged"
+    },
+    {
+      "id": "F-78",
+      "name": "Перстень скарабея",
+      "biomeId": "BIO-06",
+      "rarity": "rare",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-26",
+      "name": "Астролябия",
+      "biomeId": "BIO-06",
+      "rarity": "rare",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "existing",
+      "balanceStatus": "existing_unchanged"
+    },
+    {
+      "id": "F-79",
+      "name": "Дворцовые ворота",
+      "biomeId": "BIO-06",
+      "rarity": "epic",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-80",
+      "name": "Сундук каравана",
+      "biomeId": "BIO-06",
+      "rarity": "epic",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-81",
+      "name": "Бронзовая статуя кобры",
+      "biomeId": "BIO-06",
+      "rarity": "mythic",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-82",
+      "name": "Ложечка сборщика спор",
+      "biomeId": "BIO-07",
+      "rarity": "common",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-83",
+      "name": "Эмалированная чашка",
+      "biomeId": "BIO-07",
+      "rarity": "common",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-29",
+      "name": "Железный чайник",
+      "biomeId": "BIO-07",
+      "rarity": "common",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "existing",
+      "balanceStatus": "existing_unchanged"
+    },
+    {
+      "id": "F-84",
+      "name": "Опрыскиватель грибника",
+      "biomeId": "BIO-07",
+      "rarity": "common",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-28",
+      "name": "Банка светящихся спор",
+      "biomeId": "BIO-07",
+      "rarity": "uncommon",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "existing",
+      "balanceStatus": "existing_unchanged"
+    },
+    {
+      "id": "F-85",
+      "name": "Клетка для светлячков",
+      "biomeId": "BIO-07",
+      "rarity": "uncommon",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-86",
+      "name": "Железная садовая тележка",
+      "biomeId": "BIO-07",
+      "rarity": "uncommon",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-87",
+      "name": "Весы алхимика",
+      "biomeId": "BIO-07",
+      "rarity": "rare",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-30",
+      "name": "Измеритель света",
+      "biomeId": "BIO-07",
+      "rarity": "rare",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "existing",
+      "balanceStatus": "existing_unchanged"
+    },
+    {
+      "id": "F-88",
+      "name": "Перегонный аппарат",
+      "biomeId": "BIO-07",
+      "rarity": "epic",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-89",
+      "name": "Котёл грибного зелья",
+      "biomeId": "BIO-07",
+      "rarity": "epic",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-90",
+      "name": "Заводной жук",
+      "biomeId": "BIO-07",
+      "rarity": "mythic",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-31",
+      "name": "Геологический молоток",
+      "biomeId": "BIO-08",
+      "rarity": "common",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "existing",
+      "balanceStatus": "existing_unchanged"
+    },
+    {
+      "id": "F-91",
+      "name": "Стальная лупа",
+      "biomeId": "BIO-08",
+      "rarity": "common",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-92",
+      "name": "Номерной жетон шахтёра",
+      "biomeId": "BIO-08",
+      "rarity": "common",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-93",
+      "name": "Сито старателя",
+      "biomeId": "BIO-08",
+      "rarity": "common",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-94",
+      "name": "Геологический компас",
+      "biomeId": "BIO-08",
+      "rarity": "uncommon",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-95",
+      "name": "Металлическая каска с кристальным фонарём",
+      "biomeId": "BIO-08",
+      "rarity": "uncommon",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-32",
+      "name": "Клетка с кристаллом",
+      "biomeId": "BIO-08",
+      "rarity": "uncommon",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "existing",
+      "balanceStatus": "existing_unchanged"
+    },
+    {
+      "id": "F-96",
+      "name": "Огранённый кристалл в железной оправе",
+      "biomeId": "BIO-08",
+      "rarity": "rare",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-33",
+      "name": "Искатель жил",
+      "biomeId": "BIO-08",
+      "rarity": "rare",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "existing",
+      "balanceStatus": "existing_unchanged"
+    },
+    {
+      "id": "F-97",
+      "name": "Сундук старателя",
+      "biomeId": "BIO-08",
+      "rarity": "epic",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-98",
+      "name": "Сейф с кристаллами",
+      "biomeId": "BIO-08",
+      "rarity": "epic",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-99",
+      "name": "Кристальный гонг",
+      "biomeId": "BIO-08",
+      "rarity": "mythic",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-100",
+      "name": "Значок пилота",
+      "biomeId": "BIO-10",
+      "rarity": "common",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-101",
+      "name": "Карманный высотомер",
+      "biomeId": "BIO-10",
+      "rarity": "common",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-34",
+      "name": "Металлический барометр",
+      "biomeId": "BIO-10",
+      "rarity": "common",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "existing",
+      "balanceStatus": "existing_unchanged"
+    },
+    {
+      "id": "F-102",
+      "name": "Авиационный пропеллер",
+      "biomeId": "BIO-10",
+      "rarity": "common",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-103",
+      "name": "Подзорная труба",
+      "biomeId": "BIO-10",
+      "rarity": "uncommon",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-104",
+      "name": "Штурвал дирижабля",
+      "biomeId": "BIO-10",
+      "rarity": "uncommon",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-35",
+      "name": "Деталь дирижабля",
+      "biomeId": "BIO-10",
+      "rarity": "uncommon",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "existing",
+      "balanceStatus": "existing_unchanged"
+    },
+    {
+      "id": "F-105",
+      "name": "Заводная птица",
+      "biomeId": "BIO-10",
+      "rarity": "rare",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-106",
+      "name": "Якорь небесной пристани",
+      "biomeId": "BIO-10",
+      "rarity": "rare",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-107",
+      "name": "Механический глобус ветров",
+      "biomeId": "BIO-10",
+      "rarity": "epic",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-108",
+      "name": "Механический телескоп",
+      "biomeId": "BIO-10",
+      "rarity": "epic",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "needs_reference_approval",
+      "balanceStatus": "unset"
+    },
+    {
+      "id": "F-36",
+      "name": "Звёздный глобус",
+      "biomeId": "BIO-10",
+      "rarity": "mythic",
+      "states": [
+        "Dirty",
+        "Clean"
+      ],
+      "modelStatus": "existing",
+      "balanceStatus": "existing_unchanged"
+    }
+  ]
+}
