@@ -1,0 +1,61 @@
+{
+  "rank": 9,
+  "place_id": "109983668079237",
+  "name": "[💀] Steal a Brainrot",
+  "players": 108174,
+  "primary_url": "https://www.roblox.com/games/109983668079237",
+  "evidence": {
+    "status": "public_description",
+    "summary": "Кража коллекционных персонажей и противодействие другим игрокам.",
+    "source_file": "../primary-descriptions.json",
+    "visual_inspection": true,
+    "playtested": false,
+    "visual_review_kind": "sampled_public_recording",
+    "visual_review_file": "../visual/reviews/09.json",
+    "all_maps_reviewed": false,
+    "all_ui_screens_reviewed": false,
+    "all_animation_states_reviewed": false
+  },
+  "recipe": "egg",
+  "implementation_status": "proposed_not_reverse_engineered",
+  "implementation": {
+    "map": "База игрока, ресурсная зона и маршрут рискованного возврата; вместимость и защита базы в конфиге.",
+    "ui": "Слоты базы, вместимость, индекс коллекции, цена улучшения и результат открытия.",
+    "animation": "Перенос/разбивание яйца, реакция охранника, раскрытие и idle питомца.",
+    "items": "Яйцо/инструмент/апгрейд как typeId; сервер проверяет перенос, владение и получение дохода.",
+    "animals": "Отдельный species registry, оригинальные модели и риги; способности не зависят от названия модели.",
+    "verification": "Два игрока одновременно берут объект; выход с добычей; полная база; повторный запрос награды."
+  },
+  "universe_id": 7709344486,
+  "visual_review": {
+    "rank": 9,
+    "source_url": "https://www.youtube.com/watch?v=XBd6F-rIEhY",
+    "source_title": "First Time Playing Steal A Brainrot in ROBLOX 😱 | Buying, Protecting & Stealing Brainrots",
+    "source_upload_date": "20260201",
+    "source_uploader": "GenZ Stories",
+    "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+    "sample_ranges_seconds": [
+      [
+        45,
+        50
+      ],
+      [
+        538,
+        543
+      ],
+      [
+        1000,
+        1005
+      ]
+    ],
+    "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+    "map_observations": "Повторяющиеся прямоугольные базы с рядами слотов по краям и центральным цветным проходом; вход закрывается видимыми лучевыми решётками.",
+    "ui_observations": "Мобильный joystick/прыжок, Shop/Index/Rebirth слева, валюта снизу; у персонажей взаимодействия Grab/Sell и подписи дохода/цены; подсказка обучения сверху.",
+    "animation_observations": "Аватар перемещается с битой, прыгает и замахивается; при активации замка появляется решётка и отсчёт.",
+    "implementation_lesson": "Кража/перенос, продажа, сбор дохода и закрытие базы должны иметь разные серверные действия и доступные в текущем состоянии контекстные кнопки.",
+    "limits": "Просмотрена запись начинающего игрока на мобильном устройстве; редкие способности и полный каталог не просмотрены.",
+    "coverage": "sampled_visual_review_not_exhaustive",
+    "client_playtest": false,
+    "evidence_directory": "videos/09"
+  }
+}

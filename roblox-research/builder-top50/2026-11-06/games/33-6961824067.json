@@ -1,0 +1,61 @@
+{
+  "rank": 33,
+  "place_id": "6961824067",
+  "name": "Fling Things and People",
+  "players": 35401,
+  "primary_url": "https://www.roblox.com/games/6961824067",
+  "evidence": {
+    "status": "public_description",
+    "summary": "Взаимодействие с объектами и игроками через броски.",
+    "source_file": "../primary-descriptions.json",
+    "visual_inspection": true,
+    "playtested": false,
+    "visual_review_kind": "sampled_public_recording",
+    "visual_review_file": "../visual/reviews/33.json",
+    "all_maps_reviewed": false,
+    "all_ui_screens_reviewed": false,
+    "all_animation_states_reviewed": false
+  },
+  "recipe": "physics",
+  "implementation_status": "proposed_not_reverse_engineered",
+  "implementation": {
+    "map": "Песочница с ограниченными зонами взаимодействия и восстановлением объектов.",
+    "ui": "Выбор объекта/действия, дистанция захвата, настройки доступности и сброс.",
+    "animation": "Физическая реакция и ограничения суставов, а не только ключевые кадры.",
+    "items": "Сервер проверяет право захвата, дальность и лимит силы/создания объектов.",
+    "animals": "Только если нужны дизайну; не считать физическую куклу полноценным NPC.",
+    "verification": "Два захвата, выход владельца, сверхскорость, накопление объектов и восстановление."
+  },
+  "universe_id": 2668101271,
+  "visual_review": {
+    "rank": 33,
+    "source_url": "https://www.youtube.com/watch?v=L80F8eKg0zs",
+    "source_title": "ROBLOX Fling Things and People..",
+    "source_upload_date": "20260822",
+    "source_uploader": "vanilbean",
+    "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+    "sample_ranges_seconds": [
+      [
+        45,
+        50
+      ],
+      [
+        227,
+        232
+      ],
+      [
+        423,
+        428
+      ]
+    ],
+    "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+    "map_observations": "Открытая травяная песочница с уступами, каменными стенами, рамками/контейнерами, отдельными объектами и конструкциями.",
+    "ui_observations": "Your Toys открывает панель с категориями; валюта сверху; большая часть экрана свободна для захвата предметов.",
+    "animation_observations": "Аватар/предмет подвешен в воздухе на захвате; объекты поворачиваются и разлетаются; залп ракет сменяется полосой взрывов.",
+    "implementation_lesson": "Захват/бросок и создание игрушки требуют лимитов владения/силы и очистки объектов; физическую реакцию не подменять обычным animation clip.",
+    "limits": "В записи присутствуют коллажные вставки других авторов; виден внешний аватар ведущего, который не является частью игры.",
+    "coverage": "sampled_visual_review_not_exhaustive",
+    "client_playtest": false,
+    "evidence_directory": "videos/33"
+  }
+}

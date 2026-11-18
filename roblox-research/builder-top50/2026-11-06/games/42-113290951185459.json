@@ -1,0 +1,61 @@
+{
+  "rank": 42,
+  "place_id": "113290951185459",
+  "name": "[🎉UPD 11] Anime Dice",
+  "players": 32386,
+  "primary_url": "https://www.roblox.com/games/113290951185459",
+  "evidence": {
+    "status": "public_description",
+    "summary": "Кубики дают коллекционных персонажей; улучшения удачи, команда, мутации и офлайн-доход.",
+    "source_file": "../primary-descriptions.json",
+    "visual_inspection": true,
+    "playtested": false,
+    "visual_review_kind": "sampled_public_recording",
+    "visual_review_file": "../visual/reviews/42.json",
+    "all_maps_reviewed": false,
+    "all_ui_screens_reviewed": false,
+    "all_animation_states_reviewed": false
+  },
+  "recipe": "rng",
+  "implementation_status": "proposed_not_reverse_engineered",
+  "implementation": {
+    "map": "Хаб и зоны условий/усилений, если они действительно нужны циклу.",
+    "ui": "Результат, вероятность/редкость, коллекция, крафт и состояние усилений.",
+    "animation": "Открытие/раскрытие и оригинальные VFX; можно пропустить повторную анимацию.",
+    "items": "Серверный roll, реестр результатов и расходуемых усилений.",
+    "animals": "Персонажи/существа — отдельные экземпляры коллекции; аура сама не требует рига.",
+    "verification": "Параллельный roll, закончившийся бафф, повтор результата, переполненная коллекция."
+  },
+  "universe_id": 10708913337,
+  "visual_review": {
+    "rank": 42,
+    "source_url": "https://www.youtube.com/watch?v=3Otkov2a7cU",
+    "source_title": "Going From NOOB To PRO In Anime Dice! (Roblox)",
+    "source_upload_date": "20261020",
+    "source_uploader": "PhoenixVids",
+    "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+    "evidence_directory": "supplemental/42",
+    "sample_ranges_seconds": [
+      [
+        45,
+        50
+      ],
+      [
+        818,
+        823
+      ],
+      [
+        1519,
+        1524
+      ]
+    ],
+    "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+    "map_observations": "Яркая база с подиумами персонажей, отдельными станциями Traits/Quirks и хабом.",
+    "ui_observations": "Hub/Home/Shop сверху, Roll/Backpack/Upgrades снизу; у подиумов доход/цена; Traits показывает текущий trait, вероятности, предупреждение замены и Roll/Auto Roll; выбор юнита — сетка с tooltip.",
+    "animation_observations": "Раскрытие результата приближает персонажа на фон с лучами и подписью редкости; при reroll меняются название/иконка trait. Переходы Quirks и Traits визуально различимы.",
+    "implementation_lesson": "Базовые характеристики, trait и quirk хранить как разные поля экземпляра; UI должен предупреждать замену и явно показывать область действия модификатора.",
+    "limits": "Показан продвинутый прогресс и сезонные бонусы; полный стартовый onboarding и реальный офлайн-доход не проверены.",
+    "coverage": "sampled_visual_review_not_exhaustive",
+    "client_playtest": false
+  }
+}

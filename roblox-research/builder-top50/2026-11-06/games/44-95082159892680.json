@@ -1,0 +1,61 @@
+{
+  "rank": 44,
+  "place_id": "95082159892680",
+  "name": "+1 Speed Keyboard Escape | Candy & Chocolate",
+  "players": 29399,
+  "primary_url": "https://www.roblox.com/games/95082159892680",
+  "evidence": {
+    "status": "public_description",
+    "summary": "Рост скорости от шагов, тренировка множителей и гонка по тематическим препятствиям.",
+    "source_file": "../primary-descriptions.json",
+    "visual_inspection": true,
+    "playtested": false,
+    "visual_review_kind": "sampled_public_recording",
+    "visual_review_file": "../visual/reviews/44.json",
+    "all_maps_reviewed": false,
+    "all_ui_screens_reviewed": false,
+    "all_animation_states_reviewed": false
+  },
+  "recipe": "obby",
+  "implementation_status": "proposed_not_reverse_engineered",
+  "implementation": {
+    "map": "Модули препятствий с входом/выходом, проверкой достижимости и точками перезапуска.",
+    "ui": "Таймер, прогресс и параметры движения; checkpoint только если нужен дизайном.",
+    "animation": "Бег/прыжок/падение; скорость клипа согласована с фактической скоростью.",
+    "items": "Усиления и награды проверяются по серверному прогрессу, а не сообщению о победе.",
+    "animals": "Не требуется, кроме отдельных наград/косметики по запросу.",
+    "verification": "Непроходимый seed, пропуск этапа, падение, финиш дважды и мобильное управление."
+  },
+  "universe_id": 9584852943,
+  "visual_review": {
+    "rank": 44,
+    "source_url": "https://www.youtube.com/watch?v=08eRSSa1RdI",
+    "source_title": "[NEW LIVE] +1 Speed Keyboard Escape #roblox",
+    "source_upload_date": "20261106",
+    "source_uploader": "OCIT CRAFT",
+    "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+    "sample_ranges_seconds": [
+      [
+        45,
+        50
+      ],
+      [
+        1510,
+        1515
+      ],
+      [
+        2806,
+        2811
+      ]
+    ],
+    "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+    "map_observations": "Длинная дорожка из клавиш с разрывами, отдельными платформами и проходами/порталами; разные этапы используют коричневую и розовую темы.",
+    "ui_observations": "Показатель скорости и прироста снизу, ряд крупных усилений/покупок; сверху счётчик/полоса, в мире рекомендации уровня.",
+    "animation_observations": "Персонаж бежит и перепрыгивает разрывы; за ним сохраняется длинный световой след.",
+    "implementation_lesson": "Для растущей скорости пересчитывать испытания и камеру, проверять прыжки и приземления на крайних множителях; не полагаться на ручной playtest только начальной скорости.",
+    "limits": "Источник — вертикальная live-запись с низкой читаемостью мелких надписей. Точные названия кнопок/анимационные тайминги не подтверждены.",
+    "coverage": "sampled_visual_review_not_exhaustive",
+    "client_playtest": false,
+    "evidence_directory": "videos/44"
+  }
+}

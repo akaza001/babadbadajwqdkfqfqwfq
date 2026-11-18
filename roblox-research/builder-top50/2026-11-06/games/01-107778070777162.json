@@ -1,0 +1,61 @@
+{
+  "rank": 1,
+  "place_id": "107778070777162",
+  "name": "Steal An Egg",
+  "players": 839088,
+  "primary_url": "https://www.roblox.com/games/107778070777162",
+  "evidence": {
+    "status": "public_description",
+    "summary": "Кража и открытие яиц, доход питомцев, улучшение базы и дорожки, тренировка скорости.",
+    "source_file": "../primary-descriptions.json",
+    "visual_inspection": true,
+    "playtested": false,
+    "visual_review_kind": "sampled_public_recording",
+    "visual_review_file": "../visual/reviews/01.json",
+    "all_maps_reviewed": false,
+    "all_ui_screens_reviewed": false,
+    "all_animation_states_reviewed": false
+  },
+  "recipe": "egg",
+  "implementation_status": "proposed_not_reverse_engineered",
+  "implementation": {
+    "map": "База игрока, ресурсная зона и маршрут рискованного возврата; вместимость и защита базы в конфиге.",
+    "ui": "Слоты базы, вместимость, индекс коллекции, цена улучшения и результат открытия.",
+    "animation": "Перенос/разбивание яйца, реакция охранника, раскрытие и idle питомца.",
+    "items": "Яйцо/инструмент/апгрейд как typeId; сервер проверяет перенос, владение и получение дохода.",
+    "animals": "Отдельный species registry, оригинальные модели и риги; способности не зависят от названия модели.",
+    "verification": "Два игрока одновременно берут объект; выход с добычей; полная база; повторный запрос награды."
+  },
+  "universe_id": 10563114921,
+  "visual_review": {
+    "rank": 1,
+    "source_url": "https://www.youtube.com/watch?v=kMGzsqBMqOs",
+    "source_title": "ROUBE UM OVO",
+    "source_upload_date": "20260826",
+    "source_uploader": "Yaszoca Games",
+    "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+    "sample_ranges_seconds": [
+      [
+        45,
+        50
+      ],
+      [
+        387,
+        392
+      ],
+      [
+        720,
+        725
+      ]
+    ],
+    "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+    "map_observations": "Прямая широкая трасса между высокими стенами; яркие клетчатые/шипованные поверхности, смена тематических зон через проходы; огромные существа и яйца выступают ориентирами.",
+    "ui_observations": "Shop и Index слева; деньги и показатель скорости/множителя снизу слева; предметы снизу по центру; таймер на яйце находится в мире. В записи есть системное окно покупки Roblox.",
+    "animation_observations": "Между последовательными кадрами меняются положение персонажа и камера; у быстрого перемещения виден светящийся след. Для отдельного яйца показан отсчёт. Плавность и суставное движение животных не установлены.",
+    "implementation_lesson": "Разделять маршрут риска, коллекцию и базовый HUD; надмировые таймеры привязывать к состоянию объекта. Движение/след и переноску делать разными слоями.",
+    "limits": "Один средний фрагмент частично перекрыт ведущей и монтажом. Внешность гигантских питомцев видна, но их полная анимация не разобрана.",
+    "coverage": "sampled_visual_review_not_exhaustive",
+    "client_playtest": false,
+    "evidence_directory": "videos/01"
+  }
+}

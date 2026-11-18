@@ -1,0 +1,61 @@
+{
+  "rank": 16,
+  "place_id": "16732694052",
+  "name": "Fisch 🎸 [VENUE ENCORE]",
+  "players": 67840,
+  "primary_url": "https://www.roblox.com/games/16732694052",
+  "evidence": {
+    "status": "public_description",
+    "summary": "Рыбалка, редкие рыбы, улучшение снастей и исследование водных биомов.",
+    "source_file": "../primary-descriptions.json",
+    "visual_inspection": true,
+    "playtested": false,
+    "visual_review_kind": "sampled_public_recording",
+    "visual_review_file": "../visual/reviews/16.json",
+    "all_maps_reviewed": false,
+    "all_ui_screens_reviewed": false,
+    "all_animation_states_reviewed": false
+  },
+  "recipe": "fishing",
+  "implementation_status": "proposed_not_reverse_engineered",
+  "implementation": {
+    "map": "Берег, водоёмы и зоны улова, маршруты между биомами.",
+    "ui": "Заброс/ожидание/подсечка, каталог улова, улучшение снасти и продажа.",
+    "animation": "Заброс и вываживание, движение существа/рыбы, появление улова.",
+    "items": "Удочки/приманки и экземпляры улова; сервер определяет разрешённую зону и результат.",
+    "animals": "Рыбы как species+вариант размера/цвета; риг нужен для реально анимируемых частей.",
+    "verification": "Запрос улова без заброса, вне воды, повтор выдачи и полная сумка."
+  },
+  "universe_id": 5750914919,
+  "visual_review": {
+    "rank": 16,
+    "source_url": "https://www.youtube.com/watch?v=8_NiTg71vec",
+    "source_title": "The Start To Get EVERY Rod.",
+    "source_upload_date": "20260304",
+    "source_uploader": "typxl",
+    "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+    "sample_ranges_seconds": [
+      [
+        45,
+        50
+      ],
+      [
+        260,
+        265
+      ],
+      [
+        483,
+        488
+      ]
+    ],
+    "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+    "map_observations": "Береговые площадки/причалы с водой, отдельные тёмные локации и NPC-задания у скал.",
+    "ui_observations": "Рыболовный индикатор с полосой внизу, hotbar, уровень/валюта; центральные сообщения модификатора улова и трекер задания с количеством справа сверху.",
+    "animation_observations": "Удочка поднимается над плечом при ловле; после действия показывается сообщение пойманной рыбы. Изменение enchant-модификаторов оформлено крупной надписью.",
+    "implementation_lesson": "Рыболовный цикл разбить на заброс/ожидание/мини-игру/награду, интерфейс условий снасти отделить от краткого результата.",
+    "limits": "В записи есть монтажные объяснения и быстрые переходы прогресса; точные параметры мини-игры не измерены.",
+    "coverage": "sampled_visual_review_not_exhaustive",
+    "client_playtest": false,
+    "evidence_directory": "videos/16"
+  }
+}

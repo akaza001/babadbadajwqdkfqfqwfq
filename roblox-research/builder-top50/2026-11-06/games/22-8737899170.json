@@ -1,0 +1,90 @@
+{
+  "rank": 22,
+  "place_id": "8737899170",
+  "name": "🎃 [MINIGAMES] Pet Simulator 99! 👻",
+  "players": 49225,
+  "primary_url": "https://www.roblox.com/games/8737899170",
+  "evidence": {
+    "status": "public_description",
+    "summary": "Большая коллекция питомцев, помогающих зарабатывать.",
+    "source_file": "../primary-descriptions.json",
+    "visual_inspection": true,
+    "playtested": false,
+    "visual_review_kind": "sampled_public_recording",
+    "visual_review_file": "../visual/reviews/22.json",
+    "all_maps_reviewed": false,
+    "all_ui_screens_reviewed": false,
+    "all_animation_states_reviewed": false
+  },
+  "recipe": "collect",
+  "implementation_status": "proposed_not_reverse_engineered",
+  "implementation": {
+    "map": "Зоны редкости, рабочая площадка/база, места улучшений и контролируемый возврат.",
+    "ui": "Коллекция, сила действия, доход и улучшения с понятным сравнением.",
+    "animation": "Основное действие с фазами подготовки и результата; idle коллекционного существа.",
+    "items": "Реестр инструментов и коллекционных экземпляров с уникальным ID.",
+    "animals": "Модели разных видов с единым API состояния; размер не меняет коллизии случайно.",
+    "verification": "Доход начисляется один раз; выпадение при полной вместимости; массовая коллекция."
+  },
+  "universe_id": 3317771874,
+  "visual_review": {
+    "rank": 22,
+    "source_url": "https://www.youtube.com/watch?v=W6ElOboBYps",
+    "source_title": "I joined pet simulator 99 (No commentary)",
+    "source_upload_date": "20250115",
+    "source_uploader": "nash",
+    "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+    "evidence_directory": "supplemental/22",
+    "sample_ranges_seconds": [
+      [
+        45,
+        50
+      ],
+      [
+        241,
+        246
+      ],
+      [
+        449,
+        454
+      ]
+    ],
+    "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+    "map_observations": "Основной яркий мир разделён на прямоугольные зоны с кучками монет/ящиками и воротами покупки следующего участка; отдельно облачный obby.",
+    "ui_observations": "Inventory показывает Your Best Pets и выбранных питомцев, поиск и валюты; Starter Quest сверху с Teleport to Area/Eggs; в мини-игре таймер и сообщение paused boosts.",
+    "animation_observations": "Питомцы движутся рядом с аватаром; после подхода к breakables меняются числа ресурсов, аватар прыгает на полосе препятствий. Само открытие яйца не попало в эти кадры.",
+    "implementation_lesson": "Владение питомцами, активная команда и доступ к зонам хранить раздельно; режимы с отключёнными усилениями должны явно сообщать об этом и корректно возвращать основной HUD.",
+    "limits": "Просмотрены три коротких фрагмента записи, не все экраны и не весь мир. Тайминги и устройство рига не измерены.",
+    "coverage": "sampled_visual_review_not_exhaustive",
+    "client_playtest": false,
+    "additional_reviews": [
+      {
+        "rank": 22,
+        "source_url": "https://www.youtube.com/watch?v=YNKOhKhy4as",
+        "source_title": "Pet Simulator 99 Gameplay | No Talking/No Commentary | Roblox",
+        "source_upload_date": "20240908",
+        "source_uploader": "Arutik Play",
+        "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+        "sample_ranges_seconds": [
+          [
+            45,
+            50
+          ],
+          [
+            533,
+            538
+          ]
+        ],
+        "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+        "map_observations": "Выборка показывает синий/фиолетовый мини-режим спуска по клетчатым слоям; это отдельная активность, не вся основная карта Pet Simulator.",
+        "ui_observations": "Go to Top сверху, валюты слева, набор rank-задач и Rewards справа, сообщение о приостановленных boosts снизу.",
+        "animation_observations": "Персонаж двигает инструментом у стены, на блоке появляется трещина и затем выпадает светящийся ресурс.",
+        "implementation_lesson": "Мини-игра должна иметь собственное состояние входа/возврата и явно сообщать, какие основные усиления/питомцы в ней действуют.",
+        "limits": "Видно только два из трёх фрагментов; основной цикл питомцев/яиц этим источником не покрыт. Нужен дополнительный взгляд на основной мир.",
+        "coverage": "sampled_visual_review_not_exhaustive",
+        "client_playtest": false,
+        "evidence_directory": "videos/22"
+      }
+    ]
+  }
+}

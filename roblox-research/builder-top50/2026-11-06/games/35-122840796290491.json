@@ -1,0 +1,61 @@
+{
+  "rank": 35,
+  "place_id": "122840796290491",
+  "name": "Kukirin Life [Testing]",
+  "players": 34371,
+  "primary_url": "https://www.roblox.com/games/122840796290491",
+  "evidence": {
+    "status": "public_description",
+    "summary": "Езда на самокатах по дорогам, настройка, полицейские погони и задания.",
+    "source_file": "../primary-descriptions.json",
+    "visual_inspection": true,
+    "playtested": false,
+    "visual_review_kind": "sampled_public_recording",
+    "visual_review_file": "../visual/reviews/35.json",
+    "all_maps_reviewed": false,
+    "all_ui_screens_reviewed": false,
+    "all_animation_states_reviewed": false
+  },
+  "recipe": "vehicle",
+  "implementation_status": "proposed_not_reverse_engineered",
+  "implementation": {
+    "map": "Дороги, препятствия, точки появления транспорта и разнообразные маршруты.",
+    "ui": "Скорость, состояние транспорта, каталог/настройка и задачи.",
+    "animation": "Посадка, поза езды, повороты; связь модели с контроллером транспорта.",
+    "items": "Реестр транспорта и улучшений, серверное владение и допустимые параметры.",
+    "animals": "Не требуется для основного цикла.",
+    "verification": "Посадка двух игроков, выход водителя, переворот, спавн внутри объекта и мобильное управление."
+  },
+  "universe_id": 10767138232,
+  "visual_review": {
+    "rank": 35,
+    "source_url": "https://www.youtube.com/watch?v=Ap7WLhQ7ocE",
+    "source_title": "ROBLOX KUKIRIN LIFE",
+    "source_upload_date": "20261016",
+    "source_uploader": "ProjectSupreme 2",
+    "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+    "sample_ranges_seconds": [
+      [
+        45,
+        50
+      ],
+      [
+        394,
+        399
+      ],
+      [
+        731,
+        736
+      ]
+    ],
+    "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+    "map_observations": "Большая открытая парковка с разметкой и окружающими зданиями; отдельно студийная площадка Tuning для просмотра самоката.",
+    "ui_observations": "Слева Menu/Crates/Shop/Tuning/My Rides, minimap, валюта; скорость снизу справа и клавиши управления снизу; в Tuning категории Battery/Controller/Motor и список деталей с замками.",
+    "animation_observations": "Игрок едет с поднятым передним колесом, наклоняется и удерживает руль; счётчик продолжительности трюка растёт. При выборе деталей меняются модель и доступные части.",
+    "implementation_lesson": "Отделять контроллер езды, позу райдера и конфиг деталей; превью тюнинга не должно менять физический экземпляр до подтверждённого выбора.",
+    "limits": "Просмотрены три коротких фрагмента записи, не все экраны и не весь мир. Тайминги и устройство рига не измерены.",
+    "coverage": "sampled_visual_review_not_exhaustive",
+    "client_playtest": false,
+    "evidence_directory": "videos/35"
+  }
+}

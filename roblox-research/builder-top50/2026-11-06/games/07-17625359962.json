@@ -1,0 +1,61 @@
+{
+  "rank": 7,
+  "place_id": "17625359962",
+  "name": "RIVALS",
+  "players": 179427,
+  "primary_url": "https://www.roblox.com/games/17625359962",
+  "evidence": {
+    "status": "public_description",
+    "summary": "FPS-дуэли от 1v1 до 5v5; победа по раундам, оружие, косметика и контракты.",
+    "source_file": "../primary-descriptions.json",
+    "visual_inspection": true,
+    "playtested": false,
+    "visual_review_kind": "sampled_public_recording",
+    "visual_review_file": "../visual/reviews/07.json",
+    "all_maps_reviewed": false,
+    "all_ui_screens_reviewed": false,
+    "all_animation_states_reviewed": false
+  },
+  "recipe": "fps",
+  "implementation_status": "proposed_not_reverse_engineered",
+  "implementation": {
+    "map": "Небольшие арены с укрытиями, дистанциями и альтернативными выходами со спавна.",
+    "ui": "Прицел, патроны, счёт/раунд, выбор оружия и состояние перезарядки.",
+    "animation": "Отдача, перезарядка, экипировка, согласованные состояния от первого/третьего лица.",
+    "items": "Серверный реестр оружия, темпа огня и боезапаса; косметика отдельно.",
+    "animals": "Не требуется для основного цикла.",
+    "verification": "Недопустимый темп огня, повторный выстрел, препятствие, смена оружия в перезарядке."
+  },
+  "universe_id": 6035872082,
+  "visual_review": {
+    "rank": 7,
+    "source_url": "https://www.youtube.com/watch?v=MSCzWIi4vzc",
+    "source_title": "Roblox Rivals Gameplay | High Quality No Commentary UNCLIPPED PT.1.",
+    "source_upload_date": "20260228",
+    "source_uploader": "HyperBlade RBLX",
+    "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+    "sample_ranges_seconds": [
+      [
+        45,
+        50
+      ],
+      [
+        585,
+        590
+      ],
+      [
+        1087,
+        1092
+      ]
+    ],
+    "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+    "map_observations": "Небольшие соревновательные арены: шахматная площадка с крупными фигурами и светлый набор стен/укрытий, перепады высот и короткие выходы к противнику.",
+    "ui_observations": "Счёт и таймер сверху, здоровье снизу слева; оружие/боезапас снизу; Daily Tasks слева, в перерыве таблица результатов и Switch Weapons.",
+    "animation_observations": "От первого лица видно оружие, смену экипировки, вспышку выстрела/попадания и реакцию здоровья; после смерти/раунда новый отсчёт возвращает игрока в бой.",
+    "implementation_lesson": "First-person viewmodel и серверный расчёт выстрела разнести; между раундами явно сбрасывать боезапас/состояния и показывать окно смены снаряжения.",
+    "limits": "Просмотрены три коротких фрагмента записи, не все экраны и не весь мир. Тайминги и устройство рига не измерены.",
+    "coverage": "sampled_visual_review_not_exhaustive",
+    "client_playtest": false,
+    "evidence_directory": "videos/07"
+  }
+}

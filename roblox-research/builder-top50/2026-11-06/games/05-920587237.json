@@ -1,0 +1,61 @@
+{
+  "rank": 5,
+  "place_id": "920587237",
+  "name": "[⚡] Adopt Me!",
+  "players": 216552,
+  "primary_url": "https://www.roblox.com/games/920587237",
+  "evidence": {
+    "status": "public_description",
+    "summary": "Коллекция питомцев, торговля и обустройство дома в социальной ролевой игре.",
+    "source_file": "../primary-descriptions.json",
+    "visual_inspection": true,
+    "playtested": false,
+    "visual_review_kind": "sampled_public_recording",
+    "visual_review_file": "../visual/reviews/05.json",
+    "all_maps_reviewed": false,
+    "all_ui_screens_reviewed": false,
+    "all_animation_states_reviewed": false
+  },
+  "recipe": "collect",
+  "implementation_status": "proposed_not_reverse_engineered",
+  "implementation": {
+    "map": "Зоны редкости, рабочая площадка/база, места улучшений и контролируемый возврат.",
+    "ui": "Коллекция, сила действия, доход и улучшения с понятным сравнением.",
+    "animation": "Основное действие с фазами подготовки и результата; idle коллекционного существа.",
+    "items": "Реестр инструментов и коллекционных экземпляров с уникальным ID.",
+    "animals": "Модели разных видов с единым API состояния; размер не меняет коллизии случайно.",
+    "verification": "Доход начисляется один раз; выпадение при полной вместимости; массовая коллекция."
+  },
+  "universe_id": 383310974,
+  "visual_review": {
+    "rank": 5,
+    "source_url": "https://www.youtube.com/watch?v=yJ7mMhhnSOg",
+    "source_title": "STARTING FROM SCRATCH IN ADOPT ME... Part 1",
+    "source_upload_date": "20260503",
+    "source_uploader": "Alaska Violet",
+    "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+    "sample_ranges_seconds": [
+      [
+        45,
+        50
+      ],
+      [
+        466,
+        471
+      ],
+      [
+        865,
+        870
+      ]
+    ],
+    "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+    "map_observations": "Яркий городской центр с зелёными газонами, круглыми дорожками, тематическими зданиями и плотной группой игроков/питомцев.",
+    "ui_observations": "Кнопки систем справа, круглая кнопка рюкзака по центру снизу, журнальная подсказка и приглашения внизу справа; виден профиль игрока с Trade и каталогом.",
+    "animation_observations": "В последовательных кадрах аватар перемещается между другими игроками, рядом меняет позицию маленький питомец. Отдельный цикл ходьбы/ухода не различим.",
+    "implementation_lesson": "Разделять собственный интерфейс игры, профиль/торговлю и системное меню Roblox. Для толпы питомцев управлять наложением имён и подсказок.",
+    "limits": "Первый фрагмент содержит крупный план аватара и страницу Roblox; средний частично перекрыт монтажом. Состояния ухода за питомцами не просмотрены.",
+    "coverage": "sampled_visual_review_not_exhaustive",
+    "client_playtest": false,
+    "evidence_directory": "videos/05"
+  }
+}

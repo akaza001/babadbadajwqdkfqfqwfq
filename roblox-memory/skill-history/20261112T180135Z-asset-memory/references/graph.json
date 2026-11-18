@@ -1,0 +1,570 @@
+{
+  "version": 3,
+  "edge_semantics": {
+    "requires": "Prerequisite for implementing this node; follow transitively for a new system, inspect existing dependencies for a patch",
+    "related": "Contextual link, does not force execution"
+  },
+  "nodes": [
+    {
+      "id": "brief",
+      "requires": [],
+      "output": "Цель, стиль, ограничения и критерии готовности",
+      "verify": "Сопоставить результат с явным запросом и решениями проекта",
+      "related": [],
+      "regression_cases": [
+        "idempotent-rebuild",
+        "latest-decision"
+      ]
+    },
+    {
+      "id": "architecture",
+      "requires": [
+        "brief"
+      ],
+      "output": "Размещение модулей, серверное состояние, клиентские представления",
+      "verify": "Проверить владение состоянием и зависимости модулей",
+      "related": [],
+      "regression_cases": [
+        "idempotent-rebuild",
+        "latest-decision"
+      ]
+    },
+    {
+      "id": "map",
+      "requires": [
+        "brief"
+      ],
+      "output": "Блокаут, маршруты, спавны, зоны и масштаб",
+      "verify": "Пройти маршруты в Play; проверить респавн и недоступные зоны",
+      "related": [
+        "npc",
+        "combat",
+        "performance"
+      ],
+      "regression_cases": [
+        "geometry-contact",
+        "texture-phase",
+        "idempotent-rebuild",
+        "consistent-layout",
+        "visibility-vs-collision",
+        "spawn-invariants",
+        "measured-performance",
+        "latest-decision",
+        "required-world-material"
+      ],
+      "material_policy": "references/material-policy.md",
+      "model_library": "references/model-library.md"
+    },
+    {
+      "id": "art",
+      "requires": [
+        "brief"
+      ],
+      "output": "Палитра, формы, материалы и оригинальные ассеты",
+      "verify": "Сравнить с референсом с нескольких ракурсов",
+      "related": [],
+      "regression_cases": [
+        "texture-phase",
+        "idempotent-rebuild",
+        "reference-fidelity",
+        "latest-decision",
+        "required-world-material"
+      ],
+      "material_policy": "references/material-policy.md"
+    },
+    {
+      "id": "model",
+      "requires": [
+        "art"
+      ],
+      "output": "Модель с pivot, масштабом и разделёнными физикой/визуалом",
+      "verify": "Проверить bounding box, pivot, коллизии и переиспользование",
+      "related": [],
+      "regression_cases": [
+        "geometry-contact",
+        "texture-phase",
+        "idempotent-rebuild",
+        "consistent-layout",
+        "visibility-vs-collision",
+        "reference-fidelity",
+        "latest-decision",
+        "required-world-material"
+      ],
+      "material_policy": "references/material-policy.md",
+      "model_library": "references/model-library.md"
+    },
+    {
+      "id": "rig",
+      "requires": [
+        "model"
+      ],
+      "output": "Скелет или Motor6D-иерархия с корректными осями",
+      "verify": "Повернуть суставы и проверить отсутствие отрыва деталей",
+      "related": [],
+      "regression_cases": [
+        "idempotent-rebuild",
+        "species-animation",
+        "carry-and-grip",
+        "reference-fidelity",
+        "latest-decision"
+      ]
+    },
+    {
+      "id": "animation",
+      "requires": [
+        "rig"
+      ],
+      "output": "Клипы и переходы idle/move/action, согласованные с ригом",
+      "verify": "Наблюдать idle, движение, остановку, атаку и повторное появление",
+      "related": [
+        "combat",
+        "pets",
+        "vfx-audio"
+      ],
+      "regression_cases": [
+        "idempotent-rebuild",
+        "locomotion",
+        "species-animation",
+        "carry-and-grip",
+        "measured-performance",
+        "latest-decision"
+      ]
+    },
+    {
+      "id": "network",
+      "requires": [
+        "architecture"
+      ],
+      "output": "Контракты событий и серверные проверки",
+      "verify": "Подать неверные типы, дальность, частоту и недопустимое состояние",
+      "related": [],
+      "regression_cases": [
+        "idempotent-rebuild",
+        "combat-contract",
+        "cancel-old-actions",
+        "latest-decision"
+      ]
+    },
+    {
+      "id": "items",
+      "requires": [
+        "model",
+        "network"
+      ],
+      "output": "Реестр типов и уникальные экземпляры предметов",
+      "verify": "Проверить экипировку, снятие, повторную выдачу и неизвестный ID",
+      "related": [],
+      "regression_cases": [
+        "idempotent-rebuild",
+        "carry-and-grip",
+        "combat-contract",
+        "item-lifecycle",
+        "spawn-invariants",
+        "latest-decision",
+        "required-world-material"
+      ],
+      "material_policy": "references/material-policy.md"
+    },
+    {
+      "id": "inventory",
+      "requires": [
+        "items"
+      ],
+      "output": "Инвентарь, вместимость, экипировка и UI-модель",
+      "verify": "Проверить дубликаты запроса и полную вместимость",
+      "related": [
+        "ui",
+        "persistence"
+      ],
+      "regression_cases": [
+        "idempotent-rebuild",
+        "item-lifecycle",
+        "latest-decision"
+      ]
+    },
+    {
+      "id": "npc",
+      "requires": [
+        "animation",
+        "network",
+        "map"
+      ],
+      "output": "Состояния NPC, цели, навигация и восстановление",
+      "verify": "Проверить потерю цели, препятствие, смерть и респавн",
+      "related": [],
+      "regression_cases": [
+        "geometry-contact",
+        "idempotent-rebuild",
+        "locomotion",
+        "species-animation",
+        "combat-contract",
+        "spawn-invariants",
+        "latest-decision"
+      ]
+    },
+    {
+      "id": "pets",
+      "requires": [
+        "npc",
+        "inventory"
+      ],
+      "output": "Виды животных, следование, способности, ownership",
+      "verify": "Проверить несколько питомцев, исчезновение владельца и повторный вход",
+      "related": [
+        "economy",
+        "persistence",
+        "ui"
+      ],
+      "regression_cases": [
+        "geometry-contact",
+        "idempotent-rebuild",
+        "locomotion",
+        "item-lifecycle",
+        "latest-decision"
+      ]
+    },
+    {
+      "id": "combat",
+      "requires": [
+        "npc",
+        "items"
+      ],
+      "output": "Урон, хитбоксы, тайминги атак и телеграфы",
+      "verify": "Проверить попадания/промахи, дистанцию, кулдаун, смерть и награду",
+      "related": [
+        "ui",
+        "vfx-audio"
+      ],
+      "regression_cases": [
+        "idempotent-rebuild",
+        "combat-contract",
+        "cancel-old-actions",
+        "latest-decision"
+      ]
+    },
+    {
+      "id": "economy",
+      "requires": [
+        "network"
+      ],
+      "output": "Источники и траты ресурсов, цены, прогрессия",
+      "verify": "Проверить невозможность отрицательного баланса и двойной награды",
+      "related": [],
+      "regression_cases": [
+        "idempotent-rebuild",
+        "display-not-state",
+        "latest-decision"
+      ]
+    },
+    {
+      "id": "persistence",
+      "requires": [
+        "economy",
+        "inventory"
+      ],
+      "output": "Версия профиля, миграция и сериализация состояния",
+      "verify": "Тестовый профиль: выход/вход, ошибка записи, старый формат",
+      "related": [],
+      "regression_cases": [
+        "idempotent-rebuild",
+        "display-not-state",
+        "item-lifecycle",
+        "latest-decision"
+      ]
+    },
+    {
+      "id": "ui",
+      "requires": [
+        "architecture",
+        "brief"
+      ],
+      "output": "Согласованная визуальная система, адаптивный HUD/экраны, общие компоненты и состояния действий",
+      "verify": "Сравнить с выбранными референсами; проверить читаемость, иерархию, реальные данные/состояния, телефон/ПК и повторное открытие в Play",
+      "related": [],
+      "regression_cases": [
+        "idempotent-rebuild",
+        "consistent-layout",
+        "ui-lifecycle",
+        "display-not-state",
+        "latest-decision",
+        "unobtrusive-hints"
+      ],
+      "reference": "references/ui-quality.md"
+    },
+    {
+      "id": "vfx-audio",
+      "requires": [
+        "art",
+        "architecture"
+      ],
+      "output": "События эффектов, звук и лимиты одновременности",
+      "verify": "Проверить своевременность, слышимость и очистку объектов",
+      "related": [],
+      "regression_cases": [
+        "idempotent-rebuild",
+        "latest-decision"
+      ],
+      "model_library": "references/model-library.md"
+    },
+    {
+      "id": "monetization",
+      "requires": [
+        "economy",
+        "persistence",
+        "ui"
+      ],
+      "output": "Точные продукты и идемпотентная серверная выдача",
+      "verify": "Проверить правила Roblox и повторный тестовый receipt",
+      "related": [],
+      "regression_cases": [
+        "idempotent-rebuild",
+        "latest-decision"
+      ]
+    },
+    {
+      "id": "integration",
+      "requires": [
+        "map",
+        "network",
+        "ui"
+      ],
+      "output": "Работающий игровой цикл с выбранными подсистемами",
+      "verify": "Плейтест от входа до результата и повторения цикла",
+      "related": [
+        "pets",
+        "combat",
+        "persistence",
+        "monetization"
+      ],
+      "regression_cases": [
+        "idempotent-rebuild",
+        "latest-decision",
+        "unobtrusive-hints"
+      ]
+    },
+    {
+      "id": "performance",
+      "requires": [
+        "integration"
+      ],
+      "output": "Профиль нагрузки и оптимизация узких мест",
+      "verify": "Измерить CPU/память/сеть на целевом устройстве до/после",
+      "related": [],
+      "regression_cases": [
+        "idempotent-rebuild",
+        "measured-performance",
+        "latest-decision"
+      ]
+    },
+    {
+      "id": "learning",
+      "requires": [],
+      "output": "Записи правок, источников и проверенных улучшений",
+      "verify": "Проверить область, источник, отсутствие дублей и противоречий",
+      "related": [
+        "brief",
+        "art",
+        "integration"
+      ],
+      "regression_cases": [
+        "idempotent-rebuild",
+        "latest-decision"
+      ]
+    },
+    {
+      "id": "interaction",
+      "requires": [
+        "network",
+        "map"
+      ],
+      "output": "Контекстные действия с объектами, права/дистанция и состояние запроса",
+      "verify": "Два игрока у объекта, исчезновение цели, повторное нажатие, неверная дальность",
+      "related": [
+        "ui",
+        "integration"
+      ],
+      "visual_examples": [
+        1,
+        8,
+        9,
+        21,
+        40,
+        47
+      ],
+      "evidence_kind": "observed design affordance; implementation is proposed",
+      "regression_cases": [
+        "idempotent-rebuild",
+        "visibility-vs-collision",
+        "ui-lifecycle",
+        "latest-decision",
+        "unobtrusive-hints"
+      ]
+    },
+    {
+      "id": "round",
+      "requires": [
+        "network",
+        "map"
+      ],
+      "output": "Фазы сессии, roundId, участники, дедлайны и результат",
+      "verify": "Вход в середине, выход ключевой роли, повтор итога и корректный restart",
+      "related": [
+        "ui",
+        "integration"
+      ],
+      "visual_examples": [
+        4,
+        14,
+        26,
+        28,
+        30,
+        46
+      ],
+      "evidence_kind": "observed design affordance; implementation is proposed",
+      "regression_cases": [
+        "idempotent-rebuild",
+        "cancel-old-actions",
+        "latest-decision"
+      ]
+    },
+    {
+      "id": "customization",
+      "requires": [
+        "model",
+        "network"
+      ],
+      "output": "Превью внешности, слои, цвета, наборы и подтверждение выбора",
+      "verify": "Снятый asset, несовместимый слой, отмена примерки и повторный вход",
+      "related": [
+        "ui",
+        "integration"
+      ],
+      "visual_examples": [
+        15,
+        19,
+        35,
+        42
+      ],
+      "evidence_kind": "observed design affordance; implementation is proposed",
+      "regression_cases": [
+        "idempotent-rebuild",
+        "latest-decision"
+      ]
+    },
+    {
+      "id": "vehicles",
+      "requires": [
+        "model",
+        "map",
+        "network"
+      ],
+      "output": "Транспорт, места посадки, контроллер и состояние владельца",
+      "verify": "Двойная посадка, выход водителя, переворот, удаление при управлении",
+      "related": [
+        "ui",
+        "integration"
+      ],
+      "visual_examples": [
+        2,
+        32,
+        35
+      ],
+      "evidence_kind": "observed design affordance; implementation is proposed",
+      "regression_cases": [
+        "idempotent-rebuild",
+        "latest-decision"
+      ]
+    },
+    {
+      "id": "physics",
+      "requires": [
+        "model",
+        "map",
+        "network"
+      ],
+      "output": "Захват/бросок и ограниченные физические взаимодействия",
+      "verify": "Два захвата, слишком большая сила, выход владельца, очистка объектов",
+      "related": [
+        "ui",
+        "integration"
+      ],
+      "visual_examples": [
+        33
+      ],
+      "evidence_kind": "observed design affordance; implementation is proposed",
+      "regression_cases": [
+        "idempotent-rebuild",
+        "latest-decision"
+      ]
+    },
+    {
+      "id": "procedural",
+      "requires": [
+        "map"
+      ],
+      "output": "Сборка трассы/комнат из совместимых сегментов с seed",
+      "verify": "Проходимость seed и движение реального персонажа на допустимых скоростях",
+      "related": [
+        "ui",
+        "integration"
+      ],
+      "visual_examples": [
+        25,
+        44
+      ],
+      "evidence_kind": "observed design affordance; implementation is proposed",
+      "regression_cases": [
+        "idempotent-rebuild",
+        "latest-decision"
+      ]
+    },
+    {
+      "id": "production",
+      "requires": [
+        "items",
+        "interaction",
+        "economy"
+      ],
+      "output": "Сырьё, станции, вместимость, конвейер и выдача заказа",
+      "verify": "Двойное перемещение, занятая станция, выход носителя и повтор выдачи",
+      "related": [
+        "ui",
+        "integration"
+      ],
+      "visual_examples": [
+        40
+      ],
+      "evidence_kind": "observed design affordance; implementation is proposed",
+      "regression_cases": [
+        "idempotent-rebuild",
+        "latest-decision"
+      ]
+    },
+    {
+      "id": "reveal",
+      "requires": [
+        "economy",
+        "inventory"
+      ],
+      "output": "Подтверждённый результат, operationId и отдельное раскрытие",
+      "verify": "Закрытие/skip не дублируют награду; полная вместимость и параллельные запросы",
+      "related": [
+        "ui",
+        "integration"
+      ],
+      "visual_examples": [
+        3,
+        6,
+        18,
+        31,
+        42
+      ],
+      "evidence_kind": "observed design affordance; implementation is proposed",
+      "regression_cases": [
+        "idempotent-rebuild",
+        "latest-decision"
+      ]
+    }
+  ],
+  "evidence_index": "/Users/andrej/Documents/ChatGPT/skills/roblox-research/builder-top50/2026-11-06/visual/index.md"
+}

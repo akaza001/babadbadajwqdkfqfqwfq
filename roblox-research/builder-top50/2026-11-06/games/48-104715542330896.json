@@ -1,0 +1,61 @@
+{
+  "rank": 48,
+  "place_id": "104715542330896",
+  "name": "BlockSpin 🔪 ",
+  "players": 26112,
+  "primary_url": "https://www.roblox.com/games/104715542330896",
+  "evidence": {
+    "status": "public_description",
+    "summary": "Работы, случайные награды и развитие персонажа в городе с боями.",
+    "source_file": "../primary-descriptions.json",
+    "visual_inspection": true,
+    "playtested": false,
+    "visual_review_kind": "sampled_public_recording",
+    "visual_review_file": "../visual/reviews/48.json",
+    "all_maps_reviewed": false,
+    "all_ui_screens_reviewed": false,
+    "all_animation_states_reviewed": false
+  },
+  "recipe": "crime",
+  "implementation_status": "proposed_not_reverse_engineered",
+  "implementation": {
+    "map": "Город, задания/объекты добычи, преследование и место сдачи.",
+    "ui": "Задание, добыча, риск/таймер, команда и результат сдачи.",
+    "animation": "Взаимодействие с объектом, перенос, бег, NPC-погоня и реакция.",
+    "items": "Лут и инструменты с уникальными ID, сервер проверяет получение/сдачу.",
+    "animals": "Полицейские/собаки если требуются: раздельные риги и поиск пути.",
+    "verification": "Два игрока забирают один лут, выход носителя, истёкший таймер, повтор продажи."
+  },
+  "universe_id": 6765805766,
+  "visual_review": {
+    "rank": 48,
+    "source_url": "https://www.youtube.com/watch?v=3EyqyJf5ONA",
+    "source_title": "WIPING OUT LOBBIES | BlockSpin Gameplay |",
+    "source_upload_date": "20250705",
+    "source_uploader": "Drewskitv2",
+    "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+    "sample_ranges_seconds": [
+      [
+        30,
+        35
+      ],
+      [
+        106,
+        111
+      ],
+      [
+        196,
+        201
+      ]
+    ],
+    "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+    "map_observations": "Городские дворы с заборами/деревьями, кирпичный туннель и оружейный магазин.",
+    "ui_observations": "Items/Skills/Quests/Store/Crew/Emotes справа; деньги/уровень сверху; hotbar с LB/RB снизу, следовательно видна геймпадная раскладка; покупка/предпросмотр оружия крупно в центре.",
+    "animation_observations": "Персонаж бежит, целится и стреляет, в туннеле огненный эффект; оружейные модели сменяются в демонстрации покупки/получения.",
+    "implementation_lesson": "Не зашивать клавиатурные клавиши в UI: действия должны иметь раскладки для геймпада. Представление оружия в магазине и боевой экземпляр разделять.",
+    "limits": "Просмотрены три коротких фрагмента записи, не все экраны и не весь мир. Тайминги и устройство рига не измерены.",
+    "coverage": "sampled_visual_review_not_exhaustive",
+    "client_playtest": false,
+    "evidence_directory": "videos/48"
+  }
+}

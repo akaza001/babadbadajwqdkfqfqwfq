@@ -1,0 +1,61 @@
+{
+  "rank": 4,
+  "place_id": "142823291",
+  "name": "Murder Mystery 2",
+  "players": 284880,
+  "primary_url": "https://www.roblox.com/games/142823291",
+  "evidence": {
+    "status": "public_description",
+    "summary": "Раунды с невиновными, шерифом и убийцей; коллекция и обмен ножей.",
+    "source_file": "../primary-descriptions.json",
+    "visual_inspection": true,
+    "playtested": false,
+    "visual_review_kind": "sampled_public_recording",
+    "visual_review_file": "../visual/reviews/04.json",
+    "all_maps_reviewed": false,
+    "all_ui_screens_reviewed": false,
+    "all_animation_states_reviewed": false
+  },
+  "recipe": "mystery",
+  "implementation_status": "proposed_not_reverse_engineered",
+  "implementation": {
+    "map": "Раундовые карты с путями отхода, линиями обзора и безопасными спавнами.",
+    "ui": "Таймер, собственная роль, итог раунда; не раскрывать скрытые роли всем клиентам.",
+    "animation": "Атака, попадание и смерть, без зависимости серверного урона от локального клипа.",
+    "items": "Ролевое оружие и косметические варианты с отдельными параметрами.",
+    "animals": "Животные не обязательны; NPC при необходимости имеют отдельную машину поведения.",
+    "verification": "Выход убийцы/шерифа, одновременная смерть, повторный старт раунда."
+  },
+  "universe_id": 66654135,
+  "visual_review": {
+    "rank": 4,
+    "source_url": "https://www.youtube.com/watch?v=OHhKQ5IaTM0",
+    "source_title": "Playing MM2 as a *TRYHARD* (Murder Mystery 2)",
+    "source_upload_date": "20260525",
+    "source_uploader": "fiszye",
+    "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+    "sample_ranges_seconds": [
+      [
+        45,
+        50
+      ],
+      [
+        255,
+        260
+      ],
+      [
+        475,
+        480
+      ]
+    ],
+    "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+    "map_observations": "Небольшие интерьеры соединены дверями, коридорами и лестницей; мебель служит укрытием. Отдельно показан открытый двор-лобби с фонтаном.",
+    "ui_observations": "Небольшие вертикальные меню слева, счётчик времени сверху, панель инвентаря снизу; по окончании крупная красная лента VICTORY.",
+    "animation_observations": "Персонаж бежит и меняет направление в проходах; игровой результат появляется поверх продолжающейся сцены. Сам удар в выбранные кадры не попал.",
+    "implementation_lesson": "Для раундовой игры держать HUD компактным и отделять lobby от активной карты; итог раунда показывать без разрушения состояния сцены.",
+    "limits": "Часть третьего фрагмента — вставка автора. Оружейные переходы и скрытые роли этим просмотром не разобраны.",
+    "coverage": "sampled_visual_review_not_exhaustive",
+    "client_playtest": false,
+    "evidence_directory": "videos/04"
+  }
+}

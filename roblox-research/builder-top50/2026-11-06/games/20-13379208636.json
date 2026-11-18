@@ -1,0 +1,61 @@
+{
+  "rank": 20,
+  "place_id": "13379208636",
+  "name": "[UPDATE 5] Attack on Titan Revolution",
+  "players": 58052,
+  "primary_url": "https://www.roblox.com/games/13379208636",
+  "evidence": {
+    "status": "public_description",
+    "summary": "Перемещение ODM, развитие набора снаряжения/перков и рейды с получением превращения.",
+    "source_file": "../primary-descriptions.json",
+    "visual_inspection": true,
+    "playtested": false,
+    "visual_review_kind": "sampled_public_recording",
+    "visual_review_file": "../visual/reviews/20.json",
+    "all_maps_reviewed": false,
+    "all_ui_screens_reviewed": false,
+    "all_animation_states_reviewed": false
+  },
+  "recipe": "rpg",
+  "implementation_status": "proposed_not_reverse_engineered",
+  "implementation": {
+    "map": "Хаб и зоны прогрессии, острова/маршруты, NPC заданий и боевые области.",
+    "ui": "Журнал задания, характеристики, панель навыков и кулдауны.",
+    "animation": "Передвижение, оружейные стойки, подготовка/удар/восстановление; VFX по событиям.",
+    "items": "Реестр оружия/способностей, требования экипировки, награды задания.",
+    "animals": "NPC/боссы через конфиги; звери только при необходимости выбранного дизайна.",
+    "verification": "Урон вне дистанции, повторная награда задания, смена оружия во время атаки."
+  },
+  "universe_id": 4658598196,
+  "visual_review": {
+    "rank": 20,
+    "source_url": "https://www.youtube.com/watch?v=eH3eHS970yI",
+    "source_title": "Going From Noob To Pro In Roblox Attack On Titan Revolution",
+    "source_upload_date": "20240721",
+    "source_uploader": "OMEGA EX ",
+    "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+    "sample_ranges_seconds": [
+      [
+        45,
+        50
+      ],
+      [
+        598,
+        603
+      ],
+      [
+        1112,
+        1117
+      ]
+    ],
+    "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+    "map_observations": "Тёмный городской хаб с массивными зданиями и входами в системы; лесная/туманная боевая область с большими высотами.",
+    "ui_observations": "Внешность с категориями волос/аксессуаров, RGB-ползунками и предпросмотром; отдельное окно Family Perks/Spin; objective слева, список игроков справа, опыт снизу.",
+    "animation_observations": "В боевом эпизоде персонаж летит через пространство на ODM-снаряжении с видимыми линиями/скоростными следами; есть переход к обычной стойке в хабе.",
+    "implementation_lesson": "ODM делать отдельной locomotion-системой, с серверной проверкой целей зацепа и возвращением обычного движения. Редактор внешности не смешивать с параметрами семей/перков.",
+    "limits": "Просмотрены три коротких фрагмента записи, не все экраны и не весь мир. Тайминги и устройство рига не измерены.",
+    "coverage": "sampled_visual_review_not_exhaustive",
+    "client_playtest": false,
+    "evidence_directory": "videos/20"
+  }
+}

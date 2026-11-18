@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "default_policy": "deny",
+  "allowed_chat_folders": [
+    {
+      "label": "Fight for eggs.",
+      "project_id": "93989e57-0575-4ca4-8a14-02a1851744cb",
+      "source": "codex",
+      "host_id": "local",
+      "path": "/Users/andrej/Documents/roblox_games/Fight for eggs.",
+      "enabled": true
+    },
+    {
+      "label": "Magnet Workshop Simulator",
+      "project_id": "81a53000-407c-4308-88b2-cf0ea8aa0f22",
+      "source": "codex",
+      "host_id": "local",
+      "path": "/Users/andrej/Documents/ChatGPT/Magnet Workshop Simulator",
+      "enabled": true
+    }
+  ],
+  "changes_require_explicit_user_request": true
+}

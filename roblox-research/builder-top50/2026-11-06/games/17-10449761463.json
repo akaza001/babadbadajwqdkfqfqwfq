@@ -1,0 +1,61 @@
+{
+  "rank": 17,
+  "place_id": "10449761463",
+  "name": "[HALLOWEEN] The Strongest Battlegrounds",
+  "players": 65832,
+  "primary_url": "https://www.roblox.com/games/10449761463",
+  "evidence": {
+    "status": "public_description",
+    "summary": "PvP с комбинациями атак и способностями.",
+    "source_file": "../primary-descriptions.json",
+    "visual_inspection": true,
+    "playtested": false,
+    "visual_review_kind": "sampled_public_recording",
+    "visual_review_file": "../visual/reviews/17.json",
+    "all_maps_reviewed": false,
+    "all_ui_screens_reviewed": false,
+    "all_animation_states_reviewed": false
+  },
+  "recipe": "fighter",
+  "implementation_status": "proposed_not_reverse_engineered",
+  "implementation": {
+    "map": "Арена с читаемыми дистанциями, местами респавна и границами разрушений.",
+    "ui": "Навыки, энергия, кулдауны, блок/оглушение и текущая цель при необходимости.",
+    "animation": "Комбо, блок, рывок, stun и восстановление; отмены заданы таблицей состояний.",
+    "items": "Навыки и наборы бойца через конфиг; урон и статус проверяет сервер.",
+    "animals": "Не требуется, кроме отдельно спроектированных призывов/NPC.",
+    "verification": "Spam комбо, stun-lock, рывок через стену, попадание после смерти и респавн."
+  },
+  "universe_id": 3808081382,
+  "visual_review": {
+    "rank": 17,
+    "source_url": "https://www.youtube.com/watch?v=dDvLy8yBPZs",
+    "source_title": "Verity Made Me INVINCIBLE! 🫪 The Strongest Battlegrounds Update",
+    "source_upload_date": "20261106",
+    "source_uploader": "Mr.Antitoxic",
+    "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+    "sample_ranges_seconds": [
+      [
+        45,
+        50
+      ],
+      [
+        348,
+        353
+      ],
+      [
+        646,
+        651
+      ]
+    ],
+    "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+    "map_observations": "Открытая боевая арена с дорожками, деревьями, низкими препятствиями и разрушаемыми плитами; сезонное осеннее оформление.",
+    "ui_observations": "Небольшие иконки систем сверху, набор способностей/шкала снизу, здоровье над персонажами; в бою центр почти не занят меню.",
+    "animation_observations": "Персонажи подбрасываются и приземляются, вокруг удара возникают синие/красные эффекты и обломки; позднее показана крупная анимационная атака с изменением камеры.",
+    "implementation_lesson": "Разделять сетевую атаку, физическое/косметическое разрушение и постановочную камеру; после эффектной способности проверять возврат обычного управления.",
+    "limits": "Источник посвящён конкретному обновлению/способности Verity. Не все показанные эффекты относятся ко всем бойцам.",
+    "coverage": "sampled_visual_review_not_exhaustive",
+    "client_playtest": false,
+    "evidence_directory": "videos/17"
+  }
+}

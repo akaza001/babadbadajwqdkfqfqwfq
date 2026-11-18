@@ -1,0 +1,522 @@
+{
+  "version": 1,
+  "records": [
+    {
+      "id": "geometry-contact",
+      "scope": "cross_project_engineering",
+      "tags": [
+        "map",
+        "model",
+        "pets",
+        "npc"
+      ],
+      "reported_problem": "Модели погружаются в пол, яйцо не сидит в гнезде, наземный босс парит.",
+      "prevention": "Считать контакт от фактической опоры/геометрии и локального pivot, а не одного универсального смещения. Проверять крайние позы и масштабы.",
+      "acceptance_check": "Осмотреть контакт с землёй/гнездом с двух ракурсов на минимальном/максимальном размере; повторить после пересоздания.",
+      "sources": [
+        {
+          "thread_id": "01a13b5c-5e44-7522-bbb7-612feed3cbc8",
+          "turn_id": "01a14609-603f-7982-9c2f-f6968c233691",
+          "started_at": 1792176382
+        },
+        {
+          "thread_id": "01a153d2-85cd-7900-b531-a8f7eb0143c6",
+          "turn_id": "01a15ac3-9a0d-79a3-be0e-11378e9e0012",
+          "started_at": 1792524130
+        }
+      ],
+      "basis": "user corrections in Fight for eggs; prevention is engineering inference, not a verified runtime root cause"
+    },
+    {
+      "id": "texture-phase",
+      "scope": "cross_project_engineering",
+      "tags": [
+        "map",
+        "art",
+        "model"
+      ],
+      "reported_problem": "Шахматный рисунок ломается на стыке, остаются полосы и второй рельеф.",
+      "prevention": "Разделять геометрию, фазу/масштаб рисунка, цвет и normal map; искать конкретный слой дефекта. Для повторяющегося рисунка согласовывать мировое/локальное начало и ориентацию.",
+      "acceptance_check": "Сравнить один стык и углы со всех сторон; затем соседние сегменты и повторный запуск; не считать отсутствие щели правильным рисунком.",
+      "sources": [
+        {
+          "thread_id": "01a150ea-4229-71e1-aa30-99ad879747e9",
+          "turn_id": "01a150ec-0c56-7dd0-9691-e105d700ec2f",
+          "started_at": 1792359009
+        },
+        {
+          "thread_id": "01a179d1-e445-7902-a84b-6eb471cb3657",
+          "turn_id": "01a17e2e-5415-79e3-a7d5-e16eacffcd7c",
+          "started_at": 1793118327
+        },
+        {
+          "thread_id": "01a153d2-85cd-7900-b531-a8f7eb0143c6",
+          "turn_id": "01a15b4e-0b8b-79d3-a99a-44968a3b8871",
+          "started_at": 1792533203
+        }
+      ],
+      "basis": "user corrections in Fight for eggs; prevention is engineering inference, not a verified runtime root cause"
+    },
+    {
+      "id": "idempotent-rebuild",
+      "scope": "cross_project_engineering",
+      "tags": [
+        "map",
+        "model",
+        "integration"
+      ],
+      "reported_problem": "После замены остались старые стены/объекты или не все модели обновились.",
+      "prevention": "Найти фактические источники: live instance, шаблон, генератор, респавн. Обновить необходимые источники, чистить только принадлежащую изменению старую группу; повторная сборка не создаёт дубли.",
+      "acceptance_check": "Посчитать управляемые экземпляры до/после, пересобрать дважды и вызвать респавн/повторный Play; версия и количество должны сохраняться.",
+      "sources": [
+        {
+          "thread_id": "01a153d2-85cd-7900-b531-a8f7eb0143c6",
+          "turn_id": "01a155eb-2b43-7c22-9e93-2cf62cd0330a",
+          "started_at": 1792442837
+        },
+        {
+          "thread_id": "01a13b5c-5e44-7522-bbb7-612feed3cbc8",
+          "turn_id": "01a14609-603f-7982-9c2f-f6968c233691",
+          "started_at": 1792176382
+        }
+      ],
+      "basis": "user corrections in Fight for eggs; prevention is engineering inference, not a verified runtime root cause"
+    },
+    {
+      "id": "locomotion",
+      "scope": "cross_project_engineering",
+      "tags": [
+        "animation",
+        "npc",
+        "pets"
+      ],
+      "reported_problem": "Idle ходит на месте; босс не поворачивается; ходьба дёргается.",
+      "prevention": "Различать реальное перемещение, визуальную походку, направление и неподвижную позу. Проверять единственного владельца transform и временную шкалу; причина дёрганья устанавливается измерением, не угадывается.",
+      "acceptance_check": "Idle → движение → поворот → остановка → погоня → респавн; наблюдать непрерывно, не одним снимком.",
+      "sources": [
+        {
+          "thread_id": "01a153d2-85cd-7900-b531-a8f7eb0143c6",
+          "turn_id": "01a153d2-cd44-7ca3-97d5-58522e1d8bcb",
+          "started_at": 1792407686
+        },
+        {
+          "thread_id": "01a153d2-85cd-7900-b531-a8f7eb0143c6",
+          "turn_id": "01a153e4-5867-7b71-981f-d45288c38b44",
+          "started_at": 1792408836
+        },
+        {
+          "thread_id": "01a173e0-0836-7b50-8138-2a0f9e02bfca",
+          "turn_id": "01a174a8-a295-7300-9844-c7b2fbb012ba",
+          "started_at": 1792958571
+        }
+      ],
+      "basis": "user corrections in Fight for eggs; prevention is engineering inference, not a verified runtime root cause"
+    },
+    {
+      "id": "species-animation",
+      "scope": "cross_project_engineering",
+      "tags": [
+        "animation",
+        "npc",
+        "rig"
+      ],
+      "reported_problem": "Змея стоит, маг не поднимает посох, существо без крыльев летает.",
+      "prevention": "Выбирать locomotion/action profile по анатомии и типу атаки, не назначать всем одинаковую стойку. Полёт — явная способность; парение из-за неверной опоры — дефект.",
+      "acceptance_check": "Проверить по представителю каждого профиля и все исключения: ползущий/четвероногий/маг/крылатый/прыгающий; наземная опора и достижимость цели.",
+      "sources": [
+        {
+          "thread_id": "01a173e0-0836-7b50-8138-2a0f9e02bfca",
+          "turn_id": "01a17817-d9d0-7862-9bc2-fdfbf836f02b",
+          "started_at": 1793016191
+        },
+        {
+          "thread_id": "01a18361-6703-74f3-b7b9-aa1022b56ef4",
+          "turn_id": "01a18449-c3fc-7a80-94d8-7a232590860b",
+          "started_at": 1793220789
+        },
+        {
+          "thread_id": "01a16a5b-a290-7752-aadf-a14ce237d4ac",
+          "turn_id": "01a16abd-133f-7ca1-a388-568e83ed73a7",
+          "started_at": 1792792138
+        }
+      ],
+      "basis": "user corrections in Fight for eggs; prevention is engineering inference, not a verified runtime root cause"
+    },
+    {
+      "id": "carry-and-grip",
+      "scope": "cross_project_engineering",
+      "tags": [
+        "animation",
+        "items",
+        "rig"
+      ],
+      "reported_problem": "Руки качаются с переносимым яйцом; персонаж лежит лицом вниз; оружие ориентировано неестественно.",
+      "prevention": "Проверять оси крепления/хвата и позу персонажа, разделять ноги locomotion и руки carry/action; после снятия очищать слой. Для нестандартной модели нужен свой grip.",
+      "acceptance_check": "Спереди/сбоку: idle, бег, обе стороны атаки, переноска, выход из тренировки, снятие предмета, смерть и смена оружия.",
+      "sources": [
+        {
+          "thread_id": "01a13b5c-5e44-7522-bbb7-612feed3cbc8",
+          "turn_id": "01a1458f-1020-7680-9049-c8ecfccab845",
+          "started_at": 1792168366
+        },
+        {
+          "thread_id": "01a1a700-df94-72e2-b087-67aaa18f3d9d",
+          "turn_id": "01a1ab2d-b67c-7961-ab43-ac4aada782b5",
+          "started_at": 1793873262
+        },
+        {
+          "thread_id": "01a1a700-df94-72e2-b087-67aaa18f3d9d",
+          "turn_id": "01a1ad96-eedb-7f43-ab76-d736f9699bdf",
+          "started_at": 1793913712
+        }
+      ],
+      "basis": "user corrections in Fight for eggs; prevention is engineering inference, not a verified runtime root cause"
+    },
+    {
+      "id": "combat-contract",
+      "scope": "cross_project_engineering",
+      "tags": [
+        "combat",
+        "npc",
+        "items",
+        "network"
+      ],
+      "reported_problem": "Новая модель без hitbox, не атакует или машет без урона.",
+      "prevention": "Модель подключать целиком: ID/реестр → сборка → rig/profile → queryable hitbox → атака/дальность/урон → респавн. Визуальная готовность не доказывает боевую.",
+      "acceptance_check": "Игрок попадает и промахивается; босс атакует на своей дистанции; урон ровно один раз; та же проверка после респавна.",
+      "sources": [
+        {
+          "thread_id": "01a153d2-85cd-7900-b531-a8f7eb0143c6",
+          "turn_id": "01a1541c-4db4-7093-b75e-541a3c9323a6",
+          "started_at": 1792412503
+        },
+        {
+          "thread_id": "01a153d2-85cd-7900-b531-a8f7eb0143c6",
+          "turn_id": "01a154c3-849b-7af3-a0c9-de74da251cf3",
+          "started_at": 1792423462
+        },
+        {
+          "thread_id": "01a153d2-85cd-7900-b531-a8f7eb0143c6",
+          "turn_id": "01a154d0-3258-7522-850b-c0d6c94ca1d2",
+          "started_at": 1792424292
+        },
+        {
+          "thread_id": "01a13b5c-5e44-7522-bbb7-612feed3cbc8",
+          "turn_id": "01a13bf8-31b8-7ce3-9bc8-19bc7e3c4f16",
+          "started_at": 1792007483
+        }
+      ],
+      "basis": "user corrections in Fight for eggs; prevention is engineering inference, not a verified runtime root cause"
+    },
+    {
+      "id": "cancel-old-actions",
+      "scope": "cross_project_engineering",
+      "tags": [
+        "combat",
+        "round",
+        "network"
+      ],
+      "reported_problem": "После победы/смерти сохраняется удар или агрессия.",
+      "prevention": "Каждой сессии/персонажу/атаке назначать актуальную идентичность; отменять старые отложенные попадания и эффекты при reset/death/replacement. Сброс HP согласован со сбросом агрессии.",
+      "acceptance_check": "Убить/сбросить цель во время подготовки, возродить персонажа, повторить событие; старый callback не поражает новый экземпляр.",
+      "sources": [
+        {
+          "thread_id": "01a13b5c-5e44-7522-bbb7-612feed3cbc8",
+          "turn_id": "01a13bf8-31b8-7ce3-9bc8-19bc7e3c4f16",
+          "started_at": 1792007483
+        },
+        {
+          "thread_id": "01a153d2-85cd-7900-b531-a8f7eb0143c6",
+          "turn_id": "01a15a9b-0f79-7671-b407-4950b4f5e0d6",
+          "started_at": 1792521473
+        },
+        {
+          "thread_id": "01a1a700-df94-72e2-b087-67aaa18f3d9d",
+          "turn_id": "01a1ab45-ad53-7bf0-84cc-10aaf4420b1d",
+          "started_at": 1793874832
+        }
+      ],
+      "basis": "user corrections in Fight for eggs; prevention is engineering inference, not a verified runtime root cause"
+    },
+    {
+      "id": "consistent-layout",
+      "scope": "cross_project_engineering",
+      "tags": [
+        "map",
+        "model",
+        "ui"
+      ],
+      "reported_problem": "Таблички перекрывают лидерборды, порядок тренажёров различается, апгрейд поворачивает объект обратно.",
+      "prevention": "Повторяемый комплект располагать в локальных координатах общего anchor, а интерактивные/видимые части — согласованными преобразованиями. Не считать все базы одинаково ориентированными в мире.",
+      "acceptance_check": "Пройти все копии, обе стороны таблички, самый неудобный угол обзора; апгрейд сохраняет pivot/положение/направление и доступ к проходу.",
+      "sources": [
+        {
+          "thread_id": "01a1a700-df94-72e2-b087-67aaa18f3d9d",
+          "turn_id": "01a1a793-02cc-7101-b02e-8f3fa7608ed9",
+          "started_at": 1793812792
+        },
+        {
+          "thread_id": "01a1a700-df94-72e2-b087-67aaa18f3d9d",
+          "turn_id": "01a1ad39-942b-7c31-9a6e-b4df2795abf3",
+          "started_at": 1793907594
+        },
+        {
+          "thread_id": "01a17e4e-dfc0-7101-a56f-d3c34569966e",
+          "turn_id": "01a18827-71cf-7960-9dcb-489a9b5fb309",
+          "started_at": 1793285648
+        }
+      ],
+      "basis": "user corrections in Fight for eggs; prevention is engineering inference, not a verified runtime root cause"
+    },
+    {
+      "id": "visibility-vs-collision",
+      "scope": "cross_project_engineering",
+      "tags": [
+        "map",
+        "model",
+        "interaction"
+      ],
+      "reported_problem": "Под «прозрачным» имелось в виду проходимое, но видимое.",
+      "prevention": "Не смешивать Transparency, collision, query и взаимодействие. Смысл спорного слова восстанавливать по явному уточнению в истории; не делать объект невидимым.",
+      "acceptance_check": "Проверить внешний вид, проход персонажа, raycast/клик и взаимодействие отдельно; защитные стены остаются препятствиями.",
+      "sources": [
+        {
+          "thread_id": "01a13b5c-5e44-7522-bbb7-612feed3cbc8",
+          "turn_id": "01a1417e-17c8-7f73-9c87-d5d85db0f91e",
+          "started_at": 1792100145
+        },
+        {
+          "thread_id": "01a13b5c-5e44-7522-bbb7-612feed3cbc8",
+          "turn_id": "01a14bd0-6cfd-7663-b25a-d62925dd5334",
+          "started_at": 1792273313
+        }
+      ],
+      "basis": "user corrections in Fight for eggs; prevention is engineering inference, not a verified runtime root cause"
+    },
+    {
+      "id": "ui-lifecycle",
+      "scope": "cross_project_engineering",
+      "tags": [
+        "ui",
+        "interaction"
+      ],
+      "reported_problem": "Магазин не соответствует зоне/экипировке, подписи лишние, значения перекрываются.",
+      "prevention": "Использовать актуальные иконки/ограничения проекта и единую модель состояния UI. Вход/выход, выбор/экипировка, pending/ошибка закрывают полный цикл; размеры проверять на реальном экране.",
+      "acceptance_check": "Открыть с экипированным предметом, выйти из зоны, купить/экипировать/вернуть старый; проверить длинное число, разные экраны, повторное открытие без дубликатов.",
+      "sources": [
+        {
+          "thread_id": "01a13b5c-5e44-7522-bbb7-612feed3cbc8",
+          "turn_id": "01a140a8-8913-7e80-a834-f20775146cba",
+          "started_at": 1792086149
+        },
+        {
+          "thread_id": "01a1a700-df94-72e2-b087-67aaa18f3d9d",
+          "turn_id": "01a1a7ff-a5ad-7471-89d4-65f94bd9e224",
+          "started_at": 1793819911
+        },
+        {
+          "thread_id": "01a1882e-1345-7460-b158-5ef90b99fd06",
+          "turn_id": "01a189b0-1e22-7080-8295-7c69c9e4c3c7",
+          "started_at": 1793311383
+        }
+      ],
+      "basis": "user corrections in Fight for eggs; prevention is engineering inference, not a verified runtime root cause"
+    },
+    {
+      "id": "display-not-state",
+      "scope": "cross_project_engineering",
+      "tags": [
+        "economy",
+        "ui",
+        "persistence"
+      ],
+      "reported_problem": "Формат целых чисел может менять начисления; очки и реальная скорость смешиваются.",
+      "prevention": "Хранить базовое значение без округления для UI; форматирование/масштаб представления вынести отдельно. Один владелец итогового движения; множители применять один раз.",
+      "acceptance_check": "Сверить исходные данные до/после форматирования, начисления в режимах, death/rejoin и миграцию; отсутствие +0 и двойного бонуса.",
+      "sources": [
+        {
+          "thread_id": "01a17e4e-dfc0-7101-a56f-d3c34569966e",
+          "turn_id": "01a1ab33-0bfb-7750-ac68-fedb29912027",
+          "started_at": 1793873611
+        },
+        {
+          "thread_id": "01a1a700-df94-72e2-b087-67aaa18f3d9d",
+          "turn_id": "01a1ab45-ad53-7bf0-84cc-10aaf4420b1d",
+          "started_at": 1793874832
+        }
+      ],
+      "basis": "user corrections in Fight for eggs; prevention is engineering inference, not a verified runtime root cause"
+    },
+    {
+      "id": "item-lifecycle",
+      "scope": "cross_project_engineering",
+      "tags": [
+        "items",
+        "inventory",
+        "persistence",
+        "pets"
+      ],
+      "reported_problem": "Питомец после hatch не попадает в инвентарь; свойства теряются между переноской и установкой.",
+      "prevention": "Один uid и серверные атрибуты результата через все состояния; выдача/подбор/продажа идемпотентны, вместимость проверяется сервером.",
+      "acceptance_check": "Гнездо → перенос → выпадение/подбор → безопасная зона → инвентарь → установка → hatch → питомец → повторный вход; сравнить UID/размер/вид/доход.",
+      "sources": [
+        {
+          "thread_id": "01a13b5c-5e44-7522-bbb7-612feed3cbc8",
+          "turn_id": "01a140a8-8913-7e80-a834-f20775146cba",
+          "started_at": 1792086149
+        },
+        {
+          "thread_id": "01a139e5-47d4-7d12-807c-cebf30ed6af0",
+          "turn_id": "01a13adb-b22d-77f2-9bce-0fdae6834bf0",
+          "started_at": 1791988838
+        },
+        {
+          "thread_id": "01a17e4e-dfc0-7101-a56f-d3c34569966e",
+          "turn_id": "01a18355-f56a-7cb3-b184-ffb0d3e6952b",
+          "started_at": 1793204811
+        }
+      ],
+      "basis": "user corrections in Fight for eggs; prevention is engineering inference, not a verified runtime root cause"
+    },
+    {
+      "id": "spawn-invariants",
+      "scope": "cross_project_engineering",
+      "tags": [
+        "npc",
+        "map",
+        "items"
+      ],
+      "reported_problem": "Нарушается шахматный порядок, яйца разбросаны, повторяется запрещённый босс.",
+      "prevention": "Реестр всех видов, активные слоты и случайный выбор — отдельные сущности; связанный предмет хранит encounter/slot ID, позицию получает от anchor, не от номера глобального массива.",
+      "acceptance_check": "Уникальность активных видов, исключение предыдущего при reset, нужное число слотов и привязка яйца после нескольких респавнов/перестройки.",
+      "sources": [
+        {
+          "thread_id": "01a153d2-85cd-7900-b531-a8f7eb0143c6",
+          "turn_id": "01a1559f-f765-7720-9694-384207e3a544",
+          "started_at": 1792437909
+        },
+        {
+          "thread_id": "01a173e0-0836-7b50-8138-2a0f9e02bfca",
+          "turn_id": "01a1746b-d691-7a50-985d-2ec9b887475e",
+          "started_at": 1792954586
+        },
+        {
+          "thread_id": "01a179d1-e445-7902-a84b-6eb471cb3657",
+          "turn_id": "01a179d1-e5c1-7f82-a6b2-57b7c3740f2c",
+          "started_at": 1793045161
+        }
+      ],
+      "basis": "user corrections in Fight for eggs; prevention is engineering inference, not a verified runtime root cause"
+    },
+    {
+      "id": "reference-fidelity",
+      "scope": "cross_project_engineering",
+      "tags": [
+        "art",
+        "model",
+        "rig"
+      ],
+      "reported_problem": "После генерации приходится заново просить сходство и детали.",
+      "prevention": "До массовой замены сверить силуэт, пропорции, ключевые детали и два ракурса одного представителя; повторные ракурсы не являются разными моделями. Количество деталей не является качеством.",
+      "acceptance_check": "Сопоставить с доступным референсом спереди/сбоку/сзади; проверить глаза, соединения и положение декора в движении; затем масштабировать на набор.",
+      "sources": [
+        {
+          "thread_id": "01a153d2-85cd-7900-b531-a8f7eb0143c6",
+          "turn_id": "01a15a0c-0367-7e42-a443-f808f2f9b023",
+          "started_at": 1792512099
+        },
+        {
+          "thread_id": "01a17e62-dba4-79a1-9ded-3c526cffcf3d",
+          "turn_id": "01a18d8e-7399-7832-a7f8-cfb6f3b5662d",
+          "started_at": 1793376285
+        },
+        {
+          "thread_id": "01a150ea-4229-71e1-aa30-99ad879747e9",
+          "turn_id": "01a153b0-7c12-7200-9c13-e002bcf2c518",
+          "started_at": 1792405437
+        }
+      ],
+      "basis": "user corrections in Fight for eggs; prevention is engineering inference, not a verified runtime root cause"
+    },
+    {
+      "id": "measured-performance",
+      "scope": "cross_project_engineering",
+      "tags": [
+        "performance",
+        "map",
+        "animation"
+      ],
+      "reported_problem": "Камера лагает после обновления, существа дёргаются; оптимизация портит внешний вид.",
+      "prevention": "Сначала измерить узкое место и нагрузку репрезентативной сцены; различать client rendering, скрипты, сеть и streaming. Уменьшать измеренную нагрузку, сохраняя узнаваемость.",
+      "acceptance_check": "Сравнить до/после камеру и движение при ожидаемом количестве существ/частиц; дальняя/ближняя видимость и загрузка ассетов. Не отключать streaming глобально без проверки.",
+      "sources": [
+        {
+          "thread_id": "01a153d2-85cd-7900-b531-a8f7eb0143c6",
+          "turn_id": "01a15a32-b4f2-77e0-8966-34c476e49c9a",
+          "started_at": 1792514635
+        },
+        {
+          "thread_id": "01a173e0-0836-7b50-8138-2a0f9e02bfca",
+          "turn_id": "01a173ff-50dc-7610-8169-b536a644a4ea",
+          "started_at": 1792947474
+        },
+        {
+          "thread_id": "01a173e0-0836-7b50-8138-2a0f9e02bfca",
+          "turn_id": "01a177eb-3331-7e31-a028-3e77fb6647db",
+          "started_at": 1793013265
+        }
+      ],
+      "basis": "user corrections in Fight for eggs; prevention is engineering inference, not a verified runtime root cause"
+    },
+    {
+      "id": "latest-decision",
+      "scope": "cross_project_engineering",
+      "tags": [
+        "brief",
+        "learning",
+        "economy"
+      ],
+      "reported_problem": "В старой переписке есть отменённые ограничения и противоречащие UI-решения.",
+      "prevention": "Сопоставлять дату и область, помечать старое superseded; явный новый запрос важнее старого промпта. Проектный баланс/стиль не становятся требованиями всех будущих игр.",
+      "acceptance_check": "Перед изменением проверить журнал решений и не вернуть отменённые cap/ярлыки/авто-hatch; при неразрешённом конфликте не угадывать.",
+      "sources": [
+        {
+          "thread_id": "01a18467-8da2-7a31-af08-e2980cc68f8f",
+          "turn_id": "01a187f7-8e24-7921-b296-0a68d33d06e1",
+          "started_at": 1793282510
+        },
+        {
+          "thread_id": "01a1a700-df94-72e2-b087-67aaa18f3d9d",
+          "turn_id": "01a1ad96-eedb-7f43-ab76-d736f9699bdf",
+          "started_at": 1793913712
+        },
+        {
+          "thread_id": "01a1882e-1345-7460-b158-5ef90b99fd06",
+          "turn_id": "01a188b4-4432-7193-8105-537ff1eb5987",
+          "started_at": 1793294877
+        }
+      ],
+      "basis": "user corrections in Fight for eggs; prevention is engineering inference, not a verified runtime root cause"
+    },
+    {
+      "id": "unobtrusive-hints",
+      "scope": "cross_project_engineering",
+      "tags": [
+        "ui",
+        "interaction",
+        "integration"
+      ],
+      "reported_problem": "Всплывающие подсказки занимают почти весь экран и мешают тестировать игру.",
+      "prevention": "Компактный toast/контекстная подсказка, ограничение размеров, числа и частоты; дедупликация, короткий срок жизни, подробности по запросу. Обычные сообщения не перекрывают центр и не перехватывают ввод.",
+      "acceptance_check": "Маленький экран, длинный текст, серия наград, несколько интерактивных объектов и респавн: мир/управление видны, нет дубликатов и зависших плашек; разработчик может свернуть повторное обучение.",
+      "sources": [
+        {
+          "thread_id": "01a1b1eb-33f2-7d31-a3f9-99f6588480f6",
+          "date_local": "2026-11-07",
+          "user_message": "когда я проверяю игру вылезающие подсказки занимают почти весь экран; надо чтобы все было в меру и не мешало тестированию"
+        }
+      ],
+      "basis": "Explicit current user correction; numeric layout values are adjustable design starting points"
+    }
+  ]
+}

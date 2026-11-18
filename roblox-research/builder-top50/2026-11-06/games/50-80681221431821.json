@@ -1,0 +1,61 @@
+{
+  "rank": 50,
+  "place_id": "80681221431821",
+  "name": "[ALPHA] Practical Basketball",
+  "players": 25830,
+  "primary_url": "https://www.roblox.com/games/80681221431821",
+  "evidence": {
+    "status": "public_description",
+    "summary": "Баскетбол в стадии alpha; подробные правила требуют наблюдения.",
+    "source_file": "../primary-descriptions.json",
+    "visual_inspection": true,
+    "playtested": false,
+    "visual_review_kind": "sampled_public_recording",
+    "visual_review_file": "../visual/reviews/50.json",
+    "all_maps_reviewed": false,
+    "all_ui_screens_reviewed": false,
+    "all_animation_states_reviewed": false
+  },
+  "recipe": "sports",
+  "implementation_status": "proposed_not_reverse_engineered",
+  "implementation": {
+    "map": "Поле/площадка, границы, ворота/сетка/кольцо и точки ввода мяча.",
+    "ui": "Счёт, время, команда, владение/способности и обучение управлению.",
+    "animation": "Подача/бросок/удар/блок, совпадение точки контакта с мячом.",
+    "items": "Мяч с понятным сетевым владением; экипировка не подменяет физику незаметно.",
+    "animals": "Не требуется.",
+    "verification": "Одновременное касание, выход мяча за границу, рассинхронизация и рестарт матча."
+  },
+  "universe_id": 7529591378,
+  "visual_review": {
+    "rank": 50,
+    "source_url": "https://www.youtube.com/watch?v=UoCqLuJJ23A",
+    "source_title": "A MAXED OUT SHOOTING Build Is BROKEN in Practical Basketball",
+    "source_upload_date": "20261105",
+    "source_uploader": "Doqin",
+    "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+    "sample_ranges_seconds": [
+      [
+        45,
+        50
+      ],
+      [
+        275,
+        280
+      ],
+      [
+        511,
+        516
+      ]
+    ],
+    "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+    "map_observations": "Открытая баскетбольная площадка с чёткой разметкой, кольцами, ограждением и окружающими городскими зданиями.",
+    "ui_observations": "Компактное HOME/AWAY, очки, время и shot clock снизу; под управляемым игроком дуга состояния, перед матчем состав/показатели участников.",
+    "animation_observations": "Мяч ведётся рядом с игроком; видны разворот, прыжок/бросковая поза и передвижение защищающегося игрока.",
+    "implementation_lesson": "Отделять таймер матча от shot clock и состояние мяча от анимации ведения; индикатор под игроком не должен перекрывать линию движения мяча.",
+    "limits": "Источник демонстрирует конкретный shooting build; его показатели не являются базовыми характеристиками всех персонажей.",
+    "coverage": "sampled_visual_review_not_exhaustive",
+    "client_playtest": false,
+    "evidence_directory": "videos/50"
+  }
+}

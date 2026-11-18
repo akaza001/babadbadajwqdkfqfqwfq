@@ -1,0 +1,61 @@
+{
+  "rank": 40,
+  "place_id": "94891079210424",
+  "name": "Sell Fries! [Anomaly] 🍟",
+  "players": 33415,
+  "primary_url": "https://www.roblox.com/games/94891079210424",
+  "evidence": {
+    "status": "public_description",
+    "summary": "Сбор картофеля, приготовление, обслуживание клиентов и улучшение кухни с ночной опасностью.",
+    "source_file": "../primary-descriptions.json",
+    "visual_inspection": true,
+    "playtested": false,
+    "visual_review_kind": "sampled_public_recording",
+    "visual_review_file": "../visual/reviews/40.json",
+    "all_maps_reviewed": false,
+    "all_ui_screens_reviewed": false,
+    "all_animation_states_reviewed": false
+  },
+  "recipe": "work",
+  "implementation_status": "proposed_not_reverse_engineered",
+  "implementation": {
+    "map": "Рабочие станции цепочки производства, очередь клиентов и ночной режим при необходимости.",
+    "ui": "Заказ, этап приготовления, склад, деньги и улучшения.",
+    "animation": "Взять/положить/обработать/выдать, клиент-NPC и реакции.",
+    "items": "Рецепт как граф ингредиентов и переходов, предмет имеет состояние обработки.",
+    "animals": "NPC-клиенты и опасности отдельно от рецепта; животные не обязательны.",
+    "verification": "Двойная выдача заказа, занятая станция, пропавший ингредиент и смена дня."
+  },
+  "universe_id": 10767380385,
+  "visual_review": {
+    "rank": 40,
+    "source_url": "https://www.youtube.com/watch?v=C3LJDYoRSQI",
+    "source_title": "Using 1% Grim Fryer Class To Troll My Friends in Sell Fries...",
+    "source_upload_date": "20261024",
+    "source_uploader": "Dash Roblox",
+    "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+    "evidence_directory": "supplemental/40",
+    "sample_ranges_seconds": [
+      [
+        45,
+        50
+      ],
+      [
+        394,
+        399
+      ],
+      [
+        733,
+        738
+      ]
+    ],
+    "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+    "map_observations": "Кухня/производственный зал с конвейером, рабочими станциями и запасом картофеля; снаружи площадка доставки с огромной кучей сырья.",
+    "ui_observations": "Classes/Storage и выбранный класс в отдельном экране; в игре время суток сверху справа, Potatoes used сверху, валюта/баффы слева; вместимость пылесоса, горячие слоты, Use fryer и полосы Peeling у станций.",
+    "animation_observations": "Картофель перемещается по ленте/подбирается инструментом, счётчик заполнения меняется, очистка увеличивает процент; переноска инструмента сохраняется при движении.",
+    "implementation_lesson": "Производственный процесс моделировать состояниями сырья и занятой станции; ручной инструмент, конвейер и автоматические помощники должны обращаться к одному учёту предметов.",
+    "limits": "Источник показывает редкий Grim Fryer, поэтому его способность/бонусы не переносить на стандартный класс; ночная опасность в выбранные отрывки не попала.",
+    "coverage": "sampled_visual_review_not_exhaustive",
+    "client_playtest": false
+  }
+}

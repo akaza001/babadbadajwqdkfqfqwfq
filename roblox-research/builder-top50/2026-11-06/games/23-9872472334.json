@@ -1,0 +1,61 @@
+{
+  "rank": 23,
+  "place_id": "9872472334",
+  "name": "[🎃HLWN🎃] Evade ",
+  "players": 48774,
+  "primary_url": "https://www.roblox.com/games/9872472334",
+  "evidence": {
+    "status": "public_description",
+    "summary": "Недельные миссии, предметы/улучшения, возрождение и событийные валюты; основная погоня нуждается в дополнительном наблюдении.",
+    "source_file": "../primary-descriptions.json",
+    "visual_inspection": true,
+    "playtested": false,
+    "visual_review_kind": "sampled_public_recording",
+    "visual_review_file": "../visual/reviews/23.json",
+    "all_maps_reviewed": false,
+    "all_ui_screens_reviewed": false,
+    "all_animation_states_reviewed": false
+  },
+  "recipe": "survival",
+  "implementation_status": "proposed_not_reverse_engineered",
+  "implementation": {
+    "map": "Лагерь/убежище, опасные маршруты, ресурсы и эвакуация/цель сессии.",
+    "ui": "Ресурсы, здоровье, задачи и время/фаза опасности.",
+    "animation": "Сбор, перенос, использование, NPC-погоня и атака.",
+    "items": "Расходники, ресурсы и постройки с серверной проверкой установки.",
+    "animals": "Опасные NPC: слух/зрение по дизайну, навигация и восстановление пути.",
+    "verification": "Выход игрока с ключевым предметом, тупик навигации, поражение/перезапуск."
+  },
+  "universe_id": 3647333358,
+  "visual_review": {
+    "rank": 23,
+    "source_url": "https://www.youtube.com/watch?v=h37Pb3CtXls",
+    "source_title": "ASMR 1 Hour Evade Gameplay",
+    "source_upload_date": "20260921",
+    "source_uploader": "restt",
+    "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+    "sample_ranges_seconds": [
+      [
+        45,
+        50
+      ],
+      [
+        1265,
+        1270
+      ],
+      [
+        2349,
+        2354
+      ]
+    ],
+    "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+    "map_observations": "Несколько карт: туманный снежный город, пригородные улицы/дома и плотные черепичные крыши с узкими переулками.",
+    "ui_observations": "Небольшое здоровье/ресурс снизу слева; основное поле почти свободно от окон; имена/цели в мире.",
+    "animation_observations": "Аватар на доске перемещается над дорогой/крышами, прыгает и меняет направление. Далёкие преследователи видны как плоские/экранные изображения.",
+    "implementation_lesson": "Тестировать и горизонтальные маршруты, и доступность крыш; движение и средства перемещения должны иметь один контракт с раундом/смертью.",
+    "limits": "Из длинной записи ASMR просмотрены только 15 секунд в трёх местах. Доска/высокие прыжки могут зависеть от режима или экипировки, параметры не установлены.",
+    "coverage": "sampled_visual_review_not_exhaustive",
+    "client_playtest": false,
+    "evidence_directory": "videos/23"
+  }
+}

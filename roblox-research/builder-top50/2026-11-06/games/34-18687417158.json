@@ -1,0 +1,61 @@
+{
+  "rank": 34,
+  "place_id": "18687417158",
+  "name": "Forsaken",
+  "players": 35398,
+  "primary_url": "https://www.roblox.com/games/18687417158",
+  "evidence": {
+    "status": "public_description",
+    "summary": "Командное выживание с задачами против игрока-убийцы.",
+    "source_file": "../primary-descriptions.json",
+    "visual_inspection": true,
+    "playtested": false,
+    "visual_review_kind": "sampled_public_recording",
+    "visual_review_file": "../visual/reviews/34.json",
+    "all_maps_reviewed": false,
+    "all_ui_screens_reviewed": false,
+    "all_animation_states_reviewed": false
+  },
+  "recipe": "asym",
+  "implementation_status": "proposed_not_reverse_engineered",
+  "implementation": {
+    "map": "Арена с несколькими путями и точками задач/спасения, балансируемая под роли.",
+    "ui": "Разные HUD ролей, команда, прогресс задач, таймер и результат.",
+    "animation": "Погоня, попадание, взаимодействие, спасение и финал раунда.",
+    "items": "Ролевые способности с кулдауном и проверками допустимой цели.",
+    "animals": "Не обязательны; охотник как самостоятельный персонаж со своим ригом.",
+    "verification": "Отключение охотника, смена роли, одновременное спасение/убийство, рестарт."
+  },
+  "universe_id": 6331902150,
+  "visual_review": {
+    "rank": 34,
+    "source_url": "https://www.youtube.com/watch?v=by8ERPAXJzA",
+    "source_title": "WINNING WITH THE BEST SLASHER SKINS! | Roblox Forsaken",
+    "source_upload_date": "20261101",
+    "source_uploader": "DarkestVibrant",
+    "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+    "sample_ranges_seconds": [
+      [
+        45,
+        50
+      ],
+      [
+        664,
+        669
+      ],
+      [
+        1234,
+        1239
+      ]
+    ],
+    "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+    "map_observations": "Несколько раундовых карт: яркий технический двор, лесистые руины и деревянный интерьер с проходами/высотами.",
+    "ui_observations": "Мобильные круглые кнопки справа: бег, прицел/действия и способности с кулдаунами; таймер сверху; здоровье/stamina и команда слева снизу; результат попадания текстом поверх сцены.",
+    "animation_observations": "Убийца бежит за целью, проводит удар, появляется видимый красный объём/эффект и сообщение о попадании; между приёмами меняются кулдауны и stamina.",
+    "implementation_lesson": "Мобильный HUD проектировать отдельно от клавиатурных подсказок; попадание, кулдаун и сообщение результата связывать одной подтверждённой сервером атакой.",
+    "limits": "Источник посвящён skin-наборам Slasher; красный объём в кадре может быть визуализацией режима/настроек, его устройство в коде неизвестно.",
+    "coverage": "sampled_visual_review_not_exhaustive",
+    "client_playtest": false,
+    "evidence_directory": "videos/34"
+  }
+}

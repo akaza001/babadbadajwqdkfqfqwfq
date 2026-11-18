@@ -1,0 +1,61 @@
+{
+  "rank": 13,
+  "place_id": "114326934417838",
+  "name": "Break and Steal an Egg",
+  "players": 94113,
+  "primary_url": "https://www.roblox.com/games/114326934417838",
+  "evidence": {
+    "status": "public_description",
+    "summary": "Разбивание яиц, побег с животными от охраны, доход базы и улучшение кирки/скорости.",
+    "source_file": "../primary-descriptions.json",
+    "visual_inspection": true,
+    "playtested": false,
+    "visual_review_kind": "sampled_public_recording",
+    "visual_review_file": "../visual/reviews/13.json",
+    "all_maps_reviewed": false,
+    "all_ui_screens_reviewed": false,
+    "all_animation_states_reviewed": false
+  },
+  "recipe": "egg",
+  "implementation_status": "proposed_not_reverse_engineered",
+  "implementation": {
+    "map": "База игрока, ресурсная зона и маршрут рискованного возврата; вместимость и защита базы в конфиге.",
+    "ui": "Слоты базы, вместимость, индекс коллекции, цена улучшения и результат открытия.",
+    "animation": "Перенос/разбивание яйца, реакция охранника, раскрытие и idle питомца.",
+    "items": "Яйцо/инструмент/апгрейд как typeId; сервер проверяет перенос, владение и получение дохода.",
+    "animals": "Отдельный species registry, оригинальные модели и риги; способности не зависят от названия модели.",
+    "verification": "Два игрока одновременно берут объект; выход с добычей; полная база; повторный запрос награды."
+  },
+  "universe_id": 10765288803,
+  "visual_review": {
+    "rank": 13,
+    "source_url": "https://www.youtube.com/watch?v=FMrEyUKGKK0",
+    "source_title": "Starting OVER as NOOB with *NEW* CRAZIEST Egg in Break and Steal an Egg! (Roblox)",
+    "source_upload_date": "20261101",
+    "source_uploader": "xt..",
+    "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+    "sample_ranges_seconds": [
+      [
+        45,
+        50
+      ],
+      [
+        341,
+        346
+      ],
+      [
+        635,
+        640
+      ]
+    ],
+    "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+    "map_observations": "Прямой маршрут между стенами с тематическими зонами Volcano/Blossom и рекомендацией скорости; рядом существа/яйца, отдельно зелёная база с ограждёнными слотами.",
+    "ui_observations": "Shop/Index/Slow Mode слева; валюта и скорость внизу слева; Auto Swing по центру снизу; список активных питомцев справа с Unequip/Equip Best.",
+    "animation_observations": "Аватар быстро движется со световым следом; камера проходит мимо яиц/существ; у базы показываются крупные питомцы и счётчики дохода. Само вылупление не попало в отрывки.",
+    "implementation_lesson": "Разнести реестр зоны и рекомендованной скорости, поведение охраны, сбор/открытие и владение питомцами. Для быстрых игроков особенно важны читаемые границы зон.",
+    "limits": "Просмотрены три коротких фрагмента записи, не все экраны и не весь мир. Тайминги и устройство рига не измерены.",
+    "coverage": "sampled_visual_review_not_exhaustive",
+    "client_playtest": false,
+    "evidence_directory": "videos/13"
+  }
+}

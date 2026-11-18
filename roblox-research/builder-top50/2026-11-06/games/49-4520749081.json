@@ -1,0 +1,61 @@
+{
+  "rank": 49,
+  "place_id": "4520749081",
+  "name": "[🐉UPD 11 PART 1🎃] King Legacy",
+  "players": 26000,
+  "primary_url": "https://www.roblox.com/games/4520749081",
+  "evidence": {
+    "status": "public_description",
+    "summary": "Фрукты появляются на карте с ограниченным временем существования; уровни и способности.",
+    "source_file": "../primary-descriptions.json",
+    "visual_inspection": true,
+    "playtested": false,
+    "visual_review_kind": "sampled_public_recording",
+    "visual_review_file": "../visual/reviews/49.json",
+    "all_maps_reviewed": false,
+    "all_ui_screens_reviewed": false,
+    "all_animation_states_reviewed": false
+  },
+  "recipe": "rpg",
+  "implementation_status": "proposed_not_reverse_engineered",
+  "implementation": {
+    "map": "Хаб и зоны прогрессии, острова/маршруты, NPC заданий и боевые области.",
+    "ui": "Журнал задания, характеристики, панель навыков и кулдауны.",
+    "animation": "Передвижение, оружейные стойки, подготовка/удар/восстановление; VFX по событиям.",
+    "items": "Реестр оружия/способностей, требования экипировки, награды задания.",
+    "animals": "NPC/боссы через конфиги; звери только при необходимости выбранного дизайна.",
+    "verification": "Урон вне дистанции, повторная награда задания, смена оружия во время атаки."
+  },
+  "universe_id": 1451439645,
+  "visual_review": {
+    "rank": 49,
+    "source_url": "https://www.youtube.com/watch?v=ZQu1TJvmTj8",
+    "source_title": "Everything That Changed & Revamped in Roblox King Legacy Update 11 Part 1... Here's What Happened!",
+    "source_upload_date": "20261106",
+    "source_uploader": "JixxyJax",
+    "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+    "evidence_directory": "videos/49",
+    "sample_ranges_seconds": [
+      [
+        45,
+        50
+      ],
+      [
+        341,
+        346
+      ],
+      [
+        633,
+        638
+      ]
+    ],
+    "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+    "map_observations": "Островной/прибрежный город с каменными стенами, открытая вода и отдельная синяя область встречи с крупным боссом.",
+    "ui_observations": "Здоровье/уровень и горячие слоты снизу по центру, способности с клавишами справа; окно Drop Boost с сеткой предметов, магазин фруктов и маркеры целей в мире.",
+    "animation_observations": "Показана крупная крылатая форма/существо среди водных эффектов; у босса видна полоса здоровья, меняется ракурс и появляются частицы. Часть просмотра посвящена меню, не бою.",
+    "implementation_lesson": "Превращение должно переключать модель, камеру и набор навыков согласованно; надмировой трекер цели отделять от локального HUD.",
+    "limits": "Источник — обзор Update 11 Part 1 с отдельными демонстрациями; полный бой, наземные переходы и все формы не просмотрены.",
+    "coverage": "sampled_visual_review_not_exhaustive",
+    "client_playtest": false
+  }
+}

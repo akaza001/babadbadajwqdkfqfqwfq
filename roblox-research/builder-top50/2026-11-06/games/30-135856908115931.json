@@ -1,0 +1,61 @@
+{
+  "rank": 30,
+  "place_id": "135856908115931",
+  "name": "[💀DUELS] Murderers VS Sheriffs",
+  "players": 38749,
+  "primary_url": "https://www.roblox.com/games/135856908115931",
+  "evidence": {
+    "status": "public_description",
+    "summary": "Командные дуэли малых составов с отработкой прицеливания.",
+    "source_file": "../primary-descriptions.json",
+    "visual_inspection": true,
+    "playtested": false,
+    "visual_review_kind": "sampled_public_recording",
+    "visual_review_file": "../visual/reviews/30.json",
+    "all_maps_reviewed": false,
+    "all_ui_screens_reviewed": false,
+    "all_animation_states_reviewed": false
+  },
+  "recipe": "fps",
+  "implementation_status": "proposed_not_reverse_engineered",
+  "implementation": {
+    "map": "Небольшие арены с укрытиями, дистанциями и альтернативными выходами со спавна.",
+    "ui": "Прицел, патроны, счёт/раунд, выбор оружия и состояние перезарядки.",
+    "animation": "Отдача, перезарядка, экипировка, согласованные состояния от первого/третьего лица.",
+    "items": "Серверный реестр оружия, темпа огня и боезапаса; косметика отдельно.",
+    "animals": "Не требуется для основного цикла.",
+    "verification": "Недопустимый темп огня, повторный выстрел, препятствие, смена оружия в перезарядке."
+  },
+  "universe_id": 7219654364,
+  "visual_review": {
+    "rank": 30,
+    "source_url": "https://www.youtube.com/watch?v=55ZxMWJsVIw",
+    "source_title": "Dominating PRO SERVERS in Murderers vs Sheriffs Duels.. (Roblox)",
+    "source_upload_date": "20231005",
+    "source_uploader": "Viecti",
+    "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+    "evidence_directory": "supplemental/30",
+    "sample_ranges_seconds": [
+      [
+        45,
+        50
+      ],
+      [
+        239,
+        244
+      ],
+      [
+        445,
+        450
+      ]
+    ],
+    "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+    "map_observations": "Компактные дуэльные карты с жёлтыми колоннами/стенами и отдельная тёмно-зелёная лестничная область; много коротких линий обзора и вертикальных обходов.",
+    "ui_observations": "Команды с портретами, счёт и таймер сверху, прицел в центре, weapon slot снизу; таблица результата открывается отдельно, после победы лента VICTOR.",
+    "animation_observations": "Аватар держит пистолет/нож, двигается по лестницам и выступам; состояние раунда меняется между окончанием и новым стартом.",
+    "implementation_lesson": "Для дуэльного режима фиксировать состав и результат по matchId; смену оружия, смерть и перезапуск обслуживать одной машиной раунда.",
+    "limits": "Это второй источник с явным DUELS. Первая запись о массовом Murderers vs Sheriffs исключена как другая разновидность/возможная другая игра.",
+    "coverage": "sampled_visual_review_not_exhaustive",
+    "client_playtest": false
+  }
+}

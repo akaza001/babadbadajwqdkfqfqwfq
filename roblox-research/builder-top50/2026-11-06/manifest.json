@@ -1,0 +1,18 @@
+{
+  "collected_at_utc": "2026-11-06T17:38:50.070298+00:00",
+  "source": "https://www.rolimons.com/games",
+  "method": "public HTML var games JSON, sorted players descending; tie broken by place_id",
+  "ranking_scope": "top 50 among experiences tracked by source; global completeness unverified",
+  "ranking_count": 50,
+  "primary_descriptions_read": 49,
+  "visual_inspections": 50,
+  "client_playtests": 0,
+  "full_reverse_engineering": false,
+  "recipes_status": "engineering proposals; not observed map/UI/animation facts",
+  "visual_review_kind": "sampled public gameplay video frames, not complete walkthroughs",
+  "exhaustive_visual_reviews": 0,
+  "visual_updated_at_utc": "2026-11-06T18:43:57.352428+00:00",
+  "visual_report": "visual/index.md",
+  "exact_video_universe_verification": "not established; title and visible content checked, rank 27 identity remains provisional",
+  "source_data_time": null
+}

@@ -1,0 +1,15 @@
+{
+  "luaRuntime": "Lua 5.5",
+  "coreAssertions": 35,
+  "sourceSyntax": "all sources and installer compile under Lua 5.4/5.5 compatible subset",
+  "installer": "fresh install, repeat no duplicates, edited source preserved, partial install and Play refused, injected failure rollback (mock DataModel)",
+  "manifest": "all source hashes match",
+  "notTested": [
+    "Roblox Studio execution",
+    "real UI rendering/input",
+    "physical devices",
+    "persistent storage/rejoin",
+    "real DataModel permission errors"
+  ],
+  "storage": "RAM_ONLY"
+}

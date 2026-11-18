@@ -1,0 +1,233 @@
+{
+  "version": 1,
+  "edge_semantics": {
+    "requires": "Prerequisite for implementing this node; follow transitively for a new system, inspect existing dependencies for a patch",
+    "related": "Contextual link, does not force execution"
+  },
+  "nodes": [
+    {
+      "id": "brief",
+      "requires": [],
+      "output": "Цель, стиль, ограничения и критерии готовности",
+      "verify": "Сопоставить результат с явным запросом и решениями проекта",
+      "related": []
+    },
+    {
+      "id": "architecture",
+      "requires": [
+        "brief"
+      ],
+      "output": "Размещение модулей, серверное состояние, клиентские представления",
+      "verify": "Проверить владение состоянием и зависимости модулей",
+      "related": []
+    },
+    {
+      "id": "map",
+      "requires": [
+        "brief"
+      ],
+      "output": "Блокаут, маршруты, спавны, зоны и масштаб",
+      "verify": "Пройти маршруты в Play; проверить респавн и недоступные зоны",
+      "related": [
+        "npc",
+        "combat",
+        "performance"
+      ]
+    },
+    {
+      "id": "art",
+      "requires": [
+        "brief"
+      ],
+      "output": "Палитра, формы, материалы и оригинальные ассеты",
+      "verify": "Сравнить с референсом с нескольких ракурсов",
+      "related": []
+    },
+    {
+      "id": "model",
+      "requires": [
+        "art"
+      ],
+      "output": "Модель с pivot, масштабом и разделёнными физикой/визуалом",
+      "verify": "Проверить bounding box, pivot, коллизии и переиспользование",
+      "related": []
+    },
+    {
+      "id": "rig",
+      "requires": [
+        "model"
+      ],
+      "output": "Скелет или Motor6D-иерархия с корректными осями",
+      "verify": "Повернуть суставы и проверить отсутствие отрыва деталей",
+      "related": []
+    },
+    {
+      "id": "animation",
+      "requires": [
+        "rig"
+      ],
+      "output": "Клипы и переходы idle/move/action, согласованные с ригом",
+      "verify": "Наблюдать idle, движение, остановку, атаку и повторное появление",
+      "related": [
+        "combat",
+        "pets",
+        "vfx-audio"
+      ]
+    },
+    {
+      "id": "network",
+      "requires": [
+        "architecture"
+      ],
+      "output": "Контракты событий и серверные проверки",
+      "verify": "Подать неверные типы, дальность, частоту и недопустимое состояние",
+      "related": []
+    },
+    {
+      "id": "items",
+      "requires": [
+        "model",
+        "network"
+      ],
+      "output": "Реестр типов и уникальные экземпляры предметов",
+      "verify": "Проверить экипировку, снятие, повторную выдачу и неизвестный ID",
+      "related": []
+    },
+    {
+      "id": "inventory",
+      "requires": [
+        "items"
+      ],
+      "output": "Инвентарь, вместимость, экипировка и UI-модель",
+      "verify": "Проверить дубликаты запроса и полную вместимость",
+      "related": [
+        "ui",
+        "persistence"
+      ]
+    },
+    {
+      "id": "npc",
+      "requires": [
+        "animation",
+        "network",
+        "map"
+      ],
+      "output": "Состояния NPC, цели, навигация и восстановление",
+      "verify": "Проверить потерю цели, препятствие, смерть и респавн",
+      "related": []
+    },
+    {
+      "id": "pets",
+      "requires": [
+        "npc",
+        "inventory"
+      ],
+      "output": "Виды животных, следование, способности, ownership",
+      "verify": "Проверить несколько питомцев, исчезновение владельца и повторный вход",
+      "related": [
+        "economy",
+        "persistence",
+        "ui"
+      ]
+    },
+    {
+      "id": "combat",
+      "requires": [
+        "npc",
+        "items"
+      ],
+      "output": "Урон, хитбоксы, тайминги атак и телеграфы",
+      "verify": "Проверить попадания/промахи, дистанцию, кулдаун, смерть и награду",
+      "related": [
+        "ui",
+        "vfx-audio"
+      ]
+    },
+    {
+      "id": "economy",
+      "requires": [
+        "network"
+      ],
+      "output": "Источники и траты ресурсов, цены, прогрессия",
+      "verify": "Проверить невозможность отрицательного баланса и двойной награды",
+      "related": []
+    },
+    {
+      "id": "persistence",
+      "requires": [
+        "economy",
+        "inventory"
+      ],
+      "output": "Версия профиля, миграция и сериализация состояния",
+      "verify": "Тестовый профиль: выход/вход, ошибка записи, старый формат",
+      "related": []
+    },
+    {
+      "id": "ui",
+      "requires": [
+        "architecture",
+        "brief"
+      ],
+      "output": "Экраны, HUD, состояния loading/empty/error и управление",
+      "verify": "Проверить мобильный/настольный экран, фокус геймпада и длинный текст",
+      "related": []
+    },
+    {
+      "id": "vfx-audio",
+      "requires": [
+        "art",
+        "architecture"
+      ],
+      "output": "События эффектов, звук и лимиты одновременности",
+      "verify": "Проверить своевременность, слышимость и очистку объектов",
+      "related": []
+    },
+    {
+      "id": "monetization",
+      "requires": [
+        "economy",
+        "persistence",
+        "ui"
+      ],
+      "output": "Точные продукты и идемпотентная серверная выдача",
+      "verify": "Проверить правила Roblox и повторный тестовый receipt",
+      "related": []
+    },
+    {
+      "id": "integration",
+      "requires": [
+        "map",
+        "network",
+        "ui"
+      ],
+      "output": "Работающий игровой цикл с выбранными подсистемами",
+      "verify": "Плейтест от входа до результата и повторения цикла",
+      "related": [
+        "pets",
+        "combat",
+        "persistence",
+        "monetization"
+      ]
+    },
+    {
+      "id": "performance",
+      "requires": [
+        "integration"
+      ],
+      "output": "Профиль нагрузки и оптимизация узких мест",
+      "verify": "Измерить CPU/память/сеть на целевом устройстве до/после",
+      "related": []
+    },
+    {
+      "id": "learning",
+      "requires": [],
+      "output": "Записи правок, источников и проверенных улучшений",
+      "verify": "Проверить область, источник, отсутствие дублей и противоречий",
+      "related": [
+        "brief",
+        "art",
+        "integration"
+      ]
+    }
+  ]
+}

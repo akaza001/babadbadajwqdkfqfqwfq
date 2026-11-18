@@ -1,0 +1,61 @@
+{
+  "rank": 6,
+  "place_id": "120219252362013",
+  "name": "Throw Food For Animals",
+  "players": 184312,
+  "primary_url": "https://www.roblox.com/games/120219252362013",
+  "evidence": {
+    "status": "public_description",
+    "summary": "Бросок еды привлекает животных; тренировка силы и улучшение еды открывают новые зоны.",
+    "source_file": "../primary-descriptions.json",
+    "visual_inspection": true,
+    "playtested": false,
+    "visual_review_kind": "sampled_public_recording",
+    "visual_review_file": "../visual/reviews/06.json",
+    "all_maps_reviewed": false,
+    "all_ui_screens_reviewed": false,
+    "all_animation_states_reviewed": false
+  },
+  "recipe": "collect",
+  "implementation_status": "proposed_not_reverse_engineered",
+  "implementation": {
+    "map": "Зоны редкости, рабочая площадка/база, места улучшений и контролируемый возврат.",
+    "ui": "Коллекция, сила действия, доход и улучшения с понятным сравнением.",
+    "animation": "Основное действие с фазами подготовки и результата; idle коллекционного существа.",
+    "items": "Реестр инструментов и коллекционных экземпляров с уникальным ID.",
+    "animals": "Модели разных видов с единым API состояния; размер не меняет коллизии случайно.",
+    "verification": "Доход начисляется один раз; выпадение при полной вместимости; массовая коллекция."
+  },
+  "universe_id": 10766972131,
+  "visual_review": {
+    "rank": 6,
+    "source_url": "https://www.youtube.com/watch?v=6ewHoboQx6w",
+    "source_title": "I reached END OF NEW ZONE in THROW FOOD FOR ANIMALS...",
+    "source_upload_date": "20261101",
+    "source_uploader": "BemmyBlox",
+    "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+    "sample_ranges_seconds": [
+      [
+        45,
+        50
+      ],
+      [
+        293,
+        298
+      ],
+      [
+        545,
+        550
+      ]
+    ],
+    "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+    "map_observations": "Яркая база с вольерами и тренажёром сменяется длинной тёмной трассой, разделённой тематическими секциями.",
+    "ui_observations": "Список My Animals показывает вместимость, карточки, PICK UP/SELL/EQUIP BEST; сила и деньги слева снизу; результат улова занимает центр и содержит редкость/вариант/доход.",
+    "animation_observations": "На тренажёре персонаж находится между стойками, имеется кнопка STOP; в раскрытии улова частицы и луч сменяются карточкой YOU CAUGHT. Промежуточный бросок не виден.",
+    "implementation_lesson": "Сделать отдельные UI-состояния списка коллекции, тренировки и раскрытия; визуальную редкость обозначать формой/подписью, не только цветом.",
+    "limits": "Просмотрены три коротких фрагмента записи, не все экраны и не весь мир. Тайминги и устройство рига не измерены.",
+    "coverage": "sampled_visual_review_not_exhaustive",
+    "client_playtest": false,
+    "evidence_directory": "videos/06"
+  }
+}

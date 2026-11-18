@@ -1,0 +1,61 @@
+{
+  "rank": 8,
+  "place_id": "79546208627805",
+  "name": "99 Nights in the Forest 🔦",
+  "players": 165757,
+  "primary_url": "https://www.roblox.com/games/79546208627805",
+  "evidence": {
+    "status": "public_description",
+    "summary": "Выживание в лесу, защита лагеря и спасение детей.",
+    "source_file": "../primary-descriptions.json",
+    "visual_inspection": true,
+    "playtested": false,
+    "visual_review_kind": "sampled_public_recording",
+    "visual_review_file": "../visual/reviews/08.json",
+    "all_maps_reviewed": false,
+    "all_ui_screens_reviewed": false,
+    "all_animation_states_reviewed": false
+  },
+  "recipe": "survival",
+  "implementation_status": "proposed_not_reverse_engineered",
+  "implementation": {
+    "map": "Лагерь/убежище, опасные маршруты, ресурсы и эвакуация/цель сессии.",
+    "ui": "Ресурсы, здоровье, задачи и время/фаза опасности.",
+    "animation": "Сбор, перенос, использование, NPC-погоня и атака.",
+    "items": "Расходники, ресурсы и постройки с серверной проверкой установки.",
+    "animals": "Опасные NPC: слух/зрение по дизайну, навигация и восстановление пути.",
+    "verification": "Выход игрока с ключевым предметом, тупик навигации, поражение/перезапуск."
+  },
+  "universe_id": 7326934954,
+  "visual_review": {
+    "rank": 8,
+    "source_url": "https://www.youtube.com/watch?v=V4BMGT0Tukw",
+    "source_title": "The ULTIMATE Guide To Roblox 99 Nights In The Forest!",
+    "source_upload_date": "20250630",
+    "source_uploader": "Roodolf",
+    "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+    "sample_ranges_seconds": [
+      [
+        45,
+        50
+      ],
+      [
+        304,
+        309
+      ],
+      [
+        565,
+        570
+      ]
+    ],
+    "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+    "map_observations": "Лес с полянами, дорогой, отдельными объектами добычи и тёмными дождливыми сценами; контраст дневной добычи и ночной опасности.",
+    "ui_observations": "Номер дня сверху, полосы потребностей слева, hotbar снизу; над объектом имя/иконка и рядом клавиши Drag/Eat; у дерева полоса прочности.",
+    "animation_observations": "Инструмент в руке меняет положение при рубке; предметы поднимаются/переносятся и пропадают после действия; виден фонарь с конусом освещения.",
+    "implementation_lesson": "Сводить взаимодействия к контекстным подсказкам и состояниям предмета; отличать экипировку, добычу, перенос и употребление. Ночная видимость требует самостоятельного плейтеста.",
+    "limits": "Просмотрены три коротких фрагмента записи, не все экраны и не весь мир. Тайминги и устройство рига не измерены.",
+    "coverage": "sampled_visual_review_not_exhaustive",
+    "client_playtest": false,
+    "evidence_directory": "videos/08"
+  }
+}

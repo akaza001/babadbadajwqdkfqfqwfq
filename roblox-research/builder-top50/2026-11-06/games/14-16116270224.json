@@ -1,0 +1,61 @@
+{
+  "rank": 14,
+  "place_id": "16116270224",
+  "name": "🎃 Dandy's World [ALPHA]",
+  "players": 94098,
+  "primary_url": "https://www.roblox.com/games/16116270224",
+  "evidence": {
+    "status": "public_description",
+    "summary": "Командное выполнение машин и спуск глубже в центр Gardenview.",
+    "source_file": "../primary-descriptions.json",
+    "visual_inspection": true,
+    "playtested": false,
+    "visual_review_kind": "sampled_public_recording",
+    "visual_review_file": "../visual/reviews/14.json",
+    "all_maps_reviewed": false,
+    "all_ui_screens_reviewed": false,
+    "all_animation_states_reviewed": false
+  },
+  "recipe": "horror",
+  "implementation_status": "proposed_not_reverse_engineered",
+  "implementation": {
+    "map": "Комнаты/коридоры, точки задач и пути отхода; события привязаны к состоянию сессии.",
+    "ui": "Цель, взаимодействие, здоровье/страх по дизайну, наблюдение после смерти.",
+    "animation": "Idle/погоня/атака сущности и взаимодействия; звуковые сигналы синхронизированы.",
+    "items": "Ключи и средства выживания с серверными проверками использования.",
+    "animals": "Сущность имеет конфиг поведения; не требуется буквальная модель животного.",
+    "verification": "Потеря цели, закрытая дверь на пути, смерть всей команды и повторный вход."
+  },
+  "universe_id": 5569032992,
+  "visual_review": {
+    "rank": 14,
+    "source_url": "https://www.youtube.com/watch?v=tS7mxubWg04",
+    "source_title": "HALLOWEEN RUN DANDY'S WORLD (FLOOR 35+)",
+    "source_upload_date": "20251028",
+    "source_uploader": "Ch3stNut",
+    "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+    "sample_ranges_seconds": [
+      [
+        45,
+        50
+      ],
+      [
+        518,
+        523
+      ],
+      [
+        963,
+        968
+      ]
+    ],
+    "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+    "map_observations": "Последовательность тёмных комнат/этажей с мебелью и устройствами; лифт служит общей точкой выхода и перехода между этажами.",
+    "ui_observations": "Номер этажа и Machines Completed сверху, таймер лифта/Intermission/Voting; сердца и stamina снизу слева, предметы/способности и их кулдауны снизу справа.",
+    "animation_observations": "Персонаж бегает между проходами, stamina меняется; после достижения лифта появляются intermission и следующий этаж. Видны расходуемый предмет и светящийся эффект рядом с персонажем.",
+    "implementation_lesson": "Состояния этажа и лифта оформлять одной серверной машиной с общим дедлайном; интерфейс должен различать поиск машин, эвакуацию и ожидание.",
+    "limits": "Источник показывает Halloween-run. Специальный персонаж и сезонные элементы не считаются универсальными для обычного режима.",
+    "coverage": "sampled_visual_review_not_exhaustive",
+    "client_playtest": false,
+    "evidence_directory": "videos/14"
+  }
+}

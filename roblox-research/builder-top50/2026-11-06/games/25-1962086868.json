@@ -1,0 +1,61 @@
+{
+  "rank": 25,
+  "place_id": "1962086868",
+  "name": "Tower of Hell",
+  "players": 43262,
+  "primary_url": "https://www.roblox.com/games/1962086868",
+  "evidence": {
+    "status": "public_description",
+    "summary": "Случайно собранная башня препятствий без промежуточных checkpoint.",
+    "source_file": "../primary-descriptions.json",
+    "visual_inspection": true,
+    "playtested": false,
+    "visual_review_kind": "sampled_public_recording",
+    "visual_review_file": "../visual/reviews/25.json",
+    "all_maps_reviewed": false,
+    "all_ui_screens_reviewed": false,
+    "all_animation_states_reviewed": false
+  },
+  "recipe": "obby",
+  "implementation_status": "proposed_not_reverse_engineered",
+  "implementation": {
+    "map": "Модули препятствий с входом/выходом, проверкой достижимости и точками перезапуска.",
+    "ui": "Таймер, прогресс и параметры движения; checkpoint только если нужен дизайном.",
+    "animation": "Бег/прыжок/падение; скорость клипа согласована с фактической скоростью.",
+    "items": "Усиления и награды проверяются по серверному прогрессу, а не сообщению о победе.",
+    "animals": "Не требуется, кроме отдельных наград/косметики по запросу.",
+    "verification": "Непроходимый seed, пропуск этапа, падение, финиш дважды и мобильное управление."
+  },
+  "universe_id": 703124385,
+  "visual_review": {
+    "rank": 25,
+    "source_url": "https://www.youtube.com/watch?v=k_bosrHK4Wk",
+    "source_title": "Racing the Fastest Tower of Hell Players in the World!",
+    "source_upload_date": "20241218",
+    "source_uploader": "EDVIN",
+    "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+    "sample_ranges_seconds": [
+      [
+        45,
+        50
+      ],
+      [
+        202,
+        207
+      ],
+      [
+        375,
+        380
+      ]
+    ],
+    "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+    "map_observations": "Высокая круглая шахта с цветными ярусами: узкие балки, вращающиеся/наклонные элементы и светящиеся опасные сегменты; низ башни просматривается сверху.",
+    "ui_observations": "Таймер сверху по центру, вертикальная полоса прогресса с маркерами игроков справа, Shop внизу слева.",
+    "animation_observations": "Аватар прыгает между балками, цепляется/взбирается по лестничному элементу; камера поворачивается для оценки приземления.",
+    "implementation_lesson": "Собирать башню из модулей с контрактами входа/выхода; тестировать видимость следующей поверхности с игровой камеры, а не только связность геометрии.",
+    "limits": "Просмотрены три коротких фрагмента записи, не все экраны и не весь мир. Тайминги и устройство рига не измерены.",
+    "coverage": "sampled_visual_review_not_exhaustive",
+    "client_playtest": false,
+    "evidence_directory": "videos/25"
+  }
+}

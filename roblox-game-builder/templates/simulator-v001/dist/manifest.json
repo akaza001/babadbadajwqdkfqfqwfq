@@ -1,0 +1,49 @@
+{
+  "version": "0.0.1",
+  "packageId": "6e149dbc94713b9dbf6cbe13ebd598fee46b29a9900a770450b16302fdf51dad",
+  "files": [
+    {
+      "path": "src/client/Main.client.luau",
+      "sha256": "5af26d4229ea895ad8fb363b57a49ab822a649229fb05ac9bf39e2a2a9970be9",
+      "bytes": 3364
+    },
+    {
+      "path": "src/server/AdminConfig.luau",
+      "sha256": "cc2a9a5e85cc2ed3f64207f0204b0b50936f733b96fded73877502d175abbac1",
+      "bytes": 94
+    },
+    {
+      "path": "src/server/Bootstrap.server.luau",
+      "sha256": "a19ca85cc35517cf075b48bcee3ff0b3e47d5f1e3db30c9cf1fc0d40ded0b1de",
+      "bytes": 1569
+    },
+    {
+      "path": "src/server/Core.luau",
+      "sha256": "207fbbe1349041f1acd39f73ddc73a7c52163bb8e5ef1e13742df08161839472",
+      "bytes": 4252
+    },
+    {
+      "path": "src/server/Session.luau",
+      "sha256": "b054be404c78d1facf37352521e895ba5d04ee0bb3b86d27c877aaaefda0c137",
+      "bytes": 1320
+    },
+    {
+      "path": "src/shared/Config.luau",
+      "sha256": "5fa30a04963ff98a6e288d3570bac5171104b723e1e7e6deedb62338b435ef42",
+      "bytes": 317
+    },
+    {
+      "path": "src/shared/HudIcons.luau",
+      "sha256": "5e4810661fb14214f5ccf36f0d1afb356b210a96547bd0497af6f42f6b9388aa",
+      "bytes": 338
+    },
+    {
+      "path": "src/shared/WindowTheme.luau",
+      "sha256": "bbd138f40e055cff76a7f8340bd66523522d950cc078d221f64ca9847d067b12",
+      "bytes": 4748
+    }
+  ],
+  "storage": "RAM_ONLY",
+  "externalRuntimeAssetsRequired": false,
+  "worldGeneration": false
+}

@@ -1,0 +1,94 @@
+{
+  "rank": 39,
+  "place_id": "132929771812494",
+  "name": "[🌟UPD] Cameraman Tower Defense",
+  "players": 33788,
+  "primary_url": "https://www.roblox.com/games/132929771812494",
+  "evidence": {
+    "status": "public_description",
+    "summary": "Вход в матч через платформу, размещение юнитов и победа над волнами.",
+    "source_file": "../primary-descriptions.json",
+    "visual_inspection": true,
+    "playtested": false,
+    "visual_review_kind": "sampled_public_recording",
+    "visual_review_file": "../visual/reviews/39.json",
+    "all_maps_reviewed": false,
+    "all_ui_screens_reviewed": false,
+    "all_animation_states_reviewed": false
+  },
+  "recipe": "defense",
+  "implementation_status": "proposed_not_reverse_engineered",
+  "implementation": {
+    "map": "Пути врагов, клетки/поверхности размещения и защищаемая цель.",
+    "ui": "Волна, бюджет, здоровье базы, выбор/улучшение/продажа юнита.",
+    "animation": "Ходьба врага, наведение и атака башни; урон рассчитывается независимо от VFX.",
+    "items": "Реестр юнитов: цена, дальность, приоритет цели, ветка улучшений.",
+    "animals": "Юниты/враги могут быть существами; сначала общий контракт движения/атаки.",
+    "verification": "Размещение на пути, повторная продажа, потеря последнего врага и смена волны."
+  },
+  "universe_id": 10762636904,
+  "visual_review": {
+    "rank": 39,
+    "source_url": "https://www.youtube.com/watch?v=sC-Afz9FGa0",
+    "source_title": "HARDCORE MODE made me CRASHOUT in Cameraman Tower Defense..",
+    "source_upload_date": "20261022",
+    "source_uploader": "MeddysonTD",
+    "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+    "evidence_directory": "supplemental/39",
+    "sample_ranges_seconds": [
+      [
+        45,
+        50
+      ],
+      [
+        293,
+        298
+      ],
+      [
+        545,
+        550
+      ]
+    ],
+    "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+    "map_observations": "Хаб с отдельными площадками входа в матч; игровая карта склада с чёткой чёрной линией пути, ящиками и свободными участками расстановки.",
+    "ui_observations": "На площадке Start, число игроков и countdown; в бою Wave/Auto Skip сверху, валюты/юниты/скорость снизу; preview-радиус, Rotate/Stop Placing; окно You Lost с replay/cancel и наградами.",
+    "animation_observations": "Враги движутся цепочкой по линии; при выборе юнита появляется зона дальности, после поражения возможен перезапуск; вспышки стрельбы в кадрах меняются.",
+    "implementation_lesson": "Для tower-defense проверить весь цикл lobby → placing → wave → defeat → replay; размещение должно показывать причину отказа и не списывать деньги при неуспехе.",
+    "limits": "Просмотрены три коротких фрагмента записи, не все экраны и не весь мир. Тайминги и устройство рига не измерены.",
+    "coverage": "sampled_visual_review_not_exhaustive",
+    "client_playtest": false,
+    "additional_reviews": [
+      {
+        "rank": 39,
+        "source_url": "https://www.youtube.com/watch?v=b1jQITX-Ik4",
+        "source_title": "ПОЛНЫЙ ГАЙД НА НОВОЕ ОБНОВЛЕНИЕ В CAMERAMAN TOWER DEFENSE ROBLOX!",
+        "source_upload_date": "20261104",
+        "source_uploader": "МиниНуб_Games",
+        "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+        "sample_ranges_seconds": [
+          [
+            45,
+            50
+          ],
+          [
+            486,
+            491
+          ],
+          [
+            904,
+            909
+          ]
+        ],
+        "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+        "map_observations": "Видна сезонная хаб-площадка с тёплым освещением, зданием, деревьями и тыквами; боевая карта в выборку не попала.",
+        "ui_observations": "Units/Shop/Trading/Quests слева; Event Shop имеет Pass/Missions/Event Shop; карточки покупки и всплывающие параметры юнита, hotbar/валюты снизу.",
+        "animation_observations": "Выбор карточек меняет tooltip; боевые циклы юнитов не показаны.",
+        "implementation_lesson": "Данные юнита использовать совместно в tooltip, коллекции и боевом размещении; магазин обновления не подменяет саму проверку tower-defense.",
+        "limits": "Ролик содержит внешнюю рекламу и в основном магазин. Её не импортировать как рекомендацию; нужна дополнительная непрерывная запись боя.",
+        "coverage": "sampled_visual_review_not_exhaustive",
+        "client_playtest": false,
+        "evidence_directory": "videos/39"
+      }
+    ]
+  }
+}

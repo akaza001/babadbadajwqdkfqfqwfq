@@ -1,0 +1,61 @@
+{
+  "rank": 26,
+  "place_id": "73956553001240",
+  "name": "[UPD] Volleyball Legends",
+  "players": 43173,
+  "primary_url": "https://www.roblox.com/games/73956553001240",
+  "evidence": {
+    "status": "public_description",
+    "summary": "Волейбол: подача, блок, удар и рейтинговые матчи.",
+    "source_file": "../primary-descriptions.json",
+    "visual_inspection": true,
+    "playtested": false,
+    "visual_review_kind": "sampled_public_recording",
+    "visual_review_file": "../visual/reviews/26.json",
+    "all_maps_reviewed": false,
+    "all_ui_screens_reviewed": false,
+    "all_animation_states_reviewed": false
+  },
+  "recipe": "sports",
+  "implementation_status": "proposed_not_reverse_engineered",
+  "implementation": {
+    "map": "Поле/площадка, границы, ворота/сетка/кольцо и точки ввода мяча.",
+    "ui": "Счёт, время, команда, владение/способности и обучение управлению.",
+    "animation": "Подача/бросок/удар/блок, совпадение точки контакта с мячом.",
+    "items": "Мяч с понятным сетевым владением; экипировка не подменяет физику незаметно.",
+    "animals": "Не требуется.",
+    "verification": "Одновременное касание, выход мяча за границу, рассинхронизация и рестарт матча."
+  },
+  "universe_id": 6931042565,
+  "visual_review": {
+    "rank": 26,
+    "source_url": "https://www.youtube.com/watch?v=NePFOpH_zFI",
+    "source_title": "Can I Go From Noob to Pro in Volleyball Legends?",
+    "source_upload_date": "20250715",
+    "source_uploader": "NickGlush",
+    "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+    "sample_ranges_seconds": [
+      [
+        45,
+        50
+      ],
+      [
+        381,
+        386
+      ],
+      [
+        707,
+        712
+      ]
+    ],
+    "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+    "map_observations": "Размеченная волейбольная площадка с сеткой в центре, трибунами и свободной зоной вокруг границ.",
+    "ui_observations": "HOME/AWAY и счёт сверху, таймер подачи, зелёные сообщения подачи/очка; кнопки действий снизу меняются между BUMP/SET/DIVE и SPIKE/BLOCK/SET.",
+    "animation_observations": "Мяч летит с читаемым маркером; игроки перемещаются и выполняют контактные действия; после очка меняются счёт и состояние подачи.",
+    "implementation_lesson": "Нужны контекстные наборы действий по фазе матча/положению игрока; анимация контакта должна соответствовать серверной обработке мяча.",
+    "limits": "Просмотрены три коротких фрагмента записи, не все экраны и не весь мир. Тайминги и устройство рига не измерены.",
+    "coverage": "sampled_visual_review_not_exhaustive",
+    "client_playtest": false,
+    "evidence_directory": "videos/26"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "rank": 12,
+  "place_id": "8304191830",
+  "name": "[☀️UPD 21🏖️] Anime Adventures",
+  "players": 94839,
+  "primary_url": "https://www.roblox.com/games/8304191830",
+  "evidence": {
+    "status": "public_description",
+    "summary": "Призыв героев для противостояния угрозам в разных мирах; башенная структура требует дополнительного наблюдения.",
+    "source_file": "../primary-descriptions.json",
+    "visual_inspection": true,
+    "playtested": false,
+    "visual_review_kind": "sampled_public_recording",
+    "visual_review_file": "../visual/reviews/12.json",
+    "all_maps_reviewed": false,
+    "all_ui_screens_reviewed": false,
+    "all_animation_states_reviewed": false
+  },
+  "recipe": "defense",
+  "implementation_status": "proposed_not_reverse_engineered",
+  "implementation": {
+    "map": "Пути врагов, клетки/поверхности размещения и защищаемая цель.",
+    "ui": "Волна, бюджет, здоровье базы, выбор/улучшение/продажа юнита.",
+    "animation": "Ходьба врага, наведение и атака башни; урон рассчитывается независимо от VFX.",
+    "items": "Реестр юнитов: цена, дальность, приоритет цели, ветка улучшений.",
+    "animals": "Юниты/враги могут быть существами; сначала общий контракт движения/атаки.",
+    "verification": "Размещение на пути, повторная продажа, потеря последнего врага и смена волны."
+  },
+  "universe_id": 3183403065,
+  "visual_review": {
+    "rank": 12,
+    "source_url": "https://www.youtube.com/watch?v=hv72hrsWooM",
+    "source_title": "I Used The NEW Units To WASH AWAY Tournament 197!! | Anime Adventures",
+    "source_upload_date": "20261105",
+    "source_uploader": "Polarz_Bear",
+    "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+    "sample_ranges_seconds": [
+      [
+        45,
+        50
+      ],
+      [
+        328,
+        333
+      ],
+      [
+        609,
+        614
+      ]
+    ],
+    "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+    "map_observations": "Тёмная синяя городская карта с извилистым маршрутом врагов и плотной расстановкой союзных юнитов вокруг него.",
+    "ui_observations": "Волна/время/прочность цели сверху, score слева, список условий справа; hotbar юнитов снизу, minimap справа снизу. Выбранный юнит открывает панель характеристик, Upgrade/Sell и приоритета цели.",
+    "animation_observations": "Враги продвигаются группой; вокруг стационарных юнитов меняются круговые эффекты/вспышки и числа попаданий. Признаки status SLOWED нанесены над врагами.",
+    "implementation_lesson": "Башням нужны отделённые режимы выбора/размещения/улучшения и единый контракт атаки; плотность надписей и VFX проверять при максимальной волне.",
+    "limits": "Просмотрены три коротких фрагмента записи, не все экраны и не весь мир. Тайминги и устройство рига не измерены.",
+    "coverage": "sampled_visual_review_not_exhaustive",
+    "client_playtest": false,
+    "evidence_directory": "videos/12"
+  }
+}

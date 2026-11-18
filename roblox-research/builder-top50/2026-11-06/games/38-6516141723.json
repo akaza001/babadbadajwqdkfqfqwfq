@@ -1,0 +1,61 @@
+{
+  "rank": 38,
+  "place_id": "6516141723",
+  "name": "DOORS 🍬🍭",
+  "players": 33981,
+  "primary_url": "https://www.roblox.com/games/6516141723",
+  "evidence": {
+    "status": "public_description",
+    "summary": "Хоррор с дверями; описание рекомендует учиться на поражениях, точные комнаты/AI не подтверждены.",
+    "source_file": "../primary-descriptions.json",
+    "visual_inspection": true,
+    "playtested": false,
+    "visual_review_kind": "sampled_public_recording",
+    "visual_review_file": "../visual/reviews/38.json",
+    "all_maps_reviewed": false,
+    "all_ui_screens_reviewed": false,
+    "all_animation_states_reviewed": false
+  },
+  "recipe": "horror",
+  "implementation_status": "proposed_not_reverse_engineered",
+  "implementation": {
+    "map": "Комнаты/коридоры, точки задач и пути отхода; события привязаны к состоянию сессии.",
+    "ui": "Цель, взаимодействие, здоровье/страх по дизайну, наблюдение после смерти.",
+    "animation": "Idle/погоня/атака сущности и взаимодействия; звуковые сигналы синхронизированы.",
+    "items": "Ключи и средства выживания с серверными проверками использования.",
+    "animals": "Сущность имеет конфиг поведения; не требуется буквальная модель животного.",
+    "verification": "Потеря цели, закрытая дверь на пути, смерть всей команды и повторный вход."
+  },
+  "universe_id": 2440500124,
+  "visual_review": {
+    "rank": 38,
+    "source_url": "https://www.youtube.com/watch?v=XYKCJjKETbA",
+    "source_title": "THE CANDY VAULT В DOORS, НО ЕСЛИ БЫ ОН БЫЛ ОЗВУЧЕН НА РУССКОМ!",
+    "source_upload_date": "20261104",
+    "source_uploader": "YARIK_PLAY",
+    "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+    "sample_ranges_seconds": [
+      [
+        25,
+        30
+      ],
+      [
+        90,
+        95
+      ],
+      [
+        168,
+        173
+      ]
+    ],
+    "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+    "map_observations": "Ночной сад с ограждениями и фонарями, деревянная резная дверь и тёплый интерьер особняка с лестницей/гостиничной тележкой.",
+    "ui_observations": "Мобильные действия справа, предмет/слот снизу, валюты/счётчики сверху справа; реплики персонажа внизу.",
+    "animation_observations": "Камера от первого лица приближается к двери и проходит в помещение; свет/темнота и появляющиеся цветные надписи меняют восприятие опасности.",
+    "implementation_lesson": "Для хоррора разделять игровой сигнал опасности, реплики и декор; двери/сцены должны синхронизировать переход камеры и доступное действие.",
+    "limits": "Это сезонный Candy Vault с авторской русской озвучкой/субтитрами; локализацию автора нельзя считать официальным UI, базовый Hotel этим не покрыт.",
+    "coverage": "sampled_visual_review_not_exhaustive",
+    "client_playtest": false,
+    "evidence_directory": "videos/38"
+  }
+}

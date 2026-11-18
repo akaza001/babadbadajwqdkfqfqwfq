@@ -1,0 +1,802 @@
+[
+  {
+    "game_place_id": "107778070777162",
+    "recipe": "egg",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/01.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "4924922222",
+    "recipe": "rp",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/02.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "2753915549",
+    "recipe": "rpg",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/03.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "142823291",
+    "recipe": "mystery",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/04.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "920587237",
+    "recipe": "collect",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/05.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "120219252362013",
+    "recipe": "collect",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/06.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "17625359962",
+    "recipe": "fps",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/07.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "79546208627805",
+    "recipe": "survival",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/08.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "109983668079237",
+    "recipe": "egg",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/09.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "9391468976",
+    "recipe": "fighter",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/10.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "119958473240233",
+    "recipe": "horror",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/11.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "8304191830",
+    "recipe": "defense",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/12.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "114326934417838",
+    "recipe": "egg",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/13.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "16116270224",
+    "recipe": "horror",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/14.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "15101393044",
+    "recipe": "fashion",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/15.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "16732694052",
+    "recipe": "fishing",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/16.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "10449761463",
+    "recipe": "fighter",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/17.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "121864768012064",
+    "recipe": "fishing",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/18.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "7041939546",
+    "recipe": "fashion",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/19.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "13379208636",
+    "recipe": "rpg",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/20.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "93978595733734",
+    "recipe": "asym",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/21.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "8737899170",
+    "recipe": "collect",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/22.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "9872472334",
+    "recipe": "survival",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/23.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "126987974021910",
+    "recipe": "sports",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/24.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "1962086868",
+    "recipe": "obby",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/25.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "73956553001240",
+    "recipe": "sports",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/26.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "127994242634536",
+    "recipe": "unknown",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "missing",
+    "visual_review": "visual/reviews/27.json",
+    "visual_evidence_status": "provisional_identity"
+  },
+  {
+    "game_place_id": "3260590327",
+    "recipe": "defense",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/28.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "15532962292",
+    "recipe": "rng",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/29.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "135856908115931",
+    "recipe": "fps",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/30.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "72858262610964",
+    "recipe": "collect",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/31.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "8481844229",
+    "recipe": "rp",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/32.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "6961824067",
+    "recipe": "physics",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/33.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "18687417158",
+    "recipe": "asym",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/34.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "122840796290491",
+    "recipe": "vehicle",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/35.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "13967668166",
+    "recipe": "rp",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/36.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "70650894743738",
+    "recipe": "evolution",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/37.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "6516141723",
+    "recipe": "horror",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/38.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "132929771812494",
+    "recipe": "defense",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/39.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "94891079210424",
+    "recipe": "work",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/40.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "82347957379349",
+    "recipe": "collect",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/41.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "113290951185459",
+    "recipe": "rng",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/42.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "1537690962",
+    "recipe": "collect",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/43.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "95082159892680",
+    "recipe": "obby",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/44.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "116448925875915",
+    "recipe": "evolution",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/45.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "107535308163741",
+    "recipe": "asym",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/46.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "83048653078891",
+    "recipe": "crime",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/47.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "104715542330896",
+    "recipe": "crime",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/48.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "4520749081",
+    "recipe": "rpg",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/49.json",
+    "visual_evidence_status": "sampled_recording"
+  },
+  {
+    "game_place_id": "80681221431821",
+    "recipe": "sports",
+    "graph_nodes": [
+      "map",
+      "ui",
+      "animation",
+      "items",
+      "pets",
+      "integration"
+    ],
+    "relationship": "proposed_implementation",
+    "evidence_status": "public_description",
+    "visual_review": "visual/reviews/50.json",
+    "visual_evidence_status": "sampled_recording"
+  }
+]
