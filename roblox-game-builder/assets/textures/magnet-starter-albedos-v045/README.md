@@ -1,0 +1,7 @@
+# Starter albedos 0.4.5
+
+Four real generated near-white grayscale color/albedo PNGs, multiplied by existing material colors: timber, bark, stone, foliage. Roblox imports are in manifest.json. Original required square normal map119928944196293 is retained separately at2studs/tile; never use these color maps as normals, never use a normal map as color. Item geometry and GUI are excluded from the world normal policy. Base/remote biome variants are preserved.
+
+shared/SurfaceStyle.luau installs the variants in Edit. StarterMaterials.apply(MagnetWorld) is a PROJECT-SPECIFIC Edit bake adapter: it depends on this game's named hierarchy, shared modules and saved environment mesh IDs. Shared sources are supplied for reproducibility, not a standalone generic terrain builder. StarterMaterials is called by the originating WorldBuilder after BoardwalkFinish; it refreshes only the main lake ripple decoration. Other biome palettes and geometry are unchanged. No new world geometry is introduced by this pass. The bake is idempotent12023->12023 descendants; fresh world10991 parts/9biomes/9portals.
+
+Texture sizes1254x1254. Generated with the built-in image_gen tool; original prompts and edge/mean measurements are stored. Edges are low contrast, not guaranteed pixel-identical. Actual scene-preview.jpg shows a close sample; distant/FPS/physical-device QA is not complete. IDs may require ownership/availability checks in a different universe; portable PNG sources are supplied.

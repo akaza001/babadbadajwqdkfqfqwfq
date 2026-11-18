@@ -1,0 +1,235 @@
+{
+  "version": "r01",
+  "status": "approved",
+  "rows": [
+    {
+      "biomeId": "BIO-02",
+      "biome": "Ледяное озеро",
+      "items": [
+        {
+          "id": "F-13",
+          "name": "Ледобур",
+          "description": "a compact hand-operated ice auger, cyan painted steel, ivory cross-handle, short chunky helical bit"
+        },
+        {
+          "id": "F-14",
+          "name": "Металлический термос",
+          "description": "a squat brushed steel expedition thermos, navy rubber base, copper cap, small fixed metal loop"
+        },
+        {
+          "id": "F-15",
+          "name": "Полярная радиостанция",
+          "description": "a boxy portable polar expedition radio, ivory body with teal panel, two dark dials, short antenna and orange metal carry handle"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: production multi-view reference board for three collectible find models in a bright blocky Roblox magnet-fishing game. Biome: Frostlake.\nCreate ONE coherent wide high-resolution sheet with exactly THREE horizontal rows and FIVE equally sized columns. Each row depicts the SAME SINGLE object across views, invariant design, proportions and color: column1 orthographic FRONT, column2 SIDE, column3 BACK, column4 clean THREE-QUARTER, column5 exactly the same object and three-quarter view HEAVILY RUSTED, 65-75% of exposed metal coated with readable reddish brown rust and a few chips. Four clean views and one rusty view per row. All 15 objects fully visible, same scale per row, generous alpha padding between cells. View labels FRONT / SIDE / BACK / 3/4 / RUST; row IDs only F-XX. No other text.\nRow 1: F-13, a miniature manual ice-fishing auger, a simple short blunt blue spiral around a metal stem, rounded ivory crank handle, friendly chunky sporting equipment.\nRow 2: F-14, a squat brushed steel expedition thermos, navy rubber base, copper cap, small fixed metal loop.\nRow 3: F-15, a boxy portable polar expedition radio, ivory body with teal panel, two dark dials, short antenna and orange metal carry handle.\nStyle: friendly stylized low-poly 3D collectible, chunky simple buildable shapes, crisp broad planar faces, modest rounded edges, clear silhouette even at small UI icon size, attractive restrained toy-like metal, ivory and muted teal accents. Not photorealistic. No dense microtexture, no bevel noise, no square-stud relief on these collectible usable items. All have substantial magnetic metal. Clean and rusty objects share precisely the same geometry, attachments and orientation; rust is surface appearance, never melted/destroyed geometry.\nBackdrop: genuine fully transparent alpha; no scenery, floor plane, gradient, white background, display cards, decoration or environmental props. Soft neutral studio light and tiny subtle contact shadows only. Composition is technical reference, not a collage of unrelated props. Do not crop any object. No logos or watermark.",
+      "status": "approved",
+      "file": "references/r01/BIO-02.png",
+      "alphaExtrema": [
+        0,
+        255
+      ],
+      "approval": "User explicitly approved all24 F-13–F-36 in current chat on2026-11-14",
+      "project_source_file": "art/references/biome-finds-2026-11-14/r01/BIO-02.png"
+    },
+    {
+      "biomeId": "BIO-03",
+      "biome": "Озеро джунглей",
+      "items": [
+        {
+          "id": "F-16",
+          "name": "Компас экспедиции",
+          "description": "an open brass expedition compass, octagonal case, cream face, dark green needle, hinged lid and metal tether loop"
+        },
+        {
+          "id": "F-17",
+          "name": "Сигнальный фонарь",
+          "description": "a squat brass and dark green signal lantern, pale amber glass, protective chunky metal cage, loop handle"
+        },
+        {
+          "id": "F-18",
+          "name": "Механизм древних ворот",
+          "description": "a compact ancient gate mechanism, two interlocking bronze gears in a rectangular moss green metal frame, visible central spindle"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: production multi-view reference board for three collectible find models in a bright blocky Roblox magnet-fishing game. Biome: Jungle Basin.\nCreate ONE coherent wide high-resolution sheet with exactly THREE horizontal rows and FIVE equally sized columns. Each row depicts the SAME SINGLE object across views, invariant design, proportions and color: column1 orthographic FRONT, column2 SIDE, column3 BACK, column4 clean THREE-QUARTER, column5 exactly the same object and three-quarter view HEAVILY RUSTED, 65-75% of exposed metal coated with readable reddish brown rust and a few chips. Four clean views and one rusty view per row. All 15 objects fully visible, same scale per row, generous alpha padding between cells. View labels FRONT / SIDE / BACK / 3/4 / RUST; row IDs only F-XX. No other text.\nRow 1: F-16, an open brass expedition compass, octagonal case, cream face, dark green needle, hinged lid and metal tether loop.\nRow 2: F-17, a squat brass and dark green signal lantern, pale amber glass, protective chunky metal cage, loop handle.\nRow 3: F-18, a compact ancient gate mechanism, two interlocking bronze gears in a rectangular moss green metal frame, visible central spindle.\nStyle: friendly stylized low-poly 3D collectible, chunky simple buildable shapes, crisp broad planar faces, modest rounded edges, clear silhouette even at small UI icon size, attractive restrained toy-like metal, ivory and muted teal accents. Not photorealistic. No dense microtexture, no bevel noise, no square-stud relief on these collectible usable items. All have substantial magnetic metal. Clean and rusty objects share precisely the same geometry, attachments and orientation; rust is surface appearance, never melted/destroyed geometry.\nBackdrop: genuine fully transparent alpha; no scenery, floor plane, gradient, white background, display cards, decoration or environmental props. Soft neutral studio light and tiny subtle contact shadows only. Composition is technical reference, not a collage of unrelated props. Do not crop any object. No logos or watermark.",
+      "status": "approved",
+      "file": "references/r01/BIO-03.png",
+      "approval": "User explicitly approved all24 F-13–F-36 in current chat on2026-11-14",
+      "project_source_file": "art/references/biome-finds-2026-11-14/r01/BIO-03.png"
+    },
+    {
+      "biomeId": "BIO-04",
+      "biome": "Вулканическое озеро",
+      "items": [
+        {
+          "id": "F-19",
+          "name": "Шахтёрская лампа",
+          "description": "a sturdy miners safety lamp, dark gray steel cage, warm amber glass chamber, orange handle ring, chunky foot"
+        },
+        {
+          "id": "F-20",
+          "name": "Буровая коронка",
+          "description": "a short heavy cylindrical drill crown, dark steel with six broad copper orange cutting teeth, central hexagonal socket"
+        },
+        {
+          "id": "F-21",
+          "name": "Контейнер образцов",
+          "description": "a chunky sealed metal geological sample case, gray steel, orange corner guards, two latches, carry handle, no lettering"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: production multi-view reference board for three collectible find models in a bright blocky Roblox magnet-fishing game. Biome: Ember Lake.\nCreate ONE coherent wide high-resolution sheet with exactly THREE horizontal rows and FIVE equally sized columns. Each row depicts the SAME SINGLE object across views, invariant design, proportions and color: column1 orthographic FRONT, column2 SIDE, column3 BACK, column4 clean THREE-QUARTER, column5 exactly the same object and three-quarter view HEAVILY RUSTED, 65-75% of exposed metal coated with readable reddish brown rust and a few chips. Four clean views and one rusty view per row. All 15 objects fully visible, same scale per row, generous alpha padding between cells. View labels FRONT / SIDE / BACK / 3/4 / RUST; row IDs only F-XX. No other text.\nRow 1: F-19, a sturdy miners safety lamp, dark gray steel cage, warm amber glass chamber, orange handle ring, chunky foot.\nRow 2: F-20, a short heavy cylindrical drill crown, dark steel with six broad copper orange cutting teeth, central hexagonal socket.\nRow 3: F-21, a chunky sealed metal geological sample case, gray steel, orange corner guards, two latches, carry handle, no lettering.\nStyle: friendly stylized low-poly 3D collectible, chunky simple buildable shapes, crisp broad planar faces, modest rounded edges, clear silhouette even at small UI icon size, attractive restrained toy-like metal, ivory and muted teal accents. Not photorealistic. No dense microtexture, no bevel noise, no square-stud relief on these collectible usable items. All have substantial magnetic metal. Clean and rusty objects share precisely the same geometry, attachments and orientation; rust is surface appearance, never melted/destroyed geometry.\nBackdrop: genuine fully transparent alpha; no scenery, floor plane, gradient, white background, display cards, decoration or environmental props. Soft neutral studio light and tiny subtle contact shadows only. Composition is technical reference, not a collage of unrelated props. Do not crop any object. No logos or watermark.",
+      "status": "approved",
+      "file": "references/r01/BIO-04.png",
+      "approval": "User explicitly approved all24 F-13–F-36 in current chat on2026-11-14",
+      "project_source_file": "art/references/biome-finds-2026-11-14/r01/BIO-04.png"
+    },
+    {
+      "biomeId": "BIO-05",
+      "biome": "Туманное болото",
+      "items": [
+        {
+          "id": "F-22",
+          "name": "Керосиновый фонарь",
+          "description": "an old squat kerosene lantern, olive painted metal, cream glass globe, curved cage and loop carry handle"
+        },
+        {
+          "id": "F-23",
+          "name": "Рыбацкий капкан",
+          "description": "a small safe-looking cylindrical vintage fish trap basket, dull iron bars, rounded closed wire entrance, no sharp jaw or weapon shape"
+        },
+        {
+          "id": "F-24",
+          "name": "Болотный колокол",
+          "description": "a squat antique hanging bell with wide flared iron rim, aged bronze gray metal, green patina, loop mounting and visible clapper"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: production multi-view reference board for three collectible find models in a bright blocky Roblox magnet-fishing game. Biome: Mistmoor.\nCreate ONE coherent wide high-resolution sheet with exactly THREE horizontal rows and FIVE equally sized columns. Each row depicts the SAME SINGLE object across views, invariant design, proportions and color: column1 orthographic FRONT, column2 SIDE, column3 BACK, column4 clean THREE-QUARTER, column5 exactly the same object and three-quarter view HEAVILY RUSTED, 65-75% of exposed metal coated with readable reddish brown rust and a few chips. Four clean views and one rusty view per row. All 15 objects fully visible, same scale per row, generous alpha padding between cells. View labels FRONT / SIDE / BACK / 3/4 / RUST; row IDs only F-XX. No other text.\nRow 1: F-22, an old squat kerosene lantern, olive painted metal, cream glass globe, curved cage and loop carry handle.\nRow 2: F-23, a small safe-looking cylindrical vintage fish trap basket, dull iron bars, rounded closed wire entrance, no sharp jaw or weapon shape.\nRow 3: F-24, a squat antique hanging bell with wide flared iron rim, aged bronze gray metal, green patina, loop mounting and visible clapper.\nStyle: friendly stylized low-poly 3D collectible, chunky simple buildable shapes, crisp broad planar faces, modest rounded edges, clear silhouette even at small UI icon size, attractive restrained toy-like metal, ivory and muted teal accents. Not photorealistic. No dense microtexture, no bevel noise, no square-stud relief on these collectible usable items. All have substantial magnetic metal. Clean and rusty objects share precisely the same geometry, attachments and orientation; rust is surface appearance, never melted/destroyed geometry.\nBackdrop: genuine fully transparent alpha; no scenery, floor plane, gradient, white background, display cards, decoration or environmental props. Soft neutral studio light and tiny subtle contact shadows only. Composition is technical reference, not a collage of unrelated props. Do not crop any object. No logos or watermark.",
+      "status": "approved",
+      "file": "references/r01/BIO-05.png",
+      "approval": "User explicitly approved all24 F-13–F-36 in current chat on2026-11-14",
+      "project_source_file": "art/references/biome-finds-2026-11-14/r01/BIO-05.png"
+    },
+    {
+      "biomeId": "BIO-06",
+      "biome": "Затонувший оазис",
+      "items": [
+        {
+          "id": "F-25",
+          "name": "Латунный кувшин",
+          "description": "a rounded brass caravan water pitcher, short spout, curved metal handle, turquoise narrow accent ring"
+        },
+        {
+          "id": "F-26",
+          "name": "Астролябия",
+          "description": "a thick compact brass astrolabe, layered circular face, simple raised geometric marks and rotating pointer, top suspension ring"
+        },
+        {
+          "id": "F-27",
+          "name": "Механизм водяного колеса",
+          "description": "a compact brass waterwheel gearbox, square sandstone colored metal support frame, one broad gear and axle with crank, turquoise bearing caps"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: production multi-view reference board for three collectible find models in a bright blocky Roblox magnet-fishing game. Biome: Sunken Oasis.\nCreate ONE coherent wide high-resolution sheet with exactly THREE horizontal rows and FIVE equally sized columns. Each row depicts the SAME SINGLE object across views, invariant design, proportions and color: column1 orthographic FRONT, column2 SIDE, column3 BACK, column4 clean THREE-QUARTER, column5 exactly the same object and three-quarter view HEAVILY RUSTED, 65-75% of exposed metal coated with readable reddish brown rust and a few chips. Four clean views and one rusty view per row. All 15 objects fully visible, same scale per row, generous alpha padding between cells. View labels FRONT / SIDE / BACK / 3/4 / RUST; row IDs only F-XX. No other text.\nRow 1: F-25, a rounded brass caravan water pitcher, short spout, curved metal handle, turquoise narrow accent ring.\nRow 2: F-26, a thick compact brass astrolabe, layered circular face, simple raised geometric marks and rotating pointer, top suspension ring.\nRow 3: F-27, a compact brass waterwheel gearbox, square sandstone colored metal support frame, one broad gear and axle with crank, turquoise bearing caps.\nStyle: friendly stylized low-poly 3D collectible, chunky simple buildable shapes, crisp broad planar faces, modest rounded edges, clear silhouette even at small UI icon size, attractive restrained toy-like metal, ivory and muted teal accents. Not photorealistic. No dense microtexture, no bevel noise, no square-stud relief on these collectible usable items. All have substantial magnetic metal. Clean and rusty objects share precisely the same geometry, attachments and orientation; rust is surface appearance, never melted/destroyed geometry.\nBackdrop: genuine fully transparent alpha; no scenery, floor plane, gradient, white background, display cards, decoration or environmental props. Soft neutral studio light and tiny subtle contact shadows only. Composition is technical reference, not a collage of unrelated props. Do not crop any object. No logos or watermark.",
+      "status": "approved",
+      "file": "references/r01/BIO-06.png",
+      "alphaExtrema": [
+        0,
+        255
+      ],
+      "approval": "User explicitly approved all24 F-13–F-36 in current chat on2026-11-14",
+      "project_source_file": "art/references/biome-finds-2026-11-14/r01/BIO-06.png"
+    },
+    {
+      "biomeId": "BIO-07",
+      "biome": "Грибное озеро",
+      "items": [
+        {
+          "id": "F-28",
+          "name": "Банка светящихся спор",
+          "description": "a thick clear pale violet sample jar, broad dark steel screw lid and metal bottom rim, several glowing lilac spores suspended inside"
+        },
+        {
+          "id": "F-29",
+          "name": "Железный чайник",
+          "description": "a squat iron laboratory kettle, indigo enamel body, short chunky spout, hinged metal lid, arched fixed steel handle"
+        },
+        {
+          "id": "F-30",
+          "name": "Измеритель света",
+          "description": "a compact portable analog light meter, silver steel housing, purple handle, small ivory gauge face with one pointer, round sensor head"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: production multi-view reference board for three collectible find models in a bright blocky Roblox magnet-fishing game. Biome: Glowshroom Hollow.\nCreate ONE coherent wide high-resolution sheet with exactly THREE horizontal rows and FIVE equally sized columns. Each row depicts the SAME SINGLE object across views, invariant design, proportions and color: column1 orthographic FRONT, column2 SIDE, column3 BACK, column4 clean THREE-QUARTER, column5 exactly the same object and three-quarter view HEAVILY RUSTED, 65-75% of exposed metal coated with readable reddish brown rust and a few chips. Four clean views and one rusty view per row. All 15 objects fully visible, same scale per row, generous alpha padding between cells. View labels FRONT / SIDE / BACK / 3/4 / RUST; row IDs only F-XX. No other text.\nRow 1: F-28, a thick clear pale violet sample jar, broad dark steel screw lid and metal bottom rim, several glowing lilac spores suspended inside.\nRow 2: F-29, a squat iron laboratory kettle, indigo enamel body, short chunky spout, hinged metal lid, arched fixed steel handle.\nRow 3: F-30, a compact portable analog light meter, silver steel housing, purple handle, small ivory gauge face with one pointer, round sensor head.\nStyle: friendly stylized low-poly 3D collectible, chunky simple buildable shapes, crisp broad planar faces, modest rounded edges, clear silhouette even at small UI icon size, attractive restrained toy-like metal, ivory and muted teal accents. Not photorealistic. No dense microtexture, no bevel noise, no square-stud relief on these collectible usable items. All have substantial magnetic metal. Clean and rusty objects share precisely the same geometry, attachments and orientation; rust is surface appearance, never melted/destroyed geometry.\nBackdrop: genuine fully transparent alpha; no scenery, floor plane, gradient, white background, display cards, decoration or environmental props. Soft neutral studio light and tiny subtle contact shadows only. Composition is technical reference, not a collage of unrelated props. Do not crop any object. No logos or watermark.",
+      "status": "approved",
+      "file": "references/r01/BIO-07.png",
+      "alphaExtrema": [
+        0,
+        255
+      ],
+      "approval": "User explicitly approved all24 F-13–F-36 in current chat on2026-11-14",
+      "project_source_file": "art/references/biome-finds-2026-11-14/r01/BIO-07.png"
+    },
+    {
+      "biomeId": "BIO-08",
+      "biome": "Кристальное озеро",
+      "items": [
+        {
+          "id": "F-31",
+          "name": "Геологический молоток",
+          "description": "a short broad geological hammer, gray steel head with blunt chisel end, teal wrapped grip and metal lower handle cap"
+        },
+        {
+          "id": "F-32",
+          "name": "Клетка с кристаллом",
+          "description": "a small chunky dark steel transport cage with handle, one large cyan crystal held in a solid metal cradle, four broad vertical bars"
+        },
+        {
+          "id": "F-33",
+          "name": "Искатель жил",
+          "description": "a compact mechanical ore detector, brass and gray steel case, one analog dial, loop probe on short rigid arm, cyan indicator crystal"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: production multi-view reference board for three collectible find models in a bright blocky Roblox magnet-fishing game. Biome: Crystal Depths.\nCreate ONE coherent wide high-resolution sheet with exactly THREE horizontal rows and FIVE equally sized columns. Each row depicts the SAME SINGLE object across views, invariant design, proportions and color: column1 orthographic FRONT, column2 SIDE, column3 BACK, column4 clean THREE-QUARTER, column5 exactly the same object and three-quarter view HEAVILY RUSTED, 65-75% of exposed metal coated with readable reddish brown rust and a few chips. Four clean views and one rusty view per row. All 15 objects fully visible, same scale per row, generous alpha padding between cells. View labels FRONT / SIDE / BACK / 3/4 / RUST; row IDs only F-XX. No other text.\nRow 1: F-31, a short broad geological hammer, gray steel head with blunt chisel end, teal wrapped grip and metal lower handle cap.\nRow 2: F-32, a small chunky dark steel transport cage with handle, one large cyan crystal held in a solid metal cradle, four broad vertical bars.\nRow 3: F-33, a compact mechanical ore detector, brass and gray steel case, one analog dial, loop probe on short rigid arm, cyan indicator crystal.\nStyle: friendly stylized low-poly 3D collectible, chunky simple buildable shapes, crisp broad planar faces, modest rounded edges, clear silhouette even at small UI icon size, attractive restrained toy-like metal, ivory and muted teal accents. Not photorealistic. No dense microtexture, no bevel noise, no square-stud relief on these collectible usable items. All have substantial magnetic metal. Clean and rusty objects share precisely the same geometry, attachments and orientation; rust is surface appearance, never melted/destroyed geometry.\nBackdrop: genuine fully transparent alpha; no scenery, floor plane, gradient, white background, display cards, decoration or environmental props. Soft neutral studio light and tiny subtle contact shadows only. Composition is technical reference, not a collage of unrelated props. Do not crop any object. No logos or watermark.",
+      "status": "approved",
+      "file": "references/r01/BIO-08.png",
+      "alphaExtrema": [
+        0,
+        255
+      ],
+      "approval": "User explicitly approved all24 F-13–F-36 in current chat on2026-11-14",
+      "project_source_file": "art/references/biome-finds-2026-11-14/r01/BIO-08.png"
+    },
+    {
+      "biomeId": "BIO-10",
+      "biome": "Небесное озеро",
+      "items": [
+        {
+          "id": "F-34",
+          "name": "Металлический барометр",
+          "description": "a round brass weather barometer in a thick ivory metal housing, pale cyan analog dial, simple dark pointer, bottom mounting foot"
+        },
+        {
+          "id": "F-35",
+          "name": "Деталь дирижабля",
+          "description": "a compact airship propeller hub, brass central cylinder with four short rounded ivory metal blades and cyan bolt caps"
+        },
+        {
+          "id": "F-36",
+          "name": "Звёздный глобус",
+          "description": "a small mechanical celestial globe, dark blue spherical core with sparse raised gold star dots, three brass armillary rings, squat ivory metal pedestal"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: production multi-view reference board for three collectible find models in a bright blocky Roblox magnet-fishing game. Biome: Skyfall Lake.\nCreate ONE coherent wide high-resolution sheet with exactly THREE horizontal rows and FIVE equally sized columns. Each row depicts the SAME SINGLE object across views, invariant design, proportions and color: column1 orthographic FRONT, column2 SIDE, column3 BACK, column4 clean THREE-QUARTER, column5 exactly the same object and three-quarter view HEAVILY RUSTED, 65-75% of exposed metal coated with readable reddish brown rust and a few chips. Four clean views and one rusty view per row. All 15 objects fully visible, same scale per row, generous alpha padding between cells. View labels FRONT / SIDE / BACK / 3/4 / RUST; row IDs only F-XX. No other text.\nRow 1: F-34, a round brass weather barometer in a thick ivory metal housing, pale cyan analog dial, simple dark pointer, bottom mounting foot.\nRow 2: F-35, a compact airship propeller hub, brass central cylinder with four short rounded ivory metal blades and cyan bolt caps.\nRow 3: F-36, a small mechanical celestial globe, dark blue spherical core with sparse raised gold star dots, three brass armillary rings, squat ivory metal pedestal.\nStyle: friendly stylized low-poly 3D collectible, chunky simple buildable shapes, crisp broad planar faces, modest rounded edges, clear silhouette even at small UI icon size, attractive restrained toy-like metal, ivory and muted teal accents. Not photorealistic. No dense microtexture, no bevel noise, no square-stud relief on these collectible usable items. All have substantial magnetic metal. Clean and rusty objects share precisely the same geometry, attachments and orientation; rust is surface appearance, never melted/destroyed geometry.\nBackdrop: genuine fully transparent alpha; no scenery, floor plane, gradient, white background, display cards, decoration or environmental props. Soft neutral studio light and tiny subtle contact shadows only. Composition is technical reference, not a collage of unrelated props. Do not crop any object. No logos or watermark.",
+      "status": "approved",
+      "file": "references/r01/BIO-10-alpha.png",
+      "alphaExtrema": [
+        0,
+        255
+      ],
+      "originalFile": "art/references/biome-finds-2026-11-14/r01/BIO-10.png",
+      "approval": "User explicitly approved all24 F-13–F-36 in current chat on2026-11-14",
+      "project_source_file": "art/references/biome-finds-2026-11-14/r01/BIO-10-alpha.png"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "kind": "albedo/color; original normal map preserved separately",
+  "generated_with": "built-in image_gen",
+  "entries": [
+    {
+      "id": "timber",
+      "prompt": "Use case: stylized-concept. Asset type: a single seamless tileable COLOR/ALBEDO texture for a bright stylized low-poly Roblox game. Orthographic flat material swatch filling entire square image, edge-to-edge. TRUE seamless repeat on both axes. NO border, perspective, shadows, highlights, lighting gradient, ambient occlusion, objects, text, watermark or background scene. This is NOT a normal map. Very subtle achromatic near-white texture: keep all pixels in neutral grayscale between RGB215 and255, average at least240. It will multiply an existing colored material, so do not bake brown/green or strong dark lines. Readable restrained stylized surface details, clean game art. No square studs or holes; the game supplies its own separate square normal map. Light timber cut along the grain, long gently wavering fine grain lines running vertically, a few soft simple growth contours, very low contrast, no large knots, no plank seams or nails. Texture must wrap without a visible edge.",
+      "source": "/Users/andrej/.codex/generated_images/01a1cb92-24c5-7243-b0d8-8b4b700f6ee3/exec-439a4a25-fb35-4950-afa4-328656ea651e.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mean_rgb": [
+        240.642697435193,
+        240.5638804311053,
+        240.64950054562243
+      ],
+      "edge_delta_lr": [
+        2.212121212121212,
+        2.1913875598086126,
+        2.192185007974482
+      ],
+      "edge_delta_tb": [
+        1.4457735247208932,
+        1.631578947368421,
+        1.5287081339712918
+      ],
+      "file": "timber.png",
+      "roblox_asset_id": 118637355280789,
+      "sha256": "d4f0ae552ee821c1932c4285d5c8c1745ae62908caff15eaa7e0de560112b9af",
+      "size_bytes": 1646771
+    },
+    {
+      "id": "bark",
+      "prompt": "Use case: stylized-concept. Asset type: a single seamless tileable COLOR/ALBEDO texture for a bright stylized low-poly Roblox game. Orthographic flat material swatch filling entire square image, edge-to-edge. TRUE seamless repeat on both axes. NO border, perspective, shadows, highlights, lighting gradient, ambient occlusion, objects, text, watermark or background scene. This is NOT a normal map. Very subtle achromatic near-white texture: keep all pixels in neutral grayscale between RGB215 and255, average at least240. It will multiply an existing colored material, so do not bake brown/green or strong dark lines. Readable restrained stylized surface details, clean game art. No square studs or holes; the game supplies its own separate square normal map. Stylized tree bark: soft irregular vertically flowing bark ribbons and short interrupted branching fibers, slightly coarser than timber. Broad simplified forms, no cracks black gaps, subtle flat pale-gray lines on near-white.",
+      "source": "/Users/andrej/.codex/generated_images/01a1cb92-24c5-7243-b0d8-8b4b700f6ee3/exec-e824d9ce-f8ae-432a-9eb6-46168ade821d.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mean_rgb": [
+        244.25648324087004,
+        244.05617876066125,
+        244.09274881781806
+      ],
+      "edge_delta_lr": [
+        0.9170653907496013,
+        1.0007974481658692,
+        0.9074960127591707
+      ],
+      "edge_delta_tb": [
+        0.6562998405103668,
+        0.9170653907496013,
+        0.7543859649122807
+      ],
+      "file": "bark.png",
+      "roblox_asset_id": 99387544784525,
+      "sha256": "23394a6ed2c7c634518253bd486facee8194d069c3ed33e8793303a08f28f339",
+      "size_bytes": 1062505
+    },
+    {
+      "id": "stone",
+      "prompt": "Use case: stylized-concept. Asset type: a single seamless tileable COLOR/ALBEDO texture for a bright stylized low-poly Roblox game. Orthographic flat material swatch filling entire square image, edge-to-edge. TRUE seamless repeat on both axes. NO border, perspective, shadows, highlights, lighting gradient, ambient occlusion, objects, text, watermark or background scene. This is NOT a normal map. Very subtle achromatic near-white texture: keep all pixels in neutral grayscale between RGB215 and255, average at least240. It will multiply an existing colored material, so do not bake brown/green or strong dark lines. Readable restrained stylized surface details, clean game art. No square studs or holes; the game supplies its own separate square normal map. Stylized layered stone: large softly edged irregular mineral patches and a few short staggered stratification lines, broad natural variation in near-white gray only, no brick grid, no deep cracks, no pebble objects, no outlines at tile edges.",
+      "source": "/Users/andrej/.codex/generated_images/01a1cb92-24c5-7243-b0d8-8b4b700f6ee3/exec-b18096d5-d61b-45cf-988f-dea6f7f6a507.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mean_rgb": [
+        237.3957199799557,
+        237.04470606340413,
+        237.07253789468598
+      ],
+      "edge_delta_lr": [
+        0.7113237639553429,
+        0.7695374800637959,
+        0.8213716108452951
+      ],
+      "edge_delta_tb": [
+        1.7312599681020733,
+        2.055821371610845,
+        1.7783094098883572
+      ],
+      "file": "stone.png",
+      "roblox_asset_id": 85528190109653,
+      "sha256": "8ac4c8eb48d6aae77f6f552a8d729c0cc54afd1d33c6e84e529b50c3b8986615",
+      "size_bytes": 1438457
+    },
+    {
+      "id": "foliage",
+      "prompt": "Use case: stylized-concept. Asset type: a single seamless tileable COLOR/ALBEDO texture for a bright stylized low-poly Roblox game. Orthographic flat material swatch filling entire square image, edge-to-edge. TRUE seamless repeat on both axes. NO border, perspective, shadows, highlights, lighting gradient, ambient occlusion, objects, text, watermark or background scene. This is NOT a normal map. Very subtle achromatic near-white texture: keep all pixels in neutral grayscale between RGB215 and255, average at least240. It will multiply an existing colored material, so do not bake brown/green or strong dark lines. Readable restrained stylized surface details, clean game art. No square studs or holes; the game supplies its own separate square normal map. Stylized fine foliage/grass albedo: understated sparse clustered leaf-like mottling, very small soft near-white oval clusters and shallow tonal variation, no literal blades sticking out, no ground shadows, no repeating large symbols. Clean near-white grayscale texture.",
+      "source": "/Users/andrej/.codex/generated_images/01a1cb92-24c5-7243-b0d8-8b4b700f6ee3/exec-8151f53e-9714-4f15-96ec-b129bc9aa705.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mean_rgb": [
+        244.37414054928536,
+        244.14583889766465,
+        244.1292902584139
+      ],
+      "edge_delta_lr": [
+        0.967304625199362,
+        0.9856459330143541,
+        1.043859649122807
+      ],
+      "edge_delta_tb": [
+        1.1012759170653907,
+        1.3269537480063796,
+        1.2017543859649122
+      ],
+      "file": "foliage.png",
+      "roblox_asset_id": 80297686646822,
+      "sha256": "b2d68337f7ce3ff67d7d91e3866ba58408a9b28e0f2b72e79f973ceda5ea91fe",
+      "size_bytes": 1299042
+    }
+  ],
+  "normal_dependency": "assets/materials/square-relief-normal.png",
+  "normal_asset_id": 119928944196293,
+  "studs_per_tile": 2,
+  "status": "uploaded and applied in starter scene; actual Edit/Play captures inspected",
+  "seam_verification": "Low-contrast edge differences measured in entries, visual sample inspected; not a proof of mathematically identical tile edges."
+}

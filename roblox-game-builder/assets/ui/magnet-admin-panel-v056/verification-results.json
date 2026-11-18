@@ -1,0 +1,38 @@
+{
+  "server": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"resetSafe\":true,\"catalogDynamic\":true,\"checks\":43,\"audit\":12,\"ordinaryDenied\":true,\"repeatSafe\":true,\"scalarDynamic\":true}"
+      }
+    ],
+    "isError": false
+  },
+  "camera": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"misses\":[],\"medianRatio\":0.8251579892862421,\"cases\":180,\"vertices\":260640,\"maxRatio\":0.9818494431104584,\"minRatio\":0.7508692818733087}"
+      }
+    ],
+    "isError": false
+  },
+  "cloud": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"fixtureUserId\":-56090,\"resetRejoin\":true,\"checks\":7,\"store\":\"MagnetWorkshopAdminQA_056_1794768225\",\"rejoin\":true}"
+      }
+    ],
+    "isError": false
+  },
+  "resetCleanup": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"roofHidden\":0,\"camera\":\"Enum.CameraType.Custom\",\"model\":false}"
+      }
+    ],
+    "isError": false
+  }
+}

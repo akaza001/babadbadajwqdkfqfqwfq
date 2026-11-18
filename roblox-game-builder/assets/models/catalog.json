@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "source": "Explicit user request in chat 01a1b1eb-33f2-7d31-a3f9-99f6588480f6, 2026-11-11",
+  "assets": [
+    {
+      "id": "waterfall",
+      "file": "waterfall.rbxm",
+      "original_name": "waterfall.rbxm",
+      "source_path": "/Users/andrej/Downloads/waterfall.rbxm",
+      "size_bytes": 11161,
+      "sha256": "32fbed81e88486da3180a344225d7417c0ec10614715377a3c24e96cf33fa501",
+      "format": "Roblox binary model",
+      "intended_use": "Водопад и связанное водное окружение; содержимое проверить перед вставкой.",
+      "inspection_status": "file signature and exact copy verified; instance contents, scripts, appearance and external asset availability not inspected",
+      "roblox_asset_id": null
+    },
+    {
+      "id": "stud-asset-pack",
+      "file": "stud-asset-pack-tu-kl.rbxm",
+      "original_name": "Stud Asset Pack! TU+ KL (1).rbxm",
+      "source_path": "/Users/andrej/Downloads/Stud Asset Pack! TU+ KL (1).rbxm",
+      "size_bytes": 52954,
+      "sha256": "39b462d31e5b33543e9563f11038505c5ec2862cd336a8778cece2f7a8679c56",
+      "format": "Roblox binary model",
+      "intended_use": "Приоритетный пользовательский набор для подходящих моделей окружения и декора; состав выбрать после осмотра.",
+      "inspection_status": "file signature and exact copy verified; instance contents, scripts, appearance and external asset availability not inspected",
+      "roblox_asset_id": null
+    },
+    {
+      "id": "ui-kit",
+      "file": "ui-kit.rbxm",
+      "original_name": "ui kit.rbxm",
+      "source_path": "/Users/andrej/Downloads/ui kit.rbxm",
+      "size_bytes": 38261,
+      "sha256": "f6881810f700ceaef6c529c187dfd66190a8c286cb23d163caa03de74242a974",
+      "format": "Roblox binary model",
+      "intended_use": "Пользовательский UI kit; компоненты и внешний вид проверить перед адаптацией интерфейса.",
+      "inspection_status": "file signature and exact copy verified; contents, scripts, appearance and external assets not inspected",
+      "roblox_asset_id": null
+    },
+    {
+      "id": "offline-money",
+      "file": "offline-money.rbxm",
+      "original_name": "offline money.rbxm",
+      "source_path": "/Users/andrej/Downloads/offline money.rbxm",
+      "size_bytes": 26344,
+      "sha256": "1f732183a233bfb3c43537c3dc1faf4f890eeeaa2cd44034d2ed73a5a8566d87",
+      "format": "Roblox binary model",
+      "intended_use": "Заготовка offline money; назначение, расчёт наград и серверную логику проверить перед использованием.",
+      "inspection_status": "file signature and exact copy verified; contents, scripts, appearance and external assets not inspected",
+      "roblox_asset_id": null
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "client": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"images\":{\"1\":{\"id\":\"99387544784525\",\"status\":\"Enum.AssetFetchStatus.Success\",\"loaded\":true},\"8\":{\"id\":\"129418297617131\",\"status\":\"Enum.AssetFetchStatus.Success\",\"loaded\":true},\"3\":{\"id\":\"101317459528460\",\"status\":\"Enum.AssetFetchStatus.Success\",\"loaded\":true},\"2\":{\"id\":\"80297686646822\",\"status\":\"Enum.AssetFetchStatus.Success\",\"loaded\":true},\"5\":{\"id\":\"86600307258385\",\"status\":\"Enum.AssetFetchStatus.Success\",\"loaded\":true},\"4\":{\"id\":\"85209484825827\",\"status\":\"Enum.AssetFetchStatus.Success\",\"loaded\":true},\"7\":{\"id\":\"134498134346881\",\"status\":\"Enum.AssetFetchStatus.Success\",\"loaded\":true},\"6\":{\"id\":\"88685326806695\",\"status\":\"Enum.AssetFetchStatus.Success\",\"loaded\":true}},\"animation\":{\"strokes\":184,\"alpha1\":0.8078209161758423,\"displacement\":0.07453331351280213,\"part\":\"Workspace.MagnetWorld.LakeRipples.BIO-01_Ripple2.Stroke1\",\"time1\":94.127685893327,\"alpha2\":0.7794164419174194,\"time2\":95.11077655665577}}"
+      }
+    ],
+    "isError": false
+  },
+  "oldAssetMetadata": [
+    {
+      "status": "fulfilled",
+      "value": {
+        "content": [
+          {
+            "type": "text",
+            "text": "GET https://apis.roblox.com/assets/v1/assets/99387544784525 -> 200 OK\n\n{\"path\":\"assets/99387544784525\",\"revisionId\":\"1\",\"revisionCreateTime\":\"2026-11-13T17:13:55.620Z\",\"assetId\":\"99387544784525\",\"displayName\":\"Assistant_77d48c94bdb450450aaacb0ad0d53ddc.png\",\"description\":\"This asset is uploaded by Roblox Assistant\",\"assetType\":\"Image\",\"creationContext\":{\"creator\":{\"userId\":\"747584853\"}},\"moderationResult\":{\"moderationState\":\"Approved\"},\"state\":\"Active\",\"isPublished\":true}"
+          }
+        ],
+        "isError": false
+      }
+    },
+    {
+      "status": "fulfilled",
+      "value": {
+        "content": [
+          {
+            "type": "text",
+            "text": "GET https://apis.roblox.com/assets/v1/assets/80297686646822 -> 200 OK\n\n{\"path\":\"assets/80297686646822\",\"revisionId\":\"1\",\"revisionCreateTime\":\"2026-11-13T17:14:22.486Z\",\"assetId\":\"80297686646822\",\"displayName\":\"Assistant_6f1bd16a5b183ad8eaab58ba7ed11ffa.png\",\"description\":\"This asset is uploaded by Roblox Assistant\",\"assetType\":\"Image\",\"creationContext\":{\"creator\":{\"userId\":\"747584853\"}},\"moderationResult\":{\"moderationState\":\"Approved\"},\"state\":\"Active\",\"isPublished\":true}"
+          }
+        ],
+        "isError": false
+      }
+    }
+  ],
+  "final": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"materials\":{\"MW_Finish_StarterBark\":{\"color\":\"rbxassetid://99387544784525\",\"scale\":2,\"normal\":\"rbxassetid://119928944196293\"},\"MW_SquareRelief_Plastic\":{\"color\":\"rbxassetid://85209484825827\",\"scale\":2,\"normal\":\"rbxassetid://119928944196293\"},\"MW_Finish_Timber\":{\"color\":\"rbxassetid://101317459528460\",\"scale\":2,\"normal\":\"rbxassetid://119928944196293\"},\"MW_Finish_Paint\":{\"color\":\"rbxassetid://85209484825827\",\"scale\":2,\"normal\":\"rbxassetid://119928944196293\"},\"MW_Finish_BiomeWood\":{\"color\":\"rbxassetid://101317459528460\",\"scale\":2,\"normal\":\"rbxassetid://119928944196293\"},\"MW_Finish_StarterLeaves\":{\"color\":\"rbxassetid://80297686646822\",\"scale\":2,\"normal\":\"rbxassetid://119928944196293\"},\"MW_Finish_Stone\":{\"color\":\"rbxassetid://85209484825827\",\"scale\":2,\"normal\":\"rbxassetid://119928944196293\"},\"MW_SquareRelief_SmoothPlastic\":{\"color\":\"\",\"scale\":2,\"normal\":\"rbxassetid://119928944196293\"},\"MW_Finish_StarterSand\":{\"color\":\"rbxassetid://88685326806695\",\"scale\":2,\"normal\":\"rbxassetid://119928944196293\"},\"MW_Finish_StarterGrass\":{\"color\":\"rbxassetid://86600307258385\",\"scale\":2,\"normal\":\"rbxassetid://119928944196293\"},\"MW_Finish_StarterWood\":{\"color\":\"rbxassetid://101317459528460\",\"scale\":2,\"normal\":\"rbxassetid://119928944196293\"},\"MW_SquareRelief_Fabric\":{\"color\":\"\",\"scale\":2,\"normal\":\"rbxassetid://119928944196293\"},\"MW_SquareRelief_Sand\":{\"color\":\"rbxassetid://88685326806695\",\"scale\":2,\"normal\":\"rbxassetid://119928944196293\"},\"MW_Finish_StarterPlastic\":{\"color\":\"\",\"scale\":2,\"normal\":\"rbxassetid://119928944196293\"},\"MW_SquareRelief_Grass\":{\"color\":\"rbxassetid://86600307258385\",\"scale\":2,\"normal\":\"rbxassetid://119928944196293\"},\"MW_Finish_StarterFabric\":{\"color\":\"\",\"scale\":2,\"normal\":\"rbxassetid://119928944196293\"},\"MW_Finish_BiomeLeaves\":{\"color\":\"rbxassetid://80297686646822\",\"scale\":2,\"normal\":\"rbxassetid://119928944196293\"},\"MW_Finish_Sandstone\":{\"color\":\"rbxassetid://88685326806695\",\"scale\":2,\"normal\":\"rbxassetid://119928944196293\"},\"MW_Finish_StarterMetal\":{\"color\":\"rbxassetid://129418297617131\",\"scale\":2,\"normal\":\"rbxassetid://119928944196293\"},\"MW_Finish_Water\":{\"color\":\"\",\"scale\":2,\"normal\":\"rbxassetid://119928944196293\"},\"MW_Finish_Bark\":{\"color\":\"rbxassetid://99387544784525\",\"scale\":2,\"normal\":\"rbxassetid://119928944196293\"},\"MW_SquareRelief_Wood\":{\"color\":\"rbxassetid://101317459528460\",\"scale\":2,\"normal\":\"rbxassetid://119928944196293\"},\"MW_SquareRelief_WoodPlanks\":{\"color\":\"rbxassetid://101317459528460\",\"scale\":2,\"normal\":\"rbxassetid://119928944196293\"},\"MW_Finish_StarterWoodPlanks\":{\"color\":\"rbxassetid://101317459528460\",\"scale\":2,\"normal\":\"rbxassetid://119928944196293\"},\"MW_Finish_Frost\":{\"color\":\"rbxassetid://134498134346881\",\"scale\":2,\"normal\":\"rbxassetid://119928944196293\"},\"MW_Finish_Foliage\":{\"color\":\"rbxassetid://80297686646822\",\"scale\":2,\"normal\":\"rbxassetid://119928944196293\"},\"MW_SquareRelief_Slate\":{\"color\":\"rbxassetid://85209484825827\",\"scale\":2,\"normal\":\"rbxassetid://119928944196293\"},\"MW_Finish_BiomeTimber\":{\"color\":\"rbxassetid://101317459528460\",\"scale\":2,\"normal\":\"rbxassetid://119928944196293\"},\"MW_Finish_BiomeStone\":{\"color\":\"rbxassetid://85209484825827\",\"scale\":2,\"normal\":\"rbxassetid://119928944196293\"},\"MW_Finish_StarterSmoothPlastic\":{\"color\":\"\",\"scale\":2,\"normal\":\"rbxassetid://119928944196293\"},\"MW_SquareRelief_Metal\":{\"color\":\"rbxassetid://129418297617131\",\"scale\":2,\"normal\":\"rbxassetid://119928944196293\"},\"MW_Finish_BiomeBark\":{\"color\":\"rbxassetid://99387544784525\",\"scale\":2,\"normal\":\"rbxassetid://119928944196293\"},\"MW_Finish_StarterSlate\":{\"color\":\"rbxassetid://85209484825827\",\"scale\":2,\"normal\":\"rbxassetid://119928944196293\"},\"MW_Finish_Ground\":{\"color\":\"rbxassetid://86600307258385\",\"scale\":2,\"normal\":\"rbxassetid://119928944196293\"}},\"sources\":{\"client/LakePresentation\":{\"hash\":4102381338,\"bytes\":2950},\"shared/ApprovedAssets\":{\"hash\":591619892,\"bytes\":8933},\"shared/MaterialRefinement\":{\"hash\":3633478358,\"bytes\":4141},\"client/WorkshopWindows\":{\"hash\":130805462,\"bytes\":18513},\"shared/EnvironmentAssets\":{\"hash\":2531861483,\"bytes\":6875},\"shared/BoardwalkFinish\":{\"hash\":3191170178,\"bytes\":13576},\"client/WindowTheme\":{\"hash\":4293412034,\"bytes\":4748},\"server/Bootstrap\":{\"hash\":1063460651,\"bytes\":1369},\"shared/SceneKit\":{\"hash\":4072429788,\"bytes\":7343},\"client/CastMeter\":{\"hash\":2110169069,\"bytes\":5359},\"shared/Config\":{\"hash\":1206606551,\"bytes\":8340},\"server/WorldMetadataData04\":{\"hash\":2332448635,\"bytes\":68102},\"server/WorldMetadataData03\":{\"hash\":4205968340,\"bytes\":120020},\"shared/RadialLayout\":{\"hash\":3742956629,\"bytes\":5273},\"shared/StarterPolish\":{\"hash\":3204136620,\"bytes\":5375},\"shared/EnvironmentFinish\":{\"hash\":78464221,\"bytes\":8059},\"server/WorldMetadataData02\":{\"hash\":39404263,\"bytes\":120020},\"client/BiomePresentation\":{\"hash\":4025235820,\"bytes\":1641},\"server/WorldMetadataData01\":{\"hash\":3996066735,\"bytes\":120020},\"server/PortalService\":{\"hash\":2492236731,\"bytes\":3382},\"shared/WaterfallAssets\":{\"hash\":489938006,\"bytes\":1499},\"client/ActivityUI\":{\"hash\":96691993,\"bytes\":12013},\"server/MagnetEquipment\":{\"hash\":3583254471,\"bytes\":4859},\"shared/BiomeAssets\":{\"hash\":2001391302,\"bytes\":11642},\"server/WorldMetadata\":{\"hash\":217816135,\"bytes\":960},\"server/WorldBuilder\":{\"hash\":128572728,\"bytes\":10076},\"client/Main\":{\"hash\":1883140587,\"bytes\":33373},\"client/PortalWalkthrough\":{\"hash\":4226779570,\"bytes\":5370},\"shared/GuideRules\":{\"hash\":632824873,\"bytes\":7669},\"server/ProfileStore\":{\"hash\":680878828,\"bytes\":11781},\"shared/PortalLayout\":{\"hash\":2670948931,\"bytes\":2671},\"shared/StarterMaterials\":{\"hash\":1267631955,\"bytes\":2635},\"client/AudioPresentation\":{\"hash\":2704562963,\"bytes\":8341},\"server/GameService\":{\"hash\":3462544781,\"bytes\":35560},\"shared/CastRules\":{\"hash\":1824793608,\"bytes\":3481},\"client/EquipmentUI\":{\"hash\":482541846,\"bytes\":3316},\"shared/AudioCatalog\":{\"hash\":1449859820,\"bytes\":1035},\"shared/MapAssets\":{\"hash\":2488902390,\"bytes\":14561},\"shared/BiomeWalls\":{\"hash\":1296613484,\"bytes\":5606},\"shared/ShoreAppearance\":{\"hash\":1307142242,\"bytes\":6322},\"shared/BiomeFinish\":{\"hash\":1241841209,\"bytes\":6092},\"shared/SurfaceJoints\":{\"hash\":452824452,\"bytes\":6413},\"client/SettingsUI\":{\"hash\":1389311378,\"bytes\":7887},\"shared/BiomeCatalog\":{\"hash\":3092318751,\"bytes\":2287},\"shared/PortalGeometry\":{\"hash\":3613307576,\"bytes\":674},\"shared/BiomeFindAssets\":{\"hash\":3065206180,\"bytes\":14372},\"shared/BiomeFishing\":{\"hash\":867420675,\"bytes\":1499},\"shared/StarterLayout\":{\"hash\":787726236,\"bytes\":1020},\"shared/HubAssets\":{\"hash\":2523831123,\"bytes\":10731},\"client/CleaningPresentation\":{\"hash\":489921258,\"bytes\":13701},\"client/FishingPresentation\":{\"hash\":953303334,\"bytes\":21332},\"client/OnboardingUI\":{\"hash\":1759505258,\"bytes\":7109},\"shared/WorldLabels\":{\"hash\":3694832412,\"bytes\":1755},\"shared/PierRules\":{\"hash\":3858132950,\"bytes\":1289},\"shared/SurfaceStyle\":{\"hash\":1853872269,\"bytes\":5859},\"shared/Strings\":{\"hash\":889006466,\"bytes\":9815},\"client/HudIcons\":{\"hash\":2961279269,\"bytes\":338},\"shared/CleaningGeometry\":{\"hash\":420337870,\"bytes\":5551},\"client/HudNavigation\":{\"hash\":3290674228,\"bytes\":6128},\"shared/FindFactory\":{\"hash\":2981268024,\"bytes\":8825}}}"
+      }
+    ],
+    "isError": false
+  },
+  "restored": {
+    "content": [
+      {
+        "type": "text",
+        "text": "{\"restored\":{\"StarterWood\":\"rbxassetid://101317459528460\",\"StarterWoodPlanks\":\"rbxassetid://101317459528460\"},\"temporary\":[],\"oldWood\":\"Enum.AssetFetchStatus.None\",\"newWood\":\"Enum.AssetFetchStatus.Success\"}"
+      }
+    ],
+    "isError": false
+  },
+  "save_version": 153
+}

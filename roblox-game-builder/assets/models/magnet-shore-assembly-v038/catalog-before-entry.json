@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "path_base": "assets/ relative to installed skill",
+  "assets": [
+    {
+      "id": "waterfall",
+      "kind": "model",
+      "file": "models/waterfall.rbxm",
+      "tags": [
+        "waterfall",
+        "water",
+        "водопад"
+      ],
+      "description": "Водопад и связанное водное окружение; содержимое проверить перед вставкой.",
+      "sha256": "32fbed81e88486da3180a344225d7417c0ec10614715377a3c24e96cf33fa501",
+      "size_bytes": 11161,
+      "source": "/Users/andrej/Downloads/waterfall.rbxm",
+      "status": "stored-uninspected",
+      "roblox_asset_id": null,
+      "compatibility": "Inspect contents and dependencies before reuse; name is not proof of functionality."
+    },
+    {
+      "id": "stud-asset-pack",
+      "kind": "model",
+      "file": "models/stud-asset-pack-tu-kl.rbxm",
+      "tags": [
+        "stud",
+        "environment",
+        "окружение",
+        "декор"
+      ],
+      "description": "Приоритетный пользовательский набор для подходящих моделей окружения и декора; состав выбрать после осмотра.",
+      "sha256": "39b462d31e5b33543e9563f11038505c5ec2862cd336a8778cece2f7a8679c56",
+      "size_bytes": 52954,
+      "source": "/Users/andrej/Downloads/Stud Asset Pack! TU+ KL (1).rbxm",
+      "status": "stored-uninspected",
+      "roblox_asset_id": null,
+      "compatibility": "Inspect contents and dependencies before reuse; name is not proof of functionality."
+    },
+    {
+      "id": "ui-kit",
+      "kind": "model",
+      "file": "models/ui-kit.rbxm",
+      "tags": [
+        "ui",
+        "interface",
+        "интерфейс",
+        "kit"
+      ],
+      "description": "Пользовательский UI kit; компоненты и внешний вид проверить перед адаптацией интерфейса.",
+      "sha256": "f6881810f700ceaef6c529c187dfd66190a8c286cb23d163caa03de74242a974",
+      "size_bytes": 38261,
+      "source": "/Users/andrej/Downloads/ui kit.rbxm",
+      "status": "stored-uninspected",
+      "roblox_asset_id": null,
+      "compatibility": "Inspect contents and dependencies before reuse; name is not proof of functionality."
+    },
+    {
+      "id": "offline-money",
+      "kind": "model",
+      "file": "models/offline-money.rbxm",
+      "tags": [
+        "offline",
+        "income",
+        "economy",
+        "офлайн",
+        "доход"
+      ],
+      "description": "Заготовка offline money; назначение, расчёт наград и серверную логику проверить перед использованием.",
+      "sha256": "1f732183a233bfb3c43537c3dc1faf4f890eeeaa2cd44034d2ed73a5a8566d87",
+      "size_bytes": 26344,
+      "source": "/Users/andrej/Downloads/offline money.rbxm",
+      "status": "stored-uninspected",
+      "roblox_asset_id": null,
+      "compatibility": "Inspect contents and dependencies before reuse; name is not proof of functionality."
+    },
+    {
+      "id": "square-relief-normal",
+      "kind": "texture",
+      "file": "materials/square-relief-normal.png",
+      "tags": [
+        "normal-map",
+        "stud",
+        "relief",
+        "рельеф",
+        "квадрат"
+      ],
+      "description": "Обязательная карта квадратного рельефа объектов мира; исключения в references/material-policy.md.",
+      "sha256": "83687a27161c86b29ae6526704d9ed16ec68f223b8aed88001b00f8267ae13ac",
+      "size_bytes": 92233,
+      "source": "User attachment, current chat, 2026-11-11",
+      "status": "stored; normal-map interpretation based on image; not verified in Studio",
+      "roblox_asset_id": null,
+      "compatibility": "NormalMap, not ColorMap; preserve colors; reusable scale/UV must be checked."
+    }
+  ]
+}

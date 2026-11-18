@@ -1,0 +1,3784 @@
+{
+  "version": 1,
+  "path_base": "assets/ relative to installed skill",
+  "assets": [
+    {
+      "id": "waterfall",
+      "kind": "model",
+      "file": "models/waterfall.rbxm",
+      "tags": [
+        "waterfall",
+        "water",
+        "водопад"
+      ],
+      "description": "Водопад и связанное водное окружение; содержимое проверить перед вставкой.",
+      "sha256": "32fbed81e88486da3180a344225d7417c0ec10614715377a3c24e96cf33fa501",
+      "size_bytes": 11161,
+      "source": "/Users/andrej/Downloads/waterfall.rbxm",
+      "status": "stored-uninspected",
+      "roblox_asset_id": null,
+      "compatibility": "Inspect contents and dependencies before reuse; name is not proof of functionality."
+    },
+    {
+      "id": "stud-asset-pack",
+      "kind": "model",
+      "file": "models/stud-asset-pack-tu-kl.rbxm",
+      "tags": [
+        "stud",
+        "environment",
+        "окружение",
+        "декор"
+      ],
+      "description": "Приоритетный пользовательский набор для подходящих моделей окружения и декора; состав выбрать после осмотра.",
+      "sha256": "39b462d31e5b33543e9563f11038505c5ec2862cd336a8778cece2f7a8679c56",
+      "size_bytes": 52954,
+      "source": "/Users/andrej/Downloads/Stud Asset Pack! TU+ KL (1).rbxm",
+      "status": "stored-uninspected",
+      "roblox_asset_id": null,
+      "compatibility": "Inspect contents and dependencies before reuse; name is not proof of functionality."
+    },
+    {
+      "id": "ui-kit",
+      "kind": "model",
+      "file": "models/ui-kit.rbxm",
+      "tags": [
+        "ui",
+        "interface",
+        "интерфейс",
+        "kit"
+      ],
+      "description": "Пользовательский UI kit; компоненты и внешний вид проверить перед адаптацией интерфейса.",
+      "sha256": "f6881810f700ceaef6c529c187dfd66190a8c286cb23d163caa03de74242a974",
+      "size_bytes": 38261,
+      "source": "/Users/andrej/Downloads/ui kit.rbxm",
+      "status": "stored-uninspected",
+      "roblox_asset_id": null,
+      "compatibility": "Inspect contents and dependencies before reuse; name is not proof of functionality."
+    },
+    {
+      "id": "offline-money",
+      "kind": "model",
+      "file": "models/offline-money.rbxm",
+      "tags": [
+        "offline",
+        "income",
+        "economy",
+        "офлайн",
+        "доход"
+      ],
+      "description": "Заготовка offline money; назначение, расчёт наград и серверную логику проверить перед использованием.",
+      "sha256": "1f732183a233bfb3c43537c3dc1faf4f890eeeaa2cd44034d2ed73a5a8566d87",
+      "size_bytes": 26344,
+      "source": "/Users/andrej/Downloads/offline money.rbxm",
+      "status": "stored-uninspected",
+      "roblox_asset_id": null,
+      "compatibility": "Inspect contents and dependencies before reuse; name is not proof of functionality."
+    },
+    {
+      "id": "square-relief-normal",
+      "kind": "texture",
+      "file": "materials/square-relief-normal.png",
+      "tags": [
+        "normal-map",
+        "stud",
+        "relief",
+        "рельеф",
+        "квадрат"
+      ],
+      "description": "Обязательная карта квадратного рельефа объектов мира; исключения в references/material-policy.md.",
+      "sha256": "83687a27161c86b29ae6526704d9ed16ec68f223b8aed88001b00f8267ae13ac",
+      "size_bytes": 92233,
+      "source": "User attachment, current chat, 2026-11-11",
+      "status": "stored; normal-map interpretation based on image; not verified in Studio",
+      "roblox_asset_id": null,
+      "compatibility": "NormalMap, not ColorMap; preserve colors; reusable scale/UV must be checked."
+    },
+    {
+      "id": "magnet-shore-assembly-v038",
+      "kind": "model",
+      "file": "models/magnet-shore-assembly-v038/BoardwalkFinish.luau",
+      "files": [
+        {
+          "file": "models/magnet-shore-assembly-v038/BoardwalkFinish.luau",
+          "sha256": "166ca4acaa619f31b6b87e80d747fb6e57a8c32cbb184568d78193410b835682",
+          "size_bytes": 11075
+        },
+        {
+          "file": "models/magnet-shore-assembly-v038/SurfaceStyle.luau",
+          "sha256": "2ed17c7745169b53d6cb8754926ea232ebe9e595037d9c575022563467b090ed",
+          "size_bytes": 4307
+        },
+        {
+          "file": "models/magnet-shore-assembly-v038/StarterLayout.luau",
+          "sha256": "b2610e9f440b6a317867ff476c185518092a868f2a41327d3b2a5fd4e082897c",
+          "size_bytes": 950
+        },
+        {
+          "file": "models/magnet-shore-assembly-v038/SceneKit.luau",
+          "sha256": "2f29e8392f567f3fa18a08505a33891127ef021616db534e8575c3dce1a90b3f",
+          "size_bytes": 7339
+        },
+        {
+          "file": "models/magnet-shore-assembly-v038/EnvironmentAssets.luau",
+          "sha256": "633ef9c008979ae8f61d65aa502c32bd2c87ef609cccbb3b6645c02ef4b17933",
+          "size_bytes": 6875
+        },
+        {
+          "file": "models/magnet-shore-assembly-v038/WorldLabels.luau",
+          "sha256": "c58f9459dcada11c89eb344e9bd274fc68741693f6095beacbbd955d071a5b90",
+          "size_bytes": 1755
+        }
+      ],
+      "description": "Project-specific procedural shore assembly source; requires existing MagnetWorld hierarchy, not standalone model.",
+      "source": "Magnet Workshop Simulator, user-directed edits, 2026-11-12",
+      "status": "source stored; integration tested in originating project",
+      "tags": [
+        "shore",
+        "boardwalk",
+        "stairs",
+        "rocks",
+        "помост",
+        "лестница",
+        "камни"
+      ],
+      "roblox_asset_id": null,
+      "compatibility": "Edit-only, requires listed dependencies and existing world; see README.",
+      "sha256": "166ca4acaa619f31b6b87e80d747fb6e57a8c32cbb184568d78193410b835682",
+      "size_bytes": 11075
+    },
+    {
+      "id": "magnet-shore-assembly-v039",
+      "kind": "model",
+      "file": "models/magnet-shore-assembly-v039/BoardwalkFinish.luau",
+      "files": [
+        {
+          "file": "models/magnet-shore-assembly-v039/BoardwalkFinish.luau",
+          "sha256": "a4d424c6623ce19db2d4ec4d97bdea8cd5e610250806a2520060dac40977a1d8",
+          "size_bytes": 11758
+        },
+        {
+          "file": "models/magnet-shore-assembly-v039/SurfaceStyle.luau",
+          "sha256": "2ed17c7745169b53d6cb8754926ea232ebe9e595037d9c575022563467b090ed",
+          "size_bytes": 4307
+        },
+        {
+          "file": "models/magnet-shore-assembly-v039/StarterLayout.luau",
+          "sha256": "b2610e9f440b6a317867ff476c185518092a868f2a41327d3b2a5fd4e082897c",
+          "size_bytes": 950
+        },
+        {
+          "file": "models/magnet-shore-assembly-v039/SceneKit.luau",
+          "sha256": "2f29e8392f567f3fa18a08505a33891127ef021616db534e8575c3dce1a90b3f",
+          "size_bytes": 7339
+        },
+        {
+          "file": "models/magnet-shore-assembly-v039/EnvironmentAssets.luau",
+          "sha256": "633ef9c008979ae8f61d65aa502c32bd2c87ef609cccbb3b6645c02ef4b17933",
+          "size_bytes": 6875
+        },
+        {
+          "file": "models/magnet-shore-assembly-v039/WorldLabels.luau",
+          "sha256": "c58f9459dcada11c89eb344e9bd274fc68741693f6095beacbbd955d071a5b90",
+          "size_bytes": 1755
+        }
+      ],
+      "description": "Layered stepped rock foundation using saved Stud Asset Pack Rock mesh; project shore generator with dependencies.",
+      "source": "Magnet Workshop Simulator, explicit user screenshot correction, 2026-11-13",
+      "derived_from": "magnet-shore-assembly-v038",
+      "status": "source stored; visual and runtime integration verified in originating project",
+      "tags": [
+        "shore",
+        "layered-rocks",
+        "stud",
+        "помост",
+        "слоистые камни"
+      ],
+      "roblox_asset_id": null,
+      "compatibility": "Edit-only; existing MagnetWorld hierarchy required, see README. Not standalone RBXM.",
+      "sha256": "a4d424c6623ce19db2d4ec4d97bdea8cd5e610250806a2520060dac40977a1d8",
+      "size_bytes": 11758
+    },
+    {
+      "id": "magnet-shore-assembly-v040",
+      "kind": "model",
+      "file": "models/magnet-shore-assembly-v040/BoardwalkFinish.luau",
+      "files": [
+        {
+          "file": "models/magnet-shore-assembly-v040/BoardwalkFinish.luau",
+          "sha256": "f2c5fd0c0674e10aed2fe84f098ce78b9e3aa82e0d08d7e753fd2aba315eaae0",
+          "size_bytes": 13576
+        },
+        {
+          "file": "models/magnet-shore-assembly-v040/SurfaceStyle.luau",
+          "sha256": "2ed17c7745169b53d6cb8754926ea232ebe9e595037d9c575022563467b090ed",
+          "size_bytes": 4307
+        },
+        {
+          "file": "models/magnet-shore-assembly-v040/StarterLayout.luau",
+          "sha256": "482b131710a52f296310a49e72a9f7bb62d679f338959fa3fe9a99038267e0f1",
+          "size_bytes": 1020
+        },
+        {
+          "file": "models/magnet-shore-assembly-v040/SceneKit.luau",
+          "sha256": "2f29e8392f567f3fa18a08505a33891127ef021616db534e8575c3dce1a90b3f",
+          "size_bytes": 7339
+        },
+        {
+          "file": "models/magnet-shore-assembly-v040/EnvironmentAssets.luau",
+          "sha256": "633ef9c008979ae8f61d65aa502c32bd2c87ef609cccbb3b6645c02ef4b17933",
+          "size_bytes": 6875
+        },
+        {
+          "file": "models/magnet-shore-assembly-v040/WorldLabels.luau",
+          "sha256": "c58f9459dcada11c89eb344e9bd274fc68741693f6095beacbbd955d071a5b90",
+          "size_bytes": 1755
+        },
+        {
+          "file": "models/magnet-shore-assembly-v040/HubAssets.luau",
+          "sha256": "752e25b1b4ed6447f4147b7ed4f2e29575759ce8f17dd35b72a0f8ad4f6fa3c2",
+          "size_bytes": 10731
+        },
+        {
+          "file": "models/magnet-shore-assembly-v040/BiomeCatalog.luau",
+          "sha256": "47b9d27fcf3687b14c3f81c8d1b4eb9967efa58b1afb27d1549fe657a20b80c7",
+          "size_bytes": 1909
+        },
+        {
+          "file": "models/magnet-shore-assembly-v040/BiomeAssets.luau",
+          "sha256": "21af9a47013b38f789534dc859835995771cdb283d836800b6d8a078cdc988ca",
+          "size_bytes": 11222
+        }
+      ],
+      "description": "Joined circular/bridge fences and three unobstructed portal approach corridors; project-specific shore source.",
+      "source": "Magnet Workshop Simulator, user-directed edits, 2026-11-13",
+      "derived_from": "magnet-shore-assembly-v039",
+      "status": "source stored; originating-project fresh build and visual integration verified",
+      "tags": [
+        "shore",
+        "fences",
+        "portals",
+        "забор",
+        "проходы"
+      ],
+      "roblox_asset_id": null,
+      "compatibility": "Existing MagnetWorld hierarchy required; not standalone RBXM. See README.",
+      "sha256": "f2c5fd0c0674e10aed2fe84f098ce78b9e3aa82e0d08d7e753fd2aba315eaae0",
+      "size_bytes": 13576
+    },
+    {
+      "id": "magnet-hud-icons-v01",
+      "kind": "ui",
+      "file": "ui/magnet-hud-icons-v01/manifest.json",
+      "files": [
+        {
+          "file": "ui/magnet-hud-icons-v01/settings.png",
+          "sha256": "13b5ed59d5ed99b9e913190f480943a67f4a639eba07b801d1472baf72b8a1ec",
+          "size_bytes": 1201327
+        },
+        {
+          "file": "ui/magnet-hud-icons-v01/inventory.png",
+          "sha256": "c4da0d278d2979722465f1fa50927becfc436380d66103dd0e25a7d30de18553",
+          "size_bytes": 1612289
+        },
+        {
+          "file": "ui/magnet-hud-icons-v01/upgrades.png",
+          "sha256": "81da8f954d1b10280504669718192f0bf8f6435809940ac51ff7227b485af8ae",
+          "size_bytes": 1143679
+        },
+        {
+          "file": "ui/magnet-hud-icons-v01/shop.png",
+          "sha256": "798ab60ffe72f691e1bf064e2e366d7aefd8e715d37a838dd968a45946b843a8",
+          "size_bytes": 1232113
+        },
+        {
+          "file": "ui/magnet-hud-icons-v01/README.md",
+          "sha256": "aea9e7e23c4439f344e2e578ffbae8a281ac1e6bcb429052576122c90ff11565",
+          "size_bytes": 269
+        },
+        {
+          "file": "ui/magnet-hud-icons-v01/manifest.json",
+          "sha256": "d6c69da05c386e5c104cd1c4a902c894e5ea546e6570fa08d1091503b15559fc",
+          "size_bytes": 8643
+        },
+        {
+          "file": "ui/magnet-hud-icons-v01/collection.png",
+          "sha256": "9a813462108fa3130d6d108070e3f0ae656fabb1c11b8aae9b97947f1c4fc067",
+          "size_bytes": 1220904
+        },
+        {
+          "file": "ui/magnet-hud-icons-v01/sell.png",
+          "sha256": "ff8fded08e6084db564db5ceac38078944a2026bc61af363026ceaa3d405bfc4",
+          "size_bytes": 1408329
+        }
+      ],
+      "tags": [
+        "icons",
+        "inventory",
+        "shop",
+        "UI",
+        "иконки"
+      ],
+      "description": "Six teal/ivory/honey wood 3D HUD icons: inventory, collection, shop, upgrades, sell, settings.",
+      "source": "User request, Magnet Workshop Simulator, 2026-11-13; built-in image_gen",
+      "status": "imported; all six images loaded in originating Studio; see navigation v041 verification",
+      "roblox_asset_id": null,
+      "compatibility": "RGBA PNG; no scripts or UI layout. Prompts in manifest."
+    },
+    {
+      "id": "magnet-hud-navigation-v041",
+      "kind": "ui",
+      "file": "ui/magnet-hud-navigation-v041/HudNavigation.luau",
+      "files": [
+        {
+          "file": "ui/magnet-hud-navigation-v041/HudIcons.luau",
+          "sha256": "5e4810661fb14214f5ccf36f0d1afb356b210a96547bd0497af6f42f6b9388aa",
+          "size_bytes": 338
+        },
+        {
+          "file": "ui/magnet-hud-navigation-v041/HudNavigation.luau",
+          "sha256": "874c3169f22d526fa35eaf048c93c633433d3bc3509af3cfb66473744a2623f3",
+          "size_bytes": 6076
+        },
+        {
+          "file": "ui/magnet-hud-navigation-v041/README.md",
+          "sha256": "95971f1b7bad4604b06bf8ce1c5d5934c6284452d38dde5a4c2ee8a5e6e1cdc9",
+          "size_bytes": 1528
+        },
+        {
+          "file": "ui/magnet-hud-navigation-v041/Main.project-adapter.luau",
+          "sha256": "e4f3c44a4707a1a0a2deecb6ea78d4e84db18d16bea906d08e7a312c5569fc42",
+          "size_bytes": 34749
+        }
+      ],
+      "derived_from": "magnet-hud-icons-v01",
+      "tags": [
+        "hud",
+        "icons",
+        "navigation",
+        "interface",
+        "интерфейс"
+      ],
+      "description": "Responsive six-icon navigation plus Home/Workshops utilities; modal heading icons and originating project adapter.",
+      "source": "Magnet Workshop Simulator, authorized integration, 2026-11-13",
+      "status": "source stored; originating-project Play mouse, respawn and layout verified",
+      "roblox_asset_id": null,
+      "compatibility": "HudNavigation requires sibling HudIcons; host supplies action callbacks. Adapter needs originating project, see README."
+    },
+    {
+      "id": "magnet-hud-navigation-v042",
+      "kind": "ui",
+      "file": "ui/magnet-hud-navigation-v042/HudNavigation.luau",
+      "files": [
+        {
+          "file": "ui/magnet-hud-navigation-v042/HudIcons.luau",
+          "sha256": "5e4810661fb14214f5ccf36f0d1afb356b210a96547bd0497af6f42f6b9388aa",
+          "size_bytes": 338
+        },
+        {
+          "file": "ui/magnet-hud-navigation-v042/HudNavigation.luau",
+          "sha256": "b4f6a1ba7977604c328422e1b6997b9ba28aaaad8c5a4b9bea042a4d14463caa",
+          "size_bytes": 6128
+        },
+        {
+          "file": "ui/magnet-hud-navigation-v042/README.md",
+          "sha256": "1023ddba811ef634b17074480d2fc81a42f0aa43fdc7897401ef1afc96b71b02",
+          "size_bytes": 1357
+        },
+        {
+          "file": "ui/magnet-hud-navigation-v042/Main.project-adapter.luau",
+          "sha256": "962b66b88a1fb5e7966c09b1160fe3fff3beb9ce36d92702c4921b92b2f692a3",
+          "size_bytes": 34235
+        }
+      ],
+      "derived_from": "magnet-hud-navigation-v041",
+      "tags": [
+        "hud",
+        "edge-navigation",
+        "icons",
+        "UI",
+        "кнопки по краям"
+      ],
+      "description": "Two edge navigation groups and compact currency-only host adapter; no full-width banner.",
+      "source": "Explicit user screenshot correction, Magnet Workshop Simulator, 2026-11-13",
+      "status": "source stored; originating-project mouse and layout checks passed",
+      "roblox_asset_id": null,
+      "compatibility": "HudNavigation requires HudIcons; host supplies actions and visibility; adapter needs originating project modules."
+    },
+    {
+      "id": "magnet-hud-navigation-v043",
+      "kind": "ui",
+      "file": "ui/magnet-hud-navigation-v043/HudNavigation.luau",
+      "derived_from": "magnet-hud-navigation-v042",
+      "files": [
+        {
+          "file": "ui/magnet-hud-navigation-v043/HudIcons.luau",
+          "sha256": "5e4810661fb14214f5ccf36f0d1afb356b210a96547bd0497af6f42f6b9388aa",
+          "size_bytes": 338
+        },
+        {
+          "file": "ui/magnet-hud-navigation-v043/HudNavigation.luau",
+          "sha256": "af9b82a28da11c3c97d721755a569f5c90de852b07f75e747606950c358b7f8b",
+          "size_bytes": 6128
+        },
+        {
+          "file": "ui/magnet-hud-navigation-v043/README.md",
+          "sha256": "3960fad68c2629680e64e52721f6feb28f66835506fe9cddd98a8f2ffb98a892",
+          "size_bytes": 514
+        }
+      ],
+      "tags": [
+        "hud",
+        "smaller-buttons",
+        "edge-navigation"
+      ],
+      "description": "Reduced icon/button sizes, same edge layout and behavior.",
+      "source": "Magnet Workshop Simulator, user correction, 2026-11-13",
+      "status": "source stored; visual/TextFits/mouse check passed in originating Studio",
+      "roblox_asset_id": null,
+      "compatibility": "Requires sibling HudIcons and host callback/visibility contract; see v042 adapter."
+    },
+    {
+      "id": "magnet-ui-window-concepts-v01",
+      "kind": "ui",
+      "file": "ui/magnet-ui-window-concepts-v01/manifest.json",
+      "files": [
+        {
+          "file": "ui/magnet-ui-window-concepts-v01/settings.png",
+          "sha256": "ac7ef5e67e9a983d4736695f801f5ef8c3d816abee10886e2f93adf85e10d456",
+          "size_bytes": 1599372
+        },
+        {
+          "file": "ui/magnet-ui-window-concepts-v01/inventory.png",
+          "sha256": "84a46e5e53157b5152756feccb8b13f60627334c310fbc00bf99f526665649cd",
+          "size_bytes": 1670550
+        },
+        {
+          "file": "ui/magnet-ui-window-concepts-v01/upgrades.png",
+          "sha256": "8c18a2ca741be4959faf9e07c5edfa7c761797ecac86834d3861fa1ca449c6e9",
+          "size_bytes": 1695862
+        },
+        {
+          "file": "ui/magnet-ui-window-concepts-v01/shop.png",
+          "sha256": "e90d2b1d350e76b0e432cd8f6d13f129a30d7528b67c6aa97d969cf1ac3a7899",
+          "size_bytes": 1732155
+        },
+        {
+          "file": "ui/magnet-ui-window-concepts-v01/README.md",
+          "sha256": "a6e766cc5f4142f83db009b0a7d11c97601036c3299d2f7f18310c060b22ab30",
+          "size_bytes": 1353
+        },
+        {
+          "file": "ui/magnet-ui-window-concepts-v01/gallery.html",
+          "sha256": "0aa4c6b600b6719d8883fd9327e31d6d79c797a5f61997fdc2800b0576ee9e53",
+          "size_bytes": 1391
+        },
+        {
+          "file": "ui/magnet-ui-window-concepts-v01/manifest.json",
+          "sha256": "5719c75d3bbdf2d6db80b81356446de3a77c83a7325575cadbb7b96864a33190",
+          "size_bytes": 16956
+        },
+        {
+          "file": "ui/magnet-ui-window-concepts-v01/collection.png",
+          "sha256": "6aebfa11ae2d881631beaf0a6efa1cc640b22a8967eb332a4ed47f5286344efd",
+          "size_bytes": 1787519
+        },
+        {
+          "file": "ui/magnet-ui-window-concepts-v01/sell.png",
+          "sha256": "8ab88dd11c31179e9a878248b7ffbb7f37d7dbf70e6a9b0d9f4dfb4d753a9c33",
+          "size_bytes": 1714455
+        },
+        {
+          "file": "ui/magnet-ui-window-concepts-v01/archive/collection-r01.png",
+          "sha256": "edfaa4455746362aae2b572076341005e9ce33ad71979542ccb84791e8adbf72",
+          "size_bytes": 1732787
+        }
+      ],
+      "derived_from": [
+        "magnet-hud-icons-v01",
+        "magnet-hud-navigation-v043"
+      ],
+      "tags": [
+        "ui-reference",
+        "inventory",
+        "collection",
+        "shop",
+        "settings",
+        "макеты",
+        "интерфейс"
+      ],
+      "description": "Six raster window design references using approved icons: inventory, collection, shop, upgrades, sale, settings. Not working UI components.",
+      "source": "User request, Magnet Workshop Simulator, 2026-11-13; built-in image_gen",
+      "status": "user approved; native implementation stored in magnet-ui-windows-v045 with actual Studio screenshots",
+      "roblox_asset_id": null,
+      "compatibility": "Reference art only. Actual UI needs native adaptive components; preview illustrations do not replace approved world models."
+    },
+    {
+      "id": "magnet-ui-windows-v044",
+      "kind": "ui",
+      "file": "ui/magnet-ui-windows-v044/WindowTheme.luau",
+      "files": [
+        {
+          "file": "ui/magnet-ui-windows-v044/HudIcons.luau",
+          "sha256": "5e4810661fb14214f5ccf36f0d1afb356b210a96547bd0497af6f42f6b9388aa",
+          "size_bytes": 338
+        },
+        {
+          "file": "ui/magnet-ui-windows-v044/README.md",
+          "sha256": "a050ceec36cb230604d28044f5613d6f0978bae1fbbb9472848f5ede0c05ff80",
+          "size_bytes": 2466
+        },
+        {
+          "file": "ui/magnet-ui-windows-v044/AudioPresentation.luau",
+          "sha256": "3c04f303ff09776ad92599d260dcae31d04bcb36dceafbfae7b9ccae32b759cc",
+          "size_bytes": 8341
+        },
+        {
+          "file": "ui/magnet-ui-windows-v044/WindowTheme.luau",
+          "sha256": "22bdda3b5ea1a2a0dea731d8611dd3012863c9354abce971105db812d51a4b9b",
+          "size_bytes": 4676
+        },
+        {
+          "file": "ui/magnet-ui-windows-v044/WorkshopWindows.luau",
+          "sha256": "bafad07dfb47de23d38f4528728ec0cbb7c8f1ca4e4878db35796d52d200390d",
+          "size_bytes": 16147
+        },
+        {
+          "file": "ui/magnet-ui-windows-v044/SettingsUI.luau",
+          "sha256": "38dfa0189554a2e9c028dda03d90aef589fb54abf7c8ffacf15de2045a6c34a5",
+          "size_bytes": 6037
+        },
+        {
+          "file": "ui/magnet-ui-windows-v044/Main.project-adapter.luau",
+          "sha256": "52bec4412eaa836a634418be01d113eb82647678725b9f7c72376d6b66cf23e4",
+          "size_bytes": 29455
+        },
+        {
+          "file": "ui/magnet-ui-windows-v044/shared/FindFactory.luau",
+          "sha256": "bbc8d46047df90eae2adaf6a3319c87534df8bf4841287b88b26135e8d7f27de",
+          "size_bytes": 8679
+        },
+        {
+          "file": "ui/magnet-ui-windows-v044/shared/MapAssets.luau",
+          "sha256": "603c48b34173d525cba362ca8a1ff63897afc77cea7e0cfbf0c0263358fb181c",
+          "size_bytes": 14779
+        },
+        {
+          "file": "ui/magnet-ui-windows-v044/shared/ApprovedAssets.luau",
+          "sha256": "03c28c643dba14f908120e3c925744a2a019071678a36d00ac8e6fc8a50c6cba",
+          "size_bytes": 8929
+        },
+        {
+          "file": "ui/magnet-ui-windows-v044/shared/AudioCatalog.luau",
+          "sha256": "f5801cb0c371d6469b68e77b187a301a64f7c10629223b765e11569ffa38ec6c",
+          "size_bytes": 1035
+        },
+        {
+          "file": "ui/magnet-ui-windows-v044/shared/Config.luau",
+          "sha256": "4925b14fc477faf03540f8743b9364c02e258ed1552e5f0c32495db04ff9ff32",
+          "size_bytes": 3912
+        },
+        {
+          "file": "ui/magnet-ui-windows-v044/shared/SurfaceStyle.luau",
+          "sha256": "2ed17c7745169b53d6cb8754926ea232ebe9e595037d9c575022563467b090ed",
+          "size_bytes": 4307
+        },
+        {
+          "file": "ui/magnet-ui-windows-v044/shared/Strings.luau",
+          "sha256": "d957b7057e6abfda3a1d330acb6f820eaf36948931cc88a32c3724803f4c45e4",
+          "size_bytes": 9815
+        }
+      ],
+      "derived_from": [
+        "magnet-ui-window-concepts-v01",
+        "magnet-hud-navigation-v043"
+      ],
+      "tags": [
+        "ui",
+        "inventory",
+        "collection",
+        "shop",
+        "settings",
+        "native-controls",
+        "окна"
+      ],
+      "description": "Native scalable window skin, live grid/detail screens, shop/upgrades/sale and audio sliders; originating game adapter and readonly preview dependencies.",
+      "source": "User approved implementation, Magnet Workshop Simulator, 2026-11-13",
+      "status": "source stored; structural layouts and sandbox transactions passed; visual/mouse acceptance pending because viewport1x1",
+      "roblox_asset_id": null,
+      "compatibility": "Theme requires HudIcons. Screen renderer needs originating shared hierarchy/profile schema and host callbacks; main adapter requires originating game. See README."
+    },
+    {
+      "id": "magnet-starter-albedos-v045",
+      "kind": "texture",
+      "file": "textures/magnet-starter-albedos-v045/manifest.json",
+      "files": [
+        {
+          "file": "textures/magnet-starter-albedos-v045/README.md",
+          "sha256": "f03ce62dd9c114b905a3f737adb50cf222c16791b6e9358346fa58e037e9a7bf",
+          "size_bytes": 1478
+        },
+        {
+          "file": "textures/magnet-starter-albedos-v045/bark.png",
+          "sha256": "23394a6ed2c7c634518253bd486facee8194d069c3ed33e8793303a08f28f339",
+          "size_bytes": 1062505
+        },
+        {
+          "file": "textures/magnet-starter-albedos-v045/foliage.png",
+          "sha256": "b2d68337f7ce3ff67d7d91e3866ba58408a9b28e0f2b72e79f973ceda5ea91fe",
+          "size_bytes": 1299042
+        },
+        {
+          "file": "textures/magnet-starter-albedos-v045/manifest.json",
+          "sha256": "08768e85ba3247ee43e1732e3241f91a7851411d2c62eea2dda73a998195d66f",
+          "size_bytes": 7595
+        },
+        {
+          "file": "textures/magnet-starter-albedos-v045/scene-preview.jpg",
+          "sha256": "e1a5fe07de568534961c32e296af58e88f2b5c4dce5106941949b5cf85944df6",
+          "size_bytes": 274570
+        },
+        {
+          "file": "textures/magnet-starter-albedos-v045/shared/ApprovedAssets.luau",
+          "sha256": "03c28c643dba14f908120e3c925744a2a019071678a36d00ac8e6fc8a50c6cba",
+          "size_bytes": 8929
+        },
+        {
+          "file": "textures/magnet-starter-albedos-v045/shared/AudioCatalog.luau",
+          "sha256": "f5801cb0c371d6469b68e77b187a301a64f7c10629223b765e11569ffa38ec6c",
+          "size_bytes": 1035
+        },
+        {
+          "file": "textures/magnet-starter-albedos-v045/shared/BiomeAssets.luau",
+          "sha256": "21af9a47013b38f789534dc859835995771cdb283d836800b6d8a078cdc988ca",
+          "size_bytes": 11222
+        },
+        {
+          "file": "textures/magnet-starter-albedos-v045/shared/BiomeCatalog.luau",
+          "sha256": "47b9d27fcf3687b14c3f81c8d1b4eb9967efa58b1afb27d1549fe657a20b80c7",
+          "size_bytes": 1909
+        },
+        {
+          "file": "textures/magnet-starter-albedos-v045/shared/BoardwalkFinish.luau",
+          "sha256": "f2c5fd0c0674e10aed2fe84f098ce78b9e3aa82e0d08d7e753fd2aba315eaae0",
+          "size_bytes": 13576
+        },
+        {
+          "file": "textures/magnet-starter-albedos-v045/shared/CastRules.luau",
+          "sha256": "3558c1f7389a1280a4694fc4eb5f96bc040de3bbe5ba7b3708b2951ced2ec1ee",
+          "size_bytes": 3343
+        },
+        {
+          "file": "textures/magnet-starter-albedos-v045/shared/CleaningGeometry.luau",
+          "sha256": "f380294623ec598271fbead875cc119ec4ef2d3ebba1a12cb1d2819f2ee2767a",
+          "size_bytes": 5523
+        },
+        {
+          "file": "textures/magnet-starter-albedos-v045/shared/Config.luau",
+          "sha256": "4925b14fc477faf03540f8743b9364c02e258ed1552e5f0c32495db04ff9ff32",
+          "size_bytes": 3912
+        },
+        {
+          "file": "textures/magnet-starter-albedos-v045/shared/EnvironmentAssets.luau",
+          "sha256": "633ef9c008979ae8f61d65aa502c32bd2c87ef609cccbb3b6645c02ef4b17933",
+          "size_bytes": 6875
+        },
+        {
+          "file": "textures/magnet-starter-albedos-v045/shared/EnvironmentFinish.luau",
+          "sha256": "3b548ea541581bf27c67b6a719751f0fcd86d34d8eef75eefdb1237f0cc7024f",
+          "size_bytes": 8059
+        },
+        {
+          "file": "textures/magnet-starter-albedos-v045/shared/FindFactory.luau",
+          "sha256": "bbc8d46047df90eae2adaf6a3319c87534df8bf4841287b88b26135e8d7f27de",
+          "size_bytes": 8679
+        },
+        {
+          "file": "textures/magnet-starter-albedos-v045/shared/HubAssets.luau",
+          "sha256": "752e25b1b4ed6447f4147b7ed4f2e29575759ce8f17dd35b72a0f8ad4f6fa3c2",
+          "size_bytes": 10731
+        },
+        {
+          "file": "textures/magnet-starter-albedos-v045/shared/MapAssets.luau",
+          "sha256": "603c48b34173d525cba362ca8a1ff63897afc77cea7e0cfbf0c0263358fb181c",
+          "size_bytes": 14779
+        },
+        {
+          "file": "textures/magnet-starter-albedos-v045/shared/PierRules.luau",
+          "sha256": "6eb4a2146ceb8cf352b15539b556a9839b03f02e38c5803b6b8055a7cb9d7a74",
+          "size_bytes": 1289
+        },
+        {
+          "file": "textures/magnet-starter-albedos-v045/shared/RadialLayout.luau",
+          "sha256": "d74e69fb986fdeb089e90fff3749222910a7a86dbb28cf9379e1ea16d7628b49",
+          "size_bytes": 5273
+        },
+        {
+          "file": "textures/magnet-starter-albedos-v045/shared/SceneKit.luau",
+          "sha256": "2f29e8392f567f3fa18a08505a33891127ef021616db534e8575c3dce1a90b3f",
+          "size_bytes": 7339
+        },
+        {
+          "file": "textures/magnet-starter-albedos-v045/shared/ShoreAppearance.luau",
+          "sha256": "6b8a124801363bf1fb1b4109e1b2f7432f2f0821962899248903976dc370da56",
+          "size_bytes": 6320
+        },
+        {
+          "file": "textures/magnet-starter-albedos-v045/shared/StarterLayout.luau",
+          "sha256": "482b131710a52f296310a49e72a9f7bb62d679f338959fa3fe9a99038267e0f1",
+          "size_bytes": 1020
+        },
+        {
+          "file": "textures/magnet-starter-albedos-v045/shared/StarterMaterials.luau",
+          "sha256": "52359589972ac3bc4c3ede9bfdf2e71efbfcec8e4e4e4eb12e5caebe3998bb15",
+          "size_bytes": 2635
+        },
+        {
+          "file": "textures/magnet-starter-albedos-v045/shared/StarterPolish.luau",
+          "sha256": "7f87231347d16598e15dba1c0ad4ebd34386c578e11186b5e07bce54798c7e89",
+          "size_bytes": 5375
+        },
+        {
+          "file": "textures/magnet-starter-albedos-v045/shared/Strings.luau",
+          "sha256": "d957b7057e6abfda3a1d330acb6f820eaf36948931cc88a32c3724803f4c45e4",
+          "size_bytes": 9815
+        },
+        {
+          "file": "textures/magnet-starter-albedos-v045/shared/SurfaceStyle.luau",
+          "sha256": "1f311068c2398b23f678d4f18e6f88abb87f6f595679d912b0bf92d3512ea472",
+          "size_bytes": 4762
+        },
+        {
+          "file": "textures/magnet-starter-albedos-v045/shared/WaterfallAssets.luau",
+          "sha256": "e0657151fe37e9e2311c531038b4ea0346f87d8f8d2e00dc983b75b89d05a4e4",
+          "size_bytes": 1499
+        },
+        {
+          "file": "textures/magnet-starter-albedos-v045/shared/WorldLabels.luau",
+          "sha256": "c58f9459dcada11c89eb344e9bd274fc68741693f6095beacbbd955d071a5b90",
+          "size_bytes": 1755
+        },
+        {
+          "file": "textures/magnet-starter-albedos-v045/stone.png",
+          "sha256": "8ac4c8eb48d6aae77f6f552a8d729c0cc54afd1d33c6e84e529b50c3b8986615",
+          "size_bytes": 1438457
+        },
+        {
+          "file": "textures/magnet-starter-albedos-v045/timber.png",
+          "sha256": "d4f0ae552ee821c1932c4285d5c8c1745ae62908caff15eaa7e0de560112b9af",
+          "size_bytes": 1646771
+        }
+      ],
+      "derived_from": [
+        "square-relief-normal"
+      ],
+      "tags": [
+        "magnet-workshop",
+        "starter",
+        "0.4.5",
+        "texture"
+      ],
+      "description": "Low-contrast timber/bark/stone/foliage albedos; original square normal preserved separately.",
+      "source": "Magnet Workshop Simulator; user-approved implementation; 2026-11-13",
+      "status": "portable files stored; applied and checked in Studio; see README for scope/limits",
+      "roblox_asset_id": null,
+      "compatibility": "Originating project schema/dependencies are included; adapter is project-specific. See README."
+    },
+    {
+      "id": "magnet-ui-windows-v045",
+      "kind": "ui",
+      "file": "ui/magnet-ui-windows-v045/WindowTheme.luau",
+      "files": [
+        {
+          "file": "ui/magnet-ui-windows-v045/AudioPresentation.luau",
+          "sha256": "3c04f303ff09776ad92599d260dcae31d04bcb36dceafbfae7b9ccae32b759cc",
+          "size_bytes": 8341
+        },
+        {
+          "file": "ui/magnet-ui-windows-v045/HudIcons.luau",
+          "sha256": "5e4810661fb14214f5ccf36f0d1afb356b210a96547bd0497af6f42f6b9388aa",
+          "size_bytes": 338
+        },
+        {
+          "file": "ui/magnet-ui-windows-v045/HudNavigation.luau",
+          "sha256": "af9b82a28da11c3c97d721755a569f5c90de852b07f75e747606950c358b7f8b",
+          "size_bytes": 6128
+        },
+        {
+          "file": "ui/magnet-ui-windows-v045/Main.project-adapter.luau",
+          "sha256": "f01e8b99c9d86ac80945a43ccd4ed60dc8f66d932ae618addde9e90c5904e2bf",
+          "size_bytes": 29460
+        },
+        {
+          "file": "ui/magnet-ui-windows-v045/README.md",
+          "sha256": "3ed00a60d897b94bf79928766f00044aa404490a92dbc26a7cc4d090229ede00",
+          "size_bytes": 2355
+        },
+        {
+          "file": "ui/magnet-ui-windows-v045/SettingsUI.luau",
+          "sha256": "89b1482fa3d46adf8685126216ae2fffc1c45724b9983c87527010170b658b46",
+          "size_bytes": 7243
+        },
+        {
+          "file": "ui/magnet-ui-windows-v045/WindowTheme.luau",
+          "sha256": "bbd138f40e055cff76a7f8340bd66523522d950cc078d221f64ca9847d067b12",
+          "size_bytes": 4748
+        },
+        {
+          "file": "ui/magnet-ui-windows-v045/WorkshopWindows.luau",
+          "sha256": "7e14fc261837d6f3a18573fc794cff151044466d9ee99cd7d4e9952be83cbe1b",
+          "size_bytes": 18068
+        },
+        {
+          "file": "ui/magnet-ui-windows-v045/collection-preview.jpg",
+          "sha256": "eaa6cc201c1b7e242ea5f9aace1a5a6936cb02e8c87a65b2bc7abbdd48947062",
+          "size_bytes": 211980
+        },
+        {
+          "file": "ui/magnet-ui-windows-v045/inventory-preview.jpg",
+          "sha256": "1c491f5d2093b18d5047b83f1712d129e35518b25e706e2cc33dc6d29226ee9f",
+          "size_bytes": 210685
+        },
+        {
+          "file": "ui/magnet-ui-windows-v045/sale-preview.jpg",
+          "sha256": "27ceadae7e5a7139c72ee7a00495a05cda82dc4362d822cdbb766b83afcffcac",
+          "size_bytes": 209405
+        },
+        {
+          "file": "ui/magnet-ui-windows-v045/settings-preview.jpg",
+          "sha256": "dd1dee3f41e94f7fa9d7ed1a576674437fc2355a9de0e9e31d6002e4c960d7ae",
+          "size_bytes": 221119
+        },
+        {
+          "file": "ui/magnet-ui-windows-v045/shared/ApprovedAssets.luau",
+          "sha256": "03c28c643dba14f908120e3c925744a2a019071678a36d00ac8e6fc8a50c6cba",
+          "size_bytes": 8929
+        },
+        {
+          "file": "ui/magnet-ui-windows-v045/shared/AudioCatalog.luau",
+          "sha256": "f5801cb0c371d6469b68e77b187a301a64f7c10629223b765e11569ffa38ec6c",
+          "size_bytes": 1035
+        },
+        {
+          "file": "ui/magnet-ui-windows-v045/shared/BiomeAssets.luau",
+          "sha256": "21af9a47013b38f789534dc859835995771cdb283d836800b6d8a078cdc988ca",
+          "size_bytes": 11222
+        },
+        {
+          "file": "ui/magnet-ui-windows-v045/shared/BiomeCatalog.luau",
+          "sha256": "47b9d27fcf3687b14c3f81c8d1b4eb9967efa58b1afb27d1549fe657a20b80c7",
+          "size_bytes": 1909
+        },
+        {
+          "file": "ui/magnet-ui-windows-v045/shared/BoardwalkFinish.luau",
+          "sha256": "f2c5fd0c0674e10aed2fe84f098ce78b9e3aa82e0d08d7e753fd2aba315eaae0",
+          "size_bytes": 13576
+        },
+        {
+          "file": "ui/magnet-ui-windows-v045/shared/CastRules.luau",
+          "sha256": "3558c1f7389a1280a4694fc4eb5f96bc040de3bbe5ba7b3708b2951ced2ec1ee",
+          "size_bytes": 3343
+        },
+        {
+          "file": "ui/magnet-ui-windows-v045/shared/CleaningGeometry.luau",
+          "sha256": "f380294623ec598271fbead875cc119ec4ef2d3ebba1a12cb1d2819f2ee2767a",
+          "size_bytes": 5523
+        },
+        {
+          "file": "ui/magnet-ui-windows-v045/shared/Config.luau",
+          "sha256": "4925b14fc477faf03540f8743b9364c02e258ed1552e5f0c32495db04ff9ff32",
+          "size_bytes": 3912
+        },
+        {
+          "file": "ui/magnet-ui-windows-v045/shared/EnvironmentAssets.luau",
+          "sha256": "633ef9c008979ae8f61d65aa502c32bd2c87ef609cccbb3b6645c02ef4b17933",
+          "size_bytes": 6875
+        },
+        {
+          "file": "ui/magnet-ui-windows-v045/shared/EnvironmentFinish.luau",
+          "sha256": "3b548ea541581bf27c67b6a719751f0fcd86d34d8eef75eefdb1237f0cc7024f",
+          "size_bytes": 8059
+        },
+        {
+          "file": "ui/magnet-ui-windows-v045/shared/FindFactory.luau",
+          "sha256": "bbc8d46047df90eae2adaf6a3319c87534df8bf4841287b88b26135e8d7f27de",
+          "size_bytes": 8679
+        },
+        {
+          "file": "ui/magnet-ui-windows-v045/shared/HubAssets.luau",
+          "sha256": "752e25b1b4ed6447f4147b7ed4f2e29575759ce8f17dd35b72a0f8ad4f6fa3c2",
+          "size_bytes": 10731
+        },
+        {
+          "file": "ui/magnet-ui-windows-v045/shared/MapAssets.luau",
+          "sha256": "603c48b34173d525cba362ca8a1ff63897afc77cea7e0cfbf0c0263358fb181c",
+          "size_bytes": 14779
+        },
+        {
+          "file": "ui/magnet-ui-windows-v045/shared/PierRules.luau",
+          "sha256": "6eb4a2146ceb8cf352b15539b556a9839b03f02e38c5803b6b8055a7cb9d7a74",
+          "size_bytes": 1289
+        },
+        {
+          "file": "ui/magnet-ui-windows-v045/shared/RadialLayout.luau",
+          "sha256": "d74e69fb986fdeb089e90fff3749222910a7a86dbb28cf9379e1ea16d7628b49",
+          "size_bytes": 5273
+        },
+        {
+          "file": "ui/magnet-ui-windows-v045/shared/SceneKit.luau",
+          "sha256": "2f29e8392f567f3fa18a08505a33891127ef021616db534e8575c3dce1a90b3f",
+          "size_bytes": 7339
+        },
+        {
+          "file": "ui/magnet-ui-windows-v045/shared/ShoreAppearance.luau",
+          "sha256": "6b8a124801363bf1fb1b4109e1b2f7432f2f0821962899248903976dc370da56",
+          "size_bytes": 6320
+        },
+        {
+          "file": "ui/magnet-ui-windows-v045/shared/StarterLayout.luau",
+          "sha256": "482b131710a52f296310a49e72a9f7bb62d679f338959fa3fe9a99038267e0f1",
+          "size_bytes": 1020
+        },
+        {
+          "file": "ui/magnet-ui-windows-v045/shared/StarterMaterials.luau",
+          "sha256": "52359589972ac3bc4c3ede9bfdf2e71efbfcec8e4e4e4eb12e5caebe3998bb15",
+          "size_bytes": 2635
+        },
+        {
+          "file": "ui/magnet-ui-windows-v045/shared/StarterPolish.luau",
+          "sha256": "7f87231347d16598e15dba1c0ad4ebd34386c578e11186b5e07bce54798c7e89",
+          "size_bytes": 5375
+        },
+        {
+          "file": "ui/magnet-ui-windows-v045/shared/Strings.luau",
+          "sha256": "d957b7057e6abfda3a1d330acb6f820eaf36948931cc88a32c3724803f4c45e4",
+          "size_bytes": 9815
+        },
+        {
+          "file": "ui/magnet-ui-windows-v045/shared/SurfaceStyle.luau",
+          "sha256": "1f311068c2398b23f678d4f18e6f88abb87f6f595679d912b0bf92d3512ea472",
+          "size_bytes": 4762
+        },
+        {
+          "file": "ui/magnet-ui-windows-v045/shared/WaterfallAssets.luau",
+          "sha256": "e0657151fe37e9e2311c531038b4ea0346f87d8f8d2e00dc983b75b89d05a4e4",
+          "size_bytes": 1499
+        },
+        {
+          "file": "ui/magnet-ui-windows-v045/shared/WorldLabels.luau",
+          "sha256": "c58f9459dcada11c89eb344e9bd274fc68741693f6095beacbbd955d071a5b90",
+          "size_bytes": 1755
+        },
+        {
+          "file": "ui/magnet-ui-windows-v045/shop-preview.jpg",
+          "sha256": "82a1259e3b3ff88d4761bded86401270f61ba7b6e4dbbc4096b1814affd64684",
+          "size_bytes": 217415
+        },
+        {
+          "file": "ui/magnet-ui-windows-v045/upgrades-preview.jpg",
+          "sha256": "7acf0efa4695672a466aabb8fced977415571a4572c35dce0c8577fee232adea",
+          "size_bytes": 182990
+        }
+      ],
+      "derived_from": [
+        "magnet-ui-windows-v044",
+        "magnet-ui-window-concepts-v01",
+        "magnet-hud-navigation-v043"
+      ],
+      "tags": [
+        "magnet-workshop",
+        "starter",
+        "0.4.5",
+        "ui"
+      ],
+      "description": "Native scalable inventory, collection, shop, upgrades, sale and audio controls with actual model previews.",
+      "source": "Magnet Workshop Simulator; user-approved implementation; 2026-11-13",
+      "status": "portable files stored; applied and checked in Studio; see README for scope/limits",
+      "roblox_asset_id": null,
+      "compatibility": "Originating project schema/dependencies are included; adapter is project-specific. See README."
+    },
+    {
+      "id": "magnet-activity-ui-v046",
+      "kind": "ui",
+      "file": "ui/magnet-activity-ui-v046/client/ActivityUI.luau",
+      "files": [
+        {
+          "file": "ui/magnet-activity-ui-v046/README.md",
+          "sha256": "5265c59b72df6af7d4b2f0215f9a85b27e8d1aece3d07210feba38b051fa188c",
+          "size_bytes": 3605
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/cast-preview.jpg",
+          "sha256": "5834bd6e9017b43865dc14b84de9458e244d683a675f288f91edc14107244fb3",
+          "size_bytes": 209912
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/cleaned-preview.jpg",
+          "sha256": "cd4baad4fda43eacbc22daee4021af08535b96966fe592e45d717f01c3ed4f61",
+          "size_bytes": 194793
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/cleaning-preview.jpg",
+          "sha256": "857054be08eb4e4110e5bb67c5441910a6737fe3d7c4460b7d8499d7b2a5d6ce",
+          "size_bytes": 179494
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/client/ActivityUI.luau",
+          "sha256": "a87f21a7ed521dc8c488391c61da02ed88bf07f50d3608b9a0cd76caa0c93c48",
+          "size_bytes": 12013
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/client/AudioPresentation.luau",
+          "sha256": "3c04f303ff09776ad92599d260dcae31d04bcb36dceafbfae7b9ccae32b759cc",
+          "size_bytes": 8341
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/client/BiomePresentation.luau",
+          "sha256": "041b443fb16b077ba191da2fea94fbac126289f1171dd80d56c414225b6d36a1",
+          "size_bytes": 1641
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/client/CastMeter.luau",
+          "sha256": "d514028405b4b433b9efdd0115865bb10f973dc413f7f936361a4be4c8fdf02d",
+          "size_bytes": 5359
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/client/CleaningPresentation.luau",
+          "sha256": "b3e5f99f10a4c501a13b8d48e17702bea9d65a481dfd39dc6d4ae404faf3f8a6",
+          "size_bytes": 13597
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/client/EquipmentUI.luau",
+          "sha256": "1531d0db9edc45641385b21d1ac9543b49b675dc3c8c3f3aa7e802532b90c9f4",
+          "size_bytes": 3316
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/client/FishingPresentation.luau",
+          "sha256": "e0320adf55f56bc0e1fdedb5b50e25176a9fb7af50401aeed101970a13aa8f27",
+          "size_bytes": 21332
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/client/HudIcons.luau",
+          "sha256": "5e4810661fb14214f5ccf36f0d1afb356b210a96547bd0497af6f42f6b9388aa",
+          "size_bytes": 338
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/client/HudNavigation.luau",
+          "sha256": "af9b82a28da11c3c97d721755a569f5c90de852b07f75e747606950c358b7f8b",
+          "size_bytes": 6128
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/client/LakePresentation.luau",
+          "sha256": "724b023904de82655fefe866665cb226d079efeff98b68323a971b48ccae43e4",
+          "size_bytes": 2950
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/client/Main.project-adapter.luau",
+          "sha256": "3bb20e7f71fa973057cc0700ddc2d892c8b8bc9640db5e6663010cb87ebca046",
+          "size_bytes": 27640
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/client/PortalWalkthrough.luau",
+          "sha256": "f6f06c3801c31b81b1b62be8c1b992e57928f20a877262ad5e1ec8ab7a32a716",
+          "size_bytes": 2385
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/client/SettingsUI.luau",
+          "sha256": "89b1482fa3d46adf8685126216ae2fffc1c45724b9983c87527010170b658b46",
+          "size_bytes": 7243
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/client/WindowTheme.luau",
+          "sha256": "bbd138f40e055cff76a7f8340bd66523522d950cc078d221f64ca9847d067b12",
+          "size_bytes": 4748
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/client/WorkshopWindows.luau",
+          "sha256": "2f413fa5ed66309e5e1d13ecf3ee1c4b39e61626786f04a579c036e56cc2d573",
+          "size_bytes": 18109
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/failure-preview.jpg",
+          "sha256": "34cc763b4835d32bdec76ec7541e67e0db8e614b00f85d8ffb8859f50383c8c1",
+          "size_bytes": 190391
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/found-preview.jpg",
+          "sha256": "9ab4a8049de00d0d923c7b499bb91fa8b8c87aeac4f1a1201a7ffac59c1effc0",
+          "size_bytes": 217277
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/manifest.json",
+          "sha256": "62f23c60295d4023fbfbe429be811ab114fe0270a27685104221dc1b07ae0bc5",
+          "size_bytes": 599
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/pull-preview.jpg",
+          "sha256": "369751e0d160964bed8446278f9f256fd4a6b419a7d0e78c17ab64a27438d847",
+          "size_bytes": 234799
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/shared/ApprovedAssets.luau",
+          "sha256": "03c28c643dba14f908120e3c925744a2a019071678a36d00ac8e6fc8a50c6cba",
+          "size_bytes": 8929
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/shared/AudioCatalog.luau",
+          "sha256": "f5801cb0c371d6469b68e77b187a301a64f7c10629223b765e11569ffa38ec6c",
+          "size_bytes": 1035
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/shared/BiomeAssets.luau",
+          "sha256": "21af9a47013b38f789534dc859835995771cdb283d836800b6d8a078cdc988ca",
+          "size_bytes": 11222
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/shared/BiomeCatalog.luau",
+          "sha256": "47b9d27fcf3687b14c3f81c8d1b4eb9967efa58b1afb27d1549fe657a20b80c7",
+          "size_bytes": 1909
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/shared/BoardwalkFinish.luau",
+          "sha256": "f2c5fd0c0674e10aed2fe84f098ce78b9e3aa82e0d08d7e753fd2aba315eaae0",
+          "size_bytes": 13576
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/shared/CastRules.luau",
+          "sha256": "3558c1f7389a1280a4694fc4eb5f96bc040de3bbe5ba7b3708b2951ced2ec1ee",
+          "size_bytes": 3343
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/shared/CleaningGeometry.luau",
+          "sha256": "f380294623ec598271fbead875cc119ec4ef2d3ebba1a12cb1d2819f2ee2767a",
+          "size_bytes": 5523
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/shared/Config.luau",
+          "sha256": "4925b14fc477faf03540f8743b9364c02e258ed1552e5f0c32495db04ff9ff32",
+          "size_bytes": 3912
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/shared/EnvironmentAssets.luau",
+          "sha256": "633ef9c008979ae8f61d65aa502c32bd2c87ef609cccbb3b6645c02ef4b17933",
+          "size_bytes": 6875
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/shared/EnvironmentFinish.luau",
+          "sha256": "3b548ea541581bf27c67b6a719751f0fcd86d34d8eef75eefdb1237f0cc7024f",
+          "size_bytes": 8059
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/shared/FindFactory.luau",
+          "sha256": "bbc8d46047df90eae2adaf6a3319c87534df8bf4841287b88b26135e8d7f27de",
+          "size_bytes": 8679
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/shared/HubAssets.luau",
+          "sha256": "752e25b1b4ed6447f4147b7ed4f2e29575759ce8f17dd35b72a0f8ad4f6fa3c2",
+          "size_bytes": 10731
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/shared/MapAssets.luau",
+          "sha256": "603c48b34173d525cba362ca8a1ff63897afc77cea7e0cfbf0c0263358fb181c",
+          "size_bytes": 14779
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/shared/PierRules.luau",
+          "sha256": "6eb4a2146ceb8cf352b15539b556a9839b03f02e38c5803b6b8055a7cb9d7a74",
+          "size_bytes": 1289
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/shared/RadialLayout.luau",
+          "sha256": "d74e69fb986fdeb089e90fff3749222910a7a86dbb28cf9379e1ea16d7628b49",
+          "size_bytes": 5273
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/shared/SceneKit.luau",
+          "sha256": "2f29e8392f567f3fa18a08505a33891127ef021616db534e8575c3dce1a90b3f",
+          "size_bytes": 7339
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/shared/ShoreAppearance.luau",
+          "sha256": "6b8a124801363bf1fb1b4109e1b2f7432f2f0821962899248903976dc370da56",
+          "size_bytes": 6320
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/shared/StarterLayout.luau",
+          "sha256": "482b131710a52f296310a49e72a9f7bb62d679f338959fa3fe9a99038267e0f1",
+          "size_bytes": 1020
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/shared/StarterMaterials.luau",
+          "sha256": "52359589972ac3bc4c3ede9bfdf2e71efbfcec8e4e4e4eb12e5caebe3998bb15",
+          "size_bytes": 2635
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/shared/StarterPolish.luau",
+          "sha256": "7f87231347d16598e15dba1c0ad4ebd34386c578e11186b5e07bce54798c7e89",
+          "size_bytes": 5375
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/shared/Strings.luau",
+          "sha256": "d957b7057e6abfda3a1d330acb6f820eaf36948931cc88a32c3724803f4c45e4",
+          "size_bytes": 9815
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/shared/SurfaceStyle.luau",
+          "sha256": "1f311068c2398b23f678d4f18e6f88abb87f6f595679d912b0bf92d3512ea472",
+          "size_bytes": 4762
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/shared/WaterfallAssets.luau",
+          "sha256": "e0657151fe37e9e2311c531038b4ea0346f87d8f8d2e00dc983b75b89d05a4e4",
+          "size_bytes": 1499
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/shared/WorldLabels.luau",
+          "sha256": "c58f9459dcada11c89eb344e9bd274fc68741693f6095beacbbd955d071a5b90",
+          "size_bytes": 1755
+        },
+        {
+          "file": "ui/magnet-activity-ui-v046/side2-preview.jpg",
+          "sha256": "bc3c255ab296e26793af854c61c8d249fab314f74a93a1de166e5d9f7ede660e",
+          "size_bytes": 178323
+        }
+      ],
+      "derived_from": [
+        "magnet-ui-windows-v045",
+        "magnet-hud-icons-v01"
+      ],
+      "tags": [
+        "fishing",
+        "cleaning",
+        "reveal",
+        "progress",
+        "native-ui",
+        "0.4.6"
+      ],
+      "description": "Responsive cast/pull/cleaning/result surfaces, original model/camera presentations and originating project adapter.",
+      "source": "Magnet Workshop Simulator; user requested first two next steps; 2026-11-13",
+      "status": "implemented; Studio input and full cycle checked; physical devices pending",
+      "roblox_asset_id": null,
+      "compatibility": "Originating shared schema and server/remotes required; all client/shared sources supplied, see README."
+    },
+    {
+      "id": "magnet-onboarding-ui-v047",
+      "kind": "ui",
+      "file": "ui/magnet-onboarding-ui-v047/client/OnboardingUI.luau",
+      "files": [
+        {
+          "file": "ui/magnet-onboarding-ui-v047/README.md",
+          "sha256": "a193403f0e1a2e32ae3747e99c35b0bd026b534ac007b523194f14307e33e295",
+          "size_bytes": 1777
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/client/ActivityUI.luau",
+          "sha256": "a87f21a7ed521dc8c488391c61da02ed88bf07f50d3608b9a0cd76caa0c93c48",
+          "size_bytes": 12013
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/client/AudioPresentation.luau",
+          "sha256": "3c04f303ff09776ad92599d260dcae31d04bcb36dceafbfae7b9ccae32b759cc",
+          "size_bytes": 8341
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/client/BiomePresentation.luau",
+          "sha256": "041b443fb16b077ba191da2fea94fbac126289f1171dd80d56c414225b6d36a1",
+          "size_bytes": 1641
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/client/CastMeter.luau",
+          "sha256": "d514028405b4b433b9efdd0115865bb10f973dc413f7f936361a4be4c8fdf02d",
+          "size_bytes": 5359
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/client/CleaningPresentation.luau",
+          "sha256": "b3e5f99f10a4c501a13b8d48e17702bea9d65a481dfd39dc6d4ae404faf3f8a6",
+          "size_bytes": 13597
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/client/EquipmentUI.luau",
+          "sha256": "1531d0db9edc45641385b21d1ac9543b49b675dc3c8c3f3aa7e802532b90c9f4",
+          "size_bytes": 3316
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/client/FishingPresentation.luau",
+          "sha256": "e0320adf55f56bc0e1fdedb5b50e25176a9fb7af50401aeed101970a13aa8f27",
+          "size_bytes": 21332
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/client/HudIcons.luau",
+          "sha256": "5e4810661fb14214f5ccf36f0d1afb356b210a96547bd0497af6f42f6b9388aa",
+          "size_bytes": 338
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/client/HudNavigation.luau",
+          "sha256": "af9b82a28da11c3c97d721755a569f5c90de852b07f75e747606950c358b7f8b",
+          "size_bytes": 6128
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/client/LakePresentation.luau",
+          "sha256": "724b023904de82655fefe866665cb226d079efeff98b68323a971b48ccae43e4",
+          "size_bytes": 2950
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/client/Main.project-adapter.luau",
+          "sha256": "e0ef338c489f4a761af1dc2d3a05482336e5514211025b01bb3e8488e5fb527b",
+          "size_bytes": 32154
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/client/OnboardingUI.luau",
+          "sha256": "1fc0eca6a8a7e548e01f086de96b4b2fb796ca9e47512430025f9cfce84ea748",
+          "size_bytes": 4406
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/client/PortalWalkthrough.luau",
+          "sha256": "f6f06c3801c31b81b1b62be8c1b992e57928f20a877262ad5e1ec8ab7a32a716",
+          "size_bytes": 2385
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/client/SettingsUI.luau",
+          "sha256": "befb4cf964c2f33d0fb58def28efa575aa771bd10cdb0baeebc29387b69f9a16",
+          "size_bytes": 7887
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/client/WindowTheme.luau",
+          "sha256": "bbd138f40e055cff76a7f8340bd66523522d950cc078d221f64ca9847d067b12",
+          "size_bytes": 4748
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/client/WorkshopWindows.luau",
+          "sha256": "2f413fa5ed66309e5e1d13ecf3ee1c4b39e61626786f04a579c036e56cc2d573",
+          "size_bytes": 18109
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/goal-preview.jpg",
+          "sha256": "b50e8418d802bf005fa879b33f5c4aa8d6c119b5ce2ee2a074a25062b8f75861",
+          "size_bytes": 233790
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/manifest.json",
+          "sha256": "3fffa6c0065f28c73d7653b1cf6d232b5da9b0adadfe17b529943bd20e532317",
+          "size_bytes": 443
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/settings-preview.jpg",
+          "sha256": "bd51acc41a31d3ca1909f666a94dc2c04b26eb7113db037bb8239c77392812f8",
+          "size_bytes": 176056
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/shared/ApprovedAssets.luau",
+          "sha256": "03c28c643dba14f908120e3c925744a2a019071678a36d00ac8e6fc8a50c6cba",
+          "size_bytes": 8929
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/shared/AudioCatalog.luau",
+          "sha256": "f5801cb0c371d6469b68e77b187a301a64f7c10629223b765e11569ffa38ec6c",
+          "size_bytes": 1035
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/shared/BiomeAssets.luau",
+          "sha256": "21af9a47013b38f789534dc859835995771cdb283d836800b6d8a078cdc988ca",
+          "size_bytes": 11222
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/shared/BiomeCatalog.luau",
+          "sha256": "47b9d27fcf3687b14c3f81c8d1b4eb9967efa58b1afb27d1549fe657a20b80c7",
+          "size_bytes": 1909
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/shared/BoardwalkFinish.luau",
+          "sha256": "f2c5fd0c0674e10aed2fe84f098ce78b9e3aa82e0d08d7e753fd2aba315eaae0",
+          "size_bytes": 13576
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/shared/CastRules.luau",
+          "sha256": "3558c1f7389a1280a4694fc4eb5f96bc040de3bbe5ba7b3708b2951ced2ec1ee",
+          "size_bytes": 3343
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/shared/CleaningGeometry.luau",
+          "sha256": "f380294623ec598271fbead875cc119ec4ef2d3ebba1a12cb1d2819f2ee2767a",
+          "size_bytes": 5523
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/shared/Config.luau",
+          "sha256": "4925b14fc477faf03540f8743b9364c02e258ed1552e5f0c32495db04ff9ff32",
+          "size_bytes": 3912
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/shared/EnvironmentAssets.luau",
+          "sha256": "633ef9c008979ae8f61d65aa502c32bd2c87ef609cccbb3b6645c02ef4b17933",
+          "size_bytes": 6875
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/shared/EnvironmentFinish.luau",
+          "sha256": "3b548ea541581bf27c67b6a719751f0fcd86d34d8eef75eefdb1237f0cc7024f",
+          "size_bytes": 8059
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/shared/FindFactory.luau",
+          "sha256": "bbc8d46047df90eae2adaf6a3319c87534df8bf4841287b88b26135e8d7f27de",
+          "size_bytes": 8679
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/shared/GuideRules.luau",
+          "sha256": "32c76aa22e3bef38c91b210f8d9d91dad5440d90c0873cfb90af170e5da915dd",
+          "size_bytes": 5945
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/shared/HubAssets.luau",
+          "sha256": "752e25b1b4ed6447f4147b7ed4f2e29575759ce8f17dd35b72a0f8ad4f6fa3c2",
+          "size_bytes": 10731
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/shared/MapAssets.luau",
+          "sha256": "603c48b34173d525cba362ca8a1ff63897afc77cea7e0cfbf0c0263358fb181c",
+          "size_bytes": 14779
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/shared/PierRules.luau",
+          "sha256": "6eb4a2146ceb8cf352b15539b556a9839b03f02e38c5803b6b8055a7cb9d7a74",
+          "size_bytes": 1289
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/shared/RadialLayout.luau",
+          "sha256": "d74e69fb986fdeb089e90fff3749222910a7a86dbb28cf9379e1ea16d7628b49",
+          "size_bytes": 5273
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/shared/SceneKit.luau",
+          "sha256": "2f29e8392f567f3fa18a08505a33891127ef021616db534e8575c3dce1a90b3f",
+          "size_bytes": 7339
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/shared/ShoreAppearance.luau",
+          "sha256": "6b8a124801363bf1fb1b4109e1b2f7432f2f0821962899248903976dc370da56",
+          "size_bytes": 6320
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/shared/StarterLayout.luau",
+          "sha256": "482b131710a52f296310a49e72a9f7bb62d679f338959fa3fe9a99038267e0f1",
+          "size_bytes": 1020
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/shared/StarterMaterials.luau",
+          "sha256": "52359589972ac3bc4c3ede9bfdf2e71efbfcec8e4e4e4eb12e5caebe3998bb15",
+          "size_bytes": 2635
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/shared/StarterPolish.luau",
+          "sha256": "7f87231347d16598e15dba1c0ad4ebd34386c578e11186b5e07bce54798c7e89",
+          "size_bytes": 5375
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/shared/Strings.luau",
+          "sha256": "d957b7057e6abfda3a1d330acb6f820eaf36948931cc88a32c3724803f4c45e4",
+          "size_bytes": 9815
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/shared/SurfaceStyle.luau",
+          "sha256": "1f311068c2398b23f678d4f18e6f88abb87f6f595679d912b0bf92d3512ea472",
+          "size_bytes": 4762
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/shared/WaterfallAssets.luau",
+          "sha256": "e0657151fe37e9e2311c531038b4ea0346f87d8f8d2e00dc983b75b89d05a4e4",
+          "size_bytes": 1499
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/shared/WorldLabels.luau",
+          "sha256": "c58f9459dcada11c89eb344e9bd274fc68741693f6095beacbbd955d071a5b90",
+          "size_bytes": 1755
+        },
+        {
+          "file": "ui/magnet-onboarding-ui-v047/verification.md",
+          "sha256": "8fb1e228eacc4d2a743832c6aed3379b8c7e7471ef25ef6cfe043dbee40a87c3",
+          "size_bytes": 7552
+        }
+      ],
+      "derived_from": [
+        "magnet-activity-ui-v046",
+        "magnet-ui-windows-v045"
+      ],
+      "tags": [
+        "magnet-workshop",
+        "guide",
+        "0.4.7"
+      ],
+      "description": "Optional native guide HUD/manual help/settings integration with read-only progression goals; first4steps plus economy goals.",
+      "source": "Magnet Workshop Simulator;2026-11-14",
+      "status": "implemented and saved; validation scope in verification.md",
+      "roblox_asset_id": null,
+      "compatibility": "See supplied README and verification; original schema/remotes/layout required.",
+      "superseded_by": "magnet-guided-navigation-v049"
+    },
+    {
+      "id": "magnet-biome-fishing-v048",
+      "kind": "system",
+      "file": "systems/magnet-biome-fishing-v048/shared/BiomeFishing.luau",
+      "files": [
+        {
+          "file": "systems/magnet-biome-fishing-v048/README.md",
+          "sha256": "e563025cce0b3b55b2933ce186d08bb703b5b49bfe34425e79abb5f8b31a5c11",
+          "size_bytes": 1800
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/casting-preview.jpg",
+          "sha256": "24d1499ce0fae662dde9766141d1edd2bc0d0b06da54aca4c3675e3cc050f900",
+          "size_bytes": 161066
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/client/ActivityUI.luau",
+          "sha256": "a87f21a7ed521dc8c488391c61da02ed88bf07f50d3608b9a0cd76caa0c93c48",
+          "size_bytes": 12013
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/client/AudioPresentation.luau",
+          "sha256": "3c04f303ff09776ad92599d260dcae31d04bcb36dceafbfae7b9ccae32b759cc",
+          "size_bytes": 8341
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/client/BiomePresentation.luau",
+          "sha256": "041b443fb16b077ba191da2fea94fbac126289f1171dd80d56c414225b6d36a1",
+          "size_bytes": 1641
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/client/CastMeter.luau",
+          "sha256": "d514028405b4b433b9efdd0115865bb10f973dc413f7f936361a4be4c8fdf02d",
+          "size_bytes": 5359
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/client/CleaningPresentation.luau",
+          "sha256": "b3e5f99f10a4c501a13b8d48e17702bea9d65a481dfd39dc6d4ae404faf3f8a6",
+          "size_bytes": 13597
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/client/EquipmentUI.luau",
+          "sha256": "1531d0db9edc45641385b21d1ac9543b49b675dc3c8c3f3aa7e802532b90c9f4",
+          "size_bytes": 3316
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/client/FishingPresentation.luau",
+          "sha256": "e0320adf55f56bc0e1fdedb5b50e25176a9fb7af50401aeed101970a13aa8f27",
+          "size_bytes": 21332
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/client/HudIcons.luau",
+          "sha256": "5e4810661fb14214f5ccf36f0d1afb356b210a96547bd0497af6f42f6b9388aa",
+          "size_bytes": 338
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/client/HudNavigation.luau",
+          "sha256": "af9b82a28da11c3c97d721755a569f5c90de852b07f75e747606950c358b7f8b",
+          "size_bytes": 6128
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/client/LakePresentation.luau",
+          "sha256": "724b023904de82655fefe866665cb226d079efeff98b68323a971b48ccae43e4",
+          "size_bytes": 2950
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/client/Main.project-adapter.luau",
+          "sha256": "28645712d9ca7768ce8f08029fa059d02f885b4f6d9b79226dc3e225a2fcc417",
+          "size_bytes": 32622
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/client/OnboardingUI.luau",
+          "sha256": "96ebe27669c610c1e9f7f0e37b19d364cef7a239ffd897df9bc60348b496e52f",
+          "size_bytes": 4438
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/client/PortalWalkthrough.luau",
+          "sha256": "f6f06c3801c31b81b1b62be8c1b992e57928f20a877262ad5e1ec8ab7a32a716",
+          "size_bytes": 2385
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/client/SettingsUI.luau",
+          "sha256": "befb4cf964c2f33d0fb58def28efa575aa771bd10cdb0baeebc29387b69f9a16",
+          "size_bytes": 7887
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/client/WindowTheme.luau",
+          "sha256": "bbd138f40e055cff76a7f8340bd66523522d950cc078d221f64ca9847d067b12",
+          "size_bytes": 4748
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/client/WorkshopWindows.luau",
+          "sha256": "2f413fa5ed66309e5e1d13ecf3ee1c4b39e61626786f04a579c036e56cc2d573",
+          "size_bytes": 18109
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/manifest.json",
+          "sha256": "75bcfece3a82b0f1d2d0bc6ed0e4c1275277b0dd44dc91f8deb7d55d536539b5",
+          "size_bytes": 443
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/server/Bootstrap.server.luau",
+          "sha256": "0f90690f47fec5ca72629e7607d0bb2e7c2c70bf341b219da813aaade909fdbe",
+          "size_bytes": 1369
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/server/GameService.luau",
+          "sha256": "5dd9a8ae5b06e9bf6b7a41ba771feb40ae42649bc15eae566bc0e69b99ac9adc",
+          "size_bytes": 35028
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/server/MagnetEquipment.luau",
+          "sha256": "13b81bae33ff9bcbd3773ca62b2494c8488ffdca53dda96453d11ff7f6b30288",
+          "size_bytes": 4859
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/server/PortalService.luau",
+          "sha256": "22d3fe99dd2067e15b247f46fa57bd5666ff23bfb3705a4692ebf45c16312c07",
+          "size_bytes": 2905
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/server/ProfileStore.luau",
+          "sha256": "1ec7de8f416dfe82799a768ad9160fef1059d432fa8e57243b15c8c090db22b6",
+          "size_bytes": 11168
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/server/WorldBuilder.luau",
+          "sha256": "d73a18a20adb50e900829b99f271e0c9d1df8e2fdad00b92fefc32017844b4c1",
+          "size_bytes": 9465
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/server/WorldMetadata.luau",
+          "sha256": "15d36aefd69ef73735cf908d6cf42a196c6e9003f994281d13e51233002318ad",
+          "size_bytes": 938
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/server/WorldMetadataData01.luau",
+          "sha256": "d0836858715bd7f766268f083ac624421f790c34e2c56bf5401bed225e001e42",
+          "size_bytes": 120020
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/server/WorldMetadataData02.luau",
+          "sha256": "8100a9bf8090b1f099506c00342e467f3cead8bfc3c7ea79959d179a5e62575c",
+          "size_bytes": 120020
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/server/WorldMetadataData03.luau",
+          "sha256": "82197e9097f9795a81bcf7466d36a3766d86ce0b4a48a8179fafddfd7b83af54",
+          "size_bytes": 68293
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/shared/ApprovedAssets.luau",
+          "sha256": "03c28c643dba14f908120e3c925744a2a019071678a36d00ac8e6fc8a50c6cba",
+          "size_bytes": 8929
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/shared/AudioCatalog.luau",
+          "sha256": "f5801cb0c371d6469b68e77b187a301a64f7c10629223b765e11569ffa38ec6c",
+          "size_bytes": 1035
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/shared/BiomeAssets.luau",
+          "sha256": "21af9a47013b38f789534dc859835995771cdb283d836800b6d8a078cdc988ca",
+          "size_bytes": 11222
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/shared/BiomeCatalog.luau",
+          "sha256": "92c15b7d559b05411fc465f417f833fdee96dc81f5e683ec9d90495d72a2d0a4",
+          "size_bytes": 2155
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/shared/BiomeFishing.luau",
+          "sha256": "1cc3a3989dcc063fd7aabbe5e62ceb9e3e3f36bd6d849f5eecc4f5e1e957b5b7",
+          "size_bytes": 1120
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/shared/BoardwalkFinish.luau",
+          "sha256": "f2c5fd0c0674e10aed2fe84f098ce78b9e3aa82e0d08d7e753fd2aba315eaae0",
+          "size_bytes": 13576
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/shared/CastRules.luau",
+          "sha256": "df30804671795822d81c3908b7e685d9474dcf78c8cbb8b494cf17a4aa2ff696",
+          "size_bytes": 3481
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/shared/CleaningGeometry.luau",
+          "sha256": "f380294623ec598271fbead875cc119ec4ef2d3ebba1a12cb1d2819f2ee2767a",
+          "size_bytes": 5523
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/shared/Config.luau",
+          "sha256": "4925b14fc477faf03540f8743b9364c02e258ed1552e5f0c32495db04ff9ff32",
+          "size_bytes": 3912
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/shared/EnvironmentAssets.luau",
+          "sha256": "633ef9c008979ae8f61d65aa502c32bd2c87ef609cccbb3b6645c02ef4b17933",
+          "size_bytes": 6875
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/shared/EnvironmentFinish.luau",
+          "sha256": "3b548ea541581bf27c67b6a719751f0fcd86d34d8eef75eefdb1237f0cc7024f",
+          "size_bytes": 8059
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/shared/FindFactory.luau",
+          "sha256": "bbc8d46047df90eae2adaf6a3319c87534df8bf4841287b88b26135e8d7f27de",
+          "size_bytes": 8679
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/shared/GuideRules.luau",
+          "sha256": "2bd37792305d723fe355988f6acad76f7e2d98bc676d62409c42bfc580bd6645",
+          "size_bytes": 6616
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/shared/HubAssets.luau",
+          "sha256": "752e25b1b4ed6447f4147b7ed4f2e29575759ce8f17dd35b72a0f8ad4f6fa3c2",
+          "size_bytes": 10731
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/shared/MapAssets.luau",
+          "sha256": "603c48b34173d525cba362ca8a1ff63897afc77cea7e0cfbf0c0263358fb181c",
+          "size_bytes": 14779
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/shared/PierRules.luau",
+          "sha256": "6eb4a2146ceb8cf352b15539b556a9839b03f02e38c5803b6b8055a7cb9d7a74",
+          "size_bytes": 1289
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/shared/RadialLayout.luau",
+          "sha256": "d74e69fb986fdeb089e90fff3749222910a7a86dbb28cf9379e1ea16d7628b49",
+          "size_bytes": 5273
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/shared/SceneKit.luau",
+          "sha256": "2f29e8392f567f3fa18a08505a33891127ef021616db534e8575c3dce1a90b3f",
+          "size_bytes": 7339
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/shared/ShoreAppearance.luau",
+          "sha256": "6b8a124801363bf1fb1b4109e1b2f7432f2f0821962899248903976dc370da56",
+          "size_bytes": 6320
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/shared/StarterLayout.luau",
+          "sha256": "482b131710a52f296310a49e72a9f7bb62d679f338959fa3fe9a99038267e0f1",
+          "size_bytes": 1020
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/shared/StarterMaterials.luau",
+          "sha256": "52359589972ac3bc4c3ede9bfdf2e71efbfcec8e4e4e4eb12e5caebe3998bb15",
+          "size_bytes": 2635
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/shared/StarterPolish.luau",
+          "sha256": "7f87231347d16598e15dba1c0ad4ebd34386c578e11186b5e07bce54798c7e89",
+          "size_bytes": 5375
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/shared/Strings.luau",
+          "sha256": "d957b7057e6abfda3a1d330acb6f820eaf36948931cc88a32c3724803f4c45e4",
+          "size_bytes": 9815
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/shared/SurfaceStyle.luau",
+          "sha256": "1f311068c2398b23f678d4f18e6f88abb87f6f595679d912b0bf92d3512ea472",
+          "size_bytes": 4762
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/shared/WaterfallAssets.luau",
+          "sha256": "e0657151fe37e9e2311c531038b4ea0346f87d8f8d2e00dc983b75b89d05a4e4",
+          "size_bytes": 1499
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/shared/WorldLabels.luau",
+          "sha256": "c58f9459dcada11c89eb344e9bd274fc68741693f6095beacbbd955d071a5b90",
+          "size_bytes": 1755
+        },
+        {
+          "file": "systems/magnet-biome-fishing-v048/verification.md",
+          "sha256": "8fb1e228eacc4d2a743832c6aed3379b8c7e7471ef25ef6cfe043dbee40a87c3",
+          "size_bytes": 7552
+        }
+      ],
+      "derived_from": [
+        "magnet-activity-ui-v046",
+        "magnet-ui-windows-v045"
+      ],
+      "tags": [
+        "magnet-workshop",
+        "biome-fishing",
+        "0.4.8"
+      ],
+      "description": "Two existing Ice pier fishing markers, equipment-gated portal, centered-lake cast math, optional visitedBiomes migration and next-goal integration.",
+      "source": "Magnet Workshop Simulator;2026-11-14",
+      "status": "implemented and saved; validation scope in verification.md",
+      "roblox_asset_id": null,
+      "compatibility": "See supplied README and verification; original schema/remotes/layout required."
+    },
+    {
+      "id": "magnet-guided-navigation-v049",
+      "kind": "ui",
+      "file": "ui/magnet-guided-navigation-v049/client/OnboardingUI.luau",
+      "files": [
+        {
+          "file": "ui/magnet-guided-navigation-v049/README.md",
+          "sha256": "108c8008b3c6a31082c90846de8fff3644ab3ce0ef4508fe41eb300c4f513ecf",
+          "size_bytes": 2741
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/client/ActivityUI.luau",
+          "sha256": "a87f21a7ed521dc8c488391c61da02ed88bf07f50d3608b9a0cd76caa0c93c48",
+          "size_bytes": 12013
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/client/AudioPresentation.luau",
+          "sha256": "3c04f303ff09776ad92599d260dcae31d04bcb36dceafbfae7b9ccae32b759cc",
+          "size_bytes": 8341
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/client/BiomePresentation.luau",
+          "sha256": "041b443fb16b077ba191da2fea94fbac126289f1171dd80d56c414225b6d36a1",
+          "size_bytes": 1641
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/client/CastMeter.luau",
+          "sha256": "d514028405b4b433b9efdd0115865bb10f973dc413f7f936361a4be4c8fdf02d",
+          "size_bytes": 5359
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/client/CleaningPresentation.luau",
+          "sha256": "b3e5f99f10a4c501a13b8d48e17702bea9d65a481dfd39dc6d4ae404faf3f8a6",
+          "size_bytes": 13597
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/client/EquipmentUI.luau",
+          "sha256": "1531d0db9edc45641385b21d1ac9543b49b675dc3c8c3f3aa7e802532b90c9f4",
+          "size_bytes": 3316
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/client/FishingPresentation.luau",
+          "sha256": "e0320adf55f56bc0e1fdedb5b50e25176a9fb7af50401aeed101970a13aa8f27",
+          "size_bytes": 21332
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/client/HudIcons.luau",
+          "sha256": "5e4810661fb14214f5ccf36f0d1afb356b210a96547bd0497af6f42f6b9388aa",
+          "size_bytes": 338
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/client/HudNavigation.luau",
+          "sha256": "af9b82a28da11c3c97d721755a569f5c90de852b07f75e747606950c358b7f8b",
+          "size_bytes": 6128
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/client/LakePresentation.luau",
+          "sha256": "724b023904de82655fefe866665cb226d079efeff98b68323a971b48ccae43e4",
+          "size_bytes": 2950
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/client/Main.project-adapter.luau",
+          "sha256": "28645712d9ca7768ce8f08029fa059d02f885b4f6d9b79226dc3e225a2fcc417",
+          "size_bytes": 32622
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/client/OnboardingUI.luau",
+          "sha256": "a90967cc6d98488682934b9ec3262f0e8d49f45169ca9c88a2755ba7feb2d060",
+          "size_bytes": 6537
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/client/PortalWalkthrough.luau",
+          "sha256": "cf2db9afa6748c2e0eef317511c9db226c826df5aa6c88db9eb1be6c3aeb1506",
+          "size_bytes": 4199
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/client/SettingsUI.luau",
+          "sha256": "befb4cf964c2f33d0fb58def28efa575aa771bd10cdb0baeebc29387b69f9a16",
+          "size_bytes": 7887
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/client/WindowTheme.luau",
+          "sha256": "bbd138f40e055cff76a7f8340bd66523522d950cc078d221f64ca9847d067b12",
+          "size_bytes": 4748
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/client/WorkshopWindows.luau",
+          "sha256": "2f413fa5ed66309e5e1d13ecf3ee1c4b39e61626786f04a579c036e56cc2d573",
+          "size_bytes": 18109
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/loading-preview.jpg",
+          "sha256": "6e0cd98f3f90814f5469bd3b3288f44fe968791c35234238708dfb8f3cb8bba6",
+          "size_bytes": 74474
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/manifest.json",
+          "sha256": "6efb4d267dd6030e936896325d5e51196cd670118a9913d27bcde63de4446282",
+          "size_bytes": 488
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/shared/ApprovedAssets.luau",
+          "sha256": "03c28c643dba14f908120e3c925744a2a019071678a36d00ac8e6fc8a50c6cba",
+          "size_bytes": 8929
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/shared/AudioCatalog.luau",
+          "sha256": "f5801cb0c371d6469b68e77b187a301a64f7c10629223b765e11569ffa38ec6c",
+          "size_bytes": 1035
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/shared/BiomeAssets.luau",
+          "sha256": "21af9a47013b38f789534dc859835995771cdb283d836800b6d8a078cdc988ca",
+          "size_bytes": 11222
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/shared/BiomeCatalog.luau",
+          "sha256": "92c15b7d559b05411fc465f417f833fdee96dc81f5e683ec9d90495d72a2d0a4",
+          "size_bytes": 2155
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/shared/BiomeFishing.luau",
+          "sha256": "1cc3a3989dcc063fd7aabbe5e62ceb9e3e3f36bd6d849f5eecc4f5e1e957b5b7",
+          "size_bytes": 1120
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/shared/BoardwalkFinish.luau",
+          "sha256": "f2c5fd0c0674e10aed2fe84f098ce78b9e3aa82e0d08d7e753fd2aba315eaae0",
+          "size_bytes": 13576
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/shared/CastRules.luau",
+          "sha256": "df30804671795822d81c3908b7e685d9474dcf78c8cbb8b494cf17a4aa2ff696",
+          "size_bytes": 3481
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/shared/CleaningGeometry.luau",
+          "sha256": "f380294623ec598271fbead875cc119ec4ef2d3ebba1a12cb1d2819f2ee2767a",
+          "size_bytes": 5523
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/shared/Config.luau",
+          "sha256": "4925b14fc477faf03540f8743b9364c02e258ed1552e5f0c32495db04ff9ff32",
+          "size_bytes": 3912
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/shared/EnvironmentAssets.luau",
+          "sha256": "633ef9c008979ae8f61d65aa502c32bd2c87ef609cccbb3b6645c02ef4b17933",
+          "size_bytes": 6875
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/shared/EnvironmentFinish.luau",
+          "sha256": "3b548ea541581bf27c67b6a719751f0fcd86d34d8eef75eefdb1237f0cc7024f",
+          "size_bytes": 8059
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/shared/FindFactory.luau",
+          "sha256": "bbc8d46047df90eae2adaf6a3319c87534df8bf4841287b88b26135e8d7f27de",
+          "size_bytes": 8679
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/shared/GuideRules.luau",
+          "sha256": "2bd37792305d723fe355988f6acad76f7e2d98bc676d62409c42bfc580bd6645",
+          "size_bytes": 6616
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/shared/HubAssets.luau",
+          "sha256": "752e25b1b4ed6447f4147b7ed4f2e29575759ce8f17dd35b72a0f8ad4f6fa3c2",
+          "size_bytes": 10731
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/shared/MapAssets.luau",
+          "sha256": "603c48b34173d525cba362ca8a1ff63897afc77cea7e0cfbf0c0263358fb181c",
+          "size_bytes": 14779
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/shared/PierRules.luau",
+          "sha256": "6eb4a2146ceb8cf352b15539b556a9839b03f02e38c5803b6b8055a7cb9d7a74",
+          "size_bytes": 1289
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/shared/RadialLayout.luau",
+          "sha256": "d74e69fb986fdeb089e90fff3749222910a7a86dbb28cf9379e1ea16d7628b49",
+          "size_bytes": 5273
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/shared/SceneKit.luau",
+          "sha256": "2f29e8392f567f3fa18a08505a33891127ef021616db534e8575c3dce1a90b3f",
+          "size_bytes": 7339
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/shared/ShoreAppearance.luau",
+          "sha256": "6b8a124801363bf1fb1b4109e1b2f7432f2f0821962899248903976dc370da56",
+          "size_bytes": 6320
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/shared/StarterLayout.luau",
+          "sha256": "482b131710a52f296310a49e72a9f7bb62d679f338959fa3fe9a99038267e0f1",
+          "size_bytes": 1020
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/shared/StarterMaterials.luau",
+          "sha256": "52359589972ac3bc4c3ede9bfdf2e71efbfcec8e4e4e4eb12e5caebe3998bb15",
+          "size_bytes": 2635
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/shared/StarterPolish.luau",
+          "sha256": "7f87231347d16598e15dba1c0ad4ebd34386c578e11186b5e07bce54798c7e89",
+          "size_bytes": 5375
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/shared/Strings.luau",
+          "sha256": "d957b7057e6abfda3a1d330acb6f820eaf36948931cc88a32c3724803f4c45e4",
+          "size_bytes": 9815
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/shared/SurfaceStyle.luau",
+          "sha256": "1f311068c2398b23f678d4f18e6f88abb87f6f595679d912b0bf92d3512ea472",
+          "size_bytes": 4762
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/shared/WaterfallAssets.luau",
+          "sha256": "e0657151fe37e9e2311c531038b4ea0346f87d8f8d2e00dc983b75b89d05a4e4",
+          "size_bytes": 1499
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/shared/WorldLabels.luau",
+          "sha256": "c58f9459dcada11c89eb344e9bd274fc68741693f6095beacbbd955d071a5b90",
+          "size_bytes": 1755
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/verification.md",
+          "sha256": "a1f3de9ac86db48c322e46e7f20dd9a7393c826efe02b5d2b6958e40b47ca3a8",
+          "size_bytes": 8232
+        },
+        {
+          "file": "ui/magnet-guided-navigation-v049/waypoint-preview.jpg",
+          "sha256": "f07b884c73b912635edcec32a22b17816a46fb83e52fb2cf7647114c32f132da",
+          "size_bytes": 262278
+        }
+      ],
+      "derived_from": [
+        "magnet-onboarding-ui-v047",
+        "magnet-biome-fishing-v048",
+        "magnet-ui-windows-v045"
+      ],
+      "tags": [
+        "guide",
+        "waypoint",
+        "portal-loading",
+        "native-ui",
+        "0.4.9"
+      ],
+      "description": "Projected native target arrows and idempotent walk-through loading controller, in approved light theme.",
+      "source": "Magnet Workshop Simulator;2026-11-14",
+      "status": "saved; Studio visual/input and responsive cases verified; physical devices pending",
+      "roblox_asset_id": null,
+      "compatibility": "Host full-screen safe-inset Frame, originating HUD bounds and authoritative remotes/schema; supplied client/shared sources, server protocol in biome-fishing-v048."
+    },
+    {
+      "id": "magnet-biome-worlds-v050",
+      "kind": "model",
+      "file": "models/magnet-biome-worlds-v050/shared/BiomeAssets.luau",
+      "files": [
+        {
+          "file": "models/magnet-biome-worlds-v050/README.md",
+          "sha256": "fb5ef95bc010a905781988bde4f0c1effec1bde78ebc4cd027f5c046aefaab59",
+          "size_bytes": 2001
+        },
+        {
+          "file": "models/magnet-biome-worlds-v050/data/balance.sample.json",
+          "sha256": "08fee83956b677d5e6ccf8bb5d0dac9fdc9e35bc4302311757a390b19c837d3c",
+          "size_bytes": 10890
+        },
+        {
+          "file": "models/magnet-biome-worlds-v050/jungle-preview.png",
+          "sha256": "4903ace35a9eaf5818a6f865e361a2ec59650f481c5a884c415bcb9b35b3d641",
+          "size_bytes": 122266
+        },
+        {
+          "file": "models/magnet-biome-worlds-v050/server/WorldBuilder.luau",
+          "sha256": "3bb41fdb15525b8e815c5831d5272ef3a6e8bc563f9d7f6390b8ebad44fc622b",
+          "size_bytes": 9654
+        },
+        {
+          "file": "models/magnet-biome-worlds-v050/server/WorldMetadata.luau",
+          "sha256": "15d36aefd69ef73735cf908d6cf42a196c6e9003f994281d13e51233002318ad",
+          "size_bytes": 938
+        },
+        {
+          "file": "models/magnet-biome-worlds-v050/server/WorldMetadataData01.luau",
+          "sha256": "d54866b534de3bf07e244de00f98f84e264f55add1941908e5b733d05d3efc74",
+          "size_bytes": 120020
+        },
+        {
+          "file": "models/magnet-biome-worlds-v050/server/WorldMetadataData02.luau",
+          "sha256": "1daffd35c6b406766951957c6856e0e1ca3adbbffc3447ae1e3f84fcfae8195f",
+          "size_bytes": 120020
+        },
+        {
+          "file": "models/magnet-biome-worlds-v050/server/WorldMetadataData03.luau",
+          "sha256": "2518619405390371d51e26c879b44a91237f0baf9ec10793bbe8ee6ca86e283f",
+          "size_bytes": 86051
+        },
+        {
+          "file": "models/magnet-biome-worlds-v050/shared/ApprovedAssets.luau",
+          "sha256": "03c28c643dba14f908120e3c925744a2a019071678a36d00ac8e6fc8a50c6cba",
+          "size_bytes": 8929
+        },
+        {
+          "file": "models/magnet-biome-worlds-v050/shared/AudioCatalog.luau",
+          "sha256": "f5801cb0c371d6469b68e77b187a301a64f7c10629223b765e11569ffa38ec6c",
+          "size_bytes": 1035
+        },
+        {
+          "file": "models/magnet-biome-worlds-v050/shared/BiomeAssets.luau",
+          "sha256": "50b3a5907eecfb69b1335dd325b9cb6110ff94e7279cb8ea8299e4b62829d9f0",
+          "size_bytes": 11222
+        },
+        {
+          "file": "models/magnet-biome-worlds-v050/shared/BiomeCatalog.luau",
+          "sha256": "ccc1f1b4990d284e2b77c50a30ca1e89cfe7d7521addf989038d7e6803696a35",
+          "size_bytes": 2104
+        },
+        {
+          "file": "models/magnet-biome-worlds-v050/shared/BiomeFinish.luau",
+          "sha256": "8df40c09c6a5ae3bd377103398f23cadef68713628ed553584f437fa444f42b7",
+          "size_bytes": 6092
+        },
+        {
+          "file": "models/magnet-biome-worlds-v050/shared/BiomeFishing.luau",
+          "sha256": "2a24e852a6445a031346caec9f732cf5c01ff18cb51aa5a38c40659372190432",
+          "size_bytes": 1499
+        },
+        {
+          "file": "models/magnet-biome-worlds-v050/shared/BoardwalkFinish.luau",
+          "sha256": "f2c5fd0c0674e10aed2fe84f098ce78b9e3aa82e0d08d7e753fd2aba315eaae0",
+          "size_bytes": 13576
+        },
+        {
+          "file": "models/magnet-biome-worlds-v050/shared/CastRules.luau",
+          "sha256": "df30804671795822d81c3908b7e685d9474dcf78c8cbb8b494cf17a4aa2ff696",
+          "size_bytes": 3481
+        },
+        {
+          "file": "models/magnet-biome-worlds-v050/shared/Config.luau",
+          "sha256": "dce8b40561407d1edbfc02018a9fab84a74c1a670a3c30d3b67859638204d091",
+          "size_bytes": 8340
+        },
+        {
+          "file": "models/magnet-biome-worlds-v050/shared/EnvironmentAssets.luau",
+          "sha256": "633ef9c008979ae8f61d65aa502c32bd2c87ef609cccbb3b6645c02ef4b17933",
+          "size_bytes": 6875
+        },
+        {
+          "file": "models/magnet-biome-worlds-v050/shared/EnvironmentFinish.luau",
+          "sha256": "3b548ea541581bf27c67b6a719751f0fcd86d34d8eef75eefdb1237f0cc7024f",
+          "size_bytes": 8059
+        },
+        {
+          "file": "models/magnet-biome-worlds-v050/shared/HubAssets.luau",
+          "sha256": "752e25b1b4ed6447f4147b7ed4f2e29575759ce8f17dd35b72a0f8ad4f6fa3c2",
+          "size_bytes": 10731
+        },
+        {
+          "file": "models/magnet-biome-worlds-v050/shared/MapAssets.luau",
+          "sha256": "603c48b34173d525cba362ca8a1ff63897afc77cea7e0cfbf0c0263358fb181c",
+          "size_bytes": 14779
+        },
+        {
+          "file": "models/magnet-biome-worlds-v050/shared/PierRules.luau",
+          "sha256": "6eb4a2146ceb8cf352b15539b556a9839b03f02e38c5803b6b8055a7cb9d7a74",
+          "size_bytes": 1289
+        },
+        {
+          "file": "models/magnet-biome-worlds-v050/shared/RadialLayout.luau",
+          "sha256": "d74e69fb986fdeb089e90fff3749222910a7a86dbb28cf9379e1ea16d7628b49",
+          "size_bytes": 5273
+        },
+        {
+          "file": "models/magnet-biome-worlds-v050/shared/SceneKit.luau",
+          "sha256": "2f29e8392f567f3fa18a08505a33891127ef021616db534e8575c3dce1a90b3f",
+          "size_bytes": 7339
+        },
+        {
+          "file": "models/magnet-biome-worlds-v050/shared/ShoreAppearance.luau",
+          "sha256": "7586d848edf3b3f5bffe4268bab2e772ed2090a40c55f95bf10c4b89e5f0f69b",
+          "size_bytes": 6521
+        },
+        {
+          "file": "models/magnet-biome-worlds-v050/shared/StarterLayout.luau",
+          "sha256": "482b131710a52f296310a49e72a9f7bb62d679f338959fa3fe9a99038267e0f1",
+          "size_bytes": 1020
+        },
+        {
+          "file": "models/magnet-biome-worlds-v050/shared/StarterMaterials.luau",
+          "sha256": "52359589972ac3bc4c3ede9bfdf2e71efbfcec8e4e4e4eb12e5caebe3998bb15",
+          "size_bytes": 2635
+        },
+        {
+          "file": "models/magnet-biome-worlds-v050/shared/StarterPolish.luau",
+          "sha256": "7f87231347d16598e15dba1c0ad4ebd34386c578e11186b5e07bce54798c7e89",
+          "size_bytes": 5375
+        },
+        {
+          "file": "models/magnet-biome-worlds-v050/shared/Strings.luau",
+          "sha256": "d957b7057e6abfda3a1d330acb6f820eaf36948931cc88a32c3724803f4c45e4",
+          "size_bytes": 9815
+        },
+        {
+          "file": "models/magnet-biome-worlds-v050/shared/SurfaceStyle.luau",
+          "sha256": "460b4b4777e61a2675e204e349a56e2427a678b8290791c0e82242b182efae46",
+          "size_bytes": 5112
+        },
+        {
+          "file": "models/magnet-biome-worlds-v050/shared/WaterfallAssets.luau",
+          "sha256": "e0657151fe37e9e2311c531038b4ea0346f87d8f8d2e00dc983b75b89d05a4e4",
+          "size_bytes": 1499
+        },
+        {
+          "file": "models/magnet-biome-worlds-v050/shared/WorldLabels.luau",
+          "sha256": "c58f9459dcada11c89eb344e9bd274fc68741693f6095beacbbd955d071a5b90",
+          "size_bytes": 1755
+        },
+        {
+          "file": "models/magnet-biome-worlds-v050/sky-preview.png",
+          "sha256": "84f8e45b2a7f9840eafefbc1d52e4430bc8fedb00e8c47238c20440b16251d97",
+          "size_bytes": 103421
+        }
+      ],
+      "sha256": "50b3a5907eecfb69b1335dd325b9cb6110ff94e7279cb8ea8299e4b62829d9f0",
+      "size_bytes": 11222,
+      "tags": [
+        "magnet-workshop",
+        "biomes",
+        "0.5.0",
+        "model"
+      ],
+      "description": "Nine open biome scene recipes with saved-pack art, water, docks and themed materials",
+      "source": "Magnet Workshop Simulator;2026-11-14",
+      "status": "saved; server gameplay, cloud schema and responsive layout verified; final full visual tour and physical devices pending",
+      "roblox_asset_id": null,
+      "compatibility": "Luau generators/native UI; install supplied dependencies into the documented hierarchy; external Roblox content access required",
+      "dependencies": [
+        "magnet-starter-albedos-v045",
+        "magnet-shore-assembly-v040"
+      ],
+      "derived_from": [
+        "magnet-starter-albedos-v045",
+        "magnet-shore-assembly-v040"
+      ]
+    },
+    {
+      "id": "magnet-biome-finds-v050",
+      "kind": "item",
+      "file": "items/magnet-biome-finds-v050/shared/BiomeFindAssets.luau",
+      "files": [
+        {
+          "file": "items/magnet-biome-finds-v050/README.md",
+          "sha256": "342647edfc647c125b080c7fa6e2f85faa9533be606812d78d765a24a33b9dea",
+          "size_bytes": 1812
+        },
+        {
+          "file": "items/magnet-biome-finds-v050/finds.sample.json",
+          "sha256": "a02a08eb5736491b57351aa1b97741819eb8a7baa2f03bb62c47f9c6c267fad1",
+          "size_bytes": 5553
+        },
+        {
+          "file": "items/magnet-biome-finds-v050/previews/BIO-02.png",
+          "sha256": "22514144e8000de9fb750db32921b3fd292a3a1dc383b777b11f8554509bc040",
+          "size_bytes": 165533
+        },
+        {
+          "file": "items/magnet-biome-finds-v050/previews/BIO-03.png",
+          "sha256": "d080a52c41f6571c9f850c874d560ac0b8e9d69d84d1248ced28fb9aa6256119",
+          "size_bytes": 185351
+        },
+        {
+          "file": "items/magnet-biome-finds-v050/previews/BIO-04.png",
+          "sha256": "7255ed5129cb627ad312a562248bb482f27852cd849f09d8f6cab92771aec4a5",
+          "size_bytes": 178556
+        },
+        {
+          "file": "items/magnet-biome-finds-v050/previews/BIO-05.png",
+          "sha256": "57ea7ceb3b1fc34f88726c708028e7e43ca741414c53dfa2513c10cbdd3d968a",
+          "size_bytes": 180165
+        },
+        {
+          "file": "items/magnet-biome-finds-v050/previews/BIO-06.png",
+          "sha256": "ad4b72a28c6034de251de66e0b2e831de097de2d3d5aa9f914cc3ee2b294a818",
+          "size_bytes": 182725
+        },
+        {
+          "file": "items/magnet-biome-finds-v050/previews/BIO-07.png",
+          "sha256": "796e501fc33c8eb4d814f20cbd3940840708c72eba5d1dbdd6662ebde37aab55",
+          "size_bytes": 170797
+        },
+        {
+          "file": "items/magnet-biome-finds-v050/previews/BIO-08.png",
+          "sha256": "22e79bb5a4e18d559959938f3219e24c890f8c2990710507980954f5ad1f860a",
+          "size_bytes": 177361
+        },
+        {
+          "file": "items/magnet-biome-finds-v050/previews/BIO-10.png",
+          "sha256": "fc5343dc2acc5716abf973246c021676ce0f11e060c4ace44fc1511e07c7a808",
+          "size_bytes": 185113
+        },
+        {
+          "file": "items/magnet-biome-finds-v050/references/manifest.json",
+          "sha256": "3635e009b6e216271882689352fa35880945f296079208f5575adaa4110fea0b",
+          "size_bytes": 26489
+        },
+        {
+          "file": "items/magnet-biome-finds-v050/references/r01/BIO-02.png",
+          "sha256": "04213e91ad0c969ef7e2c588b618d954c54959a7952ebf7d25842027bfb2e996",
+          "size_bytes": 1172784
+        },
+        {
+          "file": "items/magnet-biome-finds-v050/references/r01/BIO-03.png",
+          "sha256": "2f154f335769884447bca2bf871194ccb3d1e198be63789b8f678708f97fd8e6",
+          "size_bytes": 1160087
+        },
+        {
+          "file": "items/magnet-biome-finds-v050/references/r01/BIO-04.png",
+          "sha256": "dc630659fe04723eda8d6e5943fc8ded3fb09b4e891e9aeff931738c87833225",
+          "size_bytes": 1953479
+        },
+        {
+          "file": "items/magnet-biome-finds-v050/references/r01/BIO-05.png",
+          "sha256": "3c15c2a68e875f12882e2d4d5a94d9c86e67b7c3ece2074464195ca4a7f73a62",
+          "size_bytes": 2738394
+        },
+        {
+          "file": "items/magnet-biome-finds-v050/references/r01/BIO-06.png",
+          "sha256": "7136034a3720f17d57956d4ea13a7e34f620b095af5ae7583be5319021df4e3c",
+          "size_bytes": 1385458
+        },
+        {
+          "file": "items/magnet-biome-finds-v050/references/r01/BIO-07.png",
+          "sha256": "ac874804b39344fa779568a4f7995e989f199c7a896108f9d8fe6d684de7c09e",
+          "size_bytes": 1746469
+        },
+        {
+          "file": "items/magnet-biome-finds-v050/references/r01/BIO-08.png",
+          "sha256": "1ae94e1047749352c6efeeb77173f9a0b5f9254b4185f8ee5a391cbd30024fb7",
+          "size_bytes": 2381663
+        },
+        {
+          "file": "items/magnet-biome-finds-v050/references/r01/BIO-10-alpha.png",
+          "sha256": "650cfbe929bfb1618c9200cdd70a9a5cd782066a6a18a253ea46b4305a8d8834",
+          "size_bytes": 1303275
+        },
+        {
+          "file": "items/magnet-biome-finds-v050/shared/BiomeFindAssets.luau",
+          "sha256": "84e1cbe74c09080b541999740a8a0dc6a95a5531683b9b70261ee37a545e7053",
+          "size_bytes": 14372
+        },
+        {
+          "file": "items/magnet-biome-finds-v050/shared/CleaningGeometry.luau",
+          "sha256": "343b40476d9694d1c34a5551906ba1631c0c0cd4949bfea8f6f1c7c606509aa2",
+          "size_bytes": 5551
+        },
+        {
+          "file": "items/magnet-biome-finds-v050/shared/FindFactory.luau",
+          "sha256": "ca39722015d5bfb9b47f0615d1a086132f1a880650395ef9b2ac13e52e499a9d",
+          "size_bytes": 8825
+        }
+      ],
+      "sha256": "84e1cbe74c09080b541999740a8a0dc6a95a5531683b9b70261ee37a545e7053",
+      "size_bytes": 14372,
+      "tags": [
+        "magnet-workshop",
+        "biomes",
+        "0.5.0",
+        "item"
+      ],
+      "description": "24 approved thematic collectibles with clean/rust models, references and actual previews",
+      "source": "Magnet Workshop Simulator;2026-11-14",
+      "status": "saved; server gameplay, cloud schema and responsive layout verified; final full visual tour and physical devices pending",
+      "roblox_asset_id": null,
+      "compatibility": "Luau generators/native UI; install supplied dependencies into the documented hierarchy; external Roblox content access required",
+      "dependencies": [
+        "magnet-biome-worlds-v050"
+      ],
+      "derived_from": [
+        "magnet-biome-worlds-v050"
+      ]
+    },
+    {
+      "id": "magnet-biome-exploration-v050",
+      "kind": "ui",
+      "file": "ui/magnet-biome-exploration-v050/client/OnboardingUI.luau",
+      "files": [
+        {
+          "file": "ui/magnet-biome-exploration-v050/README.md",
+          "sha256": "8d456571e55ff2314db3029d37fc9abcfa0c14ec6aaaa9ed88d18fb7fd209471",
+          "size_bytes": 2444
+        },
+        {
+          "file": "ui/magnet-biome-exploration-v050/client/ActivityUI.luau",
+          "sha256": "a87f21a7ed521dc8c488391c61da02ed88bf07f50d3608b9a0cd76caa0c93c48",
+          "size_bytes": 12013
+        },
+        {
+          "file": "ui/magnet-biome-exploration-v050/client/AudioPresentation.luau",
+          "sha256": "3c04f303ff09776ad92599d260dcae31d04bcb36dceafbfae7b9ccae32b759cc",
+          "size_bytes": 8341
+        },
+        {
+          "file": "ui/magnet-biome-exploration-v050/client/BiomePresentation.luau",
+          "sha256": "041b443fb16b077ba191da2fea94fbac126289f1171dd80d56c414225b6d36a1",
+          "size_bytes": 1641
+        },
+        {
+          "file": "ui/magnet-biome-exploration-v050/client/CastMeter.luau",
+          "sha256": "d514028405b4b433b9efdd0115865bb10f973dc413f7f936361a4be4c8fdf02d",
+          "size_bytes": 5359
+        },
+        {
+          "file": "ui/magnet-biome-exploration-v050/client/CleaningPresentation.luau",
+          "sha256": "d0fe09c12738f763f0a15178269f686e88671ab178bdd74d4b04563d8052bb52",
+          "size_bytes": 13701
+        },
+        {
+          "file": "ui/magnet-biome-exploration-v050/client/EquipmentUI.luau",
+          "sha256": "1531d0db9edc45641385b21d1ac9543b49b675dc3c8c3f3aa7e802532b90c9f4",
+          "size_bytes": 3316
+        },
+        {
+          "file": "ui/magnet-biome-exploration-v050/client/FishingPresentation.luau",
+          "sha256": "e0320adf55f56bc0e1fdedb5b50e25176a9fb7af50401aeed101970a13aa8f27",
+          "size_bytes": 21332
+        },
+        {
+          "file": "ui/magnet-biome-exploration-v050/client/HudIcons.luau",
+          "sha256": "5e4810661fb14214f5ccf36f0d1afb356b210a96547bd0497af6f42f6b9388aa",
+          "size_bytes": 338
+        },
+        {
+          "file": "ui/magnet-biome-exploration-v050/client/HudNavigation.luau",
+          "sha256": "af9b82a28da11c3c97d721755a569f5c90de852b07f75e747606950c358b7f8b",
+          "size_bytes": 6128
+        },
+        {
+          "file": "ui/magnet-biome-exploration-v050/client/LakePresentation.luau",
+          "sha256": "724b023904de82655fefe866665cb226d079efeff98b68323a971b48ccae43e4",
+          "size_bytes": 2950
+        },
+        {
+          "file": "ui/magnet-biome-exploration-v050/client/Main.client.luau",
+          "sha256": "eec78cfb2aad9384fe6ab09d8501f7186c34f947ce4aaa26d791770720836a5b",
+          "size_bytes": 33326
+        },
+        {
+          "file": "ui/magnet-biome-exploration-v050/client/OnboardingUI.luau",
+          "sha256": "a7a36790f37f2a77bc9fb04e8433662af14a348c2fe7a190747d66455b5625ba",
+          "size_bytes": 7109
+        },
+        {
+          "file": "ui/magnet-biome-exploration-v050/client/PortalWalkthrough.luau",
+          "sha256": "cf2db9afa6748c2e0eef317511c9db226c826df5aa6c88db9eb1be6c3aeb1506",
+          "size_bytes": 4199
+        },
+        {
+          "file": "ui/magnet-biome-exploration-v050/client/SettingsUI.luau",
+          "sha256": "befb4cf964c2f33d0fb58def28efa575aa771bd10cdb0baeebc29387b69f9a16",
+          "size_bytes": 7887
+        },
+        {
+          "file": "ui/magnet-biome-exploration-v050/client/WindowTheme.luau",
+          "sha256": "bbd138f40e055cff76a7f8340bd66523522d950cc078d221f64ca9847d067b12",
+          "size_bytes": 4748
+        },
+        {
+          "file": "ui/magnet-biome-exploration-v050/client/WorkshopWindows.luau",
+          "sha256": "9baa68e0f5a8179ebdcbb951290326c8ca7063001d05734d89ae80296fc3701e",
+          "size_bytes": 18513
+        },
+        {
+          "file": "ui/magnet-biome-exploration-v050/server/Bootstrap.server.luau",
+          "sha256": "0f90690f47fec5ca72629e7607d0bb2e7c2c70bf341b219da813aaade909fdbe",
+          "size_bytes": 1369
+        },
+        {
+          "file": "ui/magnet-biome-exploration-v050/server/GameService.luau",
+          "sha256": "43a9009edc69b3f14b17d0e2745648897a8c714f4af4805d8fe21a4dbd1e5a26",
+          "size_bytes": 35560
+        },
+        {
+          "file": "ui/magnet-biome-exploration-v050/server/MagnetEquipment.luau",
+          "sha256": "13b81bae33ff9bcbd3773ca62b2494c8488ffdca53dda96453d11ff7f6b30288",
+          "size_bytes": 4859
+        },
+        {
+          "file": "ui/magnet-biome-exploration-v050/server/PortalService.luau",
+          "sha256": "1c0dc0ab26dc884aba7ff6aa1e5c7010b4d2615f5cc05e1ec6c6be40e414712a",
+          "size_bytes": 2939
+        },
+        {
+          "file": "ui/magnet-biome-exploration-v050/server/ProfileStore.luau",
+          "sha256": "c21c0906ea6764414d9b886833e02e7db762f14974b039634b2dd8e9ca682d8b",
+          "size_bytes": 11781
+        },
+        {
+          "file": "ui/magnet-biome-exploration-v050/shared/GuideRules.luau",
+          "sha256": "0264bbdee65d60576fcfa00d7f04b6b511b3a798e316461e1732a3886009cbfa",
+          "size_bytes": 7669
+        }
+      ],
+      "sha256": "a7a36790f37f2a77bc9fb04e8433662af14a348c2fe7a190747d66455b5625ba",
+      "size_bytes": 7109,
+      "tags": [
+        "magnet-workshop",
+        "biomes",
+        "0.5.0",
+        "ui"
+      ],
+      "description": "Native biome checklist, origins, previews and authoritative gameplay integration",
+      "source": "Magnet Workshop Simulator;2026-11-14",
+      "status": "saved; server gameplay, cloud schema and responsive layout verified; final full visual tour and physical devices pending",
+      "roblox_asset_id": null,
+      "compatibility": "Luau generators/native UI; install supplied dependencies into the documented hierarchy; external Roblox content access required",
+      "dependencies": [
+        "magnet-biome-worlds-v050",
+        "magnet-biome-finds-v050",
+        "magnet-hud-icons-v01"
+      ],
+      "derived_from": [
+        "magnet-biome-worlds-v050",
+        "magnet-biome-finds-v050",
+        "magnet-hud-icons-v01"
+      ]
+    },
+    {
+      "id": "magnet-portal-pairs-v051",
+      "kind": "model",
+      "file": "models/magnet-portal-pairs-v051/shared/PortalLayout.luau",
+      "sha256": "7ed3c47f2c86c36e4648dc9feccfed40b704ed52b52d82b83d4e10ab3121a070",
+      "size_bytes": 2671,
+      "files": [
+        {
+          "file": "models/magnet-portal-pairs-v051/README.md",
+          "sha256": "f09131bc53d076e0bb7b7652521901191a0d6b2f0aafb35ac212184cd63699ff",
+          "size_bytes": 2488
+        },
+        {
+          "file": "models/magnet-portal-pairs-v051/client/PortalWalkthrough.luau",
+          "sha256": "004ddb9185f39a4bbf4c6f71c5ef651372967dfc5c8611fca6baa9c0523244ba",
+          "size_bytes": 4156
+        },
+        {
+          "file": "models/magnet-portal-pairs-v051/crystal-preview-before-caption-cleanup.png",
+          "sha256": "59d3b6d53075b8080a5488c95de1ad886e8d36e83c6afb9bf6e32f70dca3e76d",
+          "size_bytes": 140815
+        },
+        {
+          "file": "models/magnet-portal-pairs-v051/server/PortalService.luau",
+          "sha256": "54fe9b9ae6c59a3d9e05aa0910f9123615ec526dee3c2ceb57807ee67b05601a",
+          "size_bytes": 3382
+        },
+        {
+          "file": "models/magnet-portal-pairs-v051/server/WorldBuilder.luau",
+          "sha256": "3b7c2b11457d4df1e53cd557a1658790d54c72b4513be2310ae049e424419576",
+          "size_bytes": 9737
+        },
+        {
+          "file": "models/magnet-portal-pairs-v051/server/WorldMetadata.luau",
+          "sha256": "15d36aefd69ef73735cf908d6cf42a196c6e9003f994281d13e51233002318ad",
+          "size_bytes": 938
+        },
+        {
+          "file": "models/magnet-portal-pairs-v051/server/WorldMetadataData01.luau",
+          "sha256": "8fb43c06241d2b8d850e77b0e3b7a413b7e73677b9694a3c46c26b641136322c",
+          "size_bytes": 120020
+        },
+        {
+          "file": "models/magnet-portal-pairs-v051/server/WorldMetadataData02.luau",
+          "sha256": "40450e7a1677d8193d7642f07c992bbb98eb070c4ec421e12f1f402606ef27b7",
+          "size_bytes": 120020
+        },
+        {
+          "file": "models/magnet-portal-pairs-v051/server/WorldMetadataData03.luau",
+          "sha256": "278c7d72a27976de98d3ae28b36a2180e972dc8b346a4e3aab212c061f03312f",
+          "size_bytes": 93207
+        },
+        {
+          "file": "models/magnet-portal-pairs-v051/shared/BiomeAssets.luau",
+          "sha256": "47f08925226f0d41bc9055e1a572d6abfd384d701d5cf7694cad141d635bece0",
+          "size_bytes": 11343
+        },
+        {
+          "file": "models/magnet-portal-pairs-v051/shared/BiomeCatalog.luau",
+          "sha256": "67a1cdc7578f2bbcede58f3d996330e4fa15e5627c8bd20a2f7b03f084c64d0c",
+          "size_bytes": 2287
+        },
+        {
+          "file": "models/magnet-portal-pairs-v051/shared/PortalGeometry.luau",
+          "sha256": "c570481bbb8eb992bf50fefc5e937603f9e3d2b74d828d23b0e56fc523820f7d",
+          "size_bytes": 674
+        },
+        {
+          "file": "models/magnet-portal-pairs-v051/shared/PortalLayout.luau",
+          "sha256": "7ed3c47f2c86c36e4648dc9feccfed40b704ed52b52d82b83d4e10ab3121a070",
+          "size_bytes": 2671
+        }
+      ],
+      "tags": [
+        "magnet-workshop",
+        "portals",
+        "loading",
+        "model"
+      ],
+      "description": "Paired themed portal clones and marker-relative arrivals",
+      "source": "Magnet Workshop Simulator;2026-11-14",
+      "status": "saved; all8 copies and16 automatic travels verified; physical devices pending",
+      "compatibility": "Luau with documented dependencies; images are review PNGs, require explicit Roblox import before runtime use",
+      "dependencies": [
+        "magnet-biome-worlds-v050",
+        "magnet-biome-exploration-v050"
+      ],
+      "derived_from": [
+        "magnet-biome-worlds-v050",
+        "magnet-biome-exploration-v050"
+      ],
+      "roblox_asset_id": null
+    },
+    {
+      "id": "magnet-biome-loading-r01",
+      "kind": "ui",
+      "file": "ui/magnet-biome-loading-r01/StaticPreview.luau",
+      "sha256": "5ed2d66a295bb7b43034286a42484bbdb67f9f3e82ba259e4bf908f5b4855a45",
+      "size_bytes": 934,
+      "files": [
+        {
+          "file": "ui/magnet-biome-loading-r01/BIO-01.png",
+          "sha256": "80255c32f8f51ce09a3e2ab034bc57e94e40a0cb08378f0d2b972bf1f86189ff",
+          "size_bytes": 2220622
+        },
+        {
+          "file": "ui/magnet-biome-loading-r01/BIO-02.png",
+          "sha256": "64dedfefdd61fbc8d91a9bbde5232b7b3b5ecd11598ac405b9bd919863537b4c",
+          "size_bytes": 1871337
+        },
+        {
+          "file": "ui/magnet-biome-loading-r01/BIO-03.png",
+          "sha256": "17008971214b71453eb68e282551d4a89716f3387b5edf4b3c90ec7a6356eb35",
+          "size_bytes": 2152994
+        },
+        {
+          "file": "ui/magnet-biome-loading-r01/BIO-04.png",
+          "sha256": "406ebf48564c6ebb525a6605e86bd4068a7a51c5e2c2001868738f10655f7ddc",
+          "size_bytes": 1838583
+        },
+        {
+          "file": "ui/magnet-biome-loading-r01/BIO-05.png",
+          "sha256": "1d1cb8833df843099be6ea50a5a7d9a435760b9855512e3c62218a5cdf9baf39",
+          "size_bytes": 1933568
+        },
+        {
+          "file": "ui/magnet-biome-loading-r01/BIO-06.png",
+          "sha256": "9fd23c0f95b59352fbb1fdda7db57d7b5ffb1658faca689442e7bc9fe858beb2",
+          "size_bytes": 2083556
+        },
+        {
+          "file": "ui/magnet-biome-loading-r01/BIO-07.png",
+          "sha256": "6d0d765b9313ccda2e0c309d65af07060284e6e1be88f593f0c0093741ba3043",
+          "size_bytes": 1898038
+        },
+        {
+          "file": "ui/magnet-biome-loading-r01/BIO-08.png",
+          "sha256": "46f8e37d41a7d50cb78b0d5be5bf8a0e9106d6dc8f9d5afbb2f90229384efdf2",
+          "size_bytes": 1962656
+        },
+        {
+          "file": "ui/magnet-biome-loading-r01/BIO-10.png",
+          "sha256": "1c0a7c8b7ce8b8ebfde9fadfea3eb0674640686180908aaac373385b705b92ab",
+          "size_bytes": 1885158
+        },
+        {
+          "file": "ui/magnet-biome-loading-r01/README.md",
+          "sha256": "6274e72d00e05cfe48a56656e8cca7515d68ac07af9c64d6dd5fca9728f0e398",
+          "size_bytes": 1833
+        },
+        {
+          "file": "ui/magnet-biome-loading-r01/StaticPreview.luau",
+          "sha256": "5ed2d66a295bb7b43034286a42484bbdb67f9f3e82ba259e4bf908f5b4855a45",
+          "size_bytes": 934
+        },
+        {
+          "file": "ui/magnet-biome-loading-r01/manifest.json",
+          "sha256": "3a7d0c2071066cc5929eabf3788722722ed16c6469af3a32dd633a25b89321f6",
+          "size_bytes": 16301
+        }
+      ],
+      "tags": [
+        "magnet-workshop",
+        "portals",
+        "loading",
+        "ui"
+      ],
+      "description": "Nine biome loading illustrations with Russian titles, exact prompts and optional static preview adapter",
+      "source": "Magnet Workshop Simulator;2026-11-14",
+      "status": "generated r01 concepts shown to user; review pending; not imported or integrated; static raster text/track",
+      "compatibility": "Luau with documented dependencies; images are review PNGs, require explicit Roblox import before runtime use",
+      "dependencies": [],
+      "derived_from": [],
+      "roblox_asset_id": null
+    },
+    {
+      "id": "magnet-fullscreen-loading-v052",
+      "kind": "ui",
+      "file": "ui/magnet-fullscreen-loading-v052/PortalWalkthrough.luau",
+      "files": [
+        {
+          "file": "ui/magnet-fullscreen-loading-v052/README.md",
+          "sha256": "5f11e3efae443c28a2b7652b6d4e38f1963b1e68e8b54a48e94dd772ef28a29a",
+          "size_bytes": 1118
+        },
+        {
+          "file": "ui/magnet-fullscreen-loading-v052/imported-images.json",
+          "sha256": "5612b68ec3782168d725c3c246631bf27f68b512a2f56303b05af8c3664bf561",
+          "size_bytes": 393
+        },
+        {
+          "file": "ui/magnet-fullscreen-loading-v052/PortalWalkthrough.luau",
+          "sha256": "c58ba591ed7e3c7762a73f464ed531309716a5279cb6251e4e808f243607e2c7",
+          "size_bytes": 5370
+        }
+      ],
+      "dependencies": [
+        "magnet-biome-loading-r01",
+        "magnet-portal-pairs-v051",
+        "magnet-biome-exploration-v050"
+      ],
+      "status": "approved; imported; fullscreen forest capture and four host layouts verified",
+      "source": "Magnet Workshop Simulator;2026-11-14",
+      "roblox_asset_id": null
+    },
+    {
+      "id": "magnet-biome-walls-joints-v054",
+      "kind": "model",
+      "file": "models/magnet-biome-walls-joints-v054/shared/BiomeWalls.luau",
+      "sha256": "119a4cb71e3e6443f3efe7fed8dc70e18ce1bb761df0252b8971304936479b0d",
+      "size_bytes": 5606,
+      "files": [
+        {
+          "file": "models/magnet-biome-walls-joints-v054/README.md",
+          "sha256": "899df176b0cc8c4933747d4109757042dc11c3b84c911f20e1e15cc811e420bf",
+          "size_bytes": 3101
+        },
+        {
+          "file": "models/magnet-biome-walls-joints-v054/previews/bench-close.jpg",
+          "sha256": "9fd2606a348db4b082a54248c2cc9a0ab7b2f63008ed3186be6ba45fca059665",
+          "size_bytes": 170337
+        },
+        {
+          "file": "models/magnet-biome-walls-joints-v054/previews/volcano-wall-close.jpg",
+          "sha256": "5c1269979045e96d6a157bed8d78fcdc48d1daa07a7b691d929b1c856cb54607",
+          "size_bytes": 209009
+        },
+        {
+          "file": "models/magnet-biome-walls-joints-v054/previews/walls-BIO-02.jpg",
+          "sha256": "80d226a4249b63f860b2874473a3bd2d709a00f11299afc087d8fc6de85bc4f8",
+          "size_bytes": 135039
+        },
+        {
+          "file": "models/magnet-biome-walls-joints-v054/previews/walls-BIO-03.jpg",
+          "sha256": "44f607d461676279f7c684fd5a3e6b5819ec72fbde082a2789e9fa657e7d8beb",
+          "size_bytes": 127049
+        },
+        {
+          "file": "models/magnet-biome-walls-joints-v054/previews/walls-BIO-04.jpg",
+          "sha256": "cfa94a391cb0af8e5944ee381216fde15916e93e6e4fdfc313d2d4e32ead4c88",
+          "size_bytes": 105639
+        },
+        {
+          "file": "models/magnet-biome-walls-joints-v054/previews/walls-BIO-05.jpg",
+          "sha256": "c4b3f1fe9418d2de8d4ce8682a935d7a40673a58c4580bf46e70d544a49b5cdf",
+          "size_bytes": 130426
+        },
+        {
+          "file": "models/magnet-biome-walls-joints-v054/previews/walls-BIO-06.jpg",
+          "sha256": "db1974d8fdff1f177a88dac603773179803fa2e3104c9e0461ee28471e4170d9",
+          "size_bytes": 110906
+        },
+        {
+          "file": "models/magnet-biome-walls-joints-v054/previews/walls-BIO-07.jpg",
+          "sha256": "0c23489f4b84d298d7886109ed5ffe502233f15eaf864370d85e794b6f1249fb",
+          "size_bytes": 116275
+        },
+        {
+          "file": "models/magnet-biome-walls-joints-v054/previews/walls-BIO-08.jpg",
+          "sha256": "e83dcf7be6b56382efee5c34b4ebd937f89514b5b1754138b04d641806bcdc23",
+          "size_bytes": 107876
+        },
+        {
+          "file": "models/magnet-biome-walls-joints-v054/previews/walls-BIO-10.jpg",
+          "sha256": "e3830f9d0e376dccd9b7cdd6fe34b6a85bb3ff421ea58c29802a8245af6cc532",
+          "size_bytes": 123388
+        },
+        {
+          "file": "models/magnet-biome-walls-joints-v054/previews/workshop-corner.jpg",
+          "sha256": "396eb4bc874da6cbd1217f6aa98420d1de4ce47564e884d0e91d29a599b1211d",
+          "size_bytes": 122879
+        },
+        {
+          "file": "models/magnet-biome-walls-joints-v054/server/WorldBuilder.luau",
+          "sha256": "57c10111df356e6b1cd429b369ebfacf1bddeccd7914ecf7e402dbeb825138fd",
+          "size_bytes": 9987
+        },
+        {
+          "file": "models/magnet-biome-walls-joints-v054/server/WorldMetadata.luau",
+          "sha256": "943e00c54759bff7253db1aa4f9f70ff85668ca312fdc0a54453ca48d724539f",
+          "size_bytes": 960
+        },
+        {
+          "file": "models/magnet-biome-walls-joints-v054/server/WorldMetadataData01.luau",
+          "sha256": "249a37a802078ae74358cda0a29ee708c4f96867c1914f2a65ee7accff70f146",
+          "size_bytes": 120020
+        },
+        {
+          "file": "models/magnet-biome-walls-joints-v054/server/WorldMetadataData02.luau",
+          "sha256": "541297168fa28c79566c621a4371e75886fb38dcb10da36e21b4ee480c971bf1",
+          "size_bytes": 120020
+        },
+        {
+          "file": "models/magnet-biome-walls-joints-v054/server/WorldMetadataData03.luau",
+          "sha256": "28ff733d9c5aea70593673a4eb28b54f0563dd5f77ccf0ec4618ec1d7f8371c3",
+          "size_bytes": 120020
+        },
+        {
+          "file": "models/magnet-biome-walls-joints-v054/server/WorldMetadataData04.luau",
+          "sha256": "a82c03a64c42f92ddd6ff959283c28135d3847c5428bb6c83989ee4865106e62",
+          "size_bytes": 51706
+        },
+        {
+          "file": "models/magnet-biome-walls-joints-v054/shared/ApprovedAssets.luau",
+          "sha256": "0152894a5f7e6e3550c2a10479dcbad309e268f33a7ef818dbebf0a31589a5b8",
+          "size_bytes": 8933
+        },
+        {
+          "file": "models/magnet-biome-walls-joints-v054/shared/BiomeAssets.luau",
+          "sha256": "e8918b4e019d1025bdf0e85bc3b662a8ece3f1a4a8b5e39220da0304f3668ca6",
+          "size_bytes": 11642
+        },
+        {
+          "file": "models/magnet-biome-walls-joints-v054/shared/BiomeCatalog.luau",
+          "sha256": "67a1cdc7578f2bbcede58f3d996330e4fa15e5627c8bd20a2f7b03f084c64d0c",
+          "size_bytes": 2287
+        },
+        {
+          "file": "models/magnet-biome-walls-joints-v054/shared/BiomeWalls.luau",
+          "sha256": "119a4cb71e3e6443f3efe7fed8dc70e18ce1bb761df0252b8971304936479b0d",
+          "size_bytes": 5606
+        },
+        {
+          "file": "models/magnet-biome-walls-joints-v054/shared/MapAssets.luau",
+          "sha256": "fb5aab8ae676e3c1933a6f1eec9b80450d3987f7cf5ebe346af32ad5f030db70",
+          "size_bytes": 14561
+        },
+        {
+          "file": "models/magnet-biome-walls-joints-v054/shared/SceneKit.luau",
+          "sha256": "d0a7b5a0766a97755f4cd4b4097ee1ad881919b06227fd19d60b62d9c59ff9c5",
+          "size_bytes": 7343
+        },
+        {
+          "file": "models/magnet-biome-walls-joints-v054/shared/SurfaceJoints.luau",
+          "sha256": "8e463bc0846e3d5d4d94b0d43399305faf93ba68f1be5f7eebb39b538e112e97",
+          "size_bytes": 6413
+        },
+        {
+          "file": "models/magnet-biome-walls-joints-v054/shared/SurfaceStyle.luau",
+          "sha256": "460b4b4777e61a2675e204e349a56e2427a678b8290791c0e82242b182efae46",
+          "size_bytes": 5112
+        },
+        {
+          "file": "models/magnet-biome-walls-joints-v054/verification.md",
+          "sha256": "ba3003f062151eb726fe792db41fc84ac1a3fb25927ec9354258a8a1ac8656d6",
+          "size_bytes": 11253
+        }
+      ],
+      "tags": [
+        "biomes",
+        "walls",
+        "texture-joints",
+        "square-relief",
+        "0.5.4"
+      ],
+      "description": "Themed solid perimeter walls for8 lakes and non-overlapping world surface recipes",
+      "source": "Magnet Workshop Simulator;2026-11-15",
+      "status": "saved; geometry, fresh build,16 automatic travels and8 Edit previews verified; physical devices pending",
+      "compatibility": "Edit Luau recipes with documented MagnetWorkshop hierarchy and existing external content; not standalone binary model",
+      "dependencies": [
+        "magnet-biome-worlds-v050",
+        "magnet-portal-pairs-v051",
+        "magnet-biome-exploration-v050",
+        "magnet-starter-albedos-v045"
+      ],
+      "derived_from": [
+        "magnet-biome-worlds-v050",
+        "magnet-shore-assembly-v040"
+      ],
+      "roblox_asset_id": null
+    },
+    {
+      "id": "magnet-world-materials-v055",
+      "kind": "texture",
+      "file": "textures/magnet-world-materials-v055/manifest.json",
+      "sha256": "216df2484013d7cdc4bc0106b761e201e9c48a809dd189252e7c377b770800fb",
+      "size_bytes": 13779,
+      "files": [
+        {
+          "file": "textures/magnet-world-materials-v055/README.md",
+          "sha256": "6cc04d8647743daf39f2621aa5929ad7c94a261e0d0bb676104451160887646a",
+          "size_bytes": 3005
+        },
+        {
+          "file": "textures/magnet-world-materials-v055/integration/client/LakePresentation.luau",
+          "sha256": "8ec43645bef863f4a37b0b70834591e54aa31f94f32845c92c27da369608b516",
+          "size_bytes": 2950
+        },
+        {
+          "file": "textures/magnet-world-materials-v055/integration/client/Main.client.luau",
+          "sha256": "3baee102ce0c0619d50740cab8ed338272f651638ba6cc2d675d391ab373f196",
+          "size_bytes": 33373
+        },
+        {
+          "file": "textures/magnet-world-materials-v055/integration/server/WorldBuilder.luau",
+          "sha256": "00e558c0f4848101b67db199dd115bdad0d1e940da997b6f656ba89a439fc437",
+          "size_bytes": 10076
+        },
+        {
+          "file": "textures/magnet-world-materials-v055/integration/shared/MaterialRefinement.luau",
+          "sha256": "5b17f3b3d0152e31bf12e7c95b62b9585363a7967b17cedca7ae021066a9d8cd",
+          "size_bytes": 4141
+        },
+        {
+          "file": "textures/magnet-world-materials-v055/integration/shared/ShoreAppearance.luau",
+          "sha256": "375a0fc53e26af815a230433d4b1e69d2149815db756ba2f4e2eb161b969f9e7",
+          "size_bytes": 6322
+        },
+        {
+          "file": "textures/magnet-world-materials-v055/integration/shared/SurfaceStyle.luau",
+          "sha256": "975f999b9f0618b34e2736d05152f97f0f1b12fcccc0d453c22d1e64ae7f91b2",
+          "size_bytes": 5859
+        },
+        {
+          "file": "textures/magnet-world-materials-v055/manifest.json",
+          "sha256": "216df2484013d7cdc4bc0106b761e201e9c48a809dd189252e7c377b770800fb",
+          "size_bytes": 13779
+        },
+        {
+          "file": "textures/magnet-world-materials-v055/maps/frost.png",
+          "sha256": "8449bfa5ad6bf96a2a04d868b644ee0739254895bd9f2b83be4dcdfea8d7338f",
+          "size_bytes": 2042098
+        },
+        {
+          "file": "textures/magnet-world-materials-v055/maps/grass.png",
+          "sha256": "54d7ae8c39619a69bd4c89ecef048e2b986879bbb04389b2f2ea58f7b2f05df3",
+          "size_bytes": 1499968
+        },
+        {
+          "file": "textures/magnet-world-materials-v055/maps/metal.png",
+          "sha256": "7f718b049d4702a825a436c2e60a59eddd861bb02115b96187dac8aa673ed38c",
+          "size_bytes": 1600004
+        },
+        {
+          "file": "textures/magnet-world-materials-v055/maps/sand.png",
+          "sha256": "fbe6ceb13bbf69ae8eface5052f51e756711a366d620a82d2f96422ce2505ffa",
+          "size_bytes": 2168656
+        },
+        {
+          "file": "textures/magnet-world-materials-v055/maps/stone.png",
+          "sha256": "ef1fa560707dfaadfa5da4d827fa691e3d89fb629f1d11a9715b089b0ecfd270",
+          "size_bytes": 1326256
+        },
+        {
+          "file": "textures/magnet-world-materials-v055/maps/timber.png",
+          "sha256": "c40790a4cc7de840376708b9454372e166f3ab4b1f5be9dc666a1bc4f5f18613",
+          "size_bytes": 1356788
+        },
+        {
+          "file": "textures/magnet-world-materials-v055/package-check.json",
+          "sha256": "ab64206b1c302bdc7c834422a7b64e814632238fdd2141d725cf45f86b2ce7a5",
+          "size_bytes": 165
+        },
+        {
+          "file": "textures/magnet-world-materials-v055/previews/bench.jpg",
+          "sha256": "cefe281b678bf8e709eeadd89977fa8c5efe52026d86b209d19f7fd177106409",
+          "size_bytes": 181764
+        },
+        {
+          "file": "textures/magnet-world-materials-v055/previews/ice.jpg",
+          "sha256": "d4981743818dd9759f0d9c6dda04afdfac08643412204028ff7e9ed484c1f0d8",
+          "size_bytes": 208398
+        },
+        {
+          "file": "textures/magnet-world-materials-v055/previews/main.jpg",
+          "sha256": "935927711742aecfeef2c5f542704d72820c875f456aaf69fa70fc43179f3a2e",
+          "size_bytes": 267940
+        },
+        {
+          "file": "textures/magnet-world-materials-v055/previews/oasis.jpg",
+          "sha256": "a1917052857de637b329b2a8203440a65f9f3e74175720e4012512c9aee0c341",
+          "size_bytes": 205485
+        },
+        {
+          "file": "textures/magnet-world-materials-v055/previews/tree.jpg",
+          "sha256": "839168e94446dc356f75526280db65dfaadf7a7dd438903db6767d931d3e9424",
+          "size_bytes": 256168
+        },
+        {
+          "file": "textures/magnet-world-materials-v055/previews/volcano.jpg",
+          "sha256": "65069ac6efec192d8fef179afa723e8b352b9a9ee94c64e826cea340c4f2b9b4",
+          "size_bytes": 191021
+        },
+        {
+          "file": "textures/magnet-world-materials-v055/previews/water.jpg",
+          "sha256": "3f4043df7f4a2442a019f9b51e3d8b3bde8b43d9e34ea8d159710716243af4db",
+          "size_bytes": 184133
+        },
+        {
+          "file": "textures/magnet-world-materials-v055/verification.md",
+          "sha256": "36adb231ebcb45c7c037287fe3d398df2a8aa346319c7231c4cc2db1a7c5f7a3",
+          "size_bytes": 8341
+        },
+        {
+          "file": "textures/magnet-world-materials-v055/visual-results.json",
+          "sha256": "96bd38a9b95abd4d65512ee655fa60d72dd6a5e8c11b043fb4e8ff5e4efcfa16",
+          "size_bytes": 10989
+        }
+      ],
+      "description": "Six neutral world albedos and tint-preserving material recipes, uniform square relief scale, calm water",
+      "tags": [
+        "wood",
+        "stone",
+        "grass",
+        "sand",
+        "frost",
+        "metal",
+        "biomes",
+        "albedo",
+        "square-relief",
+        "0.5.5"
+      ],
+      "source": "Magnet Workshop Simulator; built-in image_gen;2026-11-15",
+      "status": "saved;8 maps loaded in Play;7 real views and water motion reviewed; geometry/repeat/fresh build verified; full scene/device QA pending",
+      "compatibility": "PNG albedo maps plus project-dependent Luau integration; no standalone RBXM; tint/normal/UV guidance in README",
+      "dependencies": [
+        "square-relief-normal",
+        "magnet-starter-albedos-v045",
+        "magnet-biome-walls-joints-v054"
+      ],
+      "derived_from": [
+        "magnet-starter-albedos-v045"
+      ],
+      "roblox_asset_id": null
+    },
+    {
+      "id": "magnet-admin-panel-v056",
+      "kind": "ui",
+      "file": "ui/magnet-admin-panel-v056/client/AdminPanel.luau",
+      "sha256": "30b0e5d508f2043e2c7e37a64090d271a145d414e9840ae50496c7328952c4f9",
+      "size_bytes": 13578,
+      "files": [
+        {
+          "file": "ui/magnet-admin-panel-v056/README.md",
+          "sha256": "594bbc04b5bbe610a87507eea11670a982f53af35a318d10950252fce23defd0",
+          "size_bytes": 3488
+        },
+        {
+          "file": "ui/magnet-admin-panel-v056/client/AdminPanel.luau",
+          "sha256": "30b0e5d508f2043e2c7e37a64090d271a145d414e9840ae50496c7328952c4f9",
+          "size_bytes": 13578
+        },
+        {
+          "file": "ui/magnet-admin-panel-v056/client/HudIcons.luau",
+          "sha256": "5e4810661fb14214f5ccf36f0d1afb356b210a96547bd0497af6f42f6b9388aa",
+          "size_bytes": 338
+        },
+        {
+          "file": "ui/magnet-admin-panel-v056/client/WindowTheme.luau",
+          "sha256": "bbd138f40e055cff76a7f8340bd66523522d950cc078d221f64ca9847d067b12",
+          "size_bytes": 4748
+        },
+        {
+          "file": "ui/magnet-admin-panel-v056/integration/client/Main.client.luau",
+          "sha256": "540510d8d4cbfe10cdac1f02319df197a9d27281c43655fe34bb1445f4ff697e",
+          "size_bytes": 34118
+        },
+        {
+          "file": "ui/magnet-admin-panel-v056/integration/server/Bootstrap.server.luau",
+          "sha256": "8b7132b096d9522638992c2ed10b7312e3630ad6584759923173aa213175cf43",
+          "size_bytes": 1424
+        },
+        {
+          "file": "ui/magnet-admin-panel-v056/integration/server/GameService.luau",
+          "sha256": "67c537d2767d940abcf43493533367ae8e681ae62f819e225fa6d33fc8c70be4",
+          "size_bytes": 37811
+        },
+        {
+          "file": "ui/magnet-admin-panel-v056/integration/server/ProfileStore.luau",
+          "sha256": "40b118b489de9443b7822f795705f9165540dba59b10b7c9b56b611a65710dcd",
+          "size_bytes": 12707
+        },
+        {
+          "file": "ui/magnet-admin-panel-v056/package-check.json",
+          "sha256": "fd3d08cd47b7d5e915dc2a1bc5843476712d6b4e53a8796595c77a1aee142ab7",
+          "size_bytes": 165
+        },
+        {
+          "file": "ui/magnet-admin-panel-v056/previews/coins-success.jpg",
+          "sha256": "16f64622cfcaca6bdf5fdd2c6356d413ed2a461c681a14ef0c0d631bc41dbd29",
+          "size_bytes": 208082
+        },
+        {
+          "file": "ui/magnet-admin-panel-v056/previews/confirmation.jpg",
+          "sha256": "0a3f9c5343bba7c9ba49b151850315c440b30360b39fa78c3adecff173097fd9",
+          "size_bytes": 165190
+        },
+        {
+          "file": "ui/magnet-admin-panel-v056/previews/panel.jpg",
+          "sha256": "cb31ce9eac607cf04bb5500f57994f78baf6b1dba5b0b0b4407c7810ea33b88b",
+          "size_bytes": 208031
+        },
+        {
+          "file": "ui/magnet-admin-panel-v056/server/AdminConfig.luau",
+          "sha256": "6e7179a52d68c74360668c1cdee2086d2c24fd9b542897cc2e15e46f141e8f82",
+          "size_bytes": 109
+        },
+        {
+          "file": "ui/magnet-admin-panel-v056/server/AdminRegistry.luau",
+          "sha256": "06dba1dcd77b313e8a757e5f8cdefe5eeb94a2bc9c5069226dea73316e8860d5",
+          "size_bytes": 10537
+        },
+        {
+          "file": "ui/magnet-admin-panel-v056/server/AdminService.luau",
+          "sha256": "a254670ca04a9efc0020e3a36b2eb1a5e0c0dd17c3b37894bf683d98c666afbd",
+          "size_bytes": 9629
+        },
+        {
+          "file": "ui/magnet-admin-panel-v056/verification-results.json",
+          "sha256": "8a39eaf446c7a238c6011ce39fc8810d5883bfdc9e396483f2f5830dc5931d6e",
+          "size_bytes": 984
+        },
+        {
+          "file": "ui/magnet-admin-panel-v056/verification.md",
+          "sha256": "cf3cb52cfb3c369ff165a9354797d7edde1efcad977ce30769667ba840f0b59b",
+          "size_bytes": 14342
+        },
+        {
+          "file": "ui/magnet-admin-panel-v056/visual-results.json",
+          "sha256": "79b9c69b5de1b69684aeace28a42bbfd5994679b318fdcd7d50b7f3547899af5",
+          "size_bytes": 5838
+        }
+      ],
+      "description": "Personal developer admin UI from a server registry, transactions, confirmations and safe reset",
+      "source": "Magnet Workshop Simulator;2026-11-15",
+      "roblox_asset_id": null,
+      "dependencies": [
+        "magnet-ui-windows-v045",
+        "magnet-hud-icons-v01"
+      ],
+      "tags": [
+        "native-ui",
+        "0.5.6",
+        "admin"
+      ],
+      "compatibility": "Project-dependent editable Luau with dependency contracts; not standalone binary; admin permission template empty",
+      "status": "saved; protocol/cloud/actual mouse UI and confirmation verified; phone/gamepad pending"
+    },
+    {
+      "id": "magnet-cleaning-presentation-v056",
+      "kind": "ui",
+      "file": "ui/magnet-cleaning-presentation-v056/client/CleaningPresentation.luau",
+      "sha256": "b7330f19e48ad9640d0d14622d212be6deb9191353acd4843ff29188e4dc7439",
+      "size_bytes": 14005,
+      "files": [
+        {
+          "file": "ui/magnet-cleaning-presentation-v056/README.md",
+          "sha256": "129e1dca6b810b98e618eae71351b2219e4c0ff226e664931147df5da4b22971",
+          "size_bytes": 1716
+        },
+        {
+          "file": "ui/magnet-cleaning-presentation-v056/client/CleaningPresentation.luau",
+          "sha256": "b7330f19e48ad9640d0d14622d212be6deb9191353acd4843ff29188e4dc7439",
+          "size_bytes": 14005
+        },
+        {
+          "file": "ui/magnet-cleaning-presentation-v056/previews/cleaning-before.jpg",
+          "sha256": "5d00abe1ed7a2b1b3ab9558316443dc4a5c6491d22a9aaec3b067d2e89bb4d8a",
+          "size_bytes": 175274
+        },
+        {
+          "file": "ui/magnet-cleaning-presentation-v056/previews/cleaning-close.jpg",
+          "sha256": "f1e5e58948d98027ed7c12fc050f866ce4d7bfe18470d11ca988ec15027f5d2d",
+          "size_bytes": 174829
+        },
+        {
+          "file": "ui/magnet-cleaning-presentation-v056/previews/cleaning-side2.jpg",
+          "sha256": "a58e71854a63eb97e46e43ac029b7852af5d9cb3d4e5cfa5e3a04fb1374c3d41",
+          "size_bytes": 176084
+        },
+        {
+          "file": "ui/magnet-cleaning-presentation-v056/qa/camera-tests.luau",
+          "sha256": "86857d9adc16703775772d30ffff3e83e476f665306d24b707b121617757e40e",
+          "size_bytes": 1678
+        },
+        {
+          "file": "ui/magnet-cleaning-presentation-v056/qa/old-camera.luau",
+          "sha256": "10ce76c4ee60a899ef7e31b90f17fba1ee40d0206419c3e8f994a0ad025ba55f",
+          "size_bytes": 1242
+        },
+        {
+          "file": "ui/magnet-cleaning-presentation-v056/verification.json",
+          "sha256": "249dd5c056820fdfc2b7634ae4210e2c39547162e5f2315dbd4286a2703c74b9",
+          "size_bytes": 781
+        },
+        {
+          "file": "ui/magnet-cleaning-presentation-v056/visual-results.json",
+          "sha256": "79b9c69b5de1b69684aeace28a42bbfd5994679b318fdcd7d50b7f3547899af5",
+          "size_bytes": 5838
+        }
+      ],
+      "description": "Closer top-down cleaning camera with safe rotating-box fit and cancellation lifecycle",
+      "source": "Magnet Workshop Simulator;2026-11-15",
+      "roblox_asset_id": null,
+      "dependencies": [
+        "magnet-activity-ui-v046",
+        "magnet-biome-finds-v050"
+      ],
+      "tags": [
+        "native-ui",
+        "0.5.6",
+        "cleaning-camera"
+      ],
+      "compatibility": "Project-dependent editable Luau with dependency contracts; not standalone binary; admin permission template empty",
+      "status": "saved;180fit cases, F13 before/after/26frame flip/finish reviewed; every item/device visual pending"
+    },
+    {
+      "id": "magnet-vertical-cast-meter-v057",
+      "kind": "ui",
+      "file": "ui/magnet-vertical-cast-meter-v057/client/CastMeter.luau",
+      "sha256": "38d077f621bfae958ed54e8cb7a9ae650c7e2c7850b2db6b5e8b0768664c4e9e",
+      "size_bytes": 5627,
+      "files": [
+        {
+          "file": "ui/magnet-vertical-cast-meter-v057/README.md",
+          "sha256": "2d86504977e82371c6e23f795c82b71c491e4400ef3e0c35034414fd49d00f9f",
+          "size_bytes": 2617
+        },
+        {
+          "file": "ui/magnet-vertical-cast-meter-v057/client/CastMeter.luau",
+          "sha256": "38d077f621bfae958ed54e8cb7a9ae650c7e2c7850b2db6b5e8b0768664c4e9e",
+          "size_bytes": 5627
+        },
+        {
+          "file": "ui/magnet-vertical-cast-meter-v057/client/HudIcons.luau",
+          "sha256": "5e4810661fb14214f5ccf36f0d1afb356b210a96547bd0497af6f42f6b9388aa",
+          "size_bytes": 338
+        },
+        {
+          "file": "ui/magnet-vertical-cast-meter-v057/client/WindowTheme.luau",
+          "sha256": "bbd138f40e055cff76a7f8340bd66523522d950cc078d221f64ca9847d067b12",
+          "size_bytes": 4748
+        },
+        {
+          "file": "ui/magnet-vertical-cast-meter-v057/example/Config.luau",
+          "sha256": "1301ec0128fe0667fe9d95f46be40fc24a40c4c5486571bae74d26ad19d731f9",
+          "size_bytes": 359
+        },
+        {
+          "file": "ui/magnet-vertical-cast-meter-v057/package-check.json",
+          "sha256": "df2e47fd3b7899a513b144f09ea5901d2879cafa1b81dfee5b33a8da606481f0",
+          "size_bytes": 357
+        },
+        {
+          "file": "ui/magnet-vertical-cast-meter-v057/shared/CastRules.luau",
+          "sha256": "203209fafa598f0365c82249d779744db29c8098d69c3e57795bab3e754e507e",
+          "size_bytes": 3837
+        },
+        {
+          "file": "ui/magnet-vertical-cast-meter-v057/shared/StarterLayout.luau",
+          "sha256": "482b131710a52f296310a49e72a9f7bb62d679f338959fa3fe9a99038267e0f1",
+          "size_bytes": 1020
+        },
+        {
+          "file": "ui/magnet-vertical-cast-meter-v057/verification.json",
+          "sha256": "6511df653f4784a6bd5cbcfcad2e66b9e83b3221f0cf4b2da0fdf15f06b45256",
+          "size_bytes": 1367
+        },
+        {
+          "file": "ui/magnet-vertical-cast-meter-v057/vertical-cast.jpg",
+          "sha256": "49dbd31dc06739d668672b8b3f06e5c6929782346f8eb68e315262010de73c79",
+          "size_bytes": 226278
+        }
+      ],
+      "description": "Vertical upward looping cast-power meter with shared server timing and bounded bridge targeting",
+      "source": "Magnet Workshop Simulator;2026-11-16",
+      "roblox_asset_id": null,
+      "derived_from": [
+        "magnet-activity-ui-v046"
+      ],
+      "dependencies": [
+        "magnet-activity-ui-v046"
+      ],
+      "tags": [
+        "native-ui",
+        "vertical",
+        "cast-meter",
+        "0.5.7"
+      ],
+      "compatibility": "Editable project-dependent Luau; existing server release validation required; example balance is project-specific",
+      "status": "saved; actual mouse/animation preview,4container sizes and3669server probes verified; physical devices pending"
+    },
+    {
+      "id": "magnet-free-cast-v058",
+      "kind": "ui",
+      "file": "ui/magnet-free-cast-v058/client/CastMeter.luau",
+      "sha256": "e34418e375739a821be8bc7c4a7419ad5d7b1e88cfc424165443b7e8a36bc9a1",
+      "size_bytes": 3490,
+      "files": [
+        {
+          "file": "ui/magnet-free-cast-v058/README.md",
+          "sha256": "e38b63990742f9c167807d1390872f4563b366538381c7683f90d8d464dd4597",
+          "size_bytes": 3358
+        },
+        {
+          "file": "ui/magnet-free-cast-v058/client/CastMeter.luau",
+          "sha256": "e34418e375739a821be8bc7c4a7419ad5d7b1e88cfc424165443b7e8a36bc9a1",
+          "size_bytes": 3490
+        },
+        {
+          "file": "ui/magnet-free-cast-v058/client/HudIcons.luau",
+          "sha256": "5e4810661fb14214f5ccf36f0d1afb356b210a96547bd0497af6f42f6b9388aa",
+          "size_bytes": 338
+        },
+        {
+          "file": "ui/magnet-free-cast-v058/client/WindowTheme.luau",
+          "sha256": "bbd138f40e055cff76a7f8340bd66523522d950cc078d221f64ca9847d067b12",
+          "size_bytes": 4748
+        },
+        {
+          "file": "ui/magnet-free-cast-v058/example/Config.luau",
+          "sha256": "0d1932d0ce180f362f2284006f27af0f7007a2d006f634e2e981a31ab0c1c8f6",
+          "size_bytes": 361
+        },
+        {
+          "file": "ui/magnet-free-cast-v058/integration/client/Main.client.luau",
+          "sha256": "f7740ba4784198df687cb3c37018f61b1cb41679226d6158eb4d4ebe9d9e0da2",
+          "size_bytes": 33902
+        },
+        {
+          "file": "ui/magnet-free-cast-v058/integration/server/GameService.luau",
+          "sha256": "31a7552b9f2137cdf1efc780a03e1a79e3e8cbc4e70775e584e56f5fb590ab40",
+          "size_bytes": 37158
+        },
+        {
+          "file": "ui/magnet-free-cast-v058/integration/shared/GuideRules.luau",
+          "sha256": "e364a37ce449d6a97c006cfb854609f88e1062cefaf366edbe76c446234989c2",
+          "size_bytes": 7862
+        },
+        {
+          "file": "ui/magnet-free-cast-v058/integration/shared/Strings.luau",
+          "sha256": "dbd9d5598a5ff16187bdcc22387df3c3ab0504c9654a7c92396dabbae2ad3437",
+          "size_bytes": 10091
+        },
+        {
+          "file": "ui/magnet-free-cast-v058/minimal-strip.jpg",
+          "sha256": "95a533b904b329c14eb4cf498dc3b973d2d43c7ce54c6efc480d5bb1a0d53c5d",
+          "size_bytes": 240755
+        },
+        {
+          "file": "ui/magnet-free-cast-v058/package-check.json",
+          "sha256": "ba6245caf8cfe027bd3524e0b21c432e5f7f8463cfe23a4fb758df3ba69a1e29",
+          "size_bytes": 182
+        },
+        {
+          "file": "ui/magnet-free-cast-v058/shared/CastRules.luau",
+          "sha256": "203209fafa598f0365c82249d779744db29c8098d69c3e57795bab3e754e507e",
+          "size_bytes": 3837
+        },
+        {
+          "file": "ui/magnet-free-cast-v058/shared/StarterLayout.luau",
+          "sha256": "482b131710a52f296310a49e72a9f7bb62d679f338959fa3fe9a99038267e0f1",
+          "size_bytes": 1020
+        },
+        {
+          "file": "ui/magnet-free-cast-v058/shared/WaterCastRules.luau",
+          "sha256": "368cd67480baa0c1a39ca5db54a31e5fcfacfc81efff4b0e37e181c2717ed06b",
+          "size_bytes": 5953
+        },
+        {
+          "file": "ui/magnet-free-cast-v058/verification.json",
+          "sha256": "8ef531d722e47280a6337741dcf8ecbda4f04e616eda2639c911c68cd200a25f",
+          "size_bytes": 14877
+        },
+        {
+          "file": "ui/magnet-free-cast-v058/verification.md",
+          "sha256": "24ced51113406c895036b3804b6ac5b6b207ed8da8065891ec1bab98dde6be1a",
+          "size_bytes": 6517
+        }
+      ],
+      "description": "Minimal translucent cast strip and server-authoritative free-angle shore casting",
+      "source": "Magnet Workshop Simulator;2026-11-16",
+      "roblox_asset_id": null,
+      "derived_from": [
+        "magnet-vertical-cast-meter-v057"
+      ],
+      "dependencies": [
+        "magnet-activity-ui-v046"
+      ],
+      "tags": [
+        "free-cast",
+        "water",
+        "minimal-hud",
+        "0.5.8"
+      ],
+      "compatibility": "Editable project-dependent Luau; authored circular lakes/bridges and existing server state/commit integration required",
+      "status": "saved;9biomes/free-angle catch,5GUI sizes/cancel/respawn verified; physical devices/multiplayer pending"
+    },
+    {
+      "id": "simulator-template-v001",
+      "kind": "system",
+      "file": "../templates/simulator-v001/src/server/Core.luau",
+      "files": [
+        {
+          "file": "../templates/simulator-v001/README.md",
+          "sha256": "fb78ddecc5cb9da296606cf6e9435fa928883879dfbcd73340cf4ee31e546fd3",
+          "size_bytes": 9963
+        },
+        {
+          "file": "../templates/simulator-v001/dist/Install.luau",
+          "sha256": "5b908e9f04c5bf2ce60e61d90c22046a8a4f031055de3a465d943ec9c4a11171",
+          "size_bytes": 18771
+        },
+        {
+          "file": "../templates/simulator-v001/dist/manifest.json",
+          "sha256": "56f07297bac996b79de06f5ae78959a2c179d64d54e5036a3324402bab381b47",
+          "size_bytes": 1498
+        },
+        {
+          "file": "../templates/simulator-v001/scripts/build.py",
+          "sha256": "6dd901c03ddabd92ccaef7fd6eea0496e40f56f0961798393b4817e3e4fb31f0",
+          "size_bytes": 3724
+        },
+        {
+          "file": "../templates/simulator-v001/src/client/Main.client.luau",
+          "sha256": "5af26d4229ea895ad8fb363b57a49ab822a649229fb05ac9bf39e2a2a9970be9",
+          "size_bytes": 3364
+        },
+        {
+          "file": "../templates/simulator-v001/src/server/AdminConfig.luau",
+          "sha256": "cc2a9a5e85cc2ed3f64207f0204b0b50936f733b96fded73877502d175abbac1",
+          "size_bytes": 94
+        },
+        {
+          "file": "../templates/simulator-v001/src/server/Bootstrap.server.luau",
+          "sha256": "a19ca85cc35517cf075b48bcee3ff0b3e47d5f1e3db30c9cf1fc0d40ded0b1de",
+          "size_bytes": 1569
+        },
+        {
+          "file": "../templates/simulator-v001/src/server/Core.luau",
+          "sha256": "207fbbe1349041f1acd39f73ddc73a7c52163bb8e5ef1e13742df08161839472",
+          "size_bytes": 4252
+        },
+        {
+          "file": "../templates/simulator-v001/src/server/Session.luau",
+          "sha256": "b054be404c78d1facf37352521e895ba5d04ee0bb3b86d27c877aaaefda0c137",
+          "size_bytes": 1320
+        },
+        {
+          "file": "../templates/simulator-v001/src/shared/Config.luau",
+          "sha256": "5fa30a04963ff98a6e288d3570bac5171104b723e1e7e6deedb62338b435ef42",
+          "size_bytes": 317
+        },
+        {
+          "file": "../templates/simulator-v001/src/shared/HudIcons.luau",
+          "sha256": "5e4810661fb14214f5ccf36f0d1afb356b210a96547bd0497af6f42f6b9388aa",
+          "size_bytes": 338
+        },
+        {
+          "file": "../templates/simulator-v001/src/shared/WindowTheme.luau",
+          "sha256": "bbd138f40e055cff76a7f8340bd66523522d950cc078d221f64ca9847d067b12",
+          "size_bytes": 4748
+        },
+        {
+          "file": "../templates/simulator-v001/tests/core.lua",
+          "sha256": "d51122a0d43e167e255ddc7b262b735fe40ea45eca3909079cdd52acdf95a286",
+          "size_bytes": 2636
+        },
+        {
+          "file": "../templates/simulator-v001/tests/results.json",
+          "sha256": "927bc8e8069c76a806f8c30db978e7750655a1cd500364a6d105722155df2f18",
+          "size_bytes": 548
+        },
+        {
+          "file": "../templates/simulator-v001/tests/run.py",
+          "sha256": "ad6a577552351c5624fd46c445f56a2dcdf2f0630f02a793ef632f6f7f18c084",
+          "size_bytes": 5126
+        }
+      ],
+      "tags": [
+        "template",
+        "simulator",
+        "core",
+        "installer",
+        "RAM_ONLY"
+      ],
+      "description": "Отдельное ядро симулятора 0.0.1: сбор, инвентарь, продажа, уровни, deny-all admin и offline Studio installer. Постоянных сохранений/мира пока нет.",
+      "source": "Explicit current user task, 2026-11-16; new core with unchanged WindowTheme/HudIcons from magnet-ui-windows-v045",
+      "status": "source saved; 35 pure-Lua assertions, syntax and mock installer checks passed; Roblox Studio not tested; RAM_ONLY",
+      "compatibility": "Paths ../templates resolve inside this installed skill. Install only in blank Edit test place via Command Bar. Roblox UI/real DataModel testing pending. No production profiles/permissions. See template README.",
+      "dependencies": [
+        "magnet-ui-windows-v045"
+      ],
+      "roblox_asset_id": null
+    },
+    {
+      "id": "magnet-catch-reveal-v059",
+      "kind": "ui",
+      "file": "ui/magnet-catch-reveal-v059/client/CatchReveal.luau",
+      "sha256": "209ce2daa96353669f9044da1c590c2599a06c98ad45e5187c9be8520d045146",
+      "size_bytes": 7503,
+      "files": [
+        {
+          "file": "ui/magnet-catch-reveal-v059/README.md",
+          "sha256": "d1c8b11a3bd50cabedc10646353cd2835c5716fbe8ec2c03fceb1e5c10748c17",
+          "size_bytes": 3889
+        },
+        {
+          "file": "ui/magnet-catch-reveal-v059/client/CatchReveal.luau",
+          "sha256": "209ce2daa96353669f9044da1c590c2599a06c98ad45e5187c9be8520d045146",
+          "size_bytes": 7503
+        },
+        {
+          "file": "ui/magnet-catch-reveal-v059/client/HudIcons.luau",
+          "sha256": "5e4810661fb14214f5ccf36f0d1afb356b210a96547bd0497af6f42f6b9388aa",
+          "size_bytes": 338
+        },
+        {
+          "file": "ui/magnet-catch-reveal-v059/client/RevealReceipts.luau",
+          "sha256": "1a4ab7f85235f84564423719ff14543482d5b9b10c37e466300b22ca25777305",
+          "size_bytes": 1800
+        },
+        {
+          "file": "ui/magnet-catch-reveal-v059/client/WindowTheme.luau",
+          "sha256": "bbd138f40e055cff76a7f8340bd66523522d950cc078d221f64ca9847d067b12",
+          "size_bytes": 4748
+        },
+        {
+          "file": "ui/magnet-catch-reveal-v059/data/item-catalog.json",
+          "sha256": "fb3ccb8bdfdc911981cbfe503b5e18927ddf8ffd62b6a7a18046b3d72b1ab352",
+          "size_bytes": 32106
+        },
+        {
+          "file": "ui/magnet-catch-reveal-v059/integration/client/ActivityUI.luau",
+          "sha256": "ba14e50426935732fa5fea7a524dc9fca6c8b0c95b74e0d4d5d3274e27a8c17f",
+          "size_bytes": 12015
+        },
+        {
+          "file": "ui/magnet-catch-reveal-v059/integration/client/Main.client.luau",
+          "sha256": "7815c56ed2afdc25072ba01433f6bd9c3a8d428c4fcc0c4e077b73c5eb7e5307",
+          "size_bytes": 35876
+        },
+        {
+          "file": "ui/magnet-catch-reveal-v059/integration/server/AdminRegistry.luau",
+          "sha256": "74447e5ab4930a724caa3ff5cdb4191c8f4858c852160ca257acf09e75e1889a",
+          "size_bytes": 10657
+        },
+        {
+          "file": "ui/magnet-catch-reveal-v059/integration/server/GameService.luau",
+          "sha256": "eb5ab2f728ac6778df265819e3ff150dfd70ff9131e685065793636eb310241d",
+          "size_bytes": 37388
+        },
+        {
+          "file": "ui/magnet-catch-reveal-v059/integration/shared/Config.luau",
+          "sha256": "6de001a4211c6b131bfff1df4b6c22072650a7ab6f073da6dab013ebbfb4e28d",
+          "size_bytes": 8544
+        },
+        {
+          "file": "ui/magnet-catch-reveal-v059/package-check.json",
+          "sha256": "41f5052ac2d871ebf86a273e31a9a4d476f2f1fd3a61be5b8e1004c801fc299e",
+          "size_bytes": 244
+        },
+        {
+          "file": "ui/magnet-catch-reveal-v059/previews/common.gif",
+          "sha256": "5c04f5fe095cc918ae1354ba3fd90d0787bec68812e77a96026314768844bd66",
+          "size_bytes": 1334380
+        },
+        {
+          "file": "ui/magnet-catch-reveal-v059/previews/common.png",
+          "sha256": "063de48ae52c1e1bd7e0188599fe21984a32a4e65c8a8d923efafe97c2b51226",
+          "size_bytes": 35334
+        },
+        {
+          "file": "ui/magnet-catch-reveal-v059/previews/epic.gif",
+          "sha256": "aab08c2cf8b4cbc7bd2e566b50e9a76c2403b37b519cb58373ae53e7c402ed74",
+          "size_bytes": 1329049
+        },
+        {
+          "file": "ui/magnet-catch-reveal-v059/previews/epic.png",
+          "sha256": "54739e259f411761e2004e104c904e51a000bff28b1b7364b07357c0ee5a8a77",
+          "size_bytes": 35166
+        },
+        {
+          "file": "ui/magnet-catch-reveal-v059/previews/manifest.json",
+          "sha256": "b54f4826ea79d63cccf263c777ed0d0af82786f0061359fd89b1907042ee95ac",
+          "size_bytes": 655
+        },
+        {
+          "file": "ui/magnet-catch-reveal-v059/previews/mythic.gif",
+          "sha256": "ac604414955cc6a45b1dcf8e77f075f84144377e7755ec49a3474b7f3b12e18c",
+          "size_bytes": 1360264
+        },
+        {
+          "file": "ui/magnet-catch-reveal-v059/previews/mythic.png",
+          "sha256": "8cfe32fc36ad76e1c4ba91c8d42200d8cafd99273859457387fec097b8ad59ee",
+          "size_bytes": 32782
+        },
+        {
+          "file": "ui/magnet-catch-reveal-v059/previews/preview.html",
+          "sha256": "ec46a3aad67eddb763b4a1c44fb0d814560f0a26916a8afc95d7ef3645308106",
+          "size_bytes": 28059
+        },
+        {
+          "file": "ui/magnet-catch-reveal-v059/previews/rare.gif",
+          "sha256": "bbfa3ccaec9ab313c96eefd18240988dcb75df8cfa1e58202294f1d252e7df87",
+          "size_bytes": 1281370
+        },
+        {
+          "file": "ui/magnet-catch-reveal-v059/previews/rare.png",
+          "sha256": "247f409995113191d64726e43fef17df4f7efbd9bb52496e37cc9ca4bc5fdc0a",
+          "size_bytes": 35113
+        },
+        {
+          "file": "ui/magnet-catch-reveal-v059/previews/rarity-preview.png",
+          "sha256": "65865360aff4b0bc69c809f747949c2a4b5d88d317c2daa561dc1dbfad0ceb67",
+          "size_bytes": 72193
+        },
+        {
+          "file": "ui/magnet-catch-reveal-v059/previews/sequence.png",
+          "sha256": "ab04d9fd34f24595877a682dc0d835e982d17a822952b0ed79e4962d062186f4",
+          "size_bytes": 58349
+        },
+        {
+          "file": "ui/magnet-catch-reveal-v059/previews/uncommon.gif",
+          "sha256": "baefc41d858f14dd5549faba041f818ba0d1a77a8e610b2b9549cbcc3fa0e6ae",
+          "size_bytes": 1155549
+        },
+        {
+          "file": "ui/magnet-catch-reveal-v059/previews/uncommon.png",
+          "sha256": "4eaf80b4c80947bb30309dc8c2b6c3fbf12e7a5a8c1e98726b15fabee351e957",
+          "size_bytes": 30882
+        },
+        {
+          "file": "ui/magnet-catch-reveal-v059/qa/offline.luau",
+          "sha256": "5ed36d6240eb6caa6841cb7678170058cca80af7738f836f94efde9c9f2654db",
+          "size_bytes": 2614
+        },
+        {
+          "file": "ui/magnet-catch-reveal-v059/shared/ApprovedAssets.luau",
+          "sha256": "0152894a5f7e6e3550c2a10479dcbad309e268f33a7ef818dbebf0a31589a5b8",
+          "size_bytes": 8933
+        },
+        {
+          "file": "ui/magnet-catch-reveal-v059/shared/BiomeFindAssets.luau",
+          "sha256": "84e1cbe74c09080b541999740a8a0dc6a95a5531683b9b70261ee37a545e7053",
+          "size_bytes": 14372
+        },
+        {
+          "file": "ui/magnet-catch-reveal-v059/shared/FindFactory.luau",
+          "sha256": "ca39722015d5bfb9b47f0615d1a086132f1a880650395ef9b2ac13e52e499a9d",
+          "size_bytes": 8825
+        },
+        {
+          "file": "ui/magnet-catch-reveal-v059/shared/ItemCatalog.luau",
+          "sha256": "452ef65eb0121312cc1d5dd90725708dab6b27cdf0b1d5ebbb7b4fe219e80b77",
+          "size_bytes": 23421
+        },
+        {
+          "file": "ui/magnet-catch-reveal-v059/shared/RarityCatalog.luau",
+          "sha256": "9dfbaf4a991a2d951133dd83a098ede201b97c805ee84ffa6d4e6930a4c3860b",
+          "size_bytes": 810
+        },
+        {
+          "file": "ui/magnet-catch-reveal-v059/shared/RevealTimeline.luau",
+          "sha256": "351fb982fd145bbff2156138fdb3645295b61701955e9dcf5992e098347d233b",
+          "size_bytes": 1306
+        },
+        {
+          "file": "ui/magnet-catch-reveal-v059/shared/SurfaceStyle.luau",
+          "sha256": "975f999b9f0618b34e2736d05152f97f0f1b12fcccc0d453c22d1e64ae7f91b2",
+          "size_bytes": 5859
+        },
+        {
+          "file": "ui/magnet-catch-reveal-v059/verification.json",
+          "sha256": "706ce42084d2a9484633f4b7a049a6a1f317f19a7f490f3dab3a7b694698e065",
+          "size_bytes": 1183
+        },
+        {
+          "file": "ui/magnet-catch-reveal-v059/verification.md",
+          "sha256": "95ce1da37e395d31f2adacd0fbb1fb76b5dc082bf87c56e9aa73cb27fc96e067",
+          "size_bytes": 6444
+        }
+      ],
+      "description": "Centered rarity-glow reveal and inventory flight, exact-UID presentation holds and108-species metadata",
+      "source": "Magnet Workshop Simulator;2026-11-17; local-only preparation requested",
+      "derived_from": [
+        "magnet-activity-ui-v046",
+        "magnet-biome-finds-v050"
+      ],
+      "dependencies": [
+        "magnet-activity-ui-v046",
+        "magnet-biome-finds-v050"
+      ],
+      "roblox_asset_id": null,
+      "tags": [
+        "catch-reveal",
+        "rarity",
+        "inventory-flight",
+        "procedural-animation",
+        "0.5.9",
+        "local-only"
+      ],
+      "compatibility": "Project-dependent editable Luau; server/client receipt integration and current36models supplied;72new species metadata only; no legendary finds",
+      "status": "stored locally; Luau/offline timing/receipt/geometry checks passed; NOT installed or visually accepted in Studio by explicit user instruction"
+    },
+    {
+      "id": "magnet-expanded-finds-v060",
+      "kind": "item",
+      "file": "items/magnet-expanded-finds-v060/ExpandedFindAssets.luau",
+      "files": [
+        {
+          "file": "items/magnet-expanded-finds-v060/ExpandedFindAssets.luau",
+          "sha256": "54a6dddeebbc0f74ed40919f0a50d1721301d6aeb2f7824296256959150c65f6",
+          "size_bytes": 26177
+        },
+        {
+          "file": "items/magnet-expanded-finds-v060/README.md",
+          "sha256": "0cfedc5f040541c4e75c4e6e6a203140e5650b99d8f712249da7e57a5798c9c8",
+          "size_bytes": 1673
+        },
+        {
+          "file": "items/magnet-expanded-finds-v060/ItemCatalog.luau",
+          "sha256": "1796de5a8821c6b4dc876fe034a69bf13cf98e1378d9128f0ef3c9e88856f56b",
+          "size_bytes": 29906
+        }
+      ],
+      "tags": [
+        "magnet",
+        "collectible",
+        "72-models",
+        "dirty",
+        "clean",
+        "portable"
+      ],
+      "description": "72 original procedural collectible models, same geometry in Dirty/Clean, compact max lengths1/1.8/2.7studs; not UV-textured replicas. Studio16nativefront/backscreens72modelsCleanDirty; scale andF98flipverified.644bounded corrosionchips, readable27, opencrystalchests, redbellows.1008raycomparisons0mismatch.",
+      "source": "Magnet Workshop Simulator, user-approved references",
+      "date": "2026-11-17",
+      "roblox_asset_id": null,
+      "verification_status": "studio_structural_runtime_and_visual_checked",
+      "compatibility": "Roblox Luau; entry module requires sibling ItemCatalog; F-37..F-108 only; no economy or persistence included",
+      "dependencies": [
+        "items/magnet-expanded-finds-v060/ItemCatalog.luau"
+      ]
+    }
+  ]
+}

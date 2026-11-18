@@ -1,0 +1,8 @@
+{
+  "file": "square-relief-normal.png",
+  "sha256": "83687a27161c86b29ae6526704d9ed16ec68f223b8aed88001b00f8267ae13ac",
+  "source": "User attachment in chat 01a1b1eb-33f2-7d31-a3f9-99f6588480f6, 2026-11-11",
+  "interpretation": "tangent-space normal map based on visual appearance; verify relief orientation in Studio",
+  "roblox_asset_id": null,
+  "policy_reference": "../../references/material-policy.md"
+}

@@ -1,0 +1,280 @@
+{
+  "main": {
+    "id": "345b663c9b462f5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "650bc74305926038",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4b24d9fbeff593f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "roblox-game-builder/knowledge/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            },
+            "group": "4198f84a6e83d756"
+          },
+          {
+            "id": "e6f5ed044ff27e13",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "roblox-game-builder/knowledge/index.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.2000447666166356,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Граф index"
+            },
+            "group": "4198f84a6e83d756"
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "79a8f0399b80d59b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c05d6266badc25da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d79d998bc8f2e1a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "47394794ae1704e7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "b474298d3ebc0bd0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c44ad83e14524896",
+    "type": "split",
+    "children": [
+      {
+        "id": "e96f6cf6ac320469",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2fa494673befc75",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "roblox-game-builder/references/graph.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
+            }
+          },
+          {
+            "id": "852463560a9be4f6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "roblox-game-builder/references/graph.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "df348ae5e1ab8362",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "d7506fd196983866",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "a72063f8d0e49eef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "roblox-game-builder/references/graph.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "e6f5ed044ff27e13",
+  "lastOpenFiles": [
+    "roblox-game-builder/knowledge/assets/magnet-expanded-finds-v060.md",
+    "roblox-game-builder/assets/items/magnet-expanded-finds-v060/README.md",
+    "roblox-game-builder/assets/items/magnet-expanded-finds-v060/ItemCatalog.luau",
+    "roblox-game-builder/assets/items/magnet-expanded-finds-v060/ExpandedFindAssets.luau",
+    "roblox-game-builder/assets/items/magnet-expanded-finds-v060",
+    "roblox-game-builder/knowledge/assets/magnet-catch-reveal-v059.md",
+    "roblox-game-builder/assets/ui/magnet-catch-reveal-v059/integration/client/Main.client.luau",
+    "roblox-game-builder/assets/ui/magnet-catch-reveal-v059/integration/shared/Config.luau",
+    "roblox-game-builder/assets/ui/magnet-catch-reveal-v059/integration/server/GameService.luau",
+    "roblox-game-builder/assets/ui/magnet-catch-reveal-v059/integration/server/AdminRegistry.luau",
+    "roblox-game-builder/assets/ui/magnet-catch-reveal-v059/integration/client/ActivityUI.luau",
+    "roblox-game-builder/assets/ui/magnet-catch-reveal-v059/shared/SurfaceStyle.luau",
+    "roblox-game-builder/assets/ui/magnet-catch-reveal-v059/shared/RevealTimeline.luau",
+    "roblox-game-builder/assets/ui/magnet-catch-reveal-v059/previews/uncommon.png",
+    "roblox-game-builder/assets/ui/magnet-catch-reveal-v059/previews/uncommon.gif",
+    "roblox-game-builder/assets/ui/magnet-catch-reveal-v059/previews/sequence.png",
+    "roblox-game-builder/assets/ui/magnet-catch-reveal-v059/previews/rarity-preview.png",
+    "roblox-game-builder/assets/ui/magnet-catch-reveal-v059/previews/rare.png",
+    "roblox-game-builder/assets/ui/magnet-catch-reveal-v059/previews/rare.gif",
+    "roblox-game-builder/assets/ui/magnet-catch-reveal-v059/previews/mythic.png",
+    "roblox-game-builder/assets/ui/magnet-catch-reveal-v059/previews/mythic.gif",
+    "roblox-game-builder/assets/ui/magnet-catch-reveal-v059/previews/epic.png",
+    "roblox-game-builder/assets/ui/magnet-catch-reveal-v059/previews/epic.gif",
+    "roblox-game-builder/assets/ui/magnet-catch-reveal-v059/verification.md",
+    "roblox-game-builder/assets/ui/magnet-catch-reveal-v059/README.md",
+    "roblox-game-builder/knowledge/assets/simulator-template-v001.md",
+    "roblox-memory/skill-history/20261116T162910Z-simulator-template/knowledge/status.md",
+    "roblox-memory/skill-history/20261116T162910Z-simulator-template/knowledge/index.md",
+    "roblox-memory/skill-history/20261116T162910Z-simulator-template/knowledge/gaps.md",
+    "roblox-memory/skill-history/20261116T162910Z-simulator-template/SKILL.md",
+    "roblox-game-builder/templates/simulator-v001/README.md",
+    "roblox-game-builder/knowledge/assets/magnet-free-cast-v058.md",
+    "roblox-game-builder/assets/ui/magnet-free-cast-v058/verification.md",
+    "roblox-game-builder/assets/ui/magnet-free-cast-v058/README.md",
+    "roblox-game-builder/knowledge/index.md",
+    "roblox-game-builder/knowledge/assets/magnet-vertical-cast-meter-v057.md",
+    "roblox-memory/skill-history/20261116T155750Z-obsidian-knowledge/references/graph.md",
+    "roblox-memory/skill-history/20261116T155750Z-obsidian-knowledge/SKILL.md",
+    "roblox-game-builder/assets/ui/magnet-vertical-cast-meter-v057/README.md",
+    "roblox-game-builder/knowledge/coverage.md",
+    "roblox-game-builder/knowledge/gaps.md",
+    "roblox-game-builder/knowledge/status.md",
+    "roblox-game-builder/knowledge/projects/magnet-workshop.md",
+    "roblox-game-builder/knowledge/projects/fight-for-eggs.md",
+    "roblox-game-builder/knowledge/research.md",
+    "roblox-game-builder/knowledge/regressions.md"
+  ]
+}

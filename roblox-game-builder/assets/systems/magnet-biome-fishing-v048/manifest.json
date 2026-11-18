@@ -1,0 +1,13 @@
+{
+  "id": "magnet-biome-fishing-v048",
+  "version": "0.4.8",
+  "entry_point": "shared/BiomeFishing.luau",
+  "source": "Magnet Workshop Simulator;2026-11-14",
+  "derived_from": [
+    "magnet-activity-ui-v046",
+    "magnet-ui-windows-v045"
+  ],
+  "status": "implemented and saved; validation scope in verification.md",
+  "material_policy": "world square normal119928944196293; GUI/used-item exemptions preserved",
+  "new_roblox_asset_ids": []
+}

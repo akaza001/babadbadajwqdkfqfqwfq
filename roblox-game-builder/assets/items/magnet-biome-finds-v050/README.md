@@ -1,0 +1,9 @@
+# Magnet thematic finds 0.5.0
+
+24 explicitly approved r01 concepts F-13…F-36, eight themes. PNGs and exact prompts/approval are in references/manifest.json; previews are actual Studio ViewportFrames, clean above/rust below. The crystal preview predates a small crown lowering; Sky preview includes final visible stars. References are design assets, not in-game textures or exported meshes.
+
+Install shared modules alongside the shared dependencies from magnet-biome-worlds-v050. FindFactory.create(id, dirty) returns a grounded Model for old/new IDs; BiomeFindAssets creates the24 new Parts-only models. Their SurfaceClass=Item exempts them from world relief. Root pivot, bounds and actual mass definitions are provided; no hand rig/Tool grip or humanoid animation is required because these are collectibles rendered by the fishing/exhibit/cleaning systems.
+
+Each item has dirty/clean geometry with matching bounds, deterministic rust, metal/glass and protected light details. 6…68 parts. All24 caught through authoritative server code; tier forced only in QA, production equipment weights restored. CleaningGeometry builds both nonempty surface masks. Two edge ray-height differences were observed among4790 hits, not zero-error geometry. Actual F-20 and F-28 two-side brush completion passed. Glass transparency requires the supplied0.5.0 CleaningPresentation from UI bundle.
+
+finds.sample.json contains this project's price/mass/tier/biome mapping. Do not copy player profiles. Inventory cap24 and collection36 are game settings. Server integration and persistence live in magnet-biome-exploration-v050; origin biomeId must survive cleaning/exhibit/sale, biomeCatches must be validated as a map of active IDs to true. Legacy finds default BIO-01. New collectibles must not receive world MaterialVariants.

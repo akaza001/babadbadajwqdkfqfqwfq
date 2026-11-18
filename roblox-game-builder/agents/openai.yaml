@@ -1,0 +1,6 @@
+interface:
+  display_name: "Roblox Game Builder"
+  short_description: "Разработка Roblox с графом механик и памятью правок"
+  default_prompt: "Используй $roblox-game-builder для создания или доработки моей Roblox-игры с учётом графа зависимостей и сохранённых правок."
+policy:
+  allow_implicit_invocation: true

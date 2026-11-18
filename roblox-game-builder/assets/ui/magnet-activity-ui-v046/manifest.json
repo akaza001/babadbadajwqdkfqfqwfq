@@ -1,0 +1,20 @@
+{
+  "id": "magnet-activity-ui-v046",
+  "version": "0.4.6",
+  "kind": "native-ui",
+  "entry_point": "client/ActivityUI.luau",
+  "derived_from": [
+    "magnet-ui-windows-v045",
+    "magnet-hud-icons-v01"
+  ],
+  "source": "Magnet Workshop Simulator; user requested first two next steps; 2026-11-13",
+  "status": "implemented; Studio input and full cycle checked; physical devices pending",
+  "new_roblox_asset_ids": [],
+  "layout_cases": [
+    "1280x720",
+    "768x373",
+    "568x220",
+    "360x576"
+  ],
+  "material_policy": "GUI and used items excluded from world normal; existing textures reused"
+}

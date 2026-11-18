@@ -1,0 +1,159 @@
+{
+  "version": "0.5.5",
+  "generator": "built-in image_gen",
+  "normal": "reused rbxassetid://119928944196293",
+  "rows": [
+    {
+      "id": "timber",
+      "description": "Clean planed timber: restrained flowing longitudinal wood fibers vertically, a few very soft tiny tapered growth figures, gentle broad pale grain bands. No plank dividers, joints, nails, knots with dark holes or harsh scratches. Refine the input tile into clearer stylized fibers, remove blurry shading, retain its pale neutral tone.",
+      "ref": "textures/magnet-starter-albedos-v045/timber.png",
+      "prompt": "Use case: stylized-concept. Asset type: production tileable neutral GRAYSCALE diffuse COLOR/ALBEDO texture for a bright blocky Roblox toy world. One full-bleed SQUARE seamless tile, top-down orthographic flat scan of material, filling every pixel. Pale neutral gray values roughly 210..255, average around238; readable but restrained 8-15% local tonal variation, suitable to multiply by existing saturated object colors. Matte even flat illumination, NO directional light, NO shadows, NO 3D scene or perspective, NO borders or edge darkening or vignette, NO text, labels, logos, normal-map purple, no existing square/stud/grid pattern. The game's required square relief normal map is applied separately; do not draw that grid in this color map. Natural clean stylized hand-painted material with crisp controlled details, not a gritty photograph, no damage or dirt. Pattern continues perfectly across opposite edges, density uniform from edge to center. Target1024x1024. Clean planed timber: restrained flowing longitudinal wood fibers vertically, a few very soft tiny tapered growth figures, gentle broad pale grain bands. No plank dividers, joints, nails, knots with dark holes or harsh scratches. Refine the input tile into clearer stylized fibers, remove blurry shading, retain its pale neutral tone.",
+      "file": "maps/timber.png",
+      "sha256": "c40790a4cc7de840376708b9454372e166f3ab4b1f5be9dc666a1bc4f5f18613",
+      "size_bytes": 1356788,
+      "resolution": [
+        1254,
+        1254
+      ],
+      "mean_rgb": [
+        239.36,
+        239.22,
+        239.27
+      ],
+      "roblox_asset_id": "rbxassetid://101317459528460",
+      "edge_mad": {
+        "left_right": 3.48,
+        "top_bottom": 1.51
+      },
+      "source_file": "art/textures/world-polish-v055/timber.png"
+    },
+    {
+      "id": "stone",
+      "description": "Smooth stylized stone: fine softly angular mineral grains and broad quiet flat tonal patches with a few tiny pale speckles. Remove the input's cloudy faux-3D bands, use controlled flat albedo detail. No brickwork, joints, deep cracks, big rock chunks, sharp shadows or black veins. It must suit both colored cliffs and calm painted wall surfaces.",
+      "ref": "textures/magnet-starter-albedos-v045/stone.png",
+      "prompt": "Use case: stylized-concept. Asset type: production tileable neutral GRAYSCALE diffuse COLOR/ALBEDO texture for a bright blocky Roblox toy world. One full-bleed SQUARE seamless tile, top-down orthographic flat scan of material, filling every pixel. Pale neutral gray values roughly 210..255, average around238; readable but restrained 8-15% local tonal variation, suitable to multiply by existing saturated object colors. Matte even flat illumination, NO directional light, NO shadows, NO 3D scene or perspective, NO borders or edge darkening or vignette, NO text, labels, logos, normal-map purple, no existing square/stud/grid pattern. The game's required square relief normal map is applied separately; do not draw that grid in this color map. Natural clean stylized hand-painted material with crisp controlled details, not a gritty photograph, no damage or dirt. Pattern continues perfectly across opposite edges, density uniform from edge to center. Target1024x1024. Smooth stylized stone: fine softly angular mineral grains and broad quiet flat tonal patches with a few tiny pale speckles. Remove the input's cloudy faux-3D bands, use controlled flat albedo detail. No brickwork, joints, deep cracks, big rock chunks, sharp shadows or black veins. It must suit both colored cliffs and calm painted wall surfaces.",
+      "file": "maps/stone.png",
+      "sha256": "ef1fa560707dfaadfa5da4d827fa691e3d89fb629f1d11a9715b089b0ecfd270",
+      "size_bytes": 1326256,
+      "resolution": [
+        1254,
+        1254
+      ],
+      "mean_rgb": [
+        233.52,
+        233.06,
+        233.0
+      ],
+      "roblox_asset_id": "rbxassetid://85209484825827",
+      "edge_mad": {
+        "left_right": 0.84,
+        "top_bottom": 1.22
+      },
+      "source_file": "art/textures/world-polish-v055/stone.png"
+    },
+    {
+      "id": "grass",
+      "description": "Closely trimmed cartoon grass ground: tiny simplified short blades grouped in loose soft tufts, rounded painterly grassy flecks, sparse small pale soil hints. Small evenly distributed marks. Not tree leaves, not giant blades, no flowers, no pebbles, no prominent long lines, no dark holes.",
+      "prompt": "Use case: stylized-concept. Asset type: production tileable neutral GRAYSCALE diffuse COLOR/ALBEDO texture for a bright blocky Roblox toy world. One full-bleed SQUARE seamless tile, top-down orthographic flat scan of material, filling every pixel. Pale neutral gray values roughly 210..255, average around238; readable but restrained 8-15% local tonal variation, suitable to multiply by existing saturated object colors. Matte even flat illumination, NO directional light, NO shadows, NO 3D scene or perspective, NO borders or edge darkening or vignette, NO text, labels, logos, normal-map purple, no existing square/stud/grid pattern. The game's required square relief normal map is applied separately; do not draw that grid in this color map. Natural clean stylized hand-painted material with crisp controlled details, not a gritty photograph, no damage or dirt. Pattern continues perfectly across opposite edges, density uniform from edge to center. Target1024x1024. Closely trimmed cartoon grass ground: tiny simplified short blades grouped in loose soft tufts, rounded painterly grassy flecks, sparse small pale soil hints. Small evenly distributed marks. Not tree leaves, not giant blades, no flowers, no pebbles, no prominent long lines, no dark holes.",
+      "file": "maps/grass.png",
+      "sha256": "54d7ae8c39619a69bd4c89ecef048e2b986879bbb04389b2f2ea58f7b2f05df3",
+      "size_bytes": 1499968,
+      "resolution": [
+        1254,
+        1254
+      ],
+      "mean_rgb": [
+        226.43,
+        225.96,
+        225.9
+      ],
+      "roblox_asset_id": "rbxassetid://86600307258385",
+      "edge_mad": {
+        "left_right": 2.0,
+        "top_bottom": 2.02
+      },
+      "source_file": "art/textures/world-polish-v055/grass.png"
+    },
+    {
+      "id": "sand",
+      "description": "Fine clean sand: softly flowing very shallow sand ripples with tiny rounded grain stipples, muted low-contrast broad patches. No dunes with cast shadows, footprints, shells, pebbles, cracks, stones or sharp stripes. Readable stylized sandy surface, neutral grayscale without beige tint.",
+      "prompt": "Use case: stylized-concept. Asset type: production tileable neutral GRAYSCALE diffuse COLOR/ALBEDO texture for a bright blocky Roblox toy world. One full-bleed SQUARE seamless tile, top-down orthographic flat scan of material, filling every pixel. Pale neutral gray values roughly 210..255, average around238; readable but restrained 8-15% local tonal variation, suitable to multiply by existing saturated object colors. Matte even flat illumination, NO directional light, NO shadows, NO 3D scene or perspective, NO borders or edge darkening or vignette, NO text, labels, logos, normal-map purple, no existing square/stud/grid pattern. The game's required square relief normal map is applied separately; do not draw that grid in this color map. Natural clean stylized hand-painted material with crisp controlled details, not a gritty photograph, no damage or dirt. Pattern continues perfectly across opposite edges, density uniform from edge to center. Target1024x1024. Fine clean sand: softly flowing very shallow sand ripples with tiny rounded grain stipples, muted low-contrast broad patches. No dunes with cast shadows, footprints, shells, pebbles, cracks, stones or sharp stripes. Readable stylized sandy surface, neutral grayscale without beige tint.",
+      "file": "maps/sand.png",
+      "sha256": "fbe6ceb13bbf69ae8eface5052f51e756711a366d620a82d2f96422ce2505ffa",
+      "size_bytes": 2168656,
+      "resolution": [
+        1254,
+        1254
+      ],
+      "mean_rgb": [
+        224.93,
+        224.61,
+        224.69
+      ],
+      "roblox_asset_id": "rbxassetid://88685326806695",
+      "edge_mad": {
+        "left_right": 3.31,
+        "top_bottom": 3.75
+      },
+      "source_file": "art/textures/world-polish-v055/sand.png"
+    },
+    {
+      "id": "frost",
+      "description": "Clear frosted ice: pale translucent-looking frost wisps and tiny delicate ice grains, a few soft flowing cloudy trails. No cracks, shards, bubbles, glitter highlights, snowballs or blue tint. Calm clean stylized ice albedo, flat and uniformly pale.",
+      "prompt": "Use case: stylized-concept. Asset type: production tileable neutral GRAYSCALE diffuse COLOR/ALBEDO texture for a bright blocky Roblox toy world. One full-bleed SQUARE seamless tile, top-down orthographic flat scan of material, filling every pixel. Pale neutral gray values roughly 210..255, average around238; readable but restrained 8-15% local tonal variation, suitable to multiply by existing saturated object colors. Matte even flat illumination, NO directional light, NO shadows, NO 3D scene or perspective, NO borders or edge darkening or vignette, NO text, labels, logos, normal-map purple, no existing square/stud/grid pattern. The game's required square relief normal map is applied separately; do not draw that grid in this color map. Natural clean stylized hand-painted material with crisp controlled details, not a gritty photograph, no damage or dirt. Pattern continues perfectly across opposite edges, density uniform from edge to center. Target1024x1024. Clear frosted ice: pale translucent-looking frost wisps and tiny delicate ice grains, a few soft flowing cloudy trails. No cracks, shards, bubbles, glitter highlights, snowballs or blue tint. Calm clean stylized ice albedo, flat and uniformly pale.",
+      "file": "maps/frost.png",
+      "sha256": "8449bfa5ad6bf96a2a04d868b644ee0739254895bd9f2b83be4dcdfea8d7338f",
+      "size_bytes": 2042098,
+      "resolution": [
+        1254,
+        1254
+      ],
+      "mean_rgb": [
+        223.54,
+        223.23,
+        223.41
+      ],
+      "roblox_asset_id": "rbxassetid://134498134346881",
+      "edge_mad": {
+        "left_right": 2.33,
+        "top_bottom": 2.67
+      },
+      "source_file": "art/textures/world-polish-v055/frost.png"
+    },
+    {
+      "id": "metal",
+      "description": "Clean satin brushed metal: extremely fine evenly distributed short straight brushing marks along one direction, restrained soft tonal micro variation. No reflection gradient or lighting hot spots, no rivets, panels, diamonds, seams, rust or large scratches. Soft clean toy metal albedo, neutral grayscale.",
+      "prompt": "Use case: stylized-concept. Asset type: production tileable neutral GRAYSCALE diffuse COLOR/ALBEDO texture for a bright blocky Roblox toy world. One full-bleed SQUARE seamless tile, top-down orthographic flat scan of material, filling every pixel. Pale neutral gray values roughly 210..255, average around238; readable but restrained 8-15% local tonal variation, suitable to multiply by existing saturated object colors. Matte even flat illumination, NO directional light, NO shadows, NO 3D scene or perspective, NO borders or edge darkening or vignette, NO text, labels, logos, normal-map purple, no existing square/stud/grid pattern. The game's required square relief normal map is applied separately; do not draw that grid in this color map. Natural clean stylized hand-painted material with crisp controlled details, not a gritty photograph, no damage or dirt. Pattern continues perfectly across opposite edges, density uniform from edge to center. Target1024x1024. Clean satin brushed metal: extremely fine evenly distributed short straight brushing marks along one direction, restrained soft tonal micro variation. No reflection gradient or lighting hot spots, no rivets, panels, diamonds, seams, rust or large scratches. Soft clean toy metal albedo, neutral grayscale.",
+      "file": "maps/metal.png",
+      "sha256": "7f718b049d4702a825a436c2e60a59eddd861bb02115b96187dac8aa673ed38c",
+      "size_bytes": 1600004,
+      "resolution": [
+        1254,
+        1254
+      ],
+      "mean_rgb": [
+        215.91,
+        215.53,
+        215.41
+      ],
+      "roblox_asset_id": "rbxassetid://129418297617131",
+      "edge_mad": {
+        "left_right": 3.66,
+        "top_bottom": 4.82
+      },
+      "source_file": "art/textures/world-polish-v055/metal.png"
+    }
+  ],
+  "reused": {
+    "bark": "rbxassetid://99387544784525",
+    "foliage": "rbxassetid://80297686646822",
+    "normal": "rbxassetid://119928944196293"
+  },
+  "reused_files": {
+    "normal": "materials/square-relief-normal.png",
+    "bark": "textures/magnet-starter-albedos-v045/bark.png",
+    "foliage": "textures/magnet-starter-albedos-v045/foliage.png"
+  },
+  "usage": "Albedo color maps; multiply existing object tint. Normal separate, StudsPerTile2. Not normal/roughness maps.",
+  "verification": "Eight ImageLabels IsLoaded/FetchSuccess in Play; square normal Success;7 real views reviewed; water movement and clear bottom verified. Full geometry/repeat/fresh build checks passed. Every corner/device not tested."
+}
