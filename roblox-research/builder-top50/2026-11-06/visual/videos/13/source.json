@@ -1,0 +1,61 @@
+{
+  "rank": 13,
+  "game": "Break and Steal an Egg",
+  "place_id": "114326934417838",
+  "queried_at_utc": "2026-11-06T18:28:40.166718+00:00",
+  "status": "captured_unreviewed",
+  "clips": [
+    {
+      "start": 45,
+      "duration": 5,
+      "path": "clip-1.mp4",
+      "frames": [
+        "frame-1-01.jpg",
+        "frame-1-02.jpg",
+        "frame-1-03.jpg",
+        "frame-1-04.jpg",
+        "frame-1-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=FMrEyUKGKK0&t=45"
+    },
+    {
+      "start": 341,
+      "duration": 5,
+      "path": "clip-2.mp4",
+      "frames": [
+        "frame-2-01.jpg",
+        "frame-2-02.jpg",
+        "frame-2-03.jpg",
+        "frame-2-04.jpg",
+        "frame-2-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=FMrEyUKGKK0&t=341"
+    },
+    {
+      "start": 635,
+      "duration": 5,
+      "path": "clip-3.mp4",
+      "frames": [
+        "frame-3-01.jpg",
+        "frame-3-02.jpg",
+        "frame-3-03.jpg",
+        "frame-3-04.jpg",
+        "frame-3-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=FMrEyUKGKK0&t=635"
+    }
+  ],
+  "video_id": "FMrEyUKGKK0",
+  "url": "https://www.youtube.com/watch?v=FMrEyUKGKK0",
+  "title": "Starting OVER as NOOB with *NEW* CRAZIEST Egg in Break and Steal an Egg! (Roblox)",
+  "uploader": "xt..",
+  "upload_date": "20261101",
+  "duration": 977,
+  "query": "ytsearch1:Break and Steal an Egg Roblox gameplay",
+  "format_height": 480,
+  "review_status": "sampled_reviewed",
+  "review_file": "../../reviews/13.json"
+}
