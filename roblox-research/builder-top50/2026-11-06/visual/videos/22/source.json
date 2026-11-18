@@ -1,0 +1,51 @@
+{
+  "rank": 22,
+  "game": "🎃 [MINIGAMES] Pet Simulator 99! 👻",
+  "place_id": "8737899170",
+  "queried_at_utc": "2026-11-06T18:34:55.806916+00:00",
+  "status": "captured_unreviewed",
+  "clips": [
+    {
+      "start": 45,
+      "duration": 5,
+      "path": "clip-1.mp4",
+      "frames": [
+        "frame-1-01.jpg",
+        "frame-1-02.jpg",
+        "frame-1-03.jpg",
+        "frame-1-04.jpg",
+        "frame-1-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=YNKOhKhy4as&t=45"
+    },
+    {
+      "start": 287,
+      "status": "failed",
+      "error": "Capture failed; signed media URLs omitted."
+    },
+    {
+      "start": 533,
+      "duration": 5,
+      "path": "clip-3.mp4",
+      "frames": [
+        "frame-3-01.jpg",
+        "frame-3-02.jpg",
+        "frame-3-03.jpg",
+        "frame-3-04.jpg",
+        "frame-3-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=YNKOhKhy4as&t=533"
+    }
+  ],
+  "video_id": "YNKOhKhy4as",
+  "url": "https://www.youtube.com/watch?v=YNKOhKhy4as",
+  "title": "Pet Simulator 99 Gameplay | No Talking/No Commentary | Roblox",
+  "uploader": "Arutik Play",
+  "upload_date": "20240908",
+  "duration": 820,
+  "query": "https://www.youtube.com/watch?v=YNKOhKhy4as",
+  "format_height": 360,
+  "review_status": "sampled_reviewed_supplementary"
+}

@@ -1,0 +1,61 @@
+{
+  "rank": 20,
+  "game": "[UPDATE 5] Attack on Titan Revolution",
+  "place_id": "13379208636",
+  "queried_at_utc": "2026-11-06T18:29:50.128153+00:00",
+  "status": "captured_unreviewed",
+  "clips": [
+    {
+      "start": 45,
+      "duration": 5,
+      "path": "clip-1.mp4",
+      "frames": [
+        "frame-1-01.jpg",
+        "frame-1-02.jpg",
+        "frame-1-03.jpg",
+        "frame-1-04.jpg",
+        "frame-1-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=eH3eHS970yI&t=45"
+    },
+    {
+      "start": 598,
+      "duration": 5,
+      "path": "clip-2.mp4",
+      "frames": [
+        "frame-2-01.jpg",
+        "frame-2-02.jpg",
+        "frame-2-03.jpg",
+        "frame-2-04.jpg",
+        "frame-2-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=eH3eHS970yI&t=598"
+    },
+    {
+      "start": 1112,
+      "duration": 5,
+      "path": "clip-3.mp4",
+      "frames": [
+        "frame-3-01.jpg",
+        "frame-3-02.jpg",
+        "frame-3-03.jpg",
+        "frame-3-04.jpg",
+        "frame-3-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=eH3eHS970yI&t=1112"
+    }
+  ],
+  "video_id": "eH3eHS970yI",
+  "url": "https://www.youtube.com/watch?v=eH3eHS970yI",
+  "title": "Going From Noob To Pro In Roblox Attack On Titan Revolution",
+  "uploader": "OMEGA EX ",
+  "upload_date": "20240721",
+  "duration": 1711,
+  "query": "ytsearch1:Attack on Titan Revolution Roblox gameplay",
+  "format_height": 480,
+  "review_status": "sampled_reviewed",
+  "review_file": "../../reviews/20.json"
+}
