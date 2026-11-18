@@ -1,0 +1,31 @@
+{
+  "rank": 9,
+  "source_url": "https://www.youtube.com/watch?v=XBd6F-rIEhY",
+  "source_title": "First Time Playing Steal A Brainrot in ROBLOX 😱 | Buying, Protecting & Stealing Brainrots",
+  "source_upload_date": "20260201",
+  "source_uploader": "GenZ Stories",
+  "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+  "sample_ranges_seconds": [
+    [
+      45,
+      50
+    ],
+    [
+      538,
+      543
+    ],
+    [
+      1000,
+      1005
+    ]
+  ],
+  "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+  "map_observations": "Повторяющиеся прямоугольные базы с рядами слотов по краям и центральным цветным проходом; вход закрывается видимыми лучевыми решётками.",
+  "ui_observations": "Мобильный joystick/прыжок, Shop/Index/Rebirth слева, валюта снизу; у персонажей взаимодействия Grab/Sell и подписи дохода/цены; подсказка обучения сверху.",
+  "animation_observations": "Аватар перемещается с битой, прыгает и замахивается; при активации замка появляется решётка и отсчёт.",
+  "implementation_lesson": "Кража/перенос, продажа, сбор дохода и закрытие базы должны иметь разные серверные действия и доступные в текущем состоянии контекстные кнопки.",
+  "limits": "Просмотрена запись начинающего игрока на мобильном устройстве; редкие способности и полный каталог не просмотрены.",
+  "coverage": "sampled_visual_review_not_exhaustive",
+  "client_playtest": false,
+  "evidence_directory": "videos/09"
+}

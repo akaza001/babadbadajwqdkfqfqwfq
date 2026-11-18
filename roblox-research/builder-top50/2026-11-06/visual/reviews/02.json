@@ -1,0 +1,31 @@
+{
+  "rank": 2,
+  "source_url": "https://www.youtube.com/watch?v=uw07g1uWFgs",
+  "source_title": "I Took Roleplay SERIOUSLY in ROBLOX BrookHaven 🏡RP",
+  "source_upload_date": "20231229",
+  "source_uploader": "Vindooly",
+  "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+  "sample_ranges_seconds": [
+    [
+      45,
+      50
+    ],
+    [
+      208,
+      213
+    ],
+    [
+      388,
+      393
+    ]
+  ],
+  "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+  "map_observations": "Городская сетка дорог с разметкой, тротуарами, витринами и малоэтажными зданиями; отдельные лесистые/склоновые участки.",
+  "ui_observations": "Справа вертикальные пиктограммы эмоций, внешности, вещей, транспорта и дома; контекстная панель выбранного предмета внизу. Имена персонажей находятся над аватарами.",
+  "animation_observations": "Смена стояния на посадку в автомобиль и передвижение машины; виден бег с предметом в руке. Чёрно-белые вставки и увеличение лица — монтаж автора записи.",
+  "implementation_lesson": "Хранить постоянную навигацию по системам отдельно от контекстных действий реквизита; поза сидения должна следовать транспорту.",
+  "limits": "Просмотрены три коротких фрагмента записи, не все экраны и не весь мир. Тайминги и устройство рига не измерены.",
+  "coverage": "sampled_visual_review_not_exhaustive",
+  "client_playtest": false,
+  "evidence_directory": "videos/02"
+}

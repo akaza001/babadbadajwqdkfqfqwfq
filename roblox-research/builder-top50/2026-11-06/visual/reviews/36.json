@@ -1,0 +1,64 @@
+{
+  "rank": 36,
+  "source_url": "https://www.youtube.com/watch?v=MOPMLEvibQo",
+  "source_title": "Roblox LifeTogether RP: PS4/PS5 Controls Guide Tutorial! (How to Play)",
+  "source_upload_date": "20260526",
+  "source_uploader": "VVaby",
+  "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+  "evidence_directory": "supplemental/36",
+  "sample_ranges_seconds": [
+    [
+      8,
+      13
+    ],
+    [
+      28,
+      33
+    ],
+    [
+      52,
+      57
+    ]
+  ],
+  "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+  "map_observations": "Яркий городской перекрёсток с пешеходной разметкой, светофорами и низкими магазинами; рядом появляется автомобиль.",
+  "ui_observations": "Справа интерфейс телефона с сеткой приложений, отдельными Settings и Contacts; рядом три круглых системных раздела. В системном меню показаны кнопки геймпада.",
+  "animation_observations": "Аватар стоит/разворачивается на улице; телефон открывается поверх мира и переключает приложения. Анимации предметов дополнительно видны в первой RP-записи.",
+  "implementation_lesson": "Телефон реализовывать как навигатор независимых приложений с общим back/home; отдельно проверять фокус геймпада и возврат управления персонажем.",
+  "limits": "Источник снят камерой с консоли PS4/PS5; мелкий текст размыт. Это проверка консольного UI, не точная схема интерфейса всех платформ.",
+  "coverage": "sampled_visual_review_not_exhaustive",
+  "client_playtest": false,
+  "additional_reviews": [
+    {
+      "rank": 36,
+      "source_url": "https://www.youtube.com/watch?v=s9PZbuOqMIs",
+      "source_title": "I SURPRISED My Family With A Trip To Bora Bora! 🌴✈️ | Roblox LifeTogether RP",
+      "source_upload_date": "20260709",
+      "source_uploader": "BangBarbieRP",
+      "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+      "sample_ranges_seconds": [
+        [
+          45,
+          50
+        ],
+        [
+          185,
+          190
+        ],
+        [
+          343,
+          348
+        ]
+      ],
+      "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+      "map_observations": "В постановочной семейной сцене видны современная гостиная, гараж с автомобилем и супермаркет с отделами/кассами.",
+      "ui_observations": "HUD скрыт; текст Cleaning/Hygiene/Meats расположен на вывесках внутри мира. Телефон/системные окна этой записью не подтверждены.",
+      "animation_observations": "Персонажи жестикулируют, несут ребёнка и корзину; при ходьбе сохраняется поза переноски.",
+      "implementation_lesson": "Для RP-реквизита нужны позиции хвата и анимационный слой переноски, работающий одновременно с ногами; постановочная сцена не доказывает UI игры.",
+      "limits": "Запись семейного RP с монтажом и скрытым HUD; для интерфейса нужен дополнительный источник.",
+      "coverage": "sampled_visual_review_not_exhaustive",
+      "client_playtest": false,
+      "evidence_directory": "videos/36"
+    }
+  ]
+}

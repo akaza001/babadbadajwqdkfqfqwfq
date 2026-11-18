@@ -1,0 +1,31 @@
+{
+  "rank": 24,
+  "source_url": "https://www.youtube.com/watch?v=q91Nk37PUoY",
+  "source_title": "UNDERCOVER IN RANKED Illegal Soccer Roblox",
+  "source_upload_date": "20261030",
+  "source_uploader": "Cstarling",
+  "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+  "sample_ranges_seconds": [
+    [
+      45,
+      50
+    ],
+    [
+      336,
+      341
+    ],
+    [
+      624,
+      629
+    ]
+  ],
+  "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+  "map_observations": "Размеченное футбольное поле с крупными цветными воротами; меняется тематическое окружение, форма игрового поля сохраняется.",
+  "ui_observations": "Счёт и таймер сверху, шкала/навыки снизу, список кнопок управления справа; команды различимы цветом.",
+  "animation_observations": "Видны ведение/перемещение мяча, прыжок/рывок персонажа, синий направленный эффект при действии; камера следует за игроком.",
+  "implementation_lesson": "Логику мяча и правил матча отделять от декора арены и навыков; состояние владения должно сохранять читаемость при эффектах.",
+  "limits": "Просмотрены три коротких фрагмента записи, не все экраны и не весь мир. Тайминги и устройство рига не измерены.",
+  "coverage": "sampled_visual_review_not_exhaustive",
+  "client_playtest": false,
+  "evidence_directory": "videos/24"
+}

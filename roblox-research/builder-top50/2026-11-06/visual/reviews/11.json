@@ -1,0 +1,31 @@
+{
+  "rank": 11,
+  "source_url": "https://www.youtube.com/watch?v=TbY5OLOR92s",
+  "source_title": "DON'T SPLASH - ROBLOX - Solo Full Gameplay",
+  "source_upload_date": "20261026",
+  "source_uploader": "RukZGamer",
+  "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+  "sample_ranges_seconds": [
+    [
+      45,
+      50
+    ],
+    [
+      508,
+      513
+    ],
+    [
+      945,
+      950
+    ]
+  ],
+  "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+  "map_observations": "Разреженные жёлтые плиточные платформы над зелёной водой, низкая видимость в тумане; отдельные узкие и наклонные переходы.",
+  "ui_observations": "Минимальный HUD: таймер сверху, PUSH и валюта слева снизу, маленький слот предмета снизу по центру.",
+  "animation_observations": "Последовательные кадры показывают прыжки/перемещение камеры над разрывами; механическая сущность меняет положение у платформ; в позднем фрагменте видна рука с оружием от первого лица.",
+  "implementation_lesson": "Для хоррор-паркура прежде декора проверять читаемость края и дистанции прыжка в тумане; UI оставлять вне центрального поля опасности.",
+  "limits": "Просмотрены три коротких фрагмента записи, не все экраны и не весь мир. Тайминги и устройство рига не измерены.",
+  "coverage": "sampled_visual_review_not_exhaustive",
+  "client_playtest": false,
+  "evidence_directory": "videos/11"
+}

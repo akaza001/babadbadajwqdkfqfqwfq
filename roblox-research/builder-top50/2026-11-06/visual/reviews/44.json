@@ -1,0 +1,31 @@
+{
+  "rank": 44,
+  "source_url": "https://www.youtube.com/watch?v=08eRSSa1RdI",
+  "source_title": "[NEW LIVE] +1 Speed Keyboard Escape #roblox",
+  "source_upload_date": "20261106",
+  "source_uploader": "OCIT CRAFT",
+  "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+  "sample_ranges_seconds": [
+    [
+      45,
+      50
+    ],
+    [
+      1510,
+      1515
+    ],
+    [
+      2806,
+      2811
+    ]
+  ],
+  "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+  "map_observations": "Длинная дорожка из клавиш с разрывами, отдельными платформами и проходами/порталами; разные этапы используют коричневую и розовую темы.",
+  "ui_observations": "Показатель скорости и прироста снизу, ряд крупных усилений/покупок; сверху счётчик/полоса, в мире рекомендации уровня.",
+  "animation_observations": "Персонаж бежит и перепрыгивает разрывы; за ним сохраняется длинный световой след.",
+  "implementation_lesson": "Для растущей скорости пересчитывать испытания и камеру, проверять прыжки и приземления на крайних множителях; не полагаться на ручной playtest только начальной скорости.",
+  "limits": "Источник — вертикальная live-запись с низкой читаемостью мелких надписей. Точные названия кнопок/анимационные тайминги не подтверждены.",
+  "coverage": "sampled_visual_review_not_exhaustive",
+  "client_playtest": false,
+  "evidence_directory": "videos/44"
+}

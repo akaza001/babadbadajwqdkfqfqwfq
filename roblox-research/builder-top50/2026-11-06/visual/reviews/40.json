@@ -1,0 +1,31 @@
+{
+  "rank": 40,
+  "source_url": "https://www.youtube.com/watch?v=C3LJDYoRSQI",
+  "source_title": "Using 1% Grim Fryer Class To Troll My Friends in Sell Fries...",
+  "source_upload_date": "20261024",
+  "source_uploader": "Dash Roblox",
+  "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+  "evidence_directory": "supplemental/40",
+  "sample_ranges_seconds": [
+    [
+      45,
+      50
+    ],
+    [
+      394,
+      399
+    ],
+    [
+      733,
+      738
+    ]
+  ],
+  "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+  "map_observations": "Кухня/производственный зал с конвейером, рабочими станциями и запасом картофеля; снаружи площадка доставки с огромной кучей сырья.",
+  "ui_observations": "Classes/Storage и выбранный класс в отдельном экране; в игре время суток сверху справа, Potatoes used сверху, валюта/баффы слева; вместимость пылесоса, горячие слоты, Use fryer и полосы Peeling у станций.",
+  "animation_observations": "Картофель перемещается по ленте/подбирается инструментом, счётчик заполнения меняется, очистка увеличивает процент; переноска инструмента сохраняется при движении.",
+  "implementation_lesson": "Производственный процесс моделировать состояниями сырья и занятой станции; ручной инструмент, конвейер и автоматические помощники должны обращаться к одному учёту предметов.",
+  "limits": "Источник показывает редкий Grim Fryer, поэтому его способность/бонусы не переносить на стандартный класс; ночная опасность в выбранные отрывки не попала.",
+  "coverage": "sampled_visual_review_not_exhaustive",
+  "client_playtest": false
+}

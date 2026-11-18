@@ -1,0 +1,31 @@
+{
+  "rank": 42,
+  "source_url": "https://www.youtube.com/watch?v=3Otkov2a7cU",
+  "source_title": "Going From NOOB To PRO In Anime Dice! (Roblox)",
+  "source_upload_date": "20261020",
+  "source_uploader": "PhoenixVids",
+  "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+  "evidence_directory": "supplemental/42",
+  "sample_ranges_seconds": [
+    [
+      45,
+      50
+    ],
+    [
+      818,
+      823
+    ],
+    [
+      1519,
+      1524
+    ]
+  ],
+  "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+  "map_observations": "Яркая база с подиумами персонажей, отдельными станциями Traits/Quirks и хабом.",
+  "ui_observations": "Hub/Home/Shop сверху, Roll/Backpack/Upgrades снизу; у подиумов доход/цена; Traits показывает текущий trait, вероятности, предупреждение замены и Roll/Auto Roll; выбор юнита — сетка с tooltip.",
+  "animation_observations": "Раскрытие результата приближает персонажа на фон с лучами и подписью редкости; при reroll меняются название/иконка trait. Переходы Quirks и Traits визуально различимы.",
+  "implementation_lesson": "Базовые характеристики, trait и quirk хранить как разные поля экземпляра; UI должен предупреждать замену и явно показывать область действия модификатора.",
+  "limits": "Показан продвинутый прогресс и сезонные бонусы; полный стартовый onboarding и реальный офлайн-доход не проверены.",
+  "coverage": "sampled_visual_review_not_exhaustive",
+  "client_playtest": false
+}

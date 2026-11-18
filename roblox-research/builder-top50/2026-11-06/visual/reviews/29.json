@@ -1,0 +1,31 @@
+{
+  "rank": 29,
+  "source_url": "https://www.youtube.com/watch?v=8X5IxDhoVEg",
+  "source_title": "I Went from NOOB to GLOBAL AURA in Sol's RNG!! | FULL MOVIE",
+  "source_upload_date": "20251013",
+  "source_uploader": "Solaris",
+  "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+  "sample_ranges_seconds": [
+    [
+      45,
+      50
+    ],
+    [
+      641,
+      646
+    ],
+    [
+      1192,
+      1197
+    ]
+  ],
+  "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+  "map_observations": "Зелёный ступенчатый хаб с деревьями, мастерской, мостом и контрастной светящейся областью.",
+  "ui_observations": "Inventory с превью/ячейками, отдельное Aura Storage, Jake workshop с материалами и Craft/Auto; Roll снизу по центру, системные разделы вертикально слева.",
+  "animation_observations": "Аура светится вокруг аватара; перед результатом roll сцена затемняется и появляется центральная звезда/свечение.",
+  "implementation_lesson": "Отделять хранение аур, расходники и крафт; раскрытие случайного результата оформлять отдельным состоянием без потери управления основной коллекцией.",
+  "limits": "Часть кадров показывает только начало раскрытия; финальные тайминги, вероятность и переход после него не подтверждены.",
+  "coverage": "sampled_visual_review_not_exhaustive",
+  "client_playtest": false,
+  "evidence_directory": "videos/29"
+}

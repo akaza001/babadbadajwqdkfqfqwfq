@@ -1,0 +1,31 @@
+{
+  "rank": 28,
+  "source_url": "https://www.youtube.com/watch?v=ej6a3I9J_Ko",
+  "source_title": "Tower Defense Simulator Gameplay No Commentary",
+  "source_upload_date": "20250827",
+  "source_uploader": "Cyan and Lime Studios",
+  "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+  "sample_ranges_seconds": [
+    [
+      45,
+      50
+    ],
+    [
+      502,
+      507
+    ],
+    [
+      932,
+      937
+    ]
+  ],
+  "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+  "map_observations": "Пустынная карта с извилистой дорожкой врагов; башни расставлены рядом с ней, от выбранной башни видна окружность дальности. Отдельно хаб/голосование карты.",
+  "ui_observations": "Inventory с категориями/сортировкой и Equip; Ready/Veto перед стартом; Base Health сверху, волна, бюджет/слоты внизу; панель выбранного юнита со статами, target priority, upgrade и sell.",
+  "animation_observations": "Противники продвигаются по пути, башни поворачиваются/стреляют; после волны появляется Wave Reward. У выбранного юнита изменяется уровень/набор параметров.",
+  "implementation_lesson": "Разместить юнита, выбрать, улучшить и продать — разные операции; радиус и tooltip строить из того же конфига, что использует сервер. Проверять UI на сенсорном устройстве.",
+  "limits": "Данные относятся к загруженной версии/дате видео, не подтверждают все текущие режимы и сезонные карты.",
+  "coverage": "sampled_visual_review_not_exhaustive",
+  "client_playtest": false,
+  "evidence_directory": "videos/28"
+}

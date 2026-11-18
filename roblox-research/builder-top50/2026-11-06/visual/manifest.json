@@ -1,0 +1,313 @@
+{
+  "reviewed_positions": 50,
+  "exhaustively_reviewed_positions": 0,
+  "client_playtests": 0,
+  "official_promo_games": 50,
+  "official_promo_images": 172,
+  "saved_gameplay_frames": 910,
+  "selected_sources": [
+    {
+      "rank": 1,
+      "url": "https://www.youtube.com/watch?v=kMGzsqBMqOs",
+      "directory": "videos/01",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 2,
+      "url": "https://www.youtube.com/watch?v=uw07g1uWFgs",
+      "directory": "videos/02",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 3,
+      "url": "https://www.youtube.com/watch?v=Ut7RPXezaRA",
+      "directory": "videos/03",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 4,
+      "url": "https://www.youtube.com/watch?v=OHhKQ5IaTM0",
+      "directory": "videos/04",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 5,
+      "url": "https://www.youtube.com/watch?v=yJ7mMhhnSOg",
+      "directory": "videos/05",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 6,
+      "url": "https://www.youtube.com/watch?v=6ewHoboQx6w",
+      "directory": "videos/06",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 7,
+      "url": "https://www.youtube.com/watch?v=MSCzWIi4vzc",
+      "directory": "videos/07",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 8,
+      "url": "https://www.youtube.com/watch?v=V4BMGT0Tukw",
+      "directory": "videos/08",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 9,
+      "url": "https://www.youtube.com/watch?v=XBd6F-rIEhY",
+      "directory": "videos/09",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 10,
+      "url": "https://www.youtube.com/watch?v=VTjEwOHBxDo",
+      "directory": "videos/10",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 11,
+      "url": "https://www.youtube.com/watch?v=TbY5OLOR92s",
+      "directory": "videos/11",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 12,
+      "url": "https://www.youtube.com/watch?v=hv72hrsWooM",
+      "directory": "videos/12",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 13,
+      "url": "https://www.youtube.com/watch?v=FMrEyUKGKK0",
+      "directory": "videos/13",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 14,
+      "url": "https://www.youtube.com/watch?v=tS7mxubWg04",
+      "directory": "videos/14",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 15,
+      "url": "https://www.youtube.com/watch?v=9jMB-_vD4eQ",
+      "directory": "videos/15",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 16,
+      "url": "https://www.youtube.com/watch?v=8_NiTg71vec",
+      "directory": "videos/16",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 17,
+      "url": "https://www.youtube.com/watch?v=dDvLy8yBPZs",
+      "directory": "videos/17",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 18,
+      "url": "https://www.youtube.com/watch?v=grs_0-bE6Wc",
+      "directory": "videos/18",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 19,
+      "url": "https://www.youtube.com/watch?v=bRZx5egSQRI",
+      "directory": "supplemental/19",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 20,
+      "url": "https://www.youtube.com/watch?v=eH3eHS970yI",
+      "directory": "videos/20",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 21,
+      "url": "https://www.youtube.com/watch?v=9BK6__xrmtA",
+      "directory": "videos/21",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 22,
+      "url": "https://www.youtube.com/watch?v=W6ElOboBYps",
+      "directory": "supplemental/22",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 23,
+      "url": "https://www.youtube.com/watch?v=h37Pb3CtXls",
+      "directory": "videos/23",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 24,
+      "url": "https://www.youtube.com/watch?v=q91Nk37PUoY",
+      "directory": "videos/24",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 25,
+      "url": "https://www.youtube.com/watch?v=k_bosrHK4Wk",
+      "directory": "videos/25",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 26,
+      "url": "https://www.youtube.com/watch?v=NePFOpH_zFI",
+      "directory": "videos/26",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 27,
+      "url": "https://www.youtube.com/watch?v=G9vjyuFlHzo",
+      "directory": "videos/27",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 28,
+      "url": "https://www.youtube.com/watch?v=ej6a3I9J_Ko",
+      "directory": "videos/28",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 29,
+      "url": "https://www.youtube.com/watch?v=8X5IxDhoVEg",
+      "directory": "videos/29",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 30,
+      "url": "https://www.youtube.com/watch?v=55ZxMWJsVIw",
+      "directory": "supplemental/30",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 31,
+      "url": "https://www.youtube.com/watch?v=ObcrsnBdXUs",
+      "directory": "videos/31",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 32,
+      "url": "https://www.youtube.com/watch?v=rPtLmsztonY",
+      "directory": "supplemental/32",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 33,
+      "url": "https://www.youtube.com/watch?v=L80F8eKg0zs",
+      "directory": "videos/33",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 34,
+      "url": "https://www.youtube.com/watch?v=by8ERPAXJzA",
+      "directory": "videos/34",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 35,
+      "url": "https://www.youtube.com/watch?v=Ap7WLhQ7ocE",
+      "directory": "videos/35",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 36,
+      "url": "https://www.youtube.com/watch?v=MOPMLEvibQo",
+      "directory": "supplemental/36",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 37,
+      "url": "https://www.youtube.com/watch?v=IorbilFg0C4",
+      "directory": "videos/37",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 38,
+      "url": "https://www.youtube.com/watch?v=XYKCJjKETbA",
+      "directory": "videos/38",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 39,
+      "url": "https://www.youtube.com/watch?v=sC-Afz9FGa0",
+      "directory": "supplemental/39",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 40,
+      "url": "https://www.youtube.com/watch?v=C3LJDYoRSQI",
+      "directory": "supplemental/40",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 41,
+      "url": "https://www.youtube.com/watch?v=aX1VjQEyhq0",
+      "directory": "supplemental/41",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 42,
+      "url": "https://www.youtube.com/watch?v=3Otkov2a7cU",
+      "directory": "supplemental/42",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 43,
+      "url": "https://www.youtube.com/watch?v=dbzWAawMC-o",
+      "directory": "videos/43",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 44,
+      "url": "https://www.youtube.com/watch?v=08eRSSa1RdI",
+      "directory": "videos/44",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 45,
+      "url": "https://www.youtube.com/watch?v=2h8PX0fBqXo",
+      "directory": "videos/45",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 46,
+      "url": "https://www.youtube.com/watch?v=JedZyiWKVZk",
+      "directory": "videos/46",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 47,
+      "url": "https://www.youtube.com/watch?v=qfcUct1pKmU",
+      "directory": "videos/47",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 48,
+      "url": "https://www.youtube.com/watch?v=3EyqyJf5ONA",
+      "directory": "videos/48",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 49,
+      "url": "https://www.youtube.com/watch?v=ZQu1TJvmTj8",
+      "directory": "videos/49",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    },
+    {
+      "rank": 50,
+      "url": "https://www.youtube.com/watch?v=UoCqLuJJ23A",
+      "directory": "videos/50",
+      "coverage": "sampled_visual_review_not_exhaustive"
+    }
+  ],
+  "provisional_identity_ranks": [
+    27
+  ]
+}

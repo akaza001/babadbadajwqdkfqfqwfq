@@ -1,0 +1,31 @@
+{
+  "rank": 21,
+  "source_url": "https://www.youtube.com/watch?v=9BK6__xrmtA",
+  "source_title": "A Top 1% Looper in Violence District...",
+  "source_upload_date": "20261106",
+  "source_uploader": "Ivri",
+  "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+  "sample_ranges_seconds": [
+    [
+      45,
+      50
+    ],
+    [
+      353,
+      358
+    ],
+    [
+      656,
+      661
+    ]
+  ],
+  "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+  "map_observations": "Замкнутые технические помещения, коридоры, ящики и дверные проёмы с паллетами; укрытия и обходы образуют короткие петли.",
+  "ui_observations": "Состояния команды и портреты снизу слева, предмет и число зарядов над ними; perk-иконки снизу справа; DROP PALLET появляется рядом с доступным препятствием.",
+  "animation_observations": "Выживший бежит вокруг препятствия, камера оборачивается к преследователю; паллета используется в погоне. Точный момент оглушения и анимация атак не различимы.",
+  "implementation_lesson": "Интерактивное препятствие должно иметь серверное состояние и контекстную подсказку; маршруты погони проверять с обеих ролей, а не только свободной камерой.",
+  "limits": "Просмотрены три коротких фрагмента записи, не все экраны и не весь мир. Тайминги и устройство рига не измерены.",
+  "coverage": "sampled_visual_review_not_exhaustive",
+  "client_playtest": false,
+  "evidence_directory": "videos/21"
+}

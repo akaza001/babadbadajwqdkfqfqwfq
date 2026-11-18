@@ -1,0 +1,31 @@
+{
+  "rank": 16,
+  "source_url": "https://www.youtube.com/watch?v=8_NiTg71vec",
+  "source_title": "The Start To Get EVERY Rod.",
+  "source_upload_date": "20260304",
+  "source_uploader": "typxl",
+  "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+  "sample_ranges_seconds": [
+    [
+      45,
+      50
+    ],
+    [
+      260,
+      265
+    ],
+    [
+      483,
+      488
+    ]
+  ],
+  "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+  "map_observations": "Береговые площадки/причалы с водой, отдельные тёмные локации и NPC-задания у скал.",
+  "ui_observations": "Рыболовный индикатор с полосой внизу, hotbar, уровень/валюта; центральные сообщения модификатора улова и трекер задания с количеством справа сверху.",
+  "animation_observations": "Удочка поднимается над плечом при ловле; после действия показывается сообщение пойманной рыбы. Изменение enchant-модификаторов оформлено крупной надписью.",
+  "implementation_lesson": "Рыболовный цикл разбить на заброс/ожидание/мини-игру/награду, интерфейс условий снасти отделить от краткого результата.",
+  "limits": "В записи есть монтажные объяснения и быстрые переходы прогресса; точные параметры мини-игры не измерены.",
+  "coverage": "sampled_visual_review_not_exhaustive",
+  "client_playtest": false,
+  "evidence_directory": "videos/16"
+}

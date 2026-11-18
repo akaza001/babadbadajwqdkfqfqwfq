@@ -1,0 +1,31 @@
+{
+  "rank": 26,
+  "source_url": "https://www.youtube.com/watch?v=NePFOpH_zFI",
+  "source_title": "Can I Go From Noob to Pro in Volleyball Legends?",
+  "source_upload_date": "20250715",
+  "source_uploader": "NickGlush",
+  "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+  "sample_ranges_seconds": [
+    [
+      45,
+      50
+    ],
+    [
+      381,
+      386
+    ],
+    [
+      707,
+      712
+    ]
+  ],
+  "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+  "map_observations": "Размеченная волейбольная площадка с сеткой в центре, трибунами и свободной зоной вокруг границ.",
+  "ui_observations": "HOME/AWAY и счёт сверху, таймер подачи, зелёные сообщения подачи/очка; кнопки действий снизу меняются между BUMP/SET/DIVE и SPIKE/BLOCK/SET.",
+  "animation_observations": "Мяч летит с читаемым маркером; игроки перемещаются и выполняют контактные действия; после очка меняются счёт и состояние подачи.",
+  "implementation_lesson": "Нужны контекстные наборы действий по фазе матча/положению игрока; анимация контакта должна соответствовать серверной обработке мяча.",
+  "limits": "Просмотрены три коротких фрагмента записи, не все экраны и не весь мир. Тайминги и устройство рига не измерены.",
+  "coverage": "sampled_visual_review_not_exhaustive",
+  "client_playtest": false,
+  "evidence_directory": "videos/26"
+}

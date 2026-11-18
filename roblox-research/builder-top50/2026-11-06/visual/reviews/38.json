@@ -1,0 +1,31 @@
+{
+  "rank": 38,
+  "source_url": "https://www.youtube.com/watch?v=XYKCJjKETbA",
+  "source_title": "THE CANDY VAULT В DOORS, НО ЕСЛИ БЫ ОН БЫЛ ОЗВУЧЕН НА РУССКОМ!",
+  "source_upload_date": "20261104",
+  "source_uploader": "YARIK_PLAY",
+  "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+  "sample_ranges_seconds": [
+    [
+      25,
+      30
+    ],
+    [
+      90,
+      95
+    ],
+    [
+      168,
+      173
+    ]
+  ],
+  "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+  "map_observations": "Ночной сад с ограждениями и фонарями, деревянная резная дверь и тёплый интерьер особняка с лестницей/гостиничной тележкой.",
+  "ui_observations": "Мобильные действия справа, предмет/слот снизу, валюты/счётчики сверху справа; реплики персонажа внизу.",
+  "animation_observations": "Камера от первого лица приближается к двери и проходит в помещение; свет/темнота и появляющиеся цветные надписи меняют восприятие опасности.",
+  "implementation_lesson": "Для хоррора разделять игровой сигнал опасности, реплики и декор; двери/сцены должны синхронизировать переход камеры и доступное действие.",
+  "limits": "Это сезонный Candy Vault с авторской русской озвучкой/субтитрами; локализацию автора нельзя считать официальным UI, базовый Hotel этим не покрыт.",
+  "coverage": "sampled_visual_review_not_exhaustive",
+  "client_playtest": false,
+  "evidence_directory": "videos/38"
+}

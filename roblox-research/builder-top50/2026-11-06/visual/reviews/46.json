@@ -1,0 +1,31 @@
+{
+  "rank": 46,
+  "source_url": "https://www.youtube.com/watch?v=JedZyiWKVZk",
+  "source_title": "Noob to Master in Huss Valley Noob to Pro!",
+  "source_upload_date": "20261013",
+  "source_uploader": "JONA G.",
+  "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+  "sample_ranges_seconds": [
+    [
+      45,
+      50
+    ],
+    [
+      379,
+      384
+    ],
+    [
+      704,
+      709
+    ]
+  ],
+  "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+  "map_observations": "Широкое почти пустое поле с явной белой линией безопасной стороны; отдельная площадка лобби с магазином/таблицами.",
+  "ui_observations": "Команда RUN/Reach opposite safe side и сообщения безопасности сверху; расходники снизу, валюты слева; итоговое окно победителя с XP, уровнем и наградами; магазин по вкладкам.",
+  "animation_observations": "Игроки перебегают поле и меняют направление; достижение линии даёт safety-сообщение, итог раунда сменяется ожиданием следующего.",
+  "implementation_lesson": "Состояния runner/chaser/safe и пересечение линии должны вычисляться сервером; результат матча и выдачу XP делать один раз на matchId.",
+  "limits": "Просмотрены три коротких фрагмента записи, не все экраны и не весь мир. Тайминги и устройство рига не измерены.",
+  "coverage": "sampled_visual_review_not_exhaustive",
+  "client_playtest": false,
+  "evidence_directory": "videos/46"
+}

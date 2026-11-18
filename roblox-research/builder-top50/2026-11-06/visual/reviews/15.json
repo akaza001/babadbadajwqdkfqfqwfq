@@ -1,0 +1,31 @@
+{
+  "rank": 15,
+  "source_url": "https://www.youtube.com/watch?v=9jMB-_vD4eQ",
+  "source_title": "Playing DRESS TO IMPRESS Until I Hit SUPERNOVA!! | 3 (Roblox)",
+  "source_upload_date": "20250904",
+  "source_uploader": "pixiiuwu",
+  "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+  "sample_ranges_seconds": [
+    [
+      45,
+      50
+    ],
+    [
+      363,
+      368
+    ],
+    [
+      674,
+      679
+    ]
+  ],
+  "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+  "map_observations": "Светлый салон с отдельными станциями внешности, зеркалами, колоннами, растениями и проходами между секциями.",
+  "ui_observations": "Розовые сетки выбора макияжа/вещей; Wheel/Palette/Patterns, RGB и HEX, превью на аватаре; Wearing показывает надетые слои. Тема и таймер сверху.",
+  "animation_observations": "При выборе меняется цвет губ/элемента одежды на превью; аватар ходит по залу и принимает позу. Анимация подиума в этих трёх фрагментах не показана.",
+  "implementation_lesson": "Для кастомизации нужен явный выбранный слой и отдельные данные цвета/узора; превью должно обновлять только редактируемый элемент, сохраняя остальные.",
+  "limits": "Просмотрены три коротких фрагмента записи, не все экраны и не весь мир. Тайминги и устройство рига не измерены.",
+  "coverage": "sampled_visual_review_not_exhaustive",
+  "client_playtest": false,
+  "evidence_directory": "videos/15"
+}

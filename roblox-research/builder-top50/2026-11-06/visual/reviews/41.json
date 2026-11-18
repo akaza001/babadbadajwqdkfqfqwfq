@@ -1,0 +1,31 @@
+{
+  "rank": 41,
+  "source_url": "https://www.youtube.com/watch?v=aX1VjQEyhq0",
+  "source_title": "صيد الضبان 🦎 #2 : لقيت مكان نادر جدا جدا !! 🤩✨ #روبلوكس   #roblox #",
+  "source_upload_date": "20261028",
+  "source_uploader": "TURKYOFF - تركوف",
+  "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+  "evidence_directory": "supplemental/41",
+  "sample_ranges_seconds": [
+    [
+      45,
+      50
+    ],
+    [
+      494,
+      499
+    ],
+    [
+      919,
+      924
+    ]
+  ],
+  "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+  "map_observations": "Пустынный посёлок с пальмами, традиционными зданиями, магазином оружия и пикапом; видна смена дневного и ночного освещения.",
+  "ui_observations": "Крупная круглая minimap слева, задания/таймер сверху, боковые системные пиктограммы; у машины/продавца контекстное взаимодействие; магазин и стандартное окно покупки Roblox.",
+  "animation_observations": "Аватар ходит/бежит у машины и к прилавку; открытие диалога/магазина меняет режим интерфейса. Охота и движение ящериц в отрывки не попали.",
+  "implementation_lesson": "Для открытого мира разнести карту/задачи, взаимодействия транспорта и магазина; животных исследовать дополнительным охотничьим эпизодом, не выводить их риг из описания.",
+  "limits": "Название/источник на арабском, мелкие параметры не переведены по догадке. Эта выборка не покрывает основной цикл ловли животных.",
+  "coverage": "sampled_visual_review_not_exhaustive",
+  "client_playtest": false
+}

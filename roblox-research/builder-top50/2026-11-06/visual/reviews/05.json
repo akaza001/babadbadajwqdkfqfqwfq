@@ -1,0 +1,31 @@
+{
+  "rank": 5,
+  "source_url": "https://www.youtube.com/watch?v=yJ7mMhhnSOg",
+  "source_title": "STARTING FROM SCRATCH IN ADOPT ME... Part 1",
+  "source_upload_date": "20260503",
+  "source_uploader": "Alaska Violet",
+  "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+  "sample_ranges_seconds": [
+    [
+      45,
+      50
+    ],
+    [
+      466,
+      471
+    ],
+    [
+      865,
+      870
+    ]
+  ],
+  "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+  "map_observations": "Яркий городской центр с зелёными газонами, круглыми дорожками, тематическими зданиями и плотной группой игроков/питомцев.",
+  "ui_observations": "Кнопки систем справа, круглая кнопка рюкзака по центру снизу, журнальная подсказка и приглашения внизу справа; виден профиль игрока с Trade и каталогом.",
+  "animation_observations": "В последовательных кадрах аватар перемещается между другими игроками, рядом меняет позицию маленький питомец. Отдельный цикл ходьбы/ухода не различим.",
+  "implementation_lesson": "Разделять собственный интерфейс игры, профиль/торговлю и системное меню Roblox. Для толпы питомцев управлять наложением имён и подсказок.",
+  "limits": "Первый фрагмент содержит крупный план аватара и страницу Roblox; средний частично перекрыт монтажом. Состояния ухода за питомцами не просмотрены.",
+  "coverage": "sampled_visual_review_not_exhaustive",
+  "client_playtest": false,
+  "evidence_directory": "videos/05"
+}

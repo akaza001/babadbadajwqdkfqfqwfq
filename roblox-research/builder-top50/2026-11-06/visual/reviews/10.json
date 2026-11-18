@@ -1,0 +1,31 @@
+{
+  "rank": 10,
+  "source_url": "https://www.youtube.com/watch?v=VTjEwOHBxDo",
+  "source_title": "Being the the \"best player\" in Jujutsu Shenanigans [Roblox]",
+  "source_upload_date": "20261105",
+  "source_uploader": "ChengaChenga",
+  "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+  "sample_ranges_seconds": [
+    [
+      45,
+      50
+    ],
+    [
+      284,
+      289
+    ],
+    [
+      528,
+      533
+    ]
+  ],
+  "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+  "map_observations": "Городская боевая арена с дорогами, переходами, фасадами, деревьями и разрушаемыми обломками.",
+  "ui_observations": "King of Curses и четыре навыка/кулдауны снизу; Characters и системные элементы сверху; событийный отсчёт появляется отдельным текстом.",
+  "animation_observations": "Персонажи сближаются, один оказывается лежащим, появляется дуговой след удара; затем аватар перемещается между противниками и препятствиями.",
+  "implementation_lesson": "Комбо, ragdoll/сбитое состояние и восстановление должны иметь явные правила отмены; обломки и камера не должны подменять достоверное попадание.",
+  "limits": "В кадре сезонное событие. Конкретные длительности атак и права на выбранный набор не установлены.",
+  "coverage": "sampled_visual_review_not_exhaustive",
+  "client_playtest": false,
+  "evidence_directory": "videos/10"
+}

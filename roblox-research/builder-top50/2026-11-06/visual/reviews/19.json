@@ -1,0 +1,31 @@
+{
+  "rank": 19,
+  "source_url": "https://www.youtube.com/watch?v=bRZx5egSQRI",
+  "source_title": "How To Enter Outfit Codes In Catalog Avatar Creator - Full Guide",
+  "source_upload_date": "20240203",
+  "source_uploader": "GuideRealm",
+  "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+  "evidence_directory": "supplemental/19",
+  "sample_ranges_seconds": [
+    [
+      8,
+      13
+    ],
+    [
+      21,
+      26
+    ],
+    [
+      39,
+      44
+    ]
+  ],
+  "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+  "map_observations": "Простая открытая зелёная площадка с игроками; окружение отступает на второй план при открытии каталога.",
+  "ui_observations": "Catalog/UGC Stores сверху, Community Outfits/Outfit Loader слева и Saved Outfits/Emotes справа; крупное превью аватара, категории стилей, сетка, поиск/сортировка, карточка образа с составом/ценой/кодом и Wear.",
+  "animation_observations": "Аватар перемещается по площадке; открытие каталога сохраняет превью рядом с выбором; меняются категории/карточки. Полный preview animation-pack не показан.",
+  "implementation_lesson": "Каталог должен различать целый образ и отдельные элементы, обеспечивать постоянное превью и обратимый Try On; цена/покупка не смешиваются с бесплатной примеркой.",
+  "limits": "Короткая обучающая запись о кодах образов; актуальность полного состава меню на дату рейтинга не подтверждена.",
+  "coverage": "sampled_visual_review_not_exhaustive",
+  "client_playtest": false
+}

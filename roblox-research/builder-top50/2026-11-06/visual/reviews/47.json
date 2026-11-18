@@ -1,0 +1,31 @@
+{
+  "rank": 47,
+  "source_url": "https://www.youtube.com/watch?v=qfcUct1pKmU",
+  "source_title": "How to Rob EVERYTHING in Criminal Simulator (Best Ways to Make Money) | Roblox",
+  "source_upload_date": "20261030",
+  "source_uploader": "Bespecter",
+  "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+  "sample_ranges_seconds": [
+    [
+      35,
+      40
+    ],
+    [
+      125,
+      130
+    ],
+    [
+      232,
+      237
+    ]
+  ],
+  "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+  "map_observations": "Ночной город/пригороды, полицейский офис с окном входа и мебелью, улица с автомобилями и точками вывоза.",
+  "ui_observations": "Hotbar инструментов снизу, состояние квоты/времени/дней справа, маленькая stamina-полоса; контекст Cut Glass/Climb Through/Trunk возле объектов. Крупные инструкции сверху добавлены автором видео.",
+  "animation_observations": "Камера от первого лица проходит через окно, приближается к багажнику и объектам добычи; выбранный инструмент меняется в hotbar.",
+  "implementation_lesson": "Описывать последовательность взаимодействий как состояния объектов/инструмента; пункт сдачи, транспортное хранилище и профиль игрока должны иметь общий серверный учёт лута.",
+  "limits": "Текстовые советы автора не являются UI игры; проверки поведения полиции/собак и точного момента взлома в этих сэмплах нет.",
+  "coverage": "sampled_visual_review_not_exhaustive",
+  "client_playtest": false,
+  "evidence_directory": "videos/47"
+}

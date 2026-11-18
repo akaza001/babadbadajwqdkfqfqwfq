@@ -1,0 +1,31 @@
+{
+  "rank": 1,
+  "source_url": "https://www.youtube.com/watch?v=kMGzsqBMqOs",
+  "source_title": "ROUBE UM OVO",
+  "source_upload_date": "20260826",
+  "source_uploader": "Yaszoca Games",
+  "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+  "sample_ranges_seconds": [
+    [
+      45,
+      50
+    ],
+    [
+      387,
+      392
+    ],
+    [
+      720,
+      725
+    ]
+  ],
+  "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+  "map_observations": "Прямая широкая трасса между высокими стенами; яркие клетчатые/шипованные поверхности, смена тематических зон через проходы; огромные существа и яйца выступают ориентирами.",
+  "ui_observations": "Shop и Index слева; деньги и показатель скорости/множителя снизу слева; предметы снизу по центру; таймер на яйце находится в мире. В записи есть системное окно покупки Roblox.",
+  "animation_observations": "Между последовательными кадрами меняются положение персонажа и камера; у быстрого перемещения виден светящийся след. Для отдельного яйца показан отсчёт. Плавность и суставное движение животных не установлены.",
+  "implementation_lesson": "Разделять маршрут риска, коллекцию и базовый HUD; надмировые таймеры привязывать к состоянию объекта. Движение/след и переноску делать разными слоями.",
+  "limits": "Один средний фрагмент частично перекрыт ведущей и монтажом. Внешность гигантских питомцев видна, но их полная анимация не разобрана.",
+  "coverage": "sampled_visual_review_not_exhaustive",
+  "client_playtest": false,
+  "evidence_directory": "videos/01"
+}

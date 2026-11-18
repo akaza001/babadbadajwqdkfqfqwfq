@@ -1,0 +1,31 @@
+{
+  "rank": 37,
+  "source_url": "https://www.youtube.com/watch?v=IorbilFg0C4",
+  "source_title": "Becoming the BIGGEST BUG in BUG EVOLUTION",
+  "source_upload_date": "20261103",
+  "source_uploader": "Milo 2",
+  "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+  "sample_ranges_seconds": [
+    [
+      45,
+      50
+    ],
+    [
+      382,
+      387
+    ],
+    [
+      709,
+      714
+    ]
+  ],
+  "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+  "map_observations": "Мир показан в масштабе насекомого: высокая трава, цветы, крупные камни, отдельная песчаная область и возвышения.",
+  "ui_observations": "Уровень/здоровье снизу, BITE справа, уведомления XP/Level Up и новое существо; слева системные кнопки, сверху задачи, справа список игроков/панель роста.",
+  "animation_observations": "Паукообразный персонаж меняет положение лап при движении и прыгает/перелетает к камням; более крупная форма взаимодействует с другими насекомыми.",
+  "implementation_lesson": "Смена размера/формы требует своего contact offset, камеры и достижимости окружения; единый humanoid-цикл не годится для всех насекомых.",
+  "limits": "Сэмплы показывают несколько форм, но не сам непрерывный переход эволюции; число суставов и алгоритм лап неизвестны.",
+  "coverage": "sampled_visual_review_not_exhaustive",
+  "client_playtest": false,
+  "evidence_directory": "videos/37"
+}

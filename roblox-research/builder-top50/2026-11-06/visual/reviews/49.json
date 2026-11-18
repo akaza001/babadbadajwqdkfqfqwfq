@@ -1,0 +1,31 @@
+{
+  "rank": 49,
+  "source_url": "https://www.youtube.com/watch?v=ZQu1TJvmTj8",
+  "source_title": "Everything That Changed & Revamped in Roblox King Legacy Update 11 Part 1... Here's What Happened!",
+  "source_upload_date": "20261106",
+  "source_uploader": "JixxyJax",
+  "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+  "evidence_directory": "videos/49",
+  "sample_ranges_seconds": [
+    [
+      45,
+      50
+    ],
+    [
+      341,
+      346
+    ],
+    [
+      633,
+      638
+    ]
+  ],
+  "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+  "map_observations": "Островной/прибрежный город с каменными стенами, открытая вода и отдельная синяя область встречи с крупным боссом.",
+  "ui_observations": "Здоровье/уровень и горячие слоты снизу по центру, способности с клавишами справа; окно Drop Boost с сеткой предметов, магазин фруктов и маркеры целей в мире.",
+  "animation_observations": "Показана крупная крылатая форма/существо среди водных эффектов; у босса видна полоса здоровья, меняется ракурс и появляются частицы. Часть просмотра посвящена меню, не бою.",
+  "implementation_lesson": "Превращение должно переключать модель, камеру и набор навыков согласованно; надмировой трекер цели отделять от локального HUD.",
+  "limits": "Источник — обзор Update 11 Part 1 с отдельными демонстрациями; полный бой, наземные переходы и все формы не просмотрены.",
+  "coverage": "sampled_visual_review_not_exhaustive",
+  "client_playtest": false
+}

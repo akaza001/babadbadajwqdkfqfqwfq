@@ -1,0 +1,31 @@
+{
+  "rank": 34,
+  "source_url": "https://www.youtube.com/watch?v=by8ERPAXJzA",
+  "source_title": "WINNING WITH THE BEST SLASHER SKINS! | Roblox Forsaken",
+  "source_upload_date": "20261101",
+  "source_uploader": "DarkestVibrant",
+  "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+  "sample_ranges_seconds": [
+    [
+      45,
+      50
+    ],
+    [
+      664,
+      669
+    ],
+    [
+      1234,
+      1239
+    ]
+  ],
+  "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+  "map_observations": "Несколько раундовых карт: яркий технический двор, лесистые руины и деревянный интерьер с проходами/высотами.",
+  "ui_observations": "Мобильные круглые кнопки справа: бег, прицел/действия и способности с кулдаунами; таймер сверху; здоровье/stamina и команда слева снизу; результат попадания текстом поверх сцены.",
+  "animation_observations": "Убийца бежит за целью, проводит удар, появляется видимый красный объём/эффект и сообщение о попадании; между приёмами меняются кулдауны и stamina.",
+  "implementation_lesson": "Мобильный HUD проектировать отдельно от клавиатурных подсказок; попадание, кулдаун и сообщение результата связывать одной подтверждённой сервером атакой.",
+  "limits": "Источник посвящён skin-наборам Slasher; красный объём в кадре может быть визуализацией режима/настроек, его устройство в коде неизвестно.",
+  "coverage": "sampled_visual_review_not_exhaustive",
+  "client_playtest": false,
+  "evidence_directory": "videos/34"
+}

@@ -1,0 +1,31 @@
+{
+  "rank": 23,
+  "source_url": "https://www.youtube.com/watch?v=h37Pb3CtXls",
+  "source_title": "ASMR 1 Hour Evade Gameplay",
+  "source_upload_date": "20260921",
+  "source_uploader": "restt",
+  "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+  "sample_ranges_seconds": [
+    [
+      45,
+      50
+    ],
+    [
+      1265,
+      1270
+    ],
+    [
+      2349,
+      2354
+    ]
+  ],
+  "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+  "map_observations": "Несколько карт: туманный снежный город, пригородные улицы/дома и плотные черепичные крыши с узкими переулками.",
+  "ui_observations": "Небольшое здоровье/ресурс снизу слева; основное поле почти свободно от окон; имена/цели в мире.",
+  "animation_observations": "Аватар на доске перемещается над дорогой/крышами, прыгает и меняет направление. Далёкие преследователи видны как плоские/экранные изображения.",
+  "implementation_lesson": "Тестировать и горизонтальные маршруты, и доступность крыш; движение и средства перемещения должны иметь один контракт с раундом/смертью.",
+  "limits": "Из длинной записи ASMR просмотрены только 15 секунд в трёх местах. Доска/высокие прыжки могут зависеть от режима или экипировки, параметры не установлены.",
+  "coverage": "sampled_visual_review_not_exhaustive",
+  "client_playtest": false,
+  "evidence_directory": "videos/23"
+}

@@ -1,0 +1,31 @@
+{
+  "rank": 43,
+  "source_url": "https://www.youtube.com/watch?v=dbzWAawMC-o",
+  "source_title": "Noob to Pro in Bee Swarm Simulator - The PERFECT START! (Episode 1)",
+  "source_upload_date": "20250809",
+  "source_uploader": "Yarikz",
+  "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+  "sample_ranges_seconds": [
+    [
+      45,
+      50
+    ],
+    [
+      949,
+      954
+    ],
+    [
+      1762,
+      1767
+    ]
+  ],
+  "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+  "map_observations": "Ступенчатые площадки/поля с простыми ограждениями, магазином и NPC; ульи представлены высокими вертикальными сотами с местом игрока перед ними.",
+  "ui_observations": "Honey/Pollen сверху, quest-трекер слева, окно инвентаря-списка справа; у NPC контекст Talk, над действием подсказка использования; ячейки улья показывают портреты пчёл.",
+  "animation_observations": "Маленькие пчёлы перемещаются вокруг игрока/улья; получение задания/награды сопровождается токенами и числами; в руке виден инструмент сбора.",
+  "implementation_lesson": "Источник пыльцы, вместимость сумки и конвертацию в мёд хранить раздельно; улей — представление реестра пчёл, а не независимая вторая коллекция.",
+  "limits": "Просмотрены три коротких фрагмента записи, не все экраны и не весь мир. Тайминги и устройство рига не измерены.",
+  "coverage": "sampled_visual_review_not_exhaustive",
+  "client_playtest": false,
+  "evidence_directory": "videos/43"
+}

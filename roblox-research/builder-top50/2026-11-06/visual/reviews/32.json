@@ -1,0 +1,64 @@
+{
+  "rank": 32,
+  "source_url": "https://www.youtube.com/watch?v=rPtLmsztonY",
+  "source_title": "Roblox Berry Avenue RP - Gameplay (No Commentary)",
+  "source_upload_date": "20251005",
+  "source_uploader": "Wan Zen",
+  "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+  "evidence_directory": "supplemental/32",
+  "sample_ranges_seconds": [
+    [
+      45,
+      50
+    ],
+    [
+      564,
+      569
+    ],
+    [
+      1048,
+      1053
+    ]
+  ],
+  "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+  "map_observations": "Светлый прибрежный город с пальмами, улицами/витринами, площадью и пристанью с яхтой; маршруты проходят по тротуарам и пирсу.",
+  "ui_observations": "Вертикальные системные разделы справа; Spawn Vehicle открывает сетку транспорта с отметками избранного/замков; внутриигровое время вверху.",
+  "animation_observations": "Аватар переходит от стояния к ходьбе, проходит по пирсу; камера переключается между третьим и первым лицом; открытие выбора транспорта не скрывает весь мир.",
+  "implementation_lesson": "Для города выбирать контекстную панель транспорта и пригодные точки спавна; перемещение камеры и поза аватара не должны ломаться при меню.",
+  "limits": "Просмотрены три коротких фрагмента записи, не все экраны и не весь мир. Тайминги и устройство рига не измерены.",
+  "coverage": "sampled_visual_review_not_exhaustive",
+  "client_playtest": false,
+  "additional_reviews": [
+    {
+      "rank": 32,
+      "source_url": "https://www.youtube.com/watch?v=Tr0qHejq3w8",
+      "source_title": "📍travel with us to seoul, korea! | berry ave rp vlog 4K",
+      "source_upload_date": "20250813",
+      "source_uploader": "chilepepinoo",
+      "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+      "sample_ranges_seconds": [
+        [
+          45,
+          50
+        ],
+        [
+          202,
+          207
+        ],
+        [
+          375,
+          380
+        ]
+      ],
+      "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+      "map_observations": "Кинематографическая запись: дорога с частными домами и деревьями, кофейня с витриной/меню, светлая домашняя кухня.",
+      "ui_observations": "Игровой HUD намеренно скрыт; надписи на витрине являются декором мира, а не экраном магазина. UI игры по этой записи не установлен.",
+      "animation_observations": "Автомобиль перемещается по дороге; персонажи держат еду и столовые приборы в ролевой сцене. Монтаж не позволяет отделить стандартные анимации от постановки.",
+      "implementation_lesson": "Постановочный RP-ролик полезен для материалов/реквизита, но не подтверждает интерфейс, транспортные правила и пользовательский игровой цикл.",
+      "limits": "Источник — RP vlog о поездке, содержит постановку и скрытый HUD. Для UI нужен дополнительный обычный геймплей.",
+      "coverage": "sampled_visual_review_not_exhaustive",
+      "client_playtest": false,
+      "evidence_directory": "videos/32"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "rank": 3,
+  "source_url": "https://www.youtube.com/watch?v=Ut7RPXezaRA",
+  "source_title": "Noob To MAX But It's My First Time Playing (Blox Fruits)",
+  "source_upload_date": "20261006",
+  "source_uploader": "VISIONVL",
+  "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+  "sample_ranges_seconds": [
+    [
+      45,
+      50
+    ],
+    [
+      2124,
+      2129
+    ],
+    [
+      3944,
+      3949
+    ]
+  ],
+  "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+  "map_observations": "Начальная островная площадка с мельницей, оградами, NPC с крупным знаком задания; позднее видна городская улица с крупными зданиями.",
+  "ui_observations": "Жёлтые разделы Stats/Items/Shop слева, здоровье/энергия снизу слева; навыки с клавишами справа; предметы в сетке с превью и подробностями; выбор награды оформлен горизонтальным spinner.",
+  "animation_observations": "В последовательных кадрах spinner прокручивает карточки под фиксированным указателем. В боевом эпизоде зелёные круговые эффекты окружают персонажа; точный момент урона по видео не установлен.",
+  "implementation_lesson": "Для RPG разделять реестр предметов, статов и навыков; визуальное раскрытие результата не должно само назначать награду. Отдельно проектировать VFX читаемости боя.",
+  "limits": "Просмотрены три коротких фрагмента записи, не все экраны и не весь мир. Тайминги и устройство рига не измерены.",
+  "coverage": "sampled_visual_review_not_exhaustive",
+  "client_playtest": false,
+  "evidence_directory": "videos/03"
+}

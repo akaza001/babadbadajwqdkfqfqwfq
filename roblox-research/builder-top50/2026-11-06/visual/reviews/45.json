@@ -1,0 +1,31 @@
+{
+  "rank": 45,
+  "source_url": "https://www.youtube.com/watch?v=2h8PX0fBqXo",
+  "source_title": "ROBLOX +1 VENOM EVOLUTION!",
+  "source_upload_date": "20261105",
+  "source_uploader": "More Techy",
+  "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+  "sample_ranges_seconds": [
+    [
+      45,
+      50
+    ],
+    [
+      234,
+      239
+    ],
+    [
+      436,
+      441
+    ]
+  ],
+  "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+  "map_observations": "Городской тренировочный хаб с яркими установками и воротами этапов; отдельная площадка боя с группами противников.",
+  "ui_observations": "Worlds/Evolve/Abilities/Backpack/Quests слева, уровень/прогресс/Total Venom снизу, окна усилений справа; Clear Stage и Stage Cleared задают цель/результат.",
+  "animation_observations": "Тренировка показывает пульсацию/прирост ресурса; у аватара появляется отдельная голова/щупальца/новый силуэт; в бою возникают ударные эффекты и поверженные NPC.",
+  "implementation_lesson": "Держать визуальную форму отдельно от данных прогресса и боевого набора; эволюция должна корректно обновлять модель, HUD и респавн без потери состояния.",
+  "limits": "Просмотрены три коротких фрагмента записи, не все экраны и не весь мир. Тайминги и устройство рига не измерены.",
+  "coverage": "sampled_visual_review_not_exhaustive",
+  "client_playtest": false,
+  "evidence_directory": "videos/45"
+}

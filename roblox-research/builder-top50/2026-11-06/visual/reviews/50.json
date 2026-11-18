@@ -1,0 +1,31 @@
+{
+  "rank": 50,
+  "source_url": "https://www.youtube.com/watch?v=UoCqLuJJ23A",
+  "source_title": "A MAXED OUT SHOOTING Build Is BROKEN in Practical Basketball",
+  "source_upload_date": "20261105",
+  "source_uploader": "Doqin",
+  "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+  "sample_ranges_seconds": [
+    [
+      45,
+      50
+    ],
+    [
+      275,
+      280
+    ],
+    [
+      511,
+      516
+    ]
+  ],
+  "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+  "map_observations": "Открытая баскетбольная площадка с чёткой разметкой, кольцами, ограждением и окружающими городскими зданиями.",
+  "ui_observations": "Компактное HOME/AWAY, очки, время и shot clock снизу; под управляемым игроком дуга состояния, перед матчем состав/показатели участников.",
+  "animation_observations": "Мяч ведётся рядом с игроком; видны разворот, прыжок/бросковая поза и передвижение защищающегося игрока.",
+  "implementation_lesson": "Отделять таймер матча от shot clock и состояние мяча от анимации ведения; индикатор под игроком не должен перекрывать линию движения мяча.",
+  "limits": "Источник демонстрирует конкретный shooting build; его показатели не являются базовыми характеристиками всех персонажей.",
+  "coverage": "sampled_visual_review_not_exhaustive",
+  "client_playtest": false,
+  "evidence_directory": "videos/50"
+}

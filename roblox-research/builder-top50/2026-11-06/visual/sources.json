@@ -1,0 +1,1706 @@
+[
+  {
+    "rank": 1,
+    "name": "Steal An Egg",
+    "place_id": "107778070777162",
+    "queried_at_utc": "2026-11-06T18:26:14.002505+00:00",
+    "images": [
+      {
+        "path": "01-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-875b2a6dc156ce6dd64eb637e73238ce/768/432/Image/Png/noFilter",
+        "asset_id": 119722099122044,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "01-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-79e666901b2c722b06310d267bc6c152/768/432/Image/Png/noFilter",
+        "asset_id": 110759685501997,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "01-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-3a7682bf777c8b5a9ee044f2ff932ae6/768/432/Image/Png/noFilter",
+        "asset_id": 77977678889221,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "01-promo-4.png",
+        "url": "https://tr.rbxcdn.com/180DAY-7dd435aafd4a769f634a333a47f99735/768/432/Image/Png/noFilter",
+        "asset_id": 132866968789973,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 10563114921,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=10563114921&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 2,
+    "name": "Brookhaven 🏡RP",
+    "place_id": "4924922222",
+    "queried_at_utc": "2026-11-06T18:26:14.003666+00:00",
+    "images": [
+      {
+        "path": "02-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-8592a6601564e24a00e7c3432cd75c0b/768/432/Image/Png/noFilter",
+        "asset_id": 99670039079867,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "02-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-31b10d9bfa317aa66c59cc1a413e8a63/768/432/Image/Png/noFilter",
+        "asset_id": 116911746908942,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "02-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-340c29cd00647d07c4d0c25b78bd135c/768/432/Image/Png/noFilter",
+        "asset_id": 113294182708829,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "02-promo-4.png",
+        "url": "https://tr.rbxcdn.com/180DAY-8c4773a5d92620acc91db1f371a84fbd/768/432/Image/Png/noFilter",
+        "asset_id": 135505968694206,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 1686885941,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=1686885941&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 3,
+    "name": "[🎃] Blox Fruits",
+    "place_id": "2753915549",
+    "queried_at_utc": "2026-11-06T18:26:14.003813+00:00",
+    "images": [
+      {
+        "path": "03-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-77b3430ced16006f6da18d6a77b95ea0/768/432/Image/Png/noFilter",
+        "asset_id": 111957945177130,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "03-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-77b3430ced16006f6da18d6a77b95ea0/768/432/Image/Png/noFilter",
+        "asset_id": 79123145773078,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "03-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-09e621f1df2e404a391adf389d2bea47/768/432/Image/Png/noFilter",
+        "asset_id": 126410127976844,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "03-promo-4.png",
+        "url": "https://tr.rbxcdn.com/180DAY-435f418f84653e7ac31752c44b16e28f/768/432/Image/Png/noFilter",
+        "asset_id": 140165890160958,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 994732206,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=994732206&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 4,
+    "name": "Murder Mystery 2",
+    "place_id": "142823291",
+    "queried_at_utc": "2026-11-06T18:26:14.003865+00:00",
+    "images": [
+      {
+        "path": "04-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-f483597f5ce44b2617413c11c7425802/768/432/Image/Png/noFilter",
+        "asset_id": 125130258971507,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "04-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-fe7335c3ad752e84323cd81ae38de69a/768/432/Image/Png/noFilter",
+        "asset_id": 12240185516,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "04-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-0a5d0d27fd60272237a869af29cbccb1/768/432/Image/Png/noFilter",
+        "asset_id": 3778412981,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 66654135,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=66654135&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 5,
+    "name": "[⚡] Adopt Me!",
+    "place_id": "920587237",
+    "queried_at_utc": "2026-11-06T18:26:14.005767+00:00",
+    "images": [
+      {
+        "path": "05-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-65db55c944d0826a0b113a4c83a3c7bb/768/432/Image/Png/noFilter",
+        "asset_id": 105014675704626,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "05-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-e2356d2a6e3f4f54ebe357a482be2ee8/768/432/Image/Png/noFilter",
+        "asset_id": 87733783441530,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "05-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-4f4f2b9866a0fbc240057268ddfb3864/768/432/Image/Png/noFilter",
+        "asset_id": 98732815508759,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "05-promo-4.png",
+        "url": "https://tr.rbxcdn.com/180DAY-b973133039b30da2e7ba1ec2e34463c0/768/432/Image/Png/noFilter",
+        "asset_id": 87178109920113,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 383310974,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=383310974&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 6,
+    "name": "Throw Food For Animals",
+    "place_id": "120219252362013",
+    "queried_at_utc": "2026-11-06T18:26:17.691306+00:00",
+    "images": [
+      {
+        "path": "06-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-e8b4deada30535db18163fe79a016492/768/432/Image/Png/noFilter",
+        "asset_id": 76537057650530,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "06-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-25e29f9ae69936e7bda4903e197f689e/768/432/Image/Png/noFilter",
+        "asset_id": 137898614264181,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "06-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-b21dd5a0e41343c1698035f34a76e1c0/768/432/Image/Png/noFilter",
+        "asset_id": 139740648808632,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "06-promo-4.png",
+        "url": "https://tr.rbxcdn.com/180DAY-48a0396539704dce67aae483555367bd/768/432/Image/Png/noFilter",
+        "asset_id": 133168295870621,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 10766972131,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=10766972131&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 7,
+    "name": "RIVALS",
+    "place_id": "17625359962",
+    "queried_at_utc": "2026-11-06T18:26:17.832822+00:00",
+    "images": [
+      {
+        "path": "07-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-16cda8092fa0dfd10b938e549d46f97d/768/432/Image/Png/noFilter",
+        "asset_id": 100101795559137,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "07-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-37eba4415e2668fd17be4cab578eeeae/768/432/Image/Png/noFilter",
+        "asset_id": 138172986465292,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "07-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-fb02f48458ff689309df8d52bf516d04/768/432/Image/Png/noFilter",
+        "asset_id": 97405478426268,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "07-promo-4.png",
+        "url": "https://tr.rbxcdn.com/180DAY-27507ba164fae9b46c68047d34d0078b/768/432/Image/Png/noFilter",
+        "asset_id": 119309621838309,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 6035872082,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=6035872082&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 8,
+    "name": "99 Nights in the Forest 🔦",
+    "place_id": "79546208627805",
+    "queried_at_utc": "2026-11-06T18:26:17.966573+00:00",
+    "images": [
+      {
+        "path": "08-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-ee923b1e9ac5564624ee9c484006166c/768/432/Image/Png/noFilter",
+        "asset_id": 115580676813962,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "08-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-c5215eabc21f46723f0084f99bb7622c/768/432/Image/Png/noFilter",
+        "asset_id": 96631555830770,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "08-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-9b1ddf944c04eebc16e204816b97844c/768/432/Image/Png/noFilter",
+        "asset_id": 87637012963912,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 7326934954,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=7326934954&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 9,
+    "name": "[💀] Steal a Brainrot",
+    "place_id": "109983668079237",
+    "queried_at_utc": "2026-11-06T18:26:18.039814+00:00",
+    "images": [
+      {
+        "path": "09-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-4f4f858f657ad8b8050ff8af7fdef3e7/768/432/Image/Png/noFilter",
+        "asset_id": 87608694549652,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "09-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-cd8594740f0d77e99b77f85a8697658c/768/432/Image/Png/noFilter",
+        "asset_id": 107539729532206,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "09-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-a79f5608bd065c9700092a558a60aca1/768/432/Image/Png/noFilter",
+        "asset_id": 126549264012376,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "09-promo-4.png",
+        "url": "https://tr.rbxcdn.com/180DAY-e9f65602f6682ba50ca16b282e6d6e95/768/432/Image/Png/noFilter",
+        "asset_id": 80600535263097,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 7709344486,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=7709344486&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 10,
+    "name": "[🎃] Jujutsu Shenanigans",
+    "place_id": "9391468976",
+    "queried_at_utc": "2026-11-06T18:26:18.333087+00:00",
+    "images": [
+      {
+        "path": "10-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-decec85a41b80e4ac0beca8bc2952a7f/768/432/Image/Png/noFilter",
+        "asset_id": 15874942242,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "10-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-a178607f37f81c9ffc263e1632f88952/768/432/Image/Png/noFilter",
+        "asset_id": 109893847909470,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "10-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-1afada1f2148cc07c1ed6a14ae9df856/768/432/Image/Png/noFilter",
+        "asset_id": 114648930169353,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "10-promo-4.png",
+        "url": "https://tr.rbxcdn.com/180DAY-5c155751d56d75efe88078cb3e747216/768/432/Image/Png/noFilter",
+        "asset_id": 75713219276135,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 3508322461,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=3508322461&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 11,
+    "name": "DONT SPLASH",
+    "place_id": "119958473240233",
+    "queried_at_utc": "2026-11-06T18:26:21.850381+00:00",
+    "images": [
+      {
+        "path": "11-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-0689ccb932043bd8b4456ed1a7eb5d53/768/432/Image/Png/noFilter",
+        "asset_id": 130764273056329,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "11-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-6cb5367a25b6ca5c4d00bf0e3e1e16c8/768/432/Image/Png/noFilter",
+        "asset_id": 105851805811061,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "11-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-98335684c721f654c77ec2972b415afc/768/432/Image/Png/noFilter",
+        "asset_id": 86160040234613,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 10771421858,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=10771421858&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 12,
+    "name": "[☀️UPD 21🏖️] Anime Adventures",
+    "place_id": "8304191830",
+    "queried_at_utc": "2026-11-06T18:26:22.047224+00:00",
+    "images": [
+      {
+        "path": "12-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-bd4fbfaf530e5a1f2f4a053791448977/768/432/Image/Png/noFilter",
+        "asset_id": 12969693598,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 3183403065,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=3183403065&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 13,
+    "name": "Break and Steal an Egg",
+    "place_id": "114326934417838",
+    "queried_at_utc": "2026-11-06T18:26:22.523847+00:00",
+    "images": [
+      {
+        "path": "13-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-4286dd8385df9534c4a15c1e3807d656/768/432/Image/Png/noFilter",
+        "asset_id": 138823293278422,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "13-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-554a55548bad0b0b47338f5b1bfeb1d1/768/432/Image/Png/noFilter",
+        "asset_id": 75529014610567,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "13-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-96c0233d7563af5f059f15b5223220be/768/432/Image/Png/noFilter",
+        "asset_id": 133885881103054,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "13-promo-4.png",
+        "url": "https://tr.rbxcdn.com/180DAY-80fa555d44488434d843732f067b59a3/768/432/Image/Png/noFilter",
+        "asset_id": 74336330700235,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 10765288803,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=10765288803&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 14,
+    "name": "🎃 Dandy's World [ALPHA]",
+    "place_id": "16116270224",
+    "queried_at_utc": "2026-11-06T18:26:22.907580+00:00",
+    "images": [
+      {
+        "path": "14-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-7ee1afb1e9cc3ed8e5fb7982e342661a/768/432/Image/Png/noFilter",
+        "asset_id": 104892266744244,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "14-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-9bdf605a2b2179c957984a94d2fb8c14/768/432/Image/Png/noFilter",
+        "asset_id": 128775025738996,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "14-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-511e5c6e680e60d7b068cdff1b94a4d8/768/432/Image/Png/noFilter",
+        "asset_id": 128301203961961,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "14-promo-4.png",
+        "url": "https://tr.rbxcdn.com/180DAY-ce416dca611592d2e1e562d509da92b9/768/432/Image/Png/noFilter",
+        "asset_id": 95138715678688,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 5569032992,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=5569032992&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 15,
+    "name": "[🎃] Dress To Impress",
+    "place_id": "15101393044",
+    "queried_at_utc": "2026-11-06T18:26:22.943564+00:00",
+    "images": [
+      {
+        "path": "15-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-d1d34e3e05aa722be00171804119c874/768/432/Image/Png/noFilter",
+        "asset_id": 110110478349197,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "15-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-93dd2075c61008cf59af69d997d0292a/768/432/Image/Png/noFilter",
+        "asset_id": 96306627505693,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "15-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-cddb2bc85941cdc8cef1303f3a9da4c0/768/432/Image/Png/noFilter",
+        "asset_id": 125826444055199,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "15-promo-4.png",
+        "url": "https://tr.rbxcdn.com/180DAY-b344597e58e40fc366ce69d9bfd771e9/768/432/Image/Png/noFilter",
+        "asset_id": 72746340089997,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 5203828273,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=5203828273&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 16,
+    "name": "Fisch 🎸 [VENUE ENCORE]",
+    "place_id": "16732694052",
+    "queried_at_utc": "2026-11-06T18:26:23.639404+00:00",
+    "images": [
+      {
+        "path": "16-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-a2846a75df26a929cc2f526aecdfaef9/768/432/Image/Png/noFilter",
+        "asset_id": 75730082423585,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "16-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-a0a050937a93b8a6d049e4806af375de/768/432/Image/Png/noFilter",
+        "asset_id": 122771615796360,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "16-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-17ce753c4b1f087c5eda362c24457e25/768/432/Image/Png/noFilter",
+        "asset_id": 79837966367807,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "16-promo-4.png",
+        "url": "https://tr.rbxcdn.com/180DAY-959f623dbcab02d4e61af4d1a7e911f2/768/432/Image/Png/noFilter",
+        "asset_id": 128315355516836,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 5750914919,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=5750914919&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 17,
+    "name": "[HALLOWEEN] The Strongest Battlegrounds",
+    "place_id": "10449761463",
+    "queried_at_utc": "2026-11-06T18:26:24.710895+00:00",
+    "images": [
+      {
+        "path": "17-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-c947df5b221c30672c3591247a8c6495/768/432/Image/Png/noFilter",
+        "asset_id": 14185240778,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "17-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-a65199acc4245274be48753c7872dd2b/768/432/Image/Png/noFilter",
+        "asset_id": 14187266453,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "17-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-72225b27efc4fbef9da751ea32184472/768/432/Image/Png/noFilter",
+        "asset_id": 14185119275,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 3808081382,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=3808081382&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 18,
+    "name": "[👻UPD] Fish It! 🐟",
+    "place_id": "121864768012064",
+    "queried_at_utc": "2026-11-06T18:26:26.482992+00:00",
+    "images": [
+      {
+        "path": "18-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-e24014534eada4fb546d0b3b4bc143ac/768/432/Image/Png/noFilter",
+        "asset_id": 72351324075601,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "18-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-fbe0bde2490e9b8c69bc1d2defb4f46f/768/432/Image/Png/noFilter",
+        "asset_id": 85853967187589,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "18-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-15ff0b1321b4250ebc7afd19f54dddc1/768/432/Image/Png/noFilter",
+        "asset_id": 140327428321827,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "18-promo-4.png",
+        "url": "https://tr.rbxcdn.com/180DAY-d612acdb03ba6e23e0c637328e22efc1/768/432/Image/Png/noFilter",
+        "asset_id": 85179158803486,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 6701277882,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=6701277882&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 19,
+    "name": "Catalog Avatar Creator",
+    "place_id": "7041939546",
+    "queried_at_utc": "2026-11-06T18:26:26.745950+00:00",
+    "images": [
+      {
+        "path": "19-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-22c1dc925ae96a79a1b1e242c6b0d0fe/768/432/Image/Png/noFilter",
+        "asset_id": 124871747492235,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "19-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-c3573ad59a9ad5ba1a0b4ae5fff8b5a2/768/432/Image/Png/noFilter",
+        "asset_id": 10217701173,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "19-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-2ebb3ba57c18fc2f489644ea1a92f512/768/432/Image/Png/noFilter",
+        "asset_id": 97436518770352,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "19-promo-4.png",
+        "url": "https://tr.rbxcdn.com/180DAY-5a15ba0ed027dcc40139746a9c870880/768/432/Image/Png/noFilter",
+        "asset_id": 121295243484625,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 2711375305,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=2711375305&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 20,
+    "name": "[UPDATE 5] Attack on Titan Revolution",
+    "place_id": "13379208636",
+    "queried_at_utc": "2026-11-06T18:26:27.207227+00:00",
+    "images": [
+      {
+        "path": "20-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-6a2a36f35cf94b12d236192099d1ad6e/768/432/Image/Png/noFilter",
+        "asset_id": 89456654540607,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "20-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-d72c3cae696292e59f459d51dc79e17d/768/432/Image/Png/noFilter",
+        "asset_id": 73955862842873,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "20-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-4aa2286f40bf488b6150ebfd40dcd6f6/768/432/Image/Png/noFilter",
+        "asset_id": 112971778006910,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "20-promo-4.png",
+        "url": "https://tr.rbxcdn.com/180DAY-1e6df74d633a56b8e667d0436091559e/768/432/Image/Png/noFilter",
+        "asset_id": 106256413386783,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 4658598196,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=4658598196&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 21,
+    "name": "[WEEK 2 🎃 x BUTCHER] Violence District",
+    "place_id": "93978595733734",
+    "queried_at_utc": "2026-11-06T18:26:27.751236+00:00",
+    "images": [
+      {
+        "path": "21-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-2864a58c935a65e12f5c662fa877c21a/768/432/Image/Png/noFilter",
+        "asset_id": 131026400370528,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "21-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-f38c46f06ee8242af3d267a28d630dec/768/432/Image/Png/noFilter",
+        "asset_id": 70964350690349,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "21-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-053b224488d76b35a66cb21650b4f71e/768/432/Image/Png/noFilter",
+        "asset_id": 135977588068237,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "21-promo-4.png",
+        "url": "https://tr.rbxcdn.com/180DAY-b887b5d240c577689454c937acb798b1/768/432/Image/Png/noFilter",
+        "asset_id": 110460139153118,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 6739698191,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=6739698191&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 22,
+    "name": "🎃 [MINIGAMES] Pet Simulator 99! 👻",
+    "place_id": "8737899170",
+    "queried_at_utc": "2026-11-06T18:26:28.440152+00:00",
+    "images": [
+      {
+        "path": "22-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-3c7c5b6526b4468631fbf0ac6957debc/768/432/Image/Png/noFilter",
+        "asset_id": 79335751671468,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "22-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-e56b664ddfffd78fa53a7674d75d7841/768/432/Image/Png/noFilter",
+        "asset_id": 107028539660173,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "22-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-041733941646f5c3d260dab45f0f7f0a/768/432/Image/Png/noFilter",
+        "asset_id": 112342648469048,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "22-promo-4.png",
+        "url": "https://tr.rbxcdn.com/180DAY-e581f403aa68e7c9d48fcd54cc1204d0/768/432/Image/Png/noFilter",
+        "asset_id": 100903537705550,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 3317771874,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=3317771874&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 23,
+    "name": "[🎃HLWN🎃] Evade ",
+    "place_id": "9872472334",
+    "queried_at_utc": "2026-11-06T18:26:31.205674+00:00",
+    "images": [
+      {
+        "path": "23-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-a404c59a18fb6b6e3c8ff7d6c423cf50/768/432/Image/Png/noFilter",
+        "asset_id": 122914491582538,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "23-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-fe879d3e4fabd2580b57a66efba92d1d/768/432/Image/Png/noFilter",
+        "asset_id": 96658228404036,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "23-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-ee2415876c001857697bd914d161f67f/768/432/Image/Png/noFilter",
+        "asset_id": 122153631887235,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "23-promo-4.png",
+        "url": "https://tr.rbxcdn.com/180DAY-8ab9ac5f53fd3da36d08f1bd8d57a384/768/432/Image/Png/noFilter",
+        "asset_id": 97122569675843,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 3647333358,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=3647333358&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 24,
+    "name": "Illegal Soccer",
+    "place_id": "126987974021910",
+    "queried_at_utc": "2026-11-06T18:26:31.416111+00:00",
+    "images": [
+      {
+        "path": "24-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-c0ebf82442032d9750dbcd0efd4da7dc/768/432/Image/Png/noFilter",
+        "asset_id": 139271180940382,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "24-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-db0e32bad5b4da1f9722e92ef177b72f/768/432/Image/Png/noFilter",
+        "asset_id": 78844015361752,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "24-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-dbe6d343e0df8a1dd5d81de0984ada02/768/432/Image/Png/noFilter",
+        "asset_id": 103710599812422,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "24-promo-4.png",
+        "url": "https://tr.rbxcdn.com/180DAY-5c8fd187a58d0b73e505c56b98d50e7a/768/432/Image/Png/noFilter",
+        "asset_id": 79596606132599,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 10155360168,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=10155360168&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 25,
+    "name": "Tower of Hell",
+    "place_id": "1962086868",
+    "queried_at_utc": "2026-11-06T18:26:31.557344+00:00",
+    "images": [
+      {
+        "path": "25-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-30df204e4a0188e05ea2dcd225dab32d/768/432/Image/Png/noFilter",
+        "asset_id": 133636978559560,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "25-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-21b009020bb61e6218725ddf2c762c1d/768/432/Image/Png/noFilter",
+        "asset_id": 87017711919701,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "25-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-250fab4ac316fd630e19204651aa2ee5/768/432/Image/Png/noFilter",
+        "asset_id": 105029507882167,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 703124385,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=703124385&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 26,
+    "name": "[UPD] Volleyball Legends",
+    "place_id": "73956553001240",
+    "queried_at_utc": "2026-11-06T18:26:31.827964+00:00",
+    "images": [
+      {
+        "path": "26-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-f8d8de8af835a4e44e5124d34e4e89c8/768/432/Image/Png/noFilter",
+        "asset_id": 97960963737504,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "26-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-611a0144ec8c1faa35e19ad75bce3fe5/768/432/Image/Png/noFilter",
+        "asset_id": 80966696682441,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "26-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-771227da5240d3e48514bce6d6310472/768/432/Image/Png/noFilter",
+        "asset_id": 121255923754436,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "26-promo-4.png",
+        "url": "https://tr.rbxcdn.com/180DAY-9bd05bd03c4d265eb5e9306d8523064d/768/432/Image/Png/noFilter",
+        "asset_id": 104416171715123,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 6931042565,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=6931042565&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 27,
+    "name": "🤔 Killer or Not",
+    "place_id": "127994242634536",
+    "queried_at_utc": "2026-11-06T18:26:32.460121+00:00",
+    "images": [
+      {
+        "path": "27-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-0795a04b03f444e07a0e29ad654089b4/768/432/Image/Png/noFilter",
+        "asset_id": 133071073791517,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 8901905971,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=8901905971&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 28,
+    "name": "Tower Defense Simulator",
+    "place_id": "3260590327",
+    "queried_at_utc": "2026-11-06T18:26:34.135362+00:00",
+    "images": [
+      {
+        "path": "28-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-82cd3e18ce8883b327734dbfaa76ccf4/768/432/Image/Png/noFilter",
+        "asset_id": 110105992336489,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "28-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-f8773b4ccda79ca5f739d762ea0410be/768/432/Image/Png/noFilter",
+        "asset_id": 129650156869672,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "28-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-2859bf9a3211f9913263ecd2679789d3/768/432/Image/Png/noFilter",
+        "asset_id": 91795912415669,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "28-promo-4.png",
+        "url": "https://tr.rbxcdn.com/180DAY-29b7edfb1b923cf5db280daeee4c934f/768/432/Image/Png/noFilter",
+        "asset_id": 126782817857001,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 1176784616,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=1176784616&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 29,
+    "name": "Sol's RNG [ Halloween Event 🎃]",
+    "place_id": "15532962292",
+    "queried_at_utc": "2026-11-06T18:26:34.989913+00:00",
+    "images": [
+      {
+        "path": "29-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-15773bccc1660bb847414fccb246af3f/768/432/Image/Png/noFilter",
+        "asset_id": 81491382823611,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "29-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-c6501a12bda63f1fe2f8f801796f72e0/768/432/Image/Png/noFilter",
+        "asset_id": 121368188248147,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "29-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-65a417722286418b7c11d0d1d402b8f2/768/432/Image/Png/noFilter",
+        "asset_id": 79130660391255,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "29-promo-4.png",
+        "url": "https://tr.rbxcdn.com/180DAY-a253296a8f41b8a7ff35257d09916935/768/432/Image/Png/noFilter",
+        "asset_id": 106185029994790,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 5361032378,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=5361032378&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 30,
+    "name": "[💀DUELS] Murderers VS Sheriffs",
+    "place_id": "135856908115931",
+    "queried_at_utc": "2026-11-06T18:26:35.077561+00:00",
+    "images": [
+      {
+        "path": "30-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-72ca132d7d76c81fcce50d8fba46343b/768/432/Image/Png/noFilter",
+        "asset_id": 97917259998087,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 7219654364,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=7219654364&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 31,
+    "name": "✨Tap Simulator REBORN",
+    "place_id": "72858262610964",
+    "queried_at_utc": "2026-11-06T18:26:35.947334+00:00",
+    "images": [
+      {
+        "path": "31-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-891c6d14c8b630ca1ea9c976e7781f16/768/432/Image/Png/noFilter",
+        "asset_id": 99879461096047,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "31-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-9faf99b3b397b954f353f1e311111eb3/768/432/Image/Png/noFilter",
+        "asset_id": 87432985683872,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "31-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-2e53494903696443922ddce7ebc642f5/768/432/Image/Png/noFilter",
+        "asset_id": 123770264238673,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "31-promo-4.png",
+        "url": "https://tr.rbxcdn.com/180DAY-f80f13be7401eee024bdadac4a7b40f0/768/432/Image/Png/noFilter",
+        "asset_id": 113989456350614,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 10629695169,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=10629695169&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 32,
+    "name": "Berry Avenue 🏠 RP",
+    "place_id": "8481844229",
+    "queried_at_utc": "2026-11-06T18:26:36.042867+00:00",
+    "images": [
+      {
+        "path": "32-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-23710e6c4c48caac1a79d4a25615bd2c/768/432/Image/Png/noFilter",
+        "asset_id": 132209012403143,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "32-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-e030e58aa55b5b540b4d373a25b652f5/768/432/Image/Png/noFilter",
+        "asset_id": 118236913041616,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "32-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-7c42e393473610f529d1edcfa508d29b/768/432/Image/Png/noFilter",
+        "asset_id": 74350254592760,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "32-promo-4.png",
+        "url": "https://tr.rbxcdn.com/180DAY-8d2ae1c3b4912f6508a3b9a856845952/768/432/Image/Png/noFilter",
+        "asset_id": 127783038355856,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 3240075297,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=3240075297&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 33,
+    "name": "Fling Things and People",
+    "place_id": "6961824067",
+    "queried_at_utc": "2026-11-06T18:26:37.413771+00:00",
+    "images": [
+      {
+        "path": "33-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-20254f91c5043de87f6cc8adb218c624/768/432/Image/Png/noFilter",
+        "asset_id": 17095379913,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "33-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-9578015c49906c76bf38393d5d0828e7/768/432/Image/Png/noFilter",
+        "asset_id": 7940423806,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "33-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-85db8838a00b1bbebd499d42b6faddb3/768/432/Image/Png/noFilter",
+        "asset_id": 9683129154,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "33-promo-4.png",
+        "url": "https://tr.rbxcdn.com/180DAY-12ce1a7395fecca21a33784c6c1e8d39/768/432/Image/Png/noFilter",
+        "asset_id": 9417575099,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 2668101271,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=2668101271&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 34,
+    "name": "Forsaken",
+    "place_id": "18687417158",
+    "queried_at_utc": "2026-11-06T18:26:38.988416+00:00",
+    "images": [
+      {
+        "path": "34-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-69a9cb1497bb6feb6fc7b508894c357e/768/432/Image/Png/noFilter",
+        "asset_id": 106955206497688,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "34-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-ead003020bb1fb02cd9c8711ee46adbb/768/432/Image/Png/noFilter",
+        "asset_id": 111579062534502,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "34-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-1a65dfa73cc5b20e035999e4c697cf3f/768/432/Image/Png/noFilter",
+        "asset_id": 119509777693541,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "34-promo-4.png",
+        "url": "https://tr.rbxcdn.com/180DAY-c11a100fe03b84a84d1cd21c73059a02/768/432/Image/Png/noFilter",
+        "asset_id": 118411715622450,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 6331902150,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=6331902150&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 35,
+    "name": "Kukirin Life [Testing]",
+    "place_id": "122840796290491",
+    "queried_at_utc": "2026-11-06T18:26:41.010515+00:00",
+    "images": [
+      {
+        "path": "35-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-d99ac9e0fedbb55078bca0866587efba/768/432/Image/Png/noFilter",
+        "asset_id": 132794920514033,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "35-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-d04559325a120e0871014d20039e4dcb/768/432/Image/Png/noFilter",
+        "asset_id": 88487630135456,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "35-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-38f060bab70d6c4cbc8a35e8fa5a5e48/768/432/Image/Png/noFilter",
+        "asset_id": 86023760536458,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 10767138232,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=10767138232&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 36,
+    "name": "LifeTogether 🏠 RP ",
+    "place_id": "13967668166",
+    "queried_at_utc": "2026-11-06T18:26:41.188770+00:00",
+    "images": [
+      {
+        "path": "36-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-d9eb0430ea2c93b6a9a8c1b4f7da0ef2/768/432/Image/Png/noFilter",
+        "asset_id": 102857034362623,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "36-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-90c755e7f370fa6945b0b2785f69f884/768/432/Image/Png/noFilter",
+        "asset_id": 137969386491971,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "36-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-422bf2969f27ad17cd0c61d575b9e805/768/432/Image/Png/noFilter",
+        "asset_id": 107866419605535,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "36-promo-4.png",
+        "url": "https://tr.rbxcdn.com/180DAY-fa950c15cf2d858a31801f7d5514a750/768/432/Image/Png/noFilter",
+        "asset_id": 123422036453913,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 4839802560,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=4839802560&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 37,
+    "name": "Bug Evolution [🦟]",
+    "place_id": "70650894743738",
+    "queried_at_utc": "2026-11-06T18:26:41.594492+00:00",
+    "images": [
+      {
+        "path": "37-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-823f8bd78ec6b7a6974e516fead6f657/768/432/Image/Png/noFilter",
+        "asset_id": 120561589819135,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "37-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-2a88de696e2e46bccde348f587f04b12/768/432/Image/Png/noFilter",
+        "asset_id": 90185997710251,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "37-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-f3b3626f5e3e7c28a98940f3863ddcd8/768/432/Image/Png/noFilter",
+        "asset_id": 82146243526045,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "37-promo-4.png",
+        "url": "https://tr.rbxcdn.com/180DAY-1bcd44fc468f40687483f5006718a143/768/432/Image/Png/noFilter",
+        "asset_id": 98851583653418,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 10769957062,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=10769957062&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 38,
+    "name": "DOORS 🍬🍭",
+    "place_id": "6516141723",
+    "queried_at_utc": "2026-11-06T18:26:42.912517+00:00",
+    "images": [
+      {
+        "path": "38-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-e822a794752ce011565eca23a280f4dc/768/432/Image/Png/noFilter",
+        "asset_id": 78212821102289,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "38-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-282a51475c2f53acd3c8b6058fb34fa2/768/432/Image/Png/noFilter",
+        "asset_id": 137066221612679,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "38-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-15067f5dff0254aae0c4ed49294dcb6c/768/432/Image/Png/noFilter",
+        "asset_id": 82307083747021,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "38-promo-4.png",
+        "url": "https://tr.rbxcdn.com/180DAY-09f0d9b97f35839568ec129016b18485/768/432/Image/Png/noFilter",
+        "asset_id": 73648894081445,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 2440500124,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=2440500124&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 39,
+    "name": "[🌟UPD] Cameraman Tower Defense",
+    "place_id": "132929771812494",
+    "queried_at_utc": "2026-11-06T18:26:43.221022+00:00",
+    "images": [
+      {
+        "path": "39-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-79397bc7face69991021c23a891347b1/768/432/Image/Png/noFilter",
+        "asset_id": 139057450867793,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "39-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-aaf489886a7632f5928cf179b121b3a0/768/432/Image/Png/noFilter",
+        "asset_id": 88986423786265,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "39-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-390bc4d0b7b70cf2cc7227d172b8e82f/768/432/Image/Png/noFilter",
+        "asset_id": 134522695376700,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "39-promo-4.png",
+        "url": "https://tr.rbxcdn.com/180DAY-4a0e2535bcf79dfc637f852af7bf5a2e/768/432/Image/Png/noFilter",
+        "asset_id": 74441793553520,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 10762636904,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=10762636904&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 40,
+    "name": "Sell Fries! [Anomaly] 🍟",
+    "place_id": "94891079210424",
+    "queried_at_utc": "2026-11-06T18:26:45.250238+00:00",
+    "images": [
+      {
+        "path": "40-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-1b4250c40a63fa862a56fbf37ada5e60/768/432/Image/Png/noFilter",
+        "asset_id": 83678315021494,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 10767380385,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=10767380385&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 41,
+    "name": "صيد الضبّان",
+    "place_id": "82347957379349",
+    "queried_at_utc": "2026-11-06T18:26:45.607774+00:00",
+    "images": [
+      {
+        "path": "41-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-8c15e062e848c87c65e1fd4094e324e6/768/432/Image/Png/noFilter",
+        "asset_id": 84375727441747,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "41-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-ab1f6cdf9d9939634b9e9093bef1daf1/768/432/Image/Png/noFilter",
+        "asset_id": 70857452956256,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 10769149947,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=10769149947&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 42,
+    "name": "[🎉UPD 11] Anime Dice",
+    "place_id": "113290951185459",
+    "queried_at_utc": "2026-11-06T18:26:46.235906+00:00",
+    "images": [
+      {
+        "path": "42-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-0f94a2d3d0b8991744905f6686bf2bc8/768/432/Image/Png/noFilter",
+        "asset_id": 107402792060074,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "42-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-7e07c6cd10d7bae0f5d518a86bab39ac/768/432/Image/Png/noFilter",
+        "asset_id": 93254580034558,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 10708913337,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=10708913337&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 43,
+    "name": "Bee Swarm Simulator",
+    "place_id": "1537690962",
+    "queried_at_utc": "2026-11-06T18:26:46.488527+00:00",
+    "images": [
+      {
+        "path": "43-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-315e29556054777604420711cb64f0b6/768/432/Image/Png/noFilter",
+        "asset_id": 18657341597,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "43-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-8320db34570938077d9013777b341046/768/432/Image/Png/noFilter",
+        "asset_id": 126799466062119,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "43-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-a0307a6a1634434a2ffa9f3dc96d8ea4/768/432/Image/Png/noFilter",
+        "asset_id": 130495788006178,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 601130232,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=601130232&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 44,
+    "name": "+1 Speed Keyboard Escape | Candy & Chocolate",
+    "place_id": "95082159892680",
+    "queried_at_utc": "2026-11-06T18:26:47.300946+00:00",
+    "images": [
+      {
+        "path": "44-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-79293c0fcc0103fbf81bc0fcfcf33ef0/768/432/Image/Png/noFilter",
+        "asset_id": 72318988303494,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "44-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-9c367a6529b84f4f199fd85dd8ad83bd/768/432/Image/Png/noFilter",
+        "asset_id": 80263875879465,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "44-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-001786120ba04d19c4538686750dad42/768/432/Image/Png/noFilter",
+        "asset_id": 135631436015632,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 9584852943,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=9584852943&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 45,
+    "name": "[🎃] +1 Venom Evolution",
+    "place_id": "116448925875915",
+    "queried_at_utc": "2026-11-06T18:26:48.024927+00:00",
+    "images": [
+      {
+        "path": "45-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-d275cb477fc17ca18b4d067526d65840/768/432/Image/Png/noFilter",
+        "asset_id": 116824801018170,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "45-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-142adc914449ef74c9d492187dcaa16e/768/432/Image/Png/noFilter",
+        "asset_id": 89014706834507,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 10769464063,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=10769464063&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 46,
+    "name": "[BOSS🎃] Huss Valley",
+    "place_id": "107535308163741",
+    "queried_at_utc": "2026-11-06T18:26:48.567737+00:00",
+    "images": [
+      {
+        "path": "46-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-72d8a4976409a7fdb6e1f8dbcea8f3d6/768/432/Image/Png/noFilter",
+        "asset_id": 84401772235897,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "46-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-851096669d88e2a03fc962c0039f764c/768/432/Image/Png/noFilter",
+        "asset_id": 70971735703973,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 10764627709,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=10764627709&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 47,
+    "name": "[🏘️CITY] Criminal Simulator 💰",
+    "place_id": "83048653078891",
+    "queried_at_utc": "2026-11-06T18:26:49.757050+00:00",
+    "images": [
+      {
+        "path": "47-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-458c033b72ca82c34f3d95b58408deb8/768/432/Image/Png/noFilter",
+        "asset_id": 72771594973799,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "47-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-9d2657cdfb213fffc78f67be6d1e8363/768/432/Image/Png/noFilter",
+        "asset_id": 90093602687673,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "47-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-fab0e034b73ce345fad1399f189bbaff/768/432/Image/Png/noFilter",
+        "asset_id": 126597157281833,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "47-promo-4.png",
+        "url": "https://tr.rbxcdn.com/180DAY-2892acda7b3dcea9a6c45b076aa8a61b/768/432/Image/Png/noFilter",
+        "asset_id": 125798904827478,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 10769851460,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=10769851460&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 48,
+    "name": "BlockSpin 🔪 ",
+    "place_id": "104715542330896",
+    "queried_at_utc": "2026-11-06T18:26:49.870613+00:00",
+    "images": [
+      {
+        "path": "48-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-faec41dafa29c7f849b7cc61a6dc6759/768/432/Image/Png/noFilter",
+        "asset_id": 117633939437102,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "48-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-fb5203b9ee151dc1186e15488ac8f48f/768/432/Image/Png/noFilter",
+        "asset_id": 93849125417588,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "48-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-a29dc9289b3e87a61d957d8d4211c98c/768/432/Image/Png/noFilter",
+        "asset_id": 79310458727528,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "48-promo-4.png",
+        "url": "https://tr.rbxcdn.com/180DAY-74cbb089082a05ef336177e5b24dbb90/768/432/Image/Png/noFilter",
+        "asset_id": 131417332987287,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 6765805766,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=6765805766&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 49,
+    "name": "[🐉UPD 11 PART 1🎃] King Legacy",
+    "place_id": "4520749081",
+    "queried_at_utc": "2026-11-06T18:26:51.701745+00:00",
+    "images": [
+      {
+        "path": "49-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-967e24842bbdeee4dc6f12d418e02826/768/432/Image/Png/noFilter",
+        "asset_id": 74533299642471,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "49-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-505d0cc614022636a562fd3ff8808ba0/768/432/Image/Png/noFilter",
+        "asset_id": 82192185386947,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "49-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-30ef208b5ce8f7334298294cfbeac9c0/768/432/Image/Png/noFilter",
+        "asset_id": 105211864395520,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "49-promo-4.png",
+        "url": "https://tr.rbxcdn.com/180DAY-2db9dae71ed793741ba9025fe93ef1a8/768/432/Image/Png/noFilter",
+        "asset_id": 136662409291673,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 1451439645,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=1451439645&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  },
+  {
+    "rank": 50,
+    "name": "[ALPHA] Practical Basketball",
+    "place_id": "80681221431821",
+    "queried_at_utc": "2026-11-06T18:26:51.916492+00:00",
+    "images": [
+      {
+        "path": "50-promo-1.png",
+        "url": "https://tr.rbxcdn.com/180DAY-f824bc01968ef597a0a0995497e31d78/768/432/Image/Png/noFilter",
+        "asset_id": 128304063706472,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "50-promo-2.png",
+        "url": "https://tr.rbxcdn.com/180DAY-7402dde0d0b20a7261848582e0213ae0/768/432/Image/Png/noFilter",
+        "asset_id": 131476446734365,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "50-promo-3.png",
+        "url": "https://tr.rbxcdn.com/180DAY-e8fbc77745e935ed18e655a6cbd79d0f/768/432/Image/Png/noFilter",
+        "asset_id": 84095113869297,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      },
+      {
+        "path": "50-promo-4.png",
+        "url": "https://tr.rbxcdn.com/180DAY-b2b86926882a421aaa6831587eb770ce/768/432/Image/Png/noFilter",
+        "asset_id": 88601757894324,
+        "kind": "official_promotional_thumbnail",
+        "reviewed": false
+      }
+    ],
+    "universe_id": 7529591378,
+    "thumbnail_api": "https://thumbnails.roblox.com/v1/games/multiget/thumbnails?universeIds=7529591378&countPerUniverse=4&defaults=true&size=768x432&format=Png&isCircular=false"
+  }
+]

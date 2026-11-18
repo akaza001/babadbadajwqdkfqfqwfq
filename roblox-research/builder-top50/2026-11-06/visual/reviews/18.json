@@ -1,0 +1,31 @@
+{
+  "rank": 18,
+  "source_url": "https://www.youtube.com/watch?v=grs_0-bE6Wc",
+  "source_title": "Went From Noob To Master In Fish It Roblox! Caught Rarest Secret Megalodon!",
+  "source_upload_date": "20250922",
+  "source_uploader": "mayrushart",
+  "source_identity": "title_and_visible_gameplay_consistent_exact_universe_not_verified",
+  "sample_ranges_seconds": [
+    [
+      45,
+      50
+    ],
+    [
+      441,
+      446
+    ],
+    [
+      819,
+      824
+    ]
+  ],
+  "reviewed_frames": "contact sheet: first, middle, last frame of each available 5-second segment",
+  "map_observations": "Светлый деревянный причал сменяется тёмной пещерой/водопадом и фиолетовой глубинной областью; каждая зона имеет явное название.",
+  "ui_observations": "Справа трекер Quests, снизу полоса Click Fast с маркером рыбы; по центру появляется NEW, изображение рыбы, редкость и масса; состояние места/времени/валюты слева снизу.",
+  "animation_observations": "Заброс сменяется поднятой удочкой и лучом/вспышкой результата; редкая рыба показывается над персонажем. Частицы отличаются по результату.",
+  "implementation_lesson": "Сочетать короткий постоянный HUD с отдельным результатом улова; каталог видов и вариантов должен быть независим от фазы анимации раскрытия.",
+  "limits": "В одном фрагменте явно включено Admin Event/Super Luck. Вероятности в кадре не переносить в обычный баланс.",
+  "coverage": "sampled_visual_review_not_exhaustive",
+  "client_playtest": false,
+  "evidence_directory": "videos/18"
+}
