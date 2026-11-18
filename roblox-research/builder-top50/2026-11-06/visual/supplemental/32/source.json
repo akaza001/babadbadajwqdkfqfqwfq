@@ -1,0 +1,61 @@
+{
+  "rank": 32,
+  "game": "Berry Avenue 🏠 RP",
+  "place_id": "8481844229",
+  "queried_at_utc": "2026-11-06T18:39:44.501195+00:00",
+  "status": "captured_unreviewed",
+  "clips": [
+    {
+      "start": 45,
+      "duration": 5,
+      "path": "clip-1.mp4",
+      "frames": [
+        "frame-1-01.jpg",
+        "frame-1-02.jpg",
+        "frame-1-03.jpg",
+        "frame-1-04.jpg",
+        "frame-1-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=rPtLmsztonY&t=45"
+    },
+    {
+      "start": 564,
+      "duration": 5,
+      "path": "clip-2.mp4",
+      "frames": [
+        "frame-2-01.jpg",
+        "frame-2-02.jpg",
+        "frame-2-03.jpg",
+        "frame-2-04.jpg",
+        "frame-2-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=rPtLmsztonY&t=564"
+    },
+    {
+      "start": 1048,
+      "duration": 5,
+      "path": "clip-3.mp4",
+      "frames": [
+        "frame-3-01.jpg",
+        "frame-3-02.jpg",
+        "frame-3-03.jpg",
+        "frame-3-04.jpg",
+        "frame-3-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=rPtLmsztonY&t=1048"
+    }
+  ],
+  "video_id": "rPtLmsztonY",
+  "url": "https://www.youtube.com/watch?v=rPtLmsztonY",
+  "title": "Roblox Berry Avenue RP - Gameplay (No Commentary)",
+  "uploader": "Wan Zen",
+  "upload_date": "20251005",
+  "duration": 1613,
+  "query": "https://www.youtube.com/watch?v=rPtLmsztonY",
+  "format_height": 360,
+  "review_status": "sampled_reviewed",
+  "review_file": "../../reviews/32.json"
+}

@@ -1,0 +1,61 @@
+{
+  "rank": 30,
+  "game": "[💀DUELS] Murderers VS Sheriffs",
+  "place_id": "135856908115931",
+  "queried_at_utc": "2026-11-06T18:39:26.155318+00:00",
+  "status": "captured_unreviewed",
+  "clips": [
+    {
+      "start": 45,
+      "duration": 5,
+      "path": "clip-1.mp4",
+      "frames": [
+        "frame-1-01.jpg",
+        "frame-1-02.jpg",
+        "frame-1-03.jpg",
+        "frame-1-04.jpg",
+        "frame-1-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=55ZxMWJsVIw&t=45"
+    },
+    {
+      "start": 239,
+      "duration": 5,
+      "path": "clip-2.mp4",
+      "frames": [
+        "frame-2-01.jpg",
+        "frame-2-02.jpg",
+        "frame-2-03.jpg",
+        "frame-2-04.jpg",
+        "frame-2-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=55ZxMWJsVIw&t=239"
+    },
+    {
+      "start": 445,
+      "duration": 5,
+      "path": "clip-3.mp4",
+      "frames": [
+        "frame-3-01.jpg",
+        "frame-3-02.jpg",
+        "frame-3-03.jpg",
+        "frame-3-04.jpg",
+        "frame-3-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=55ZxMWJsVIw&t=445"
+    }
+  ],
+  "video_id": "55ZxMWJsVIw",
+  "url": "https://www.youtube.com/watch?v=55ZxMWJsVIw",
+  "title": "Dominating PRO SERVERS in Murderers vs Sheriffs Duels.. (Roblox)",
+  "uploader": "Viecti",
+  "upload_date": "20231005",
+  "duration": 685,
+  "query": "https://www.youtube.com/watch?v=55ZxMWJsVIw",
+  "format_height": 360,
+  "review_status": "sampled_reviewed",
+  "review_file": "../../reviews/30.json"
+}
