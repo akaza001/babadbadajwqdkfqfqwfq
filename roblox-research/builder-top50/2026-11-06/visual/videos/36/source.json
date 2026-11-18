@@ -1,0 +1,60 @@
+{
+  "rank": 36,
+  "game": "LifeTogether 🏠 RP ",
+  "place_id": "13967668166",
+  "queried_at_utc": "2026-11-06T18:33:07.460016+00:00",
+  "status": "captured_unreviewed",
+  "clips": [
+    {
+      "start": 45,
+      "duration": 5,
+      "path": "clip-1.mp4",
+      "frames": [
+        "frame-1-01.jpg",
+        "frame-1-02.jpg",
+        "frame-1-03.jpg",
+        "frame-1-04.jpg",
+        "frame-1-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=s9PZbuOqMIs&t=45"
+    },
+    {
+      "start": 185,
+      "duration": 5,
+      "path": "clip-2.mp4",
+      "frames": [
+        "frame-2-01.jpg",
+        "frame-2-02.jpg",
+        "frame-2-03.jpg",
+        "frame-2-04.jpg",
+        "frame-2-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=s9PZbuOqMIs&t=185"
+    },
+    {
+      "start": 343,
+      "duration": 5,
+      "path": "clip-3.mp4",
+      "frames": [
+        "frame-3-01.jpg",
+        "frame-3-02.jpg",
+        "frame-3-03.jpg",
+        "frame-3-04.jpg",
+        "frame-3-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=s9PZbuOqMIs&t=343"
+    }
+  ],
+  "video_id": "s9PZbuOqMIs",
+  "url": "https://www.youtube.com/watch?v=s9PZbuOqMIs",
+  "title": "I SURPRISED My Family With A Trip To Bora Bora! 🌴✈️ | Roblox LifeTogether RP",
+  "uploader": "BangBarbieRP",
+  "upload_date": "20260709",
+  "duration": 529,
+  "query": "ytsearch1:LifeTogether 🏠 RP Roblox gameplay",
+  "format_height": 480,
+  "review_status": "sampled_reviewed_supplementary"
+}
