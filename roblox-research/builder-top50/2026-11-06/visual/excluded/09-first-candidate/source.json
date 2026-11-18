@@ -1,0 +1,60 @@
+{
+  "rank": 9,
+  "game": "[💀] Steal a Brainrot",
+  "place_id": "109983668079237",
+  "queried_at_utc": "2026-11-06T18:27:46.352147+00:00",
+  "status": "captured_unreviewed",
+  "clips": [
+    {
+      "start": 45,
+      "duration": 5,
+      "path": "clip-1.mp4",
+      "frames": [
+        "frame-1-01.jpg",
+        "frame-1-02.jpg",
+        "frame-1-03.jpg",
+        "frame-1-04.jpg",
+        "frame-1-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=6jEPhI4ZpTg&t=45"
+    },
+    {
+      "start": 190,
+      "duration": 5,
+      "path": "clip-2.mp4",
+      "frames": [
+        "frame-2-01.jpg",
+        "frame-2-02.jpg",
+        "frame-2-03.jpg",
+        "frame-2-04.jpg",
+        "frame-2-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=6jEPhI4ZpTg&t=190"
+    },
+    {
+      "start": 352,
+      "duration": 5,
+      "path": "clip-3.mp4",
+      "frames": [
+        "frame-3-01.jpg",
+        "frame-3-02.jpg",
+        "frame-3-03.jpg",
+        "frame-3-04.jpg",
+        "frame-3-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=6jEPhI4ZpTg&t=352"
+    }
+  ],
+  "video_id": "6jEPhI4ZpTg",
+  "url": "https://www.youtube.com/watch?v=6jEPhI4ZpTg",
+  "title": "9 Minutes of CRAZY Servers in Steal a Brainrot Roblox",
+  "uploader": "Cstarling",
+  "upload_date": "20260918",
+  "duration": 543,
+  "query": "ytsearch1:Steal a Brainrot Roblox gameplay",
+  "format_height": 480,
+  "review_status": "rejected_or_superseded"
+}

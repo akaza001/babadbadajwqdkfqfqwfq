@@ -1,0 +1,60 @@
+{
+  "rank": 19,
+  "game": "Catalog Avatar Creator",
+  "place_id": "7041939546",
+  "queried_at_utc": "2026-11-06T18:29:43.427874+00:00",
+  "status": "captured_unreviewed",
+  "clips": [
+    {
+      "start": 45,
+      "duration": 5,
+      "path": "clip-1.mp4",
+      "frames": [
+        "frame-1-01.jpg",
+        "frame-1-02.jpg",
+        "frame-1-03.jpg",
+        "frame-1-04.jpg",
+        "frame-1-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=KPyLOpbnGEU&t=45"
+    },
+    {
+      "start": 750,
+      "duration": 5,
+      "path": "clip-2.mp4",
+      "frames": [
+        "frame-2-01.jpg",
+        "frame-2-02.jpg",
+        "frame-2-03.jpg",
+        "frame-2-04.jpg",
+        "frame-2-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=KPyLOpbnGEU&t=750"
+    },
+    {
+      "start": 1393,
+      "duration": 5,
+      "path": "clip-3.mp4",
+      "frames": [
+        "frame-3-01.jpg",
+        "frame-3-02.jpg",
+        "frame-3-03.jpg",
+        "frame-3-04.jpg",
+        "frame-3-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=KPyLOpbnGEU&t=1393"
+    }
+  ],
+  "video_id": "KPyLOpbnGEU",
+  "url": "https://www.youtube.com/watch?v=KPyLOpbnGEU",
+  "title": "I TRIED BECOMING A *PRO* ON CATALOG AVATAR RUNWAY...",
+  "uploader": "arismh",
+  "upload_date": "20261102",
+  "duration": 2144,
+  "query": "ytsearch1:Catalog Avatar Creator Roblox gameplay",
+  "format_height": 480,
+  "review_status": "rejected_or_superseded"
+}
