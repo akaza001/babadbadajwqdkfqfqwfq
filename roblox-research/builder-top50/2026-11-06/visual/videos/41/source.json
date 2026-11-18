@@ -1,0 +1,33 @@
+{
+  "rank": 41,
+  "game": "صيد الضبّان",
+  "place_id": "82347957379349",
+  "queried_at_utc": "2026-11-06T18:34:26.217414+00:00",
+  "status": "failed",
+  "clips": [
+    {
+      "start": 45,
+      "duration": 5,
+      "path": "clip-1.mp4",
+      "frames": [
+        "frame-1-01.jpg",
+        "frame-1-02.jpg",
+        "frame-1-03.jpg",
+        "frame-1-04.jpg",
+        "frame-1-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=aX1VjQEyhq0&t=45"
+    }
+  ],
+  "video_id": "aX1VjQEyhq0",
+  "url": "https://www.youtube.com/watch?v=aX1VjQEyhq0",
+  "title": "صيد الضبان 🦎 #2 : لقيت مكان نادر جدا جدا !! 🤩✨ #روبلوكس   #roblox #",
+  "uploader": "TURKYOFF - تركوف",
+  "upload_date": "20261028",
+  "duration": 1414,
+  "query": "ytsearch1:صيد الضبّان Roblox gameplay",
+  "format_height": 480,
+  "error": "Capture/extraction failed or timed out; partial files may exist; signed media URLs omitted.",
+  "review_status": "captured_unreviewed"
+}

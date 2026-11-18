@@ -1,0 +1,61 @@
+{
+  "rank": 38,
+  "game": "DOORS 🍬🍭",
+  "place_id": "6516141723",
+  "queried_at_utc": "2026-11-06T18:33:10.378051+00:00",
+  "status": "captured_unreviewed",
+  "clips": [
+    {
+      "start": 25,
+      "duration": 5,
+      "path": "clip-1.mp4",
+      "frames": [
+        "frame-1-01.jpg",
+        "frame-1-02.jpg",
+        "frame-1-03.jpg",
+        "frame-1-04.jpg",
+        "frame-1-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=XYKCJjKETbA&t=25"
+    },
+    {
+      "start": 90,
+      "duration": 5,
+      "path": "clip-2.mp4",
+      "frames": [
+        "frame-2-01.jpg",
+        "frame-2-02.jpg",
+        "frame-2-03.jpg",
+        "frame-2-04.jpg",
+        "frame-2-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=XYKCJjKETbA&t=90"
+    },
+    {
+      "start": 168,
+      "duration": 5,
+      "path": "clip-3.mp4",
+      "frames": [
+        "frame-3-01.jpg",
+        "frame-3-02.jpg",
+        "frame-3-03.jpg",
+        "frame-3-04.jpg",
+        "frame-3-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=XYKCJjKETbA&t=168"
+    }
+  ],
+  "video_id": "XYKCJjKETbA",
+  "url": "https://www.youtube.com/watch?v=XYKCJjKETbA",
+  "title": "THE CANDY VAULT В DOORS, НО ЕСЛИ БЫ ОН БЫЛ ОЗВУЧЕН НА РУССКОМ!",
+  "uploader": "YARIK_PLAY",
+  "upload_date": "20261104",
+  "duration": 259,
+  "query": "ytsearch1:DOORS 🍬🍭 Roblox gameplay",
+  "format_height": 480,
+  "review_status": "sampled_reviewed",
+  "review_file": "../../reviews/38.json"
+}

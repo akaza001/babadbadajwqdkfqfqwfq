@@ -1,0 +1,33 @@
+{
+  "rank": 42,
+  "game": "[🎉UPD 11] Anime Dice",
+  "place_id": "113290951185459",
+  "queried_at_utc": "2026-11-06T18:34:43.444059+00:00",
+  "status": "failed",
+  "clips": [
+    {
+      "start": 45,
+      "duration": 5,
+      "path": "clip-1.mp4",
+      "frames": [
+        "frame-1-01.jpg",
+        "frame-1-02.jpg",
+        "frame-1-03.jpg",
+        "frame-1-04.jpg",
+        "frame-1-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=3Otkov2a7cU&t=45"
+    }
+  ],
+  "video_id": "3Otkov2a7cU",
+  "url": "https://www.youtube.com/watch?v=3Otkov2a7cU",
+  "title": "Going From NOOB To PRO In Anime Dice! (Roblox)",
+  "uploader": "PhoenixVids",
+  "upload_date": "20261020",
+  "duration": 2338,
+  "query": "ytsearch1:Anime Dice Roblox gameplay",
+  "format_height": 480,
+  "error": "Capture/extraction failed or timed out; partial files may exist; signed media URLs omitted.",
+  "review_status": "captured_unreviewed"
+}
