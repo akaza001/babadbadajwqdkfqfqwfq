@@ -1,0 +1,61 @@
+{
+  "rank": 46,
+  "game": "[BOSS🎃] Huss Valley",
+  "place_id": "107535308163741",
+  "queried_at_utc": "2026-11-06T18:37:33.302048+00:00",
+  "status": "captured_unreviewed",
+  "clips": [
+    {
+      "start": 45,
+      "duration": 5,
+      "path": "clip-1.mp4",
+      "frames": [
+        "frame-1-01.jpg",
+        "frame-1-02.jpg",
+        "frame-1-03.jpg",
+        "frame-1-04.jpg",
+        "frame-1-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=JedZyiWKVZk&t=45"
+    },
+    {
+      "start": 379,
+      "duration": 5,
+      "path": "clip-2.mp4",
+      "frames": [
+        "frame-2-01.jpg",
+        "frame-2-02.jpg",
+        "frame-2-03.jpg",
+        "frame-2-04.jpg",
+        "frame-2-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=JedZyiWKVZk&t=379"
+    },
+    {
+      "start": 704,
+      "duration": 5,
+      "path": "clip-3.mp4",
+      "frames": [
+        "frame-3-01.jpg",
+        "frame-3-02.jpg",
+        "frame-3-03.jpg",
+        "frame-3-04.jpg",
+        "frame-3-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=JedZyiWKVZk&t=704"
+    }
+  ],
+  "video_id": "JedZyiWKVZk",
+  "url": "https://www.youtube.com/watch?v=JedZyiWKVZk",
+  "title": "Noob to Master in Huss Valley Noob to Pro!",
+  "uploader": "JONA G.",
+  "upload_date": "20261013",
+  "duration": 1084,
+  "query": "ytsearch1:Huss Valley Roblox gameplay",
+  "format_height": 480,
+  "review_status": "sampled_reviewed",
+  "review_file": "../../reviews/46.json"
+}
