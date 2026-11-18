@@ -1,0 +1,61 @@
+{
+  "rank": 42,
+  "game": "[🎉UPD 11] Anime Dice",
+  "place_id": "113290951185459",
+  "queried_at_utc": "2026-11-06T18:40:39.233392+00:00",
+  "status": "captured_unreviewed",
+  "clips": [
+    {
+      "start": 45,
+      "duration": 5,
+      "path": "clip-1.mp4",
+      "frames": [
+        "frame-1-01.jpg",
+        "frame-1-02.jpg",
+        "frame-1-03.jpg",
+        "frame-1-04.jpg",
+        "frame-1-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=3Otkov2a7cU&t=45"
+    },
+    {
+      "start": 818,
+      "duration": 5,
+      "path": "clip-2.mp4",
+      "frames": [
+        "frame-2-01.jpg",
+        "frame-2-02.jpg",
+        "frame-2-03.jpg",
+        "frame-2-04.jpg",
+        "frame-2-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=3Otkov2a7cU&t=818"
+    },
+    {
+      "start": 1519,
+      "duration": 5,
+      "path": "clip-3.mp4",
+      "frames": [
+        "frame-3-01.jpg",
+        "frame-3-02.jpg",
+        "frame-3-03.jpg",
+        "frame-3-04.jpg",
+        "frame-3-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=3Otkov2a7cU&t=1519"
+    }
+  ],
+  "video_id": "3Otkov2a7cU",
+  "url": "https://www.youtube.com/watch?v=3Otkov2a7cU",
+  "title": "Going From NOOB To PRO In Anime Dice! (Roblox)",
+  "uploader": "PhoenixVids",
+  "upload_date": "20261020",
+  "duration": 2338,
+  "query": "https://www.youtube.com/watch?v=3Otkov2a7cU",
+  "format_height": 480,
+  "review_status": "sampled_reviewed",
+  "review_file": "../../reviews/42.json"
+}

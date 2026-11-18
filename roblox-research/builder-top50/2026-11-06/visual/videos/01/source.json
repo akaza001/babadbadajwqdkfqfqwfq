@@ -1,0 +1,61 @@
+{
+  "rank": 1,
+  "game": "Steal An Egg",
+  "place_id": "107778070777162",
+  "queried_at_utc": "2026-11-06T18:27:07.580670+00:00",
+  "status": "captured_unreviewed",
+  "clips": [
+    {
+      "start": 45,
+      "duration": 5,
+      "path": "clip-1.mp4",
+      "frames": [
+        "frame-1-01.jpg",
+        "frame-1-02.jpg",
+        "frame-1-03.jpg",
+        "frame-1-04.jpg",
+        "frame-1-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=kMGzsqBMqOs&t=45"
+    },
+    {
+      "start": 387,
+      "duration": 5,
+      "path": "clip-2.mp4",
+      "frames": [
+        "frame-2-01.jpg",
+        "frame-2-02.jpg",
+        "frame-2-03.jpg",
+        "frame-2-04.jpg",
+        "frame-2-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=kMGzsqBMqOs&t=387"
+    },
+    {
+      "start": 720,
+      "duration": 5,
+      "path": "clip-3.mp4",
+      "frames": [
+        "frame-3-01.jpg",
+        "frame-3-02.jpg",
+        "frame-3-03.jpg",
+        "frame-3-04.jpg",
+        "frame-3-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=kMGzsqBMqOs&t=720"
+    }
+  ],
+  "video_id": "kMGzsqBMqOs",
+  "url": "https://www.youtube.com/watch?v=kMGzsqBMqOs",
+  "title": "ROUBE UM OVO",
+  "uploader": "Yaszoca Games",
+  "upload_date": "20260826",
+  "duration": 1108,
+  "query": "https://www.youtube.com/watch?v=kMGzsqBMqOs",
+  "format_height": 480,
+  "review_status": "sampled_reviewed",
+  "review_file": "../../reviews/01.json"
+}
