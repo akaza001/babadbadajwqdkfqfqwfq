@@ -1,0 +1,61 @@
+{
+  "rank": 8,
+  "game": "99 Nights in the Forest 🔦",
+  "place_id": "79546208627805",
+  "queried_at_utc": "2026-11-06T18:27:41.898306+00:00",
+  "status": "captured_unreviewed",
+  "clips": [
+    {
+      "start": 45,
+      "duration": 5,
+      "path": "clip-1.mp4",
+      "frames": [
+        "frame-1-01.jpg",
+        "frame-1-02.jpg",
+        "frame-1-03.jpg",
+        "frame-1-04.jpg",
+        "frame-1-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=V4BMGT0Tukw&t=45"
+    },
+    {
+      "start": 304,
+      "duration": 5,
+      "path": "clip-2.mp4",
+      "frames": [
+        "frame-2-01.jpg",
+        "frame-2-02.jpg",
+        "frame-2-03.jpg",
+        "frame-2-04.jpg",
+        "frame-2-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=V4BMGT0Tukw&t=304"
+    },
+    {
+      "start": 565,
+      "duration": 5,
+      "path": "clip-3.mp4",
+      "frames": [
+        "frame-3-01.jpg",
+        "frame-3-02.jpg",
+        "frame-3-03.jpg",
+        "frame-3-04.jpg",
+        "frame-3-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=V4BMGT0Tukw&t=565"
+    }
+  ],
+  "video_id": "V4BMGT0Tukw",
+  "url": "https://www.youtube.com/watch?v=V4BMGT0Tukw",
+  "title": "The ULTIMATE Guide To Roblox 99 Nights In The Forest!",
+  "uploader": "Roodolf",
+  "upload_date": "20250630",
+  "duration": 870,
+  "query": "ytsearch1:99 Nights in the Forest 🔦 Roblox gameplay",
+  "format_height": 480,
+  "review_status": "sampled_reviewed",
+  "review_file": "../../reviews/08.json"
+}

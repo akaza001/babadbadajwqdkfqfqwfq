@@ -1,0 +1,61 @@
+{
+  "rank": 7,
+  "game": "RIVALS",
+  "place_id": "17625359962",
+  "queried_at_utc": "2026-11-06T18:33:20.487261+00:00",
+  "status": "captured_unreviewed",
+  "clips": [
+    {
+      "start": 45,
+      "duration": 5,
+      "path": "clip-1.mp4",
+      "frames": [
+        "frame-1-01.jpg",
+        "frame-1-02.jpg",
+        "frame-1-03.jpg",
+        "frame-1-04.jpg",
+        "frame-1-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=MSCzWIi4vzc&t=45"
+    },
+    {
+      "start": 585,
+      "duration": 5,
+      "path": "clip-2.mp4",
+      "frames": [
+        "frame-2-01.jpg",
+        "frame-2-02.jpg",
+        "frame-2-03.jpg",
+        "frame-2-04.jpg",
+        "frame-2-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=MSCzWIi4vzc&t=585"
+    },
+    {
+      "start": 1087,
+      "duration": 5,
+      "path": "clip-3.mp4",
+      "frames": [
+        "frame-3-01.jpg",
+        "frame-3-02.jpg",
+        "frame-3-03.jpg",
+        "frame-3-04.jpg",
+        "frame-3-05.jpg"
+      ],
+      "status": "captured",
+      "source_at": "https://www.youtube.com/watch?v=MSCzWIi4vzc&t=1087"
+    }
+  ],
+  "video_id": "MSCzWIi4vzc",
+  "url": "https://www.youtube.com/watch?v=MSCzWIi4vzc",
+  "title": "Roblox Rivals Gameplay | High Quality No Commentary UNCLIPPED PT.1.",
+  "uploader": "HyperBlade RBLX",
+  "upload_date": "20260228",
+  "duration": 1673,
+  "query": "https://www.youtube.com/watch?v=MSCzWIi4vzc",
+  "format_height": 480,
+  "review_status": "sampled_reviewed",
+  "review_file": "../../reviews/07.json"
+}
