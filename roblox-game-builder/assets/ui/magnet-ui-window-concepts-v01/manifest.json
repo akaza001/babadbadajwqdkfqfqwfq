@@ -1,0 +1,91 @@
+{
+  "generated_with": "built-in image_gen",
+  "status": "user approved; native implementation completed in magnet-ui-windows-v045; actual Studio screenshots and mouse checks recorded",
+  "entries": [
+    {
+      "id": "inventory",
+      "prompt": "Use case: ui-mockup. Generate ONE polished landscape 16:9 inventory screen design for the existing Roblox Magnet Workshop Simulator, entirely in Russian. This is a visual concept image, not code. Input image 1 is the actual game context (bright wooden boardwalk, grass, lake, central statue); preserve that artistic atmosphere behind the UI, softly blurred and lightly dimmed. Input image 2 is the approved backpack UI icon; reuse its teal/ivory/honey wood style and recognizable form as a SMALL heading icon. Do not copy the old edge-navigation layout into this modal screen; navigation is hidden while a window is open. Never add a large global game title/status banner.\n\nDesign one centered flat, front-facing, implementable game inventory window, approx 80% screen width and 80% height. Premium clean chunky Roblox UI, restrained bevels only, broad ivory panels #F7EEDA, thin warm tan outlines, dark slate typography #2D464B, teal primary buttons #2D999D, small gold accents. Generous spacing. No extravagant ornamental frame, vines, chains or fantasy parchment. Consistent rounded corners and subtle drop shadow. Large clear readable Russian labels, typography drawn cleanly. A compact window heading “Инвентарь”, small backpack icon left, “6 / 24” near heading, small square X button top right. Small corner currency pill “240 монет”, no other persistent HUD.\n\nLeft two-thirds: compact tabs “Все”, “Очищенные”, “Ржавые”, then a 3-column × 2-row item card grid. Six unique stylized low-poly salvage item thumbnails: wind-up robot, tin mug, pocket compass, ship bell, road sign, old kick scooter. The compass card selected with a teal outline, other cards neutral. Each card simple, with SHORT Russian item name and small status chip; use names “Робот”, “Кружка”, “Компас”, “Колокол”, “Знак”, “Самокат”. Right one-third: selected item detail pane with a large compass render, heading “Карманный компас”, status “Очищен”, properties “0,2 кг” and “30 монет”; two distinct buttons “На полку” and “Продать”. At bottom of grid a small separate equipment strip showing the current horseshoe magnet + rope, label “Магнит I”, state “В руке”, secondary button “Убрать”. A narrow scroll affordance. No ads, Robux, daily rewards, premium buttons, invented currencies, extra mechanics or watermark. No overlapping text, no technical debug text. All UI functional-looking and aligned, clean readable concept for a real game.",
+      "source": "/Users/andrej/.codex/generated_images/01a1cb92-24c5-7243-b0d8-8b4b700f6ee3/exec-1ff976b6-f831-44e1-9f53-69bf29a77320.png",
+      "version": "r01",
+      "file": "inventory.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "84a46e5e53157b5152756feccb8b13f60627334c310fbc00bf99f526665649cd",
+      "label": "Инвентарь"
+    },
+    {
+      "id": "collection",
+      "icon": "collection",
+      "prompt": "Use case: ui-mockup. Create ONE polished landscape 16:9 in-game UI concept screen in Russian for Magnet Workshop Simulator. Reference image 1 is the inventory design: reproduce its exact visual system, warm ivory panel, thin tan edges, rounded corners, restrained bevel, teal buttons, dark slate bold typography, soft shadow, softly blurred bright lakeside workshop backdrop, and consistent margins. Reference image 2 is the approved matching heading icon; reuse its form and palette as the small title icon. This is a NEW screen, not an inventory screen. One centered flat front-facing implementable modal window occupying about80% of viewport, same frame and typography as reference. A compact window title with icon at upper left, X at upper right, small external corner currency pill240монет. No large global game title/status banner. Hide edge navigation while modal is open. Keep short Russian labels legible and accurately spelled, all elements aligned, never overlap. No ads, Robux, premium currencies, rarity systems, daily rewards, debug information or watermark. Use only requested content and existing mechanics. Screen: “Коллекция”. Heading book/star icon and progress “6 / 12 видов”. Compact progress bar under heading, six of twelve filled. Main body is a spacious 4-column ×3-row catalog grid. Six discovered entries show distinctive low-poly thumbnails: wind-up robot, tin mug, compass, ship bell, road sign, kick scooter, named “Робот”, “Кружка”, “Компас”, “Колокол”, “Знак”, “Самокат”. The remaining six cards are neutral slate silhouettes and question marks labeled “Не найдено”, not colorful new items. Discovered cards have a small teal checkmark, no price tags or purchase buttons. Compass card selected with teal outline. A slim footer detail strip shows “Карманный компас”, “Лесное озеро”, “0,2 кг”, with a small compass thumbnail. Clear scan-friendly collection checklist, consistent card sizes, no invented item counts.",
+      "source": "/Users/andrej/.codex/generated_images/01a1cb92-24c5-7243-b0d8-8b4b700f6ee3/exec-6e656421-e479-4f25-8ad1-23fea9932df5.png",
+      "version": "r02",
+      "revision_prompt": "Precise UI edit. Preserve the entire supplied collection screen EXACTLY: frame, background, typography, positions, icons, header 6 / 12 видов, six colored discovered cards, progress bar, bottom detail strip and currency. Change ONLY the six gray unknown silhouettes (second row columns3 and4, and all four third-row cards). They currently duplicate already-discovered objects, which is incorrect. Replace these six silhouettes in reading order with distinctly different single flat slate-gray silhouettes: a bicycle, a hanging cafe sign, an old box radio with antenna, a cable spool, a vintage mechanical cash register, a small anchor. Keep every unknown card labeled exactly “Не найдено”, retain a white question mark centered on each silhouette, and retain the identical 4x3 grid. No added objects, names, colors, text or controls. No other changes.",
+      "file": "collection.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "6aebfa11ae2d881631beaf0a6efa1cc640b22a8967eb332a4ed47f5286344efd",
+      "label": "Коллекция"
+    },
+    {
+      "id": "shop",
+      "icon": "shop",
+      "prompt": "Use case: ui-mockup. Create ONE polished landscape 16:9 in-game UI concept screen in Russian for Magnet Workshop Simulator. Reference image 1 is the inventory design: reproduce its exact visual system, warm ivory panel, thin tan edges, rounded corners, restrained bevel, teal buttons, dark slate bold typography, soft shadow, softly blurred bright lakeside workshop backdrop, and consistent margins. Reference image 2 is the approved matching heading icon; reuse its form and palette as the small title icon. This is a NEW screen, not an inventory screen. One centered flat front-facing implementable modal window occupying about80% of viewport, same frame and typography as reference. A compact window title with icon at upper left, X at upper right, small external corner currency pill240монет. No large global game title/status banner. Hide edge navigation while modal is open. Keep short Russian labels legible and accurately spelled, all elements aligned, never overlap. No ads, Robux, premium currencies, rarity systems, daily rewards, debug information or watermark. Use only requested content and existing mechanics. Screen: “Магазин”. Heading market-stall icon. A compact section label “Окраска мастерской”. Two large tidy cosmetic preview cards: “Обычная” and “Морская”, each showing the SAME simple open-front wooden Roblox workshop with a blue gable roof, cream walls and changed trim color only; avoid inventing building upgrades. Default card has status “Используется”. Marine card selected with teal outline, turquoise/navy trim and brass hardware, price “1 000 монет”. Right side compact selected detail block: “Морская”, helper “Меняет только внешний вид”, large matching workshop preview. With balance240, purchase is unavailable: clearly gray disabled button “Не хватает 760 монет”. Add a modest secondary button “Улучшения оборудования” pointing to the separate upgrades screen. This is an honest two-item cosmetic store, not an overflowing monetization catalog.",
+      "source": "/Users/andrej/.codex/generated_images/01a1cb92-24c5-7243-b0d8-8b4b700f6ee3/exec-0d835839-13cf-4dc8-9296-f9adee2816be.png",
+      "version": "r01",
+      "file": "shop.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "e90d2b1d350e76b0e432cd8f6d13f129a30d7528b67c6aa97d969cf1ac3a7899",
+      "label": "Магазин"
+    },
+    {
+      "id": "upgrades",
+      "icon": "upgrades",
+      "prompt": "Use case: ui-mockup. Create ONE polished landscape 16:9 in-game UI concept screen in Russian for Magnet Workshop Simulator. Reference image 1 is the inventory design: reproduce its exact visual system, warm ivory panel, thin tan edges, rounded corners, restrained bevel, teal buttons, dark slate bold typography, soft shadow, softly blurred bright lakeside workshop backdrop, and consistent margins. Reference image 2 is the approved matching heading icon; reuse its form and palette as the small title icon. This is a NEW screen, not an inventory screen. One centered flat front-facing implementable modal window occupying about80% of viewport, same frame and typography as reference. A compact window title with icon at upper left, X at upper right, small external corner currency pill240монет. No large global game title/status banner. Hide edge navigation while modal is open. Keep short Russian labels legible and accurately spelled, all elements aligned, never overlap. No ads, Robux, premium currencies, rarity systems, daily rewards, debug information or watermark. Use only requested content and existing mechanics. Screen: “Улучшения”. Heading wrench/magnet/up-arrow icon. Equipment progression with three clean horizontally arranged tier cards: “Уровень I” with magnet+rope thumbnail, “До 5 кг”, status “Куплено”; “Уровень II” selected teal outline, stronger magnet+rope thumbnail, “До 15 кг”, price “180 монет”; “Уровень III” subdued later tier, “До 45 кг”, “900 монет”, locked. Beneath the selected tier, large teal action “Улучшить · 180 монет” (affordable with240). Clear small comparison “5 кг → 15 кг”. Lower separate slim panel with wooden display shelf icon: “Места для экспонатов”, “6 → 12”, “300 монет”; disabled gray action “Не хватает 60 монет”. Optional small factual note “Покупка у стойки оборудования”. No damage, multipliers, auto-fishing, rebirth thresholds or extra powers.",
+      "source": "/Users/andrej/.codex/generated_images/01a1cb92-24c5-7243-b0d8-8b4b700f6ee3/exec-51048855-2f09-45cb-8c66-36789bfeabad.png",
+      "version": "r01",
+      "file": "upgrades.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "8c18a2ca741be4959faf9e07c5edfa7c761797ecac86834d3861fa1ca449c6e9",
+      "label": "Улучшения"
+    },
+    {
+      "id": "sell",
+      "icon": "sell",
+      "prompt": "Use case: ui-mockup. Create ONE polished landscape 16:9 in-game UI concept screen in Russian for Magnet Workshop Simulator. Reference image 1 is the inventory design: reproduce its exact visual system, warm ivory panel, thin tan edges, rounded corners, restrained bevel, teal buttons, dark slate bold typography, soft shadow, softly blurred bright lakeside workshop backdrop, and consistent margins. Reference image 2 is the approved matching heading icon; reuse its form and palette as the small title icon. This is a NEW screen, not an inventory screen. One centered flat front-facing implementable modal window occupying about80% of viewport, same frame and typography as reference. A compact window title with icon at upper left, X at upper right, small external corner currency pill240монет. No large global game title/status banner. Hide edge navigation while modal is open. Keep short Russian labels legible and accurately spelled, all elements aligned, never overlap. No ads, Robux, premium currencies, rarity systems, daily rewards, debug information or watermark. Use only requested content and existing mechanics. Screen: “Продажа”. Heading crate/coins icon. Left side single-selection list of four owned finds: selected “Карманный компас” clean,30монет; “Заводной робот” clean,12монет; rusty “Жестяная кружка” with disabled status “Сначала очисти”; “Корабельный колокол” with disabled status “На полке”. No bulk sale or select-all. Right side generous selected compass render, title “Карманный компас”, price “30 монет”. A warm amber inline warning with clear two-line text “Последний экземпляр” and “Запись останется в коллекции”. Bottom primary confirmation button “Подтвердить · 30 монет”, secondary small button “Назад”. Bottom factual helper “Продажа у скупщика”. Demonstrate an explicit confirmation state; do not show automatic sale, popup stack or invented rewards.",
+      "source": "/Users/andrej/.codex/generated_images/01a1cb92-24c5-7243-b0d8-8b4b700f6ee3/exec-d1722cd6-a422-4c08-b7c6-eeaa5c1e0449.png",
+      "version": "r01",
+      "file": "sell.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "8ab88dd11c31179e9a878248b7ffbb7f37d7dbf70e6a9b0d9f4dfb4d753a9c33",
+      "label": "Продажа"
+    },
+    {
+      "id": "settings",
+      "icon": "settings",
+      "prompt": "Use case: ui-mockup. Create ONE polished landscape 16:9 in-game UI concept screen in Russian for Magnet Workshop Simulator. Reference image 1 is the inventory design: reproduce its exact visual system, warm ivory panel, thin tan edges, rounded corners, restrained bevel, teal buttons, dark slate bold typography, soft shadow, softly blurred bright lakeside workshop backdrop, and consistent margins. Reference image 2 is the approved matching heading icon; reuse its form and palette as the small title icon. This is a NEW screen, not an inventory screen. One centered flat front-facing implementable modal window occupying about80% of viewport, same frame and typography as reference. A compact window title with icon at upper left, X at upper right, small external corner currency pill240монет. No large global game title/status banner. Hide edge navigation while modal is open. Keep short Russian labels legible and accurately spelled, all elements aligned, never overlap. No ads, Robux, premium currencies, rarity systems, daily rewards, debug information or watermark. Use only requested content and existing mechanics. Screen: “Настройки”. Heading approved gear icon. Focused audio settings only, with subtitle “Звук”. Three spacious aligned horizontal rows: “Эффекты” with a simple speaker symbol, toggle enabled and a volume slider at85% labeled “85%”; “Окружение” with simple wave symbol, enabled and50%; “Музыка” with music note symbol, enabled and35%. Each row has the same height, consistent slider rail length, teal active section, ivory round thumb, toggle shape communicates on/off. Values clearly readable, no excessive chrome. Small unobtrusive footer status with checkmark “Сохранено” and helper “Изменения сохраняются автоматически”. No full-screen apply button, no graphics settings, motion settings, codes, new purchases or extra tabs. Calm spacious hierarchy, no item grid copied from inventory.",
+      "source": "/Users/andrej/.codex/generated_images/01a1cb92-24c5-7243-b0d8-8b4b700f6ee3/exec-b323bbd7-3173-443e-a790-0c1ec4224693.png",
+      "version": "r01",
+      "file": "settings.png",
+      "size": [
+        1672,
+        941
+      ],
+      "sha256": "ac7ef5e67e9a983d4736695f801f5ef8c3d816abee10886e2f93adf85e10d456",
+      "label": "Настройки"
+    }
+  ],
+  "archive_collection_r01": "archive/collection-r01.png"
+}

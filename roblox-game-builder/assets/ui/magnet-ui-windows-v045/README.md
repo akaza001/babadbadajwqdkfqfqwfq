@@ -1,0 +1,11 @@
+# Native windows 0.4.5
+
+Derived from user-approved magnet-ui-window-concepts-v01 and edge HUDv043, using native controls rather than a flattened screenshot. WindowTheme supplies ivory/tan/teal surfaces, gradients, thin strokes, sheen and separate shade/shadow. T.window(host,title,page,close) returns modal and scrolling body; destroying modal removes shade/shadow. Theme depends on HudIcons and uses no world normal map.
+
+WorkshopWindows implements inventory/filter/detail/equipment, collection12items, two-theme cosmetic shop, three magnet tiers/display expansion, sale list with last-copy confirmation. Render functions accept current profile and host callbacks; the server retains all authoritative actions. Screens: W.inventory(body,options,selling), W.collection, W.shop, W.upgrades. Options: profile,request(action,payload),pending(),equipped(),toggle(),slots(uid),sell(uid),upgrades(),optional selectUid. Renderer fields/IDs use the originating Config schema. Shared dependency sources are included; ViewportFrame uses actual FindFactory/MapAssets models. Main.project-adapter requires the originating remotes/server and other client modules and is not a standalone installer.
+
+SettingsUI uses debounced persistence through AudioPresentation and host callbacks. S.init(open/canSave/save),S.profile,S.result,S.render,S.set. Three72px horizontal rows at width>=620,102px two-line rows below that. Pointer/touch slider code plus +/- controls; real mouse slider and persistence verified, physical touch not tested.
+
+Adaptation: modal min280x190/max1120x740; body scrolls. Inventory/shop split at body width580, narrow screens stack panels. Grid adapts columns and visible row height. Short detail pane compacts previews/labels/actions; confirmation and upgrade buttons fully visible at768x437viewport. Preview camera fits all8 bounding-box corners at current aspect. Template still requires physical-device/full gamepad and FPS testing.
+
+Actual mouse checks: all6 pages open/close; clean filter and item selection; placement/removal/equipment; upgrade240->60/level2; sale60->90/removesfixture; slider85%->50% persisted; respawn1HUD/6tiles. Transactions run in Studio RAM sandbox only. Preview JPGs are actual game screenshots, not concepts. Final source/package hash verification is recorded in the originating game's materials-windows-045 QA folder.

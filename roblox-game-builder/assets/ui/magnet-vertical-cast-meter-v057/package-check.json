@@ -1,0 +1,14 @@
+{
+  "matchedRuntimeSources": 64,
+  "xmlSources": 64,
+  "studioMismatch": [],
+  "xmlMismatch": [],
+  "compileErrors": [],
+  "qaHelperPresent": false,
+  "savedVersion": 166,
+  "unreferencedLocalCopies": [
+    "game/src/server/WorldMetadataData03 2.luau",
+    "game/src/server/WorldMetadataData04 2.luau",
+    "game/src/server/WorldMetadataData02 2.luau"
+  ]
+}

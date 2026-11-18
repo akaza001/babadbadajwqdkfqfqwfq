@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-16",
+  "rangeServer": {
+    "min": 14,
+    "maxDistance": 36.0000114440918,
+    "bad": [],
+    "max": 36,
+    "cases": 3669,
+    "sweep": {
+      "1": 0,
+      "2": 0.25,
+      "3": 0.5,
+      "4": 0.7499999999999999,
+      "5": 0.99875,
+      "6": 0
+    }
+  },
+  "rangeClient": {
+    "min": 14,
+    "maxDistance": 36.0000114440918,
+    "bad": [],
+    "max": 36,
+    "cases": 3345,
+    "sweep": {
+      "1": 0,
+      "2": 0.25,
+      "3": 0.5,
+      "4": 0.7499999999999999,
+      "5": 0.99875,
+      "6": 0
+    }
+  },
+  "layouts": {
+    "1": {
+      "panel": "320, 330",
+      "bad": [],
+      "screen": "869, 437",
+      "track": "24, 154"
+    },
+    "2": {
+      "panel": "320, 330",
+      "bad": [],
+      "screen": "390, 844",
+      "track": "24, 154"
+    },
+    "3": {
+      "panel": "320, 296",
+      "bad": [],
+      "screen": "568, 320",
+      "track": "24, 120"
+    },
+    "4": {
+      "panel": "296, 330",
+      "bad": [],
+      "screen": "320, 568",
+      "track": "24, 154"
+    }
+  },
+  "actualMouseCast": {
+    "state": "Casting",
+    "power": 0.4180222749710083,
+    "target": "82.80351257324219, 0.800000011920929, 0",
+    "anchored": true,
+    "distance": 23.196487426757812
+  },
+  "animation": {
+    "sampledFrames": 16,
+    "direction": "upward; resets to bottom at 0.8s",
+    "observed": true
+  },
+  "physicalDevices": false
+}
